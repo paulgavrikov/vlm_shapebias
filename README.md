@@ -18,7 +18,40 @@ Abstract: *Vision language models (VLMs) have drastically changed the computer v
 
 ## Reproduce our results
 
-Coming soon.
+### Setup
+
+Please see the instructions in ENV.md for details on how to setup the environments. You will probably need multiple environments if you want to test multiple models.
+
+Then download the cue-conflict dataset from [here](https://github.com/rgeirhos/texture-vs-shape/tree/master/stimuli/style-transfer-preprocessed-512) to your system. 
+
+### Evaluate Models
+
+Use `eval_vlm.py` to generate responses for your selected model. Note that this script does not perform any classification, it just prompts a model for all images and stores the output as a CSV. For example:
+```bash
+cd code
+python eval_vlm.py --prompt "Which option best describes the image?\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly." --output-path "../raw-data/vlm/vqa/" --model "llava_1_6_vicuna_7b" --img-path "./datasets/stimuli/cue-conflict/"
+```
+Then you can use the classification scripts `clf_vqa.py` (if you used the VQA prompt) or `clf_caption.py` (if you used the captioning prompt) to perform the classification. You can run both scripts on entire folders or individual files. This will modify the log with the classification result and generate another CSV containing a summary of all measurements including shape bias. For example:
+```bash
+python clf_vqa.py --file-dir ../raw-data/vqa/yyyyymmdd_hhmmss_your_vlm.csv
+```
+
+Once classified, you can also use `shapebias_utils.py` to directly evaluate log files. To annotate caption logs with an LLM as described in our paper, use `llm_judge.py`.
+
+#### Prompts
+
+| Type | Prompt |
+|---|---|
+| Captioning | Describe the image. Keep your response short. |
+| VQA | Which option best describes the image?\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
+| VQA (Shape-biased) | Identify the primary shape in the image.\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
+| VQA (Texture-biased) | Identify the primary texture in the image.\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
+
+
+### Automated Prompt Search
+
+To use automatically search for prompts using Mixtral, use `llm_prompt_search.py`. Note that you have to manually set the accuracy/shape-bias for the default instruction in L81. 
+
 
 ## Citation 
 
