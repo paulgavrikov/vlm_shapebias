@@ -1,0 +1,1282 @@
+image,response,timestamp,pred_label,pred_conf,pred_llm_judge
+bicycle4-keyboard3,A close up of a bicycle chain.,,bicycle,0.9999999,C
+bicycle8-bear2,"A bicycle is seen in a blurry photo, with the front wheel and handlebars being the most prominent features. The bike is parked on a white surface, and the background is blurry.",,bicycle,0.9999999,C
+bicycle1-dog3,A bicycle is parked on a sidewalk.,,bicycle,1.0,C
+bicycle7-oven1,A bicycle is displayed on a white background.,,bicycle,1.0,C
+bicycle9-airplane2,A bicycle with a yellow frame and blue wheels.,,bicycle,1.0,C
+bicycle4-chair2,"The image is a painting of a staircase with a large number of wooden chairs on it. The chairs are arranged in various positions, some leaning against each other and others standing upright. The chairs are of different sizes and are placed all over the staircase, creating a visually interesting scene.",,chair,0.99989164,I
+bicycle10-airplane2,A blue bicycle with a yellow wheel is parked on a sidewalk.,,bicycle,0.9999999,C
+bicycle4-bottle1,"The image features a bicycle made out of various bottles, including liquor bottles. The bottles are arranged to form the shape of a bicycle, with some bottles placed on the ground and others stacked on top of each other. The bicycle is surrounded by numerous bottles, creating a visually striking and unique display.",,bottle,0.9608715,"C, F"
+bicycle9-bottle1,A bike made of bottles and cans.,,bottle,0.8725132,C
+bicycle4-oven3,A blurry image of a bicycle with a black seat.,,bicycle,0.9999943,C
+bicycle2-car2,The image is a blurry photo of a car and a motorcycle.,,car,0.9952171,"G, P"
+bicycle1-bicycle3,"The image features a bicycle with a basket on the front. The bike is parked on a dirt road, and the basket is filled with items. The scene appears to be in a field, and the bike is the main focus of the image.",,bicycle,0.99999964,C
+bicycle10-elephant2,A bicycle wheel is shown in the image.,,bicycle,1.0,C
+bicycle9-keyboard3,Two cell phones are sitting next to each other.,,airplane,0.9794908,X
+bicycle8-boat1,A bicycle with a blurry background.,,bicycle,1.0,C
+bicycle8-clock3,A bicycle is made out of clocks.,,bicycle,0.9865963,C
+bicycle7-truck3,"A bicycle is in the background, with a blurry image of a person riding it. The bicycle is surrounded by a colorful and abstract environment, which includes a chair and a couch. The scene appears to be a mix of different elements, creating a unique and interesting visual experience.",,bicycle,0.9999753,"C, I"
+bicycle9-bird3,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle3-keyboard1,"A bicycle is shown in a close-up view, with its front wheel and handlebars prominently visible. The bike appears to be a child's bicycle, and the tire is black. The handlebars are positioned at the top of the image, while the front wheel is located at the bottom. The overall scene is blurry, giving the image a slightly distorted appearance.",,bicycle,1.0,C
+bicycle1-boat3,The image is a colorful and abstract painting of a bicycle.,,bicycle,1.0,C
+bicycle3-elephant2,A motorcycle with a sidecar is parked on a dirt road.,,truck,0.97845536,X
+bicycle9-cat3,"A bicycle is shown in a blurry image, with its front wheel and handlebars visible. The bike is parked on a sidewalk, and there is a basket on the front.",,bicycle,1.0,C
+bicycle4-clock3,"A bicycle is depicted in a clock-themed image, with the clocks on the bike's frame and wheels. The clocks are scattered throughout the scene, creating a unique and artistic representation of the bicycle.",,bicycle,0.9313138,"C, J, I"
+bicycle4-airplane1,"The image is a close-up of a bicycle wheel with a blurry background. The wheel is white and has a red and white stripe. The background is a mix of white and black, with some text visible.",,bicycle,0.9999981,C
+bicycle1-bear1,"A bicycle is shown in a blurry image, with the front wheel being the most prominent. The bicycle is parked in a field, and the background is blurry.",,bicycle,0.9999999,C
+bicycle5-car3,"A red motorcycle is parked in front of a building, with a car and a truck visible in the background. The motorcycle is surrounded by a blurry, colorful environment, giving the scene a surreal appearance.",,truck,0.97878885,X
+bicycle9-knife3,A black and white image of two bicycle locks.,,bicycle,0.9999691,C
+bicycle9-chair1,A room full of red chairs with a blurry bicycle in the center.,,chair,0.9002553,"I, C"
+bicycle8-truck1,A red bicycle with a black frame is displayed in a red and white background. The bike has a basket on the front and is positioned in front of a red and white wall.,,bicycle,1.0,C
+bicycle2-dog1,"The image is a close up of a horse's head, with its eyes closed. The horse appears to be in a relaxed state, possibly sleeping. The photo has a blurry background, which adds to the sense of depth and focus on the horse's head.",,elephant,0.7692284,X
+bicycle3-bird1,A bicycle with a blue frame and green fenders is parked on a dirt road.,,bicycle,0.99999917,C
+bicycle2-knife2,A blurry image of a pair of glasses.,,bottle,0.5726038,X
+bicycle9-bear1,A blurry image of a bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle3-truck3,A blurry picture of a yellow and blue object.,,airplane,0.9800838,X
+bicycle7-cat1,A bicycle with a brown frame and white tires is parked on a snowy surface.,,bicycle,0.9999995,C
+bicycle1-bird1,"The image features a bicycle with a blue frame and a black seat. The bike is parked on a sidewalk, and it appears to be in motion, as the front wheel is spinning. The scene is blurry, giving it a slightly artistic and dynamic feel.",,bicycle,0.9999981,C
+bicycle5-keyboard3,A close up of a cell phone with a blurry background.,,airplane,0.991714,X
+bicycle8-bird2,A bicycle is parked on a sidewalk.,,bicycle,1.0,C
+bicycle10-dog3,The image is a blurry photo of a bicycle.,,bicycle,0.99999976,C
+bicycle5-elephant1,"A bicycle is shown in a close-up view, with the seat and handlebars prominently visible. The bike is parked on a street, and the rider is not visible in the image.",,bicycle,0.9999999,C
+bicycle7-clock3,"The image features a clock made out of a bicycle, with the clock face made of clocks instead of a traditional clock face. The bicycle is made up of various clocks, creating a unique and interesting design.",,bicycle,0.6472294,"J, C"
+bicycle9-car1,A colorful bicycle is displayed in front of a blurry background. The bicycle has a yellow wheel and a red frame.,,bicycle,1.0,C
+bicycle1-airplane2,"A bicycle with a blue frame and yellow wheels is shown in a blurred image. The bike is parked on a street, and the background is white.",,bicycle,0.9999993,C
+bicycle7-knife2,"A bicycle is shown in a close-up view, with its handlebars and spokes visible. The bicycle is surrounded by a collection of books, which are stacked up and placed in various positions around the bike. The books are of different sizes and colors, creating a visually interesting scene.",,bicycle,0.9999939,C
+bicycle7-elephant2,A bicycle with a black frame and a white seat.,,bicycle,1.0,C
+bicycle5-oven3,"The image is a close-up of a microwave oven, with its door open and a control panel visible. The microwave is sitting on top of a counter.",,oven,0.9999567,O
+bicycle2-bird3,A bicycle with a blurry background and a pair of glasses on the front.,,bicycle,1.0,C
+bicycle10-boat3,A bike with a blue wheel and a black frame.,,bicycle,0.9999995,C
+bicycle8-chair2,"The image is a collage of chairs and a bicycle. The chairs are made of wood and are arranged in various positions, some standing upright and others leaning against each other. The bicycle is also made of wood and is positioned in the middle of the scene. The arrangement creates an interesting and artistic composition.",,chair,0.93854856,"I, C"
+bicycle6-dog2,A bicycle is parked on a street.,,bicycle,1.0,C
+bicycle10-clock2,A bicycle with a black frame and a white background.,,bicycle,1.0,C
+bicycle4-truck3,A blurry image of a bicycle with a yellow frame.,,bicycle,0.9999993,C
+bicycle6-boat2,"A motorcycle is in the center of the image, surrounded by a colorful background. The motorcycle is the main focus of the scene, with its vibrant colors and intricate details.",,airplane,0.7024359,X
+bicycle4-cat1,A bicycle with a furry seat.,,bicycle,0.9999982,C
+bicycle7-bear2,A bicycle with a white frame and black wheels is sitting on top of a white surface.,,bicycle,0.9999999,C
+bicycle4-car2,The image is a blurry photo of a group of motorcycles.,,airplane,0.43663445,X
+bicycle5-bear1,A blurry image of a bicycle and a bird.,,bicycle,0.89012724,"C, D"
+bicycle1-bottle3,"A bicycle is surrounded by a bunch of papers, possibly money. The bicycle is green and black in color.",,bicycle,0.99999976,C
+bicycle1-oven1,A bicycle with a blurry background.,,bicycle,1.0,C
+bicycle1-clock3,A bicycle made of clocks is displayed on a wall.,,bicycle,0.60903376,"C, J"
+bicycle4-boat1,"The image is a colorful painting of a bicycle with a blue wheel. The bicycle is displayed in a brightly colored and abstract manner, making it visually striking. The painting captures the essence of the bicycle and its wheel, creating a unique and artistic representation of the subject.",,bicycle,0.99999833,C
+bicycle5-dog2,A bicycle with two wheels and a seat.,,bicycle,1.0,C
+bicycle3-oven3,"The image is a collage of various electronic devices, including a computer monitor, a keyboard, and a cell phone. The devices are arranged in a somewhat disorganized manner, with some overlapping or partially obscured. The collage is set against a white background, which further emphasizes the focus on the electronic devices.",,keyboard,0.68266034,X
+bicycle2-keyboard2,A close up of a cell phone with a blurry background.,,airplane,0.991714,X
+bicycle4-bicycle3,A bicycle with a black frame and a white seat.,,bicycle,1.0,C
+bicycle5-chair2,"The image is a blurry picture of a bicycle surrounded by chairs. The bicycle is located in the center of the scene, with the chairs arranged around it. The chairs vary in size and position, creating a somewhat chaotic appearance.",,bicycle,0.60209596,"C, I"
+bicycle5-cat1,A bicycle with a bird on the handlebars.,,bicycle,0.9839967,"C, D"
+bicycle6-car2,A blurry image of a motorcycle with a red seat.,,airplane,0.5620523,G
+bicycle1-knife3,A blurry image of a bicycle with a black seat.,,bicycle,0.9999943,C
+bicycle6-cat1,A blurry image of a person riding a bicycle.,,bicycle,0.9999999,C
+bicycle6-bicycle3,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle1-elephant2,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle6-airplane2,"The image is a colorful abstract of a bicycle, with the main focus on the handlebars. The handlebars are blue, and the bike is surrounded by a yellow background. The colors are vibrant and create a visually appealing scene.",,bicycle,0.9999995,C
+bicycle2-bicycle1,"A bicycle with a basket on the front is parked in a field. The bike has a shiny appearance, and the basket is filled with various items.",,bicycle,1.0,C
+bicycle5-bottle3,A green bicycle is surrounded by many bottles.,,bottle,0.9844507,C
+bicycle1-truck1,A red bicycle is shown in a close-up view.,,bicycle,1.0,C
+bicycle7-bicycle2,"The image features a bicycle with a black frame and silver parts, including the spokes. The bike is parked in a room with a blurry background. The front tire of the bike is prominently visible, and the bike appears to be in good condition.",,bicycle,1.0,C
+bicycle2-bottle1,A collage of many bottles and a bicycle.,,bottle,0.98459953,"F, C"
+bicycle4-knife3,A bicycle with a black seat and a metal frame.,,bicycle,1.0,C
+chair8-bicycle3,A chair with a metal frame and a wooden seat is sitting in a room.,,chair,0.9999999,I
+chair1-airplane2,A chair with a blue and yellow background.,,chair,1.0,I
+chair4-bear2,A chair with a furry seat and back.,,chair,1.0,I
+chair10-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+chair9-bicycle3,A chair with wheels and a metal frame.,,chair,0.9999336,I
+chair5-bicycle1,"A chair made of metal, with a lot of scrap metal around it.",,chair,0.9999999,I
+chair2-bear2,A chair is sitting on a white surface.,,chair,1.0,I
+chair7-bottle1,A chair covered in many bottles of various shapes and sizes.,,bottle,0.59510285,"F, I"
+chair1-truck3,"The image is a collage of various objects, including a chair, a microwave, and a cell phone. The objects are arranged in a way that creates a visually interesting composition. The chair is located in the upper left corner, while the microwave is in the middle left section of the image. The cell phone is situated in the lower left corner. The overall scene is colorful and abstract, with a focus on the arrangement of these objects.",,chair,0.9769378,X
+chair5-knife3,The image is a blurry photo of a pair of scissors.,,knife,0.996974,X
+chair3-bicycle3,A chair made of bicycle parts.,,chair,0.9881352,"I, C"
+chair1-chair1,"The image is a blurry picture of a theater with many chairs. The chairs are arranged in rows and are mostly red. The seats are empty, giving the impression of an empty theater.",,chair,0.9997156,I
+chair8-boat1,"A colorful chair is in the center of the image, surrounded by a variety of books. The chair is blue and white, and it appears to be a part of a painting or a collage. The books are scattered around the chair, with some placed on the left, right, and behind it. The overall scene is vibrant and visually appealing.",,chair,0.99999917,I
+chair9-bird3,A chair with a brown seat and a black frame.,,chair,0.99999976,I
+chair10-clock1,A chair with a clock face on it.,,clock,0.54816896,"I, J"
+chair3-car3,A car is parked on the side of the road.,,car,0.99788696,G
+chair7-knife2,"The image is a collage of various objects, including a hand, a computer, and a book. The hand is positioned in the center of the collage, with the computer and book surrounding it. The collage is made up of different colored images, creating a visually interesting and diverse composition.",,airplane,0.6727613,X
+chair1-cat3,A blurry picture of a chair.,,chair,0.99999976,I
+chair4-cat2,The image is a blurry picture of a chair.,,chair,0.99999964,I
+chair8-car1,A colorful collage of cars with a yellow car in the center.,,car,0.99953175,G
+chair5-clock2,"The image is a blurry picture of a bicycle, which is the main focus of the scene.",,bicycle,0.9999989,C
+chair2-knife1,A person is sitting on a chair with a wooden back and a leather seat. The chair is positioned in front of a desk.,,chair,1.0,I
+chair4-truck2,"The image is a close-up of a red chair with a metal frame. The chair is positioned in front of a dining table, which is also covered in red. The scene appears to be blurry, giving it a slightly distorted look.",,chair,0.99998486,I
+chair5-bird1,A blue chair with a blue blanket on it.,,chair,0.9999995,I
+chair7-truck3,A blue chair with a yellow seat.,,chair,1.0,I
+chair1-clock2,A blurry image of a clock with a metal frame.,,clock,0.99999964,J
+chair7-cat1,A brown wooden chair with a wooden armrest.,,chair,1.0,I
+chair3-bottle3,A chair made out of green bottles.,,chair,0.90490776,"I, F"
+chair4-chair3,The image is a blurry photo of a room full of blue chairs.,,chair,0.9998235,I
+chair7-chair1,The image is a blurry photo of a theater with many red seats.,,airplane,0.67935586,X
+chair9-keyboard2,"A close up of a keyboard with the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, and 0 visible.",,keyboard,0.99999964,M
+chair8-elephant1,A chair with a skinny back and a skinny seat.,,chair,1.0,I
+chair2-boat1,"A chair with a blue and red seat is in the center of the image. The chair is surrounded by a colorful background, which includes a mix of blue, red, and white colors. The chair appears to be the main focus of the image, with the vibrant colors creating a visually striking scene.",,chair,0.99999917,I
+chair3-airplane2,A blue chair with a yellow stripe on it.,,chair,0.99999976,I
+chair2-keyboard2,"A person is standing in front of a keyboard, with their legs crossed.",,keyboard,0.99996996,M
+chair1-elephant1,"The image is a close-up of a chair with a wrinkled, textured surface. The chair appears to be made of leather, and the texture is reminiscent of elephant skin. The chair is positioned in the center of the image, with the wrinkles and texture clearly visible.",,chair,0.99120784,"I, L"
+chair1-bear1,"The image is a close-up of a brown and white furry object, possibly a dog or a cat. The fur is fuzzy and has a brown and white color pattern.",,cat,0.70275646,"H, K"
+chair8-airplane1,"A chair is shown in a blurry image, with the back of the chair being the most prominent feature. The chair appears to be white and is situated in front of a wall.",,chair,0.99999106,I
+chair10-airplane2,A blue chair with a yellow seat.,,chair,1.0,I
+chair5-bottle3,A green chair is sitting on top of a pile of papers and bottles.,,chair,0.9999621,I
+chair3-dog2,A wooden chair with a furry texture.,,chair,1.0,I
+chair7-bird1,A blue chair with a wooden frame and a cushion.,,chair,0.9999999,I
+chair1-dog1,"The image is a close-up of a chair with a furry texture. The chair is made of a material that resembles a dog's fur, giving it a unique and interesting appearance. The chair is positioned in the center of the image, and the furry texture is the main focus.",,chair,0.99999416,"I, H"
+chair7-boat3,A chair with a green seat and red armrests.,,chair,1.0,I
+chair6-bird2,A black cat is sitting on a chair with a black seat. The chair is positioned in front of a curtain.,,chair,0.64674085,"I, H"
+chair3-knife1,"The image is a close-up of a person's face, with a blurry background. The person is wearing a pair of glasses, and the face is surrounded by various objects, including a chair, a tie, and a pair of scissors. The scene appears to be a collage of different elements, creating an interesting and unique composition.",,chair,0.43913078,X
+chair5-boat3,"A chair with a blue seat and red arms is shown in a distorted, colorful image.",,chair,0.9999982,I
+chair9-chair3,"The image is a blurry picture of a large group of blue chairs. The chairs are arranged in rows and are positioned closely together. The chairs are of different sizes and are placed in various orientations, creating a sense of depth in the scene.",,chair,0.9999467,I
+chair10-bottle3,A chair made of music sheet pages.,,chair,0.99999964,I
+chair8-clock3,A chair made of clocks.,,chair,0.8710881,"I, J"
+chair1-oven3,"A collage of various electronic devices, including a microwave, a TV, and a computer.",,oven,0.46781468,X
+chair10-bicycle1,"A chair made of metal and plastic is shown in a close-up view. The chair is surrounded by a lot of metal pieces, giving it a unique and artistic appearance. The chair is positioned in the center of the image, and the metal pieces are scattered around it, creating a visually interesting scene.",,chair,0.99999785,I
+chair5-truck3,"The image is a colorful collage of chairs and tables. There are four chairs in the scene, with one chair being the most prominent. The chairs are positioned in various orientations, creating a dynamic composition. The tables are also arranged in different positions, adding to the visual interest of the collage. The overall effect is a vibrant and engaging artwork.",,chair,0.9999871,I
+chair7-clock3,A chair made of clocks.,,chair,0.8710881,"I, J"
+chair9-boat2,A chair with a metal frame and a black seat.,,chair,0.99999964,I
+chair9-dog2,A chair with wheels and a furry seat.,,chair,0.99999857,I
+chair6-truck2,"The image is a blurry photo of a red object, possibly a chair, with a pink background. The red object is surrounded by other objects, including a silver chair and a metal object. The overall scene appears to be a mix of different colors and textures.",,chair,0.9996307,"I, M"
+chair6-dog1,A chair with a furry seat.,,chair,0.99999976,I
+chair9-bear1,A brown furry object with a tail and two legs.,,dog,0.9930274,H
+chair9-bottle3,A green chair made of plastic bottles.,,chair,0.7220922,I
+chair6-elephant2,A chair made of elephant skin.,,chair,0.94798356,"I, L"
+chair7-airplane1,A blurry image of a person sitting on a toilet.,,chair,0.93838435,X
+chair10-bird3,A chair with a person sitting in it.,,chair,1.0,I
+chair9-elephant1,"The image features a chair made of leather, with a unique design that resembles a chair made of elephant skin. The leather is textured and has a distinctive pattern, giving it an aged appearance. The chair appears to be a part of a room, possibly a living space or a work area.",,chair,0.99917114,"I, L"
+chair4-keyboard2,A close up of a keyboard.,,keyboard,1.0,M
+chair8-oven1,"A black chair with a blue seat is sitting in front of a white table. The chair is blurry, and the table is also white.",,chair,0.99999976,I
+chair7-car2,"A red chair is in the center of the image, with a colorful background.",,chair,0.9999999,I
+chair5-oven2,A black office chair with a silver armrest.,,chair,1.0,I
+chair8-chair3,The image is a blurry photo of a row of blue chairs.,,chair,0.9998441,I
+chair7-elephant1,A chair is shown in a close up view.,,chair,1.0,I
+chair5-cat3,A chair is on fire.,,chair,0.9999999,I
+chair5-car1,"A colorful collage of cars, including a red car in the center.",,car,0.99974626,G
+chair10-oven1,A black and silver chair with a black seat and back.,,chair,1.0,I
+chair5-keyboard2,A close up of a keyboard with a black object in the center.,,keyboard,0.99999917,M
+chair4-oven2,A black chair with a wooden frame and a cushion.,,chair,1.0,I
+chair8-keyboard3,The image is a blurry picture of a tie.,,airplane,0.85270816,X
+chair8-bear1,"A chair is in the center of the image, surrounded by a blurry background.",,chair,0.9999989,I
+chair10-dog1,A chair with a furry texture.,,chair,1.0,I
+chair10-cat1,A chair with a furry seat.,,chair,0.99999976,I
+chair8-knife2,"The image is a collage of various items, including a pair of scissors, a knife, and a book. The scissors are positioned in the middle of the image, while the knife is located towards the top right corner. The book is situated on the left side of the image, with its spine facing upwards. The collage is composed of multiple layers, creating a visually interesting and intricate arrangement of these objects.",,knife,0.99916697,X
+truck3-bicycle1,"A car is shown with a blurry background, giving it a distorted appearance. The car is parked in front of a building, and the scene is captured in a colorful, artistic manner.",,car,0.9990938,G
+truck7-elephant2,"The image is a painting of a truck parked in front of a building. The truck is positioned in the center of the scene, and the building is located to the right of the truck. The painting has a somewhat distorted appearance, giving it a unique and artistic look.",,truck,0.99968565,P
+truck7-boat1,A colorful painting of a truck with a camper shell on the back.,,truck,0.99999464,P
+truck4-boat3,A large truck with a blue cab and a red trailer.,,truck,1.0,P
+truck10-truck3,A blue car is parked next to a truck.,,truck,0.9989255,"G, P"
+truck9-chair3,"The image is a collage of various blue chairs arranged in different positions and orientations. The chairs are scattered throughout the image, with some overlapping and others standing alone. The chairs are of different sizes and styles, creating a diverse and visually interesting composition.",,chair,0.99999475,I
+truck7-bird2,A large truck is parked in a parking lot.,,truck,0.9999999,P
+truck2-car3,"The image is a colorful painting of a red truck, possibly a fire truck, parked on a street. The truck is surrounded by a few other vehicles, including a car and a bus. The scene is set in a busy area with multiple people walking around, some of them carrying handbags. The overall atmosphere of the painting is vibrant and lively.",,truck,0.99867755,"T, C, G"
+truck8-dog3,A toy truck is sitting on a white surface.,,truck,0.9999982,P
+truck2-bird2,A large truck is parked on a snowy road. The truck has a tank on the back and is covered in snow. The truck is also parked next to a building.,,truck,0.9999994,P
+truck6-boat2,A water truck is shown in a painting with a colorful background.,,truck,0.99908197,P
+truck6-dog2,"A large tanker truck with the words ""water for drinking"" written on it.",,truck,0.9991972,P
+truck3-knife2,"A colorful car is shown in the image, with a close-up view of the front end. The car is surrounded by a variety of papers, including a newspaper, which is placed on the ground in front of the car. The car is also adorned with a gold emblem, adding to its unique appearance.",,car,0.9989542,G
+truck10-car3,"A red and silver car is parked in front of a building. The car is surrounded by other vehicles, including a truck and a bus. The scene appears to be a busy street with a variety of vehicles.",,car,0.971413,"G, P"
+truck9-bottle2,"A collection of bottles, some of which are empty, are arranged in a visually appealing manner. The bottles vary in size and shape, with some being taller and slimmer, while others are shorter and wider. The bottles are arranged in a way that creates a sense of depth and dimension, making the display eye-catching and interesting.",,bottle,1.0,F
+truck3-oven2,A black truck with a radio in the dashboard.,,truck,0.99999857,P
+truck4-airplane3,"The image is a black and white photo of a semi truck with a large trailer attached to it. The truck is parked on a cloudy day, and the sky is visible in the background. The truck is the main focus of the image, with its large size and prominent position in the frame.",,truck,0.9997243,P
+truck4-bottle2,A large group of wine bottles in a pile.,,bottle,0.9999994,F
+truck6-knife2,"A truck with the word ""water"" on the side is shown in a blurry image.",,truck,0.99998534,P
+truck2-oven3,"The image features two microwaves, one on the left and one on the right. The left microwave is silver and has a black panel, while the right microwave is black and silver. Both microwaves are placed next to each other, with the left one slightly overlapping the right one.",,oven,0.95158964,X
+truck1-bear1,A truck is parked in front of a building.,,truck,1.0,P
+truck6-clock2,A water truck is parked in a lot.,,truck,0.9999871,"G, P"
+truck1-chair2,"The image features a room filled with wooden chairs, some of which are stacked on top of each other. The chairs are arranged in various positions, with some standing upright and others leaning against the wall. The room appears to be a storage area or a place where the chairs are kept when not in use.",,chair,0.9999933,I
+truck1-dog1,"A truck is driving down a road, with a blurry background.",,truck,1.0,P
+truck5-cat3,A bus with a zebra pattern on it.,,truck,0.93198997,X
+truck6-bear2,A truck that says water on it.,,truck,0.9999987,P
+truck4-oven2,A black semi truck with a flatbed trailer is parked in a parking lot. The truck is carrying a large number of televisions on the back of the trailer.,,truck,0.99999833,X
+truck8-elephant1,A truck is depicted in a black and white photo.,,truck,1.0,P
+truck8-cat2,"A truck is shown in a blurry image, with its front end obscured by a blur. The truck is driving on a dirt road, and the image is captured in a sepia tone.",,truck,0.99999976,P
+truck2-airplane3,A truck is parked in a parking lot.,,truck,1.0,P
+truck2-keyboard1,A black truck is shown in the image.,,truck,1.0,P
+truck5-airplane2,A yellow and blue bus with a yellow roof.,,truck,0.741307,X
+truck6-truck2,A red and silver water tank.,,bottle,0.9909021,X
+truck4-bear1,A pile of brown furry material.,,dog,0.8552163,X
+truck2-boat3,A fire truck is parked on a street.,,truck,0.9999968,"G. car
+P. truck"
+truck9-boat3,A large semi truck with a horse painted on the side.,,truck,0.99968696,P
+truck2-elephant1,"The image is a close-up of a truck, possibly a Ford, with a rusted appearance. The truck is parked on a dirt road, and the front of the vehicle is visible.",,truck,0.99999785,P
+truck5-bird2,A small toy truck with a camper shell on the back.,,truck,0.9999858,P
+truck1-cat1,A cat is laying on a couch next to a dog.,,cat,0.9997019,"H, I"
+truck3-dog3,A dog is sitting next to a candy bar.,,dog,0.99989974,K
+truck6-bottle3,"A bunch of water bottles are stacked on top of each other, creating a large pile. The bottles are of various sizes and are arranged in a somewhat disorganized manner. The pile of water bottles is situated next to a truck, possibly indicating that they are being transported or delivered.",,bottle,0.99651647,F
+truck1-car3,A red truck is parked in front of a building.,,truck,0.99999905,P
+truck6-cat2,"A truck with the word ""water"" on the side.",,truck,0.9999932,P
+truck9-airplane2,A white and blue truck is parked in a snowy area.,,truck,0.9999994,P
+truck7-oven2,A large truck is parked in a parking lot.,,truck,0.9999999,P
+truck3-bird2,A black truck with a white tank on the back is parked in a snowy area.,,truck,0.9999999,P
+truck3-chair2,"The image features a large collection of wooden chairs, with some of them appearing to be old and possibly antique. The chairs are arranged in rows, with some chairs stacked on top of each other. The chairs vary in size and design, creating a diverse and interesting display.",,chair,0.99999726,I
+truck1-bird1,A white semi truck with a blue tarp on the back.,,truck,0.9999974,P
+truck2-chair1,The image is a blurry photo of a truck with a bunch of red seats in the background.,,truck,0.9999498,P
+truck7-chair2,"A large truck is parked in front of a building, and it is made of wood. The truck is surrounded by several chairs, some of which are stacked on top of each other. The chairs vary in size and position, with some closer to the truck and others further away. The scene gives an impression of a unique and artistic arrangement of objects.",,truck,0.9404677,X
+truck6-bicycle1,"A water truck is shown in a blurry, abstract image.",,truck,0.9989675,P
+truck7-keyboard3,A close up of a camera with a blurry background.,,airplane,0.9753264,X
+truck10-elephant3,"A truck is shown in the image, with its front end visible. The truck is parked on a dirt road, and it appears to be old and dirty. The truck's driver's side window is open, and the truck is facing the camera.",,truck,0.9999994,P
+truck1-knife1,"A large truck is shown in a close up view, with its front end and side visible. The truck appears to be dirty and has a rusty appearance. The front of the truck is painted white, and the side is brown. The truck is parked in a lot, and the image is somewhat blurry.",,truck,0.9999988,P
+truck3-cat1,A brown teddy bear is laying on a white blanket.,,bear,0.9999927,B
+truck8-bottle2,A bunch of bottles with different colors and shapes.,,bottle,1.0,F
+truck9-truck3,A white truck with a yellow door is parked in a parking lot.,,truck,0.9999764,P
+truck3-clock3,"The image features a collection of various clocks, including a mix of analog and digital clocks. The clocks are scattered throughout the scene, with some placed closer to the foreground and others further in the background. The assortment of clocks creates a visually interesting and unique display.",,clock,1.0,J
+truck5-truck1,A red truck with a white logo on the side.,,truck,1.0,P
+truck10-bicycle1,"A small car is parked in a parking lot, and it appears to be covered in a lot of glitter. The car is surrounded by various objects, including a bicycle and a motorcycle. The scene is quite colorful and visually interesting.",,car,0.9996051,"G, C, I"
+truck6-oven3,"The image features a collection of various electronic devices, including a microwave, a toaster, and a TV. The microwave is placed on top of the toaster, and the TV is positioned nearby. The devices are all made of metal and are arranged in a somewhat disorganized manner.",,oven,0.9472763,X
+truck3-keyboard3,"A black and white image of a camera, with a coin on top of it.",,airplane,0.97523177,X
+truck5-knife3,A collection of scissors with different sizes and colors.,,knife,0.99997485,X
+truck4-knife1,"A collection of old, rusted tools and parts, including a motorcycle, are piled together.",,truck,0.98387074,X
+truck3-car3,A red car is parked next to a truck.,,truck,0.99967897,"G, P"
+truck5-dog3,A brown toy truck is shown in a close-up view.,,truck,0.9999989,P
+truck10-airplane1,A white van with a surfboard on top is shown in a blurry image.,,boat,0.8907111,X
+truck2-clock1,A collage of clocks and a truck.,,truck,0.8564518,"J, P"
+truck7-truck2,"A large truck is parked in a lot, with its back end visible. The truck has a chrome grill and a red cab.",,truck,0.9999975,P
+truck3-bear3,A brown and white furry object with a Ford logo on it.,,dog,0.67586225,G
+truck8-keyboard2,"A close up of a keyboard with the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, and the letters a, b, c, d, e, f, g, h, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, and z.",,keyboard,1.0,M
+truck2-bottle3,A green truck is surrounded by a pile of money.,,truck,0.9999964,P
+truck10-clock1,"A clock is painted on the side of a truck, with the numbers on the clock being the numbers 1 through 12. The truck is also decorated with a surfboard on the top.",,truck,0.9686493,"J, P"
+truck5-keyboard1,A black toy train with a black engine and a black car.,,car,0.5494394,X
+truck1-bicycle3,A truck with a flatbed is parked in a lot.,,truck,1.0,P
+truck2-bicycle2,A blurry image of a truck and a car.,,truck,0.99973637,"G, P"
+truck5-car1,A red truck with yellow wheels is parked on a street. The truck has a yellow stripe on the side.,,truck,0.99999905,P
+truck7-bear2,A white semi truck is parked next to a building.,,truck,0.9999968,"G, P"
+truck9-elephant1,A horse is standing next to a truck.,,truck,0.99442333,P
+truck1-clock3,"The image features a truck with a clock on its side. The clock is surrounded by several other clocks, creating a unique and interesting scene. The clocks are of various sizes and are placed all around the truck, giving the impression of a clock-themed vehicle.",,clock,0.60469526,"T, C, J"
+bottle6-dog3,A dog is sitting in front of a blurry background.,,dog,0.9997243,K
+bottle1-clock1,"The image is a collage of various clocks and numbers, with a bottle in the center. The clocks are scattered throughout the image, with some on the top, bottom, and sides. The bottle is surrounded by clocks, creating a unique and interesting visual effect.",,clock,0.82135314,"J, F"
+bottle1-keyboard3,A black cat is sitting in front of a computer keyboard.,,keyboard,0.7969458,"H, M"
+bottle1-car1,The image is a blurry picture of a bottle with a colorful background.,,bottle,1.0,F
+bottle6-bicycle3,A bottle of soda is sitting on top of a pile of bicycles.,,bottle,0.9677099,F
+bottle5-bird3,A bottle of beer with a cork in it.,,bottle,1.0,F
+bottle8-bottle3,"A bottle of beer is surrounded by many other bottles, all of which are covered in writing. The bottle of beer is green and stands out among the others.",,bottle,1.0,F
+bottle3-bird1,A bottle of blue liquid is wrapped in plastic.,,bottle,1.0,F
+bottle7-airplane3,"The image is a collage of various papers, including a blue one, a white one, and a gold one. The papers are arranged in a way that creates an interesting visual effect.",,airplane,0.9531411,X
+bottle8-keyboard3,The image is a blurry picture of a keyboard.,,keyboard,0.9999976,M
+bottle3-boat3,"A bottle of beer is shown in a colorful and abstract artistic image. The bottle is surrounded by various colors and patterns, creating a visually striking scene.",,bottle,1.0,F
+bottle9-bicycle1,"A bottle of Tadpole soda is shown in a close-up view. The bottle is surrounded by a colorful and abstract background, making the image visually appealing.",,bottle,0.9999999,F
+bottle10-boat3,"A bottle of beer is shown in a colorful, abstract background.",,bottle,1.0,F
+bottle4-car3,A bottle of soda is surrounded by a blurry scene of cars and people.,,bottle,0.9999988,F
+bottle9-truck1,A bottle of wine with a red label.,,bottle,1.0,F
+bottle4-bicycle1,"A bottle of soda is made up of many different objects, such as a gun, a bicycle, and a cell phone. The bottle is also made up of various other objects, creating a unique and intriguing design.",,bottle,1.0,F
+bottle6-boat3,The image is a colorful painting of a bottle.,,bottle,1.0,F
+bottle4-oven2,A bottle of soda is shown in a close-up view.,,bottle,1.0,F
+bottle5-cat1,A brown bottle with a brown label.,,bottle,1.0,F
+bottle1-dog2,"A bottle of wine is in the center of the image, surrounded by a fuzzy background.",,bottle,0.9999999,F
+bottle9-bottle1,"The image is a collage of various bottles, including wine and liquor bottles, arranged in a visually appealing manner. The bottles are of different shapes, sizes, and colors, creating a diverse and interesting composition. The bottles are placed in various positions, some standing upright, while others are tilted or lying down. The overall effect is a vibrant and dynamic display of different bottles.",,bottle,0.99999976,F
+bottle2-knife3,A bottle of beer is shown in a close-up view.,,bottle,1.0,F
+bottle7-elephant2,"The image is a close-up of a tree trunk, showing its bark texture. The bark is wrinkled and has a rough, aged appearance. The tree trunk is the main focus of the image, with no other objects or background visible.",,bottle,0.57839775,X
+bottle3-airplane2,"A bottle of beer is shown in a blurry image, with a blue background.",,bottle,1.0,F
+bottle7-boat3,"The image is a colorful and abstract artwork featuring a large bottle as the main subject. The bottle is surrounded by various shapes and colors, creating a visually striking scene. The colors include red, blue, green, and yellow, and the shapes are a mix of geometric patterns and organic forms. The overall composition is dynamic and eye-catching, showcasing the creativity and skill of the artist.",,bottle,0.9999999,F
+bottle2-elephant1,A bottle is embedded in a piece of elephant skin.,,bottle,0.9961803,"F, L"
+bottle1-cat3,"The image features a blurry picture of a bottle, possibly a beer bottle, with a yellowish-orange background. The bottle appears to be the main focus of the image, with the background being somewhat distorted.",,bottle,0.99999964,F
+bottle2-chair3,A bottle is surrounded by blue and white shapes.,,bottle,1.0,F
+bottle6-oven3,"A cell phone is inside a machine, possibly a fax machine. The cell phone is positioned in the middle of the machine, and the machine is open.",,airplane,0.8644698,X
+bottle5-chair1,The image is a blurry photo of a row of red seats.,,chair,0.4998455,X
+bottle9-elephant2,A wooden bottle with a hole in the middle.,,bottle,1.0,F
+bottle8-bird1,A bottle of wine with a blue label.,,bottle,1.0,F
+bottle9-cat2,A blurry image of a bottle.,,bottle,1.0,F
+bottle6-airplane1,"A bottle of water is shown in a close-up shot, with the label and writing on the bottle being the main focus. The bottle is surrounded by a blurry background, making it stand out.",,bottle,1.0,F
+bottle5-elephant1,"A bottle is depicted in a close-up view, with its shape and texture resembling that of a reptile. The bottle is positioned in the center of the image, and its intricate design is the main focus.",,bottle,1.0,F
+bottle2-car2,"A blurry image of a person is surrounded by a colorful, abstract background.",,airplane,0.9685652,X
+bottle1-bear1,The image is a blurry picture of a dog.,,dog,0.9999137,H
+bottle5-knife1,A bottle with a corkscrew on top.,,bottle,1.0,F
+bottle4-truck1,A bottle of soda is shown in a close-up view.,,bottle,1.0,F
+bottle9-car3,A bottle of Cadenheads whiskey is shown in a blurry photo with a red background.,,bottle,1.0,F
+bottle8-dog2,A bottle of beer with a yellow label.,,bottle,1.0,F
+bottle3-cat3,A close up of a bottle of beer.,,bottle,1.0,F
+bottle10-clock2,A bottle of Orarotie liquor with a clock on the label.,,bottle,0.9910511,"F, J"
+bottle7-keyboard2,A keyboard with a blue key.,,keyboard,1.0,M
+bottle1-bird3,A person wearing a white shirt and red pants is standing in front of a white wall.,,clock,0.5857637,X
+bottle3-bottle3,"A bottle of beer is shown in a colorful, abstract background.",,bottle,1.0,F
+bottle5-boat1,"A bottle of soda is displayed in a colorful, abstract painting.",,bottle,0.9999999,F
+bottle5-keyboard2,A black computer keyboard with a key missing.,,keyboard,1.0,M
+bottle7-bear1,"A blurry image of a brown animal, possibly a bear, with its mouth open.",,bear,0.97955793,B
+bottle4-dog2,A bottle with a brown label is shown in front of a furry background.,,bottle,0.99999976,F
+bottle7-clock1,"The image is a collage of various clocks, including a large clock in the center and several smaller clocks surrounding it. The clocks are arranged in a way that creates a visually interesting and unique design.",,clock,1.0,J
+bottle5-oven2,A black cell phone is shown in a close-up shot.,,airplane,0.9942373,X
+bottle3-knife3,A bottle is hanging upside down on a wall.,,bottle,1.0,F
+bottle10-bear2,A bottle of whiskey is sitting on a furry surface.,,bottle,0.9999999,F
+bottle7-oven2,A blurry image of a cityscape with buildings and a keyboard.,,keyboard,0.9995555,M
+bottle6-bear2,A bottle of Coca-Cola is shown in a blurry image.,,bottle,0.9999994,F
+bottle6-knife3,"A metal object is in the foreground, with a blurry background. The object appears to be a metal sculpture or a piece of art.",,airplane,0.97414047,X
+bottle6-bird1,A bottle of water with a blue label.,,bottle,1.0,F
+bottle6-bottle3,A bottle of soda is made up of many different cans and bottles.,,bottle,1.0,F
+bottle1-chair2,"The image features a large pile of wooden chairs stacked on top of each other. The chairs vary in size and are arranged in a somewhat disorganized manner. The chairs are placed in a room, possibly a storage area or a place where they are being organized.",,chair,0.99999833,I
+bottle3-bicycle3,A bottle of beer is covered in chains.,,bottle,1.0,F
+bottle5-airplane1,A bottle of Coca Cola is shown in a collage of different images.,,bottle,0.99999976,F
+bottle9-keyboard1,A bottle with a black label is shown in a close up view.,,bottle,1.0,F
+bottle4-airplane1,"A bottle of Coca-Cola is shown in a collage of images, with the bottle appearing in various positions and orientations. The collage includes a close-up view of the bottle, as well as a view of the bottle in the distance. The images are arranged in a visually interesting manner, creating a dynamic and engaging composition.",,bottle,0.999997,F
+bottle3-bear2,A bottle is sitting on a fuzzy surface.,,bottle,1.0,F
+bottle8-knife1,The image is a blurry picture of a cell phone.,,airplane,0.9964127,X
+bottle8-elephant3,A bottle of beer is embedded in a piece of leather.,,bottle,1.0,F
+bottle5-clock3,A bottle made of clocks.,,bottle,0.99414486,X
+bottle3-chair3,"The image is a blurry picture of a room with several blue chairs. The chairs are arranged in a row, and the room appears to be empty.",,chair,0.9998895,I
+bottle10-car1,"The image is a collage of various car parts, including a bottle, which is prominently displayed in the center. The bottle is surrounded by different car parts, such as a car engine, a car wheel, and a car door. The collage is colorful and visually interesting, showcasing the variety of car parts in a creative manner.",,bottle,0.99957484,X
+bottle2-bottle3,"A bottle of beer is surrounded by a collage of various images, including a green bottle, money, and other objects.",,bottle,1.0,F
+bottle6-chair2,"A wooden chair is standing on top of several other chairs, creating a stack of chairs.",,chair,0.9999999,I
+bottle2-clock1,A bottle of beer is made up of clocks and numbers.,,bottle,0.9994332,F
+bottle10-truck3,A bottle of liquor is displayed with a yellow label.,,bottle,1.0,F
+bottle9-oven2,A bottle of wine is shown in a close-up shot.,,bottle,1.0,F
+bottle7-truck2,"The image is a blurry picture of a car, with the focus on the car's interior. The car appears to be red and silver, and the blurry effect gives it an artistic, abstract appearance.",,car,0.99965477,G
+bottle7-cat2,The image is a blurry picture of a person with a furry texture.,,dog,0.4920291,X
+bottle8-bicycle1,A bottle of Corona beer is surrounded by a bunch of scissors.,,bottle,0.9978048,F
+bottle10-dog1,A bottle of wine is shown with a blurry background.,,bottle,1.0,F
+bottle5-truck1,A red bottle with a black cap.,,bottle,1.0,F
+knife10-oven3,A blurry image of a computer keyboard.,,keyboard,0.99999976,M
+knife5-cat2,A blurry image of a cat.,,cat,0.9999937,H
+knife4-clock3,"A clock is the main focus of the image, with a close-up view of its face. The clock is surrounded by a blurry background, which includes other clocks and a guitar. The guitar is positioned to the right of the main clock, and the other clocks are scattered throughout the scene.",,clock,0.9999956,J
+knife6-oven3,The image is a blurry picture of a kitchen with various appliances and objects.,,oven,0.9804198,X
+knife7-boat3,"The image is a colorful painting of a cityscape, featuring a mix of green, red, blue, and purple colors. The scene includes buildings, cars, and people, all of which are depicted in a surreal and abstract manner. The painting is a collage of various elements, creating a visually striking and unique artwork.",,car,0.5755393,G. car
+knife9-bird1,"The image is a close up of a white and blue object, possibly a piece of cloth or a piece of paper. The blue part of the object is on the right side, while the white part is on the left. The blue part appears to be slightly blurry, while the white part is more distinct. The overall scene has a somewhat abstract and artistic appearance.",,airplane,0.9923111,X
+knife6-truck1,"The image is a blurry photo of a red object, possibly a shoe or a piece of red fabric. The photo is taken from a close-up perspective, making the object appear distorted and out of focus.",,airplane,0.9586759,X
+knife5-truck3,"The image is a blurry picture of a car's interior, with a focus on the dashboard. The dashboard has a yellow and orange color scheme, and there is a car seat in the foreground. The car is parked, and the view is from the driver's seat.",,car,0.9979182,G
+knife9-airplane2,A blurry image of a blue sky with yellow and white clouds.,,airplane,0.9982065,X
+knife9-elephant2,"The image is a close-up of a wooden surface with a unique texture. The wood appears to be a combination of brown and tan colors, and it has a somewhat rough and uneven texture. The close-up view showcases the intricate details and patterns of the wood, making it an interesting and visually appealing image.",,airplane,0.6827419,X
+knife1-oven1,A blurry image of a staircase with a handrail.,,airplane,0.96778494,X
+knife1-clock2,The image is a blurry photo of a clock.,,clock,1.0,J
+knife2-elephant2,"The image is a close-up of a piece of wood, possibly a tree branch. The wood has a rough, textured surface with a few visible lines and bumps. The overall appearance of the wood is somewhat wrinkled and uneven.",,airplane,0.88404274,X
+knife4-car2,A blurry image of a bunch of scissors.,,knife,0.9976446,N
+knife6-bicycle1,"The image is a collage of various metallic objects, including silverware, arranged in a visually appealing manner. The objects are scattered throughout the image, with some placed closer to the foreground and others further in the background. The overall composition creates a sense of depth and complexity, showcasing the intricate details of the metallic items.",,airplane,0.6380237,X
+knife2-truck2,A red car is parked in a garage with other cars.,,car,0.99979657,G
+knife6-chair3,The image is a blurry picture of a bunch of blue chairs.,,chair,0.9999409,I
+knife8-truck3,A blurry image of a truck and a car.,,truck,0.99973637,"G, P"
+knife6-clock2,A blurry image of a person with a gun.,,airplane,0.6849264,X
+knife3-bear2,"A blurry image of a furry animal, possibly a dog, with its head cut off.",,dog,0.94132084,K
+knife5-knife3,A blurry picture of a belt buckle.,,airplane,0.7056032,X
+knife5-dog1,"The image features a close up of a dog's fur, with the focus on the dog's brown and white fur. The fur appears to be fluffy and textured, giving the impression of a soft and cozy surface.",,dog,0.99838054,"H, K"
+knife9-bottle2,A bunch of bottles are piled on top of each other.,,bottle,1.0,F
+knife5-oven2,A gun is sitting on a table.,,airplane,0.54873544,X
+knife6-bottle3,"The image is a collage of various bottles and papers, with some bottles being green and others being white. The bottles are arranged in a jumble, creating a visually interesting and somewhat chaotic scene. The papers are also mixed in with the bottles, adding to the overall cluttered appearance of the collage.",,bottle,0.9999932,F
+knife5-keyboard3,A blurry image of a gun.,,airplane,0.8887575,X
+knife2-bird1,A knife with a blue handle and a silver blade.,,knife,1.0,N
+knife2-bottle2,"The image is a close-up of a large collection of wine bottles. The bottles are arranged in various positions, with some standing upright and others lying on their sides. The bottles are of different shapes and sizes, creating a visually interesting scene. The bottles are tightly packed together, showcasing the vastness of the collection.",,bottle,0.99999976,F
+knife7-bird3,The image is a blurry picture of a cat.,,cat,0.99999404,H
+knife1-airplane1,A bunch of torn up paper.,,airplane,0.8933898,X
+knife6-boat3,"The image is a colorful painting of a cityscape, featuring a mix of buildings, boats, and people. The scene is vibrant and full of life, with various colors and shapes creating a dynamic and lively atmosphere.",,boat,0.99756,"B, E"
+knife3-keyboard3,A blurry image of a cell phone.,,airplane,0.99190336,X
+knife2-bear2,A dog with a chain around its neck.,,dog,0.99980885,K
+knife4-knife2,"The image is a collage of various papers, including a newspaper and a book. The papers are arranged in a somewhat disorganized manner, creating a visually interesting pattern. The papers are of different sizes and colors, making the collage vibrant and diverse.",,airplane,0.975222,X
+knife8-bicycle1,"The image is a close-up of a pile of scrap metal, including various pieces of metal and a bicycle. The scrap metal is arranged in a way that creates a sense of depth and complexity.",,bicycle,0.9996132,C
+knife10-elephant3,"The image features a close-up view of a wrinkled surface, possibly a piece of elephant hide or a rock. The surface is textured and has a distinctive pattern of lines and grooves. The lines are arranged in a way that creates a sense of depth and complexity, making the surface visually interesting and unique.",,elephant,0.9989365,L
+knife2-car3,"The image is a colorful collage of various vehicles, including cars and motorcycles. The vehicles are arranged in a somewhat chaotic manner, with some overlapping each other. The collage is set against a backdrop of trees, creating a vibrant and lively scene.",,car,0.70515996,"G, P"
+knife3-clock2,The image is a blurry picture of a clock with a lot of writing on it. The clock is positioned towards the top of the image.,,clock,0.9999999,J
+knife4-airplane3,"The image is a blurry picture of a white object with a black object on top of it. The white object appears to be a piece of paper or fabric with writing on it. The black object is a pair of scissors, which is placed on top of the white object.",,knife,0.68491495,X
+knife2-cat3,The image is a close-up of a piece of meat with a bone sticking out of it. The meat appears to be cooked and is sitting on a white surface.,,knife,0.5374253,X
+knife1-keyboard3,A blurry image of a camera.,,airplane,0.9749239,X
+knife8-car2,A colorful painting of a car with a blurred background.,,car,0.99977106,G
+knife2-bicycle3,"The image is a close-up of a metal chain with a jagged edge. The chain is surrounded by a blurry background, which gives the impression of a fuzzy or abstract image.",,airplane,0.42881855,X
+knife1-truck2,"The image is a blurry picture of a red object, possibly a person, with a pink background. The focus is on the red object, which is the main subject of the image.",,airplane,0.8927677,X
+knife4-boat1,"The image is a colorful, abstract painting of a cityscape. The painting features a mix of bright colors and geometric shapes, creating a vibrant and dynamic scene. The cityscape is depicted in a somewhat distorted manner, giving the painting a unique and artistic appearance.",,airplane,0.87800795,X
+knife2-dog1,"The image is a close-up of a furry surface, possibly a piece of fabric or a fuzzy animal. The fur appears to be a mix of brown and orange colors, giving it a warm and natural look. The texture of the fur is quite fuzzy and dense, with a slightly uneven pattern.",,bear,0.5260017,X
+knife1-chair1,The image is a blurry picture of a theater with many empty seats. The seats are red and scattered throughout the scene.,,airplane,0.8393592,X
+knife1-elephant1,"The image is a close-up of a cracked and bumpy surface, possibly a piece of rock or a wall. The surface is covered in numerous cracks and crevices, giving it a textured and aged appearance.",,airplane,0.93897647,X
+knife1-bird2,"The image is a close-up of a black object, possibly a paintbrush, with a white background. The object appears to be blurry, giving it a slightly distorted appearance.",,airplane,0.99526477,X
+knife9-bicycle1,"The image is a collage of various objects, including a car, a bicycle, and a bird. The car is made of metal and is the main focus of the collage. The bicycle is located towards the left side of the image, while the bird is situated in the upper right corner. The collage is a mix of different shapes, colors, and textures, creating a visually interesting and diverse composition.",,bicycle,0.78907293,"G, C, D"
+knife6-knife1,"The image is a close-up of a colorful painting featuring a fish. The fish is depicted in various colors, including red, green, and blue. The painting is abstract, with the fish being the main subject.",,boat,0.47640246,X
+knife9-bear3,A blurry image of a cat's face.,,cat,0.999995,H
+knife10-dog1,"The image is a close-up of a furry surface, possibly a dog's back, with a yellowish or orangeish hue. The fur appears to be fluffy and has a slightly fuzzy texture.",,dog,0.9970445,"H, K"
+knife3-cat1,The image is a blurry picture of a cat.,,cat,0.99999404,H
+knife4-keyboard1,A blurry image of a black triangle with a hole in it.,,airplane,0.9266697,X
+knife10-bear3,"The image is a close-up of a furry animal, possibly a spider or a bee, with its legs and body visible. The animal is surrounded by a blurry background, which adds to the focus on the creature.",,bird,0.46001893,X
+knife5-bicycle2,"The image is a close-up of a bunch of metal objects, including a pair of scissors, a toaster, and a knife. The objects are blurred and appear to be made of metal.",,knife,0.9938333,"N, O"
+knife3-knife1,"The image is a close-up of a piece of artwork, featuring a collage of various materials, such as metal, plastic, and fabric. The materials are arranged in a visually appealing manner, with some pieces overlapping and others standing out. The artwork appears to be a mix of colors and textures, creating a unique and interesting composition.",,airplane,0.80243766,X
+knife8-cat2,A brown and white brush is laying on a table.,,dog,0.7551918,X
+knife10-chair1,The image is a blurry picture of a theater with many red seats.,,airplane,0.6741656,X
+knife4-bear1,"The image is a blurry picture of a brown animal, possibly a dog or a cat. The animal appears to be in motion, as the image is out of focus.",,dog,0.7764275,"H, K"
+knife7-chair2,A room full of wooden chairs.,,chair,1.0,I
+knife4-cat2,The image is a blurry picture of a bird.,,bird,0.9996276,D
+knife1-dog1,"The image is a close-up of a furry surface, possibly a piece of fabric or a fuzzy animal. The fur appears to be brown and has a slightly frayed texture. The surface is quite textured and has a somewhat uneven appearance.",,dog,0.60965145,X
+knife5-clock1,"The image is a collage of clock faces, with some of them being upside down. The clocks are scattered throughout the image, with some in the foreground and others in the background. The clocks vary in size and position, creating a visually interesting and somewhat chaotic scene.",,clock,0.99999964,J
+knife6-airplane1,"A picture of a rocket ship with the word ""Saturn"" on it.",,boat,0.94011885,X
+knife7-bottle3,A pile of colorful papers with Asian writing on them.,,airplane,0.7224082,X
+knife8-boat1,"The image is a colorful painting of a plane in flight. The plane is the main focus of the painting, with its wings spread out and its body painted in various colors. The background is a blend of blue, red, and yellow, creating a vibrant and dynamic scene. The plane is positioned in the center of the painting, with its wings stretching out to the sides, emphasizing its motion and flight.",,airplane,1.0,A
+knife8-bottle3,A pile of green glass bottles with foreign writing on them.,,bottle,0.99999976,F
+knife7-airplane3,The image is a blurry picture of a cell phone.,,airplane,0.9964127,X
+knife6-bird1,A blurry image of a fork.,,knife,0.9968168,X
+knife10-keyboard3,A blurry image of a black and white object.,,airplane,0.9929133,X
+knife7-car2,A blurry image of a car.,,car,0.9991798,G
+knife1-car3,A blurry image of a car with a red hood.,,car,0.9952691,G
+knife9-boat1,A colorful painting of a cityscape with a blurry background.,,airplane,0.95956475,X
+knife6-dog2,"The image is a close-up of a furry surface, possibly a piece of fabric or a blanket. The fur appears to be yellow and has a slightly fuzzy texture. The close-up view of the fur creates a sense of depth and texture, making the image visually interesting.",,bear,0.89426374,X
+knife9-chair1,A blurry image of a movie theater with red seats.,,airplane,0.590313,X
+knife7-elephant2,"The image is a close-up of a leather surface with a textured pattern. The leather appears to be worn and has a natural, aged look. The surface is covered in a series of ridges and valleys, giving it a unique and interesting texture.",,elephant,0.24515581,X
+knife4-oven2,The image is a blurry picture of a keyboard.,,keyboard,0.9999976,M
+knife10-knife1,"The image is a close-up of a guitar, with a blurry background. The guitar has a black and brown color scheme, and it appears to be made of metal. The guitar is positioned in the center of the image, with the strings visible.",,airplane,0.975927,X
+cat7-knife2,A hand with a cat's face on it.,,cat,0.9993549,H
+cat4-oven1,A cat is sitting on a table.,,cat,0.999995,H
+cat1-keyboard3,A black cat is sitting in front of a keyboard.,,keyboard,0.8998724,"H, M"
+cat8-bear1,A small kitten is sitting on a bed.,,cat,0.9998512,X
+cat4-dog3,A brown dog is laying down on a white surface.,,dog,0.9999573,K
+cat7-truck2,"The image is a close-up of a red car, possibly a truck, with a blurry background. The car is the main focus of the image, and it appears to be a vibrant red color.",,car,0.8742029,"G, P"
+cat8-bird2,A small kitten with a white face and gray body is standing on a white surface. The kitten is looking at the camera with a curious expression.,,cat,0.99990773,H
+cat4-knife1,"The image is a close-up of a face, possibly a man's face, with a blurry background. The face is surrounded by a colorful, abstract pattern, giving it a unique and artistic appearance.",,airplane,0.94745034,X
+cat1-airplane1,"A cat's face is shown in a collage of various images, including a close-up of the cat's eye.",,cat,0.999997,H
+cat5-airplane2,"The image is a colorful and abstract painting of a bird. The bird is the main subject, with its wings spread out, and it is surrounded by a vibrant blue background. The painting is a mix of yellow and blue colors, creating a visually appealing and artistic scene.",,bird,0.99418086,D
+cat6-keyboard3,A cat is sitting on a keyboard.,,keyboard,0.59156674,"H, M"
+cat4-clock2,A cat made of clocks and numbers is standing in front of a clock.,,clock,0.96461153,X
+cat9-truck1,A red cat is laying on a red surface.,,cat,0.99999905,H
+cat9-bottle2,"The image is a close-up of a large group of bottles, some of which are empty. The bottles are of various shapes and sizes, and they are arranged in a somewhat disorganized manner. The bottles are positioned in front of a blurry background, which adds a sense of depth to the scene.",,bottle,0.9999981,F
+cat5-bear2,"A small kitten is sitting on a white surface, looking at the camera. The kitten is brown and white and appears to be relaxed.",,cat,0.9999081,H
+cat9-dog2,A cat is laying on a soft surface.,,cat,0.99999976,H
+cat4-cat3,A cat is sitting on a surface with its back facing the camera.,,cat,0.9999907,H
+cat10-oven2,"A blurry image of a kitchen with a sink, a refrigerator, and a microwave.",,oven,0.97819453,X
+cat6-clock3,A cat made of clocks is sitting on top of a clock.,,cat,0.6185228,"H, J"
+cat2-boat2,"A cat's face is composed of various shapes and colors, creating a collage-like effect. The cat's eyes are open, and its whiskers are visible. The image is a close-up of the cat's face, with the background blurred out.",,cat,0.99999726,H
+cat7-dog3,"A cat is laying on a white surface, possibly a bed or a couch. The cat is orange and white, and it appears to be sleeping or resting.",,cat,0.9999999,H
+cat2-knife3,"The image is a painting of a person holding a pair of scissors. The scissors are in the person's hand, and the painting is a close-up of the scissors. The background is blurry, focusing on the scissors and the person's hand.",,knife,0.9627061,X
+cat4-airplane1,A blurry image of a person's face with a newspaper background.,,airplane,0.98565,X
+cat10-elephant3,A cat is sitting on a rocky surface.,,cat,0.99994755,H
+cat2-truck3,A blurry image of a cat's face.,,cat,0.999995,H
+cat5-bicycle3,A cat is sitting in a chair.,,chair,0.8853057,"H, I"
+cat9-clock2,"A black cat is laying on a bed, with its head resting on a pillow. The cat appears to be sleeping or relaxing.",,cat,0.9999933,H
+cat6-chair3,A bunch of blue chairs are stacked on top of each other.,,chair,0.9999981,I
+cat7-clock3,A collage of clocks with the numbers 1 to 12 on them.,,clock,1.0,J
+cat7-airplane2,A cat is laying down in a blue and yellow background.,,cat,0.99999475,H
+cat5-knife2,"A cat's face is shown in a close-up view, with its eyes looking to the left. The cat is surrounded by a blurry background, and it appears to be sitting or laying down.",,cat,0.9999975,H
+cat10-bird2,A cat is laying on a bed.,,cat,0.99999976,H
+cat1-car2,A cat's face is blurred and surrounded by a colorful background.,,cat,0.999985,H
+cat5-boat1,A painting of a cat with a blue background.,,cat,0.9994954,H
+cat5-chair3,A bunch of blue chairs in a group.,,chair,0.9999999,I
+cat2-car3,A dog is sitting in the middle of a car.,,car,0.8983751,"G, K"
+cat8-car2,The image is a blurry picture of a dog.,,dog,0.9999137,H
+cat5-elephant2,A cat is laying down with its head turned to the side.,,cat,0.99999845,H
+cat9-boat2,"The image is a collage of various objects, including a train, a car, and a boat. The train is the largest object in the collage, taking up a significant portion of the image. The car is located towards the bottom left of the image, while the boat is situated in the upper right corner. The collage is composed of different colors and textures, creating a visually interesting and diverse scene.",,boat,0.9988902,X
+cat10-bicycle1,"The image is a collage of various objects, including a clock, a car, and a pair of scissors. The objects are arranged in a visually interesting manner, with some objects overlapping and others positioned in the foreground. The overall effect is a busy and intricate composition that captures the viewer's attention.",,clock,0.9894549,"G, J"
+cat3-bear2,"A cat is laying on a soft surface, possibly a bed or a couch. The cat is looking at the camera, and its eyes are wide open. The cat appears to be relaxed and comfortable in its environment.",,cat,0.99999976,H
+cat6-bear1,A cat is laying on a bed with a kitten.,,cat,0.9999993,H
+cat10-bear1,A brown bear is laying down on a bed.,,bear,0.99999845,B
+cat9-cat3,A cat is laying on a ground.,,cat,0.9999993,H
+cat4-chair2,A bunch of wooden chairs are stacked on top of each other in a room.,,chair,0.9999989,I
+cat1-dog1,A cat with a yellowish-brown coat is looking directly at the camera.,,cat,0.9999974,H
+cat10-airplane3,The image is a painting of a person with a blue sky in the background. The person is wearing a white shirt and has a black background. The painting is abstract and features a cloudy sky.,,airplane,0.9889755,X
+cat10-keyboard1,A close up of a black object with a blurry background.,,airplane,0.9966041,X
+cat1-boat1,"The image is a colorful painting of a cat's face, with the cat's eyes and whiskers being the focal point. The background features a cityscape, and the cat's face is surrounded by various colors and shapes. The painting is abstract and artistic, creating a visually striking scene.",,cat,0.99998116,H
+cat7-elephant1,A cat is laying down on a surface with a rough texture.,,cat,0.99999845,H
+cat1-chair2,The image features a large pile of wooden chairs stacked on top of each other. The chairs are of various sizes and are arranged in a somewhat disorganized manner. The scene appears to be a storage area or a place where these chairs are being kept.,,chair,0.99999475,I
+cat4-truck3,A colorful image of a face with a yellow background.,,dog,0.43365645,X
+cat5-car2,"The image is a collage of various objects, including cars, a cat, and a dog. The objects are blurred and overlapping, creating a colorful and abstract scene.",,cat,0.9263353,"G, H, K"
+cat4-car2,"The image is a colorful, abstract painting featuring a mix of red, yellow, and blue colors. The painting appears to be a close-up of a fish, with its body and fins prominently displayed. The fish is surrounded by a variety of other fish, creating a vibrant and dynamic scene.",,bird,0.49602416,X
+cat3-oven2,A black cat is laying down in a blurry photo.,,cat,0.9999825,H
+cat7-boat3,A dog with a red and blue face and a green and blue body.,,dog,0.99995315,K
+cat8-bicycle3,"A kitten is shown in a close-up shot, with its head and face taking up most of the image. The kitten's eyes are open, and it appears to be looking at something. The background is blurred, which emphasizes the kitten as the main subject of the photo.",,cat,0.99962807,H
+cat5-keyboard3,A cat is sitting in front of a keyboard.,,keyboard,0.7405607,"H, M"
+cat2-bottle3,A cat made of green bottles is standing in a pile of paper money.,,cat,0.9971132,X
+cat4-bird2,A black and white cat is sitting on a post.,,cat,0.99999416,H
+cat9-knife2,"The image is a collage of various objects, including a cat, a fish, and a pair of scissors. The cat is positioned on the left side of the image, while the fish is on the right side. The scissors are located in the middle of the image, with the cat and fish surrounding them. The overall composition of the image is visually interesting and creative.",,cat,0.9925052,X
+cat9-bicycle1,"The image is a collage of various objects, including a car, a bicycle, and a motorcycle. The objects are arranged in a visually interesting manner, with some overlapping and others placed in different orientations. The collage is predominantly made up of metal parts, giving it a unique and artistic appearance.",,bicycle,0.9848192,"G, C, M"
+cat5-bottle1,"A colorful collage of various bottles and jars, with a cat's face in the center.",,bottle,0.8778124,"F, O, H"
+cat2-cat1,A brown and white kitten with big eyes is sitting on a white surface.,,cat,0.9999887,H
+cat9-chair2,"The image is a blurry photo of a room filled with wooden chairs. The chairs are arranged in rows, with some chairs being closer to the foreground and others further in the background. The room appears to be a large auditorium or a similar space.",,chair,0.9999893,I
+cat10-clock1,"The image is a collage of various clocks, including analog and digital clocks, arranged in a visually appealing manner. The clocks are in different shapes and sizes, creating an interesting and unique composition.",,clock,1.0,J
+cat3-bicycle1,A cat is laying down in a pile of metal shavings.,,cat,0.9999987,H
+cat10-bottle1,"The image is a collage of various bottles, including liquor and soda bottles, arranged in a visually appealing manner. The bottles are of different shapes, sizes, and colors, creating a diverse and interesting composition. The bottles are placed in various positions, some overlapping and others standing alone, giving the impression of a busy and bustling environment.",,bottle,0.99999964,F
+cat1-oven1,A cat with glasses is sitting in front of a blurry background.,,cat,0.9996611,H
+cat7-bottle1,"A large collection of bottles, including alcohol and condiments, are displayed in a cluttered manner. The bottles are of various shapes and sizes, and they are piled on top of each other, creating a visually dense scene.",,bottle,1.0,F
+cat1-cat3,A cat with a brown and white fur.,,cat,0.9999987,H
+cat9-bird3,A black and white cat is laying on a white surface.,,cat,0.9999995,H
+cat6-oven1,A cat is sitting on a table.,,cat,0.999995,H
+cat1-bird1,A cat with blue eyes and a blue nose is looking at the camera.,,cat,0.9999931,H
+cat2-elephant1,"A cat's face is depicted in a textured, wrinkled surface.",,cat,0.9999877,H
+cat5-dog3,A kitten is laying down next to another kitten.,,cat,0.99999535,X
+cat3-cat1,A brown and white cat is laying on a white surface.,,cat,0.99999964,H
+cat3-truck3,"The image is a colorful painting of a chair with a cat sitting on it. The cat is positioned towards the right side of the chair. The painting is abstract, with a mix of colors and shapes.",,chair,0.8612433,"I, H"
+cat3-elephant2,A cat is laying down on a bed.,,cat,0.9999995,H
+cat4-keyboard2,A black object is sitting on top of a keyboard.,,keyboard,0.9999962,X
+boat4-car3,"The image is a colorful and abstract painting of a cityscape. The painting features a variety of vehicles, including cars, buses, and trucks, all mixed together and blending into the background. The vehicles are scattered throughout the scene, with some closer to the foreground and others further in the background. The overall effect is a vibrant and dynamic representation of urban life.",,car,0.6771743,"G, P"
+boat1-bear1,"The image is a close-up of a brown animal, possibly a bear, with its fur blurred out. The animal appears to be laying down, and its fur is described as being fuzzy and brown.",,bear,0.9988945,B
+boat7-clock3,A clock made of many clock faces.,,clock,1.0,J
+boat8-elephant1,A close up of a wrinkled elephant's skin.,,elephant,1.0,L
+boat3-bicycle2,"The image is a blurry picture of a pile of metal, possibly scrap metal. The metal is arranged in various shapes and sizes, creating a visually interesting composition.",,airplane,0.9250841,X
+boat6-car1,"The image is a colorful and abstract painting featuring a banana. The banana is prominently displayed in the center of the painting, surrounded by various colors and shapes. The background is filled with different shades of blue, yellow, and red, creating a vibrant and dynamic composition.",,airplane,0.50562006,X
+boat1-elephant3,"A close up of an elephant's skin, showing the wrinkles and texture of the skin.",,elephant,1.0,L
+boat6-bear1,A blurry image of a bear.,,bear,0.99999857,B
+boat2-bottle2,"The image is a close-up of a group of bottles, possibly wine bottles, with a blurry background. The bottles are arranged in a cluster, with some bottles being more prominent than others. The bottles vary in size and shape, creating a visually interesting composition.",,bottle,0.99999964,F
+boat9-keyboard2,The image is a blurry picture of a keyboard.,,keyboard,0.9999976,M
+boat7-elephant3,"The image shows a close-up of a rock with a boat carving on it. The boat appears to be a sailboat, and it is positioned in the middle of the rock. The rock itself has a textured surface, giving it a unique appearance.",,boat,0.99999845,"E, G, P"
+boat10-oven1,A spaceship is floating in the air.,,airplane,0.9544398,X
+boat6-bottle2,"A blurry image of a bunch of bottles, possibly wine or beer bottles, with a black object in the middle.",,bottle,0.9999999,F
+boat2-oven3,"A blurry image of a room with a TV, a microwave, and a refrigerator.",,airplane,0.38717508,X
+boat6-clock2,The image is a blurry picture of a clock with the hands pointing to 12 and 3.,,clock,0.99999976,J
+boat5-knife2,A pile of torn and cut up paper money.,,airplane,0.8347806,X
+boat4-elephant2,A close up of a leather surface with a pattern of lines and wrinkles.,,airplane,0.3912073,X
+boat6-airplane2,A blue and white image of a bird flying in the sky.,,airplane,0.60581654,D
+boat5-clock3,A collection of clocks are arranged in a tree-like pattern.,,clock,1.0,J
+boat7-bottle1,"The image is a collage of various bottles and containers, including wine bottles, arranged in a stack. The bottles are of different shapes, sizes, and colors, creating a visually interesting and diverse composition.",,bottle,0.99999964,F
+boat10-truck1,"A red helicopter is shown in the image, with a person standing inside it. The helicopter appears to be a toy or a model, as it is small and colorful. The person inside the helicopter is positioned towards the right side of the image, and the helicopter is prominently displayed in the center of the scene.",,airplane,0.9978756,X
+boat1-truck3,"The image is a blurry picture of a row of seats, possibly in a theater or stadium. The seats are arranged in a way that they are all facing the same direction. The seats are colorful, with a mix of yellow, blue, and orange. The blurry nature of the image makes it difficult to discern the exact details of the seats.",,airplane,0.53521687,X
+boat1-car2,"The image is a close-up of a red car with a blurry background. The car is surrounded by other cars in the background, creating a sense of depth and motion. The scene appears to be captured with a slow shutter speed, resulting in the blurred appearance of the background.",,car,0.99958056,G
+boat1-bird3,"The image is a black and white photo of a bird, possibly a seagull, with its wings spread wide. The bird is the main focus of the photo, with its wings covering a significant portion of the image. The bird appears to be flying or in motion, creating a dynamic and captivating scene.",,bird,0.98196757,D
+boat5-airplane1,A close up of a shredded paper with numbers and letters on it.,,airplane,0.954116,X
+boat6-dog1,A close up of a dog's foot.,,dog,0.9999621,K
+boat2-bear3,"The image is a close-up of a furry animal, possibly a dog, with its eyes closed. The fur is brown and white, creating a blurry effect. The animal's eyes are barely visible, as they are almost completely covered by the fur.",,dog,0.9252589,"H, K"
+boat9-chair2,A large group of wooden chairs are stacked on top of each other in a room.,,chair,0.99999917,I
+boat9-bird1,A boat made of sheets is on the water.,,boat,1.0,E
+boat8-oven1,"The image is a blurry photo of a metal object, possibly a piece of machinery or a metal sculpture. The object is positioned in the center of the frame, with a white background surrounding it. The blurry nature of the photo gives it a somewhat artistic and abstract appearance.",,airplane,0.88669676,X
+boat10-bear3,A close up of a furry animal with a blurry background.,,dog,0.97222996,B
+boat5-car3,"The image is a collage of various cars and trucks, including a red car and a blue car. The vehicles are cut up and arranged in a visually interesting manner.",,truck,0.75682175,"G, P"
+boat3-clock3,The image is a blurry photo of a clock with a lot of clock faces.,,clock,0.9999999,J
+boat4-bicycle3,A blurry picture of a person with a guitar.,,airplane,0.710502,X
+boat9-cat3,"A large sailboat is seen from the front, with its sails and rigging clearly visible. The boat is in the water, and the image is somewhat blurry, giving it a slightly artistic appearance.",,boat,0.99999964,E
+boat9-airplane2,"The image is a painting of a sailboat on a body of water. The sailboat is surrounded by a blue sky and has a yellow sail. The boat is positioned in the middle of the painting, with the sky and water creating a beautiful backdrop.",,boat,0.999907,E
+boat9-knife2,"The image is a close-up of a pile of money, with various denominations of bills and coins. The money is stacked on top of each other, creating a colorful and visually interesting scene.",,airplane,0.93377054,X
+boat6-bicycle2,The image is a blurry picture of a fish with a bunch of metal shavings and wires around it.,,boat,0.75147575,X
+boat7-truck2,"The image is a blurry picture of a red object, possibly a piece of art or a decoration. The red object is surrounded by a white background, which further emphasizes its vibrant color. The blurry nature of the image adds an artistic and abstract quality to the scene.",,bottle,0.52769315,X
+boat6-cat1,A bird is laying on a blue background.,,bird,0.9999654,D
+boat5-boat3,A colorful and abstract painting of a city skyline with a large ship in the middle.,,airplane,0.795854,X
+boat1-oven1,"The image is a close-up of a watch face with a blurred background. The watch face is gray and black, and the background is white. The watch face is the main focus of the image, and it is the only part of the watch that is clearly visible.",,clock,0.97588116,J
+boat4-chair2,"The image is a blurry photo of a room with many wooden chairs. The chairs are arranged in rows, and they are positioned in front of a table. The chairs are of various sizes and are placed close to each other, creating a sense of unity and organization in the room.",,chair,0.99999404,I
+boat1-bicycle2,"The image is a close-up of a metal rack filled with many bicycles. The bikes are arranged in rows, and they are all made of metal. The scene is blurry, giving it a slightly artistic appearance.",,bicycle,0.99997056,C
+boat8-truck2,"A red car is shown in a blurry image, with the back of the car being the main focus. The car is parked next to a building, and the back of the car is facing the camera.",,car,0.99991226,G
+boat9-dog2,"The image features a close-up of a furry object, possibly a piece of clothing or a stuffed animal, with a pattern resembling a ship. The ship is made up of multiple sails, giving the impression of a sailboat. The furry object is surrounded by a yellowish background, which adds to the overall colorful and interesting appearance of the image.",,boat,0.99479914,X
+boat9-bear3,"The image is a close-up of a brown animal, possibly a dog, with a blurry background. The animal appears to be standing on a boat, and there are three other boats visible in the background, creating a sense of depth and movement. The animal's fur is described as being brown, black, and white, adding to the overall visual interest of the scene.",,boat,0.99072886,"B, E"
+boat8-bottle1,"The image is a collage of various bottles, including liquor bottles, arranged in a row. The bottles are of different shapes, sizes, and colors, creating a visually interesting and diverse display.",,bottle,0.9999949,F
+boat7-boat2,A colorful painting of a boat with a sail.,,boat,0.9999995,E
+boat1-chair3,The image is a blurry picture of a group of blue chairs.,,chair,0.9999689,I
+boat2-airplane1,"A blurry image of a white and red object, possibly a boat, is shown. The object is surrounded by a white background, and the image is slightly distorted, giving it a blurry appearance.",,boat,0.9999112,E
+boat3-keyboard2,A close up of a keyboard with the letters and numbers blurred.,,keyboard,1.0,M
+boat10-boat3,A colorful painting of a submarine with a blue background and red and green accents.,,boat,0.9850928,X
+boat5-bicycle3,The image is a blurry picture of a bicycle with many wires and parts.,,bicycle,0.99999845,C
+boat6-knife2,A collection of books with a black object in the middle.,,bottle,0.8291244,X
+boat1-keyboard3,A blurry image of a gun with a black handle.,,knife,0.797019,X
+boat7-keyboard3,A blurry image of a black object with a white background.,,airplane,0.99396694,X
+boat8-bird2,A boat made of metal with a design on it.,,boat,1.0,E
+boat3-airplane2,The image is a blurry photo of a building with a yellow and blue color scheme. The building appears to be a large structure with a distinctive design.,,airplane,0.9801752,X
+boat7-chair1,A blurry image of a theater with red seats.,,airplane,0.50106984,X
+boat9-boat3,A large ship with many sails is floating on the water.,,boat,0.9999975,E. boat
+boat2-keyboard1,A blurry image of a broken glass with shards of glass.,,bottle,0.82077926,F
+boat8-knife1,"The image is a close-up of a gun with a wooden handle. The gun is broken and has a lot of rust. The handle is made of wood and has rivets holding it together. The gun is sitting on a table, and the focus is on the close-up of the handle.",,airplane,0.45631707,X
+boat10-cat1,"A brown teddy bear is laying on a white surface, possibly a bed. The bear is positioned in the middle of the image, and it appears to be resting or sleeping.",,bear,0.9999956,B
+boat8-dog3,"The image is a close-up of a cat's fur, with its tail visible in the background. The fur appears to be brown and white, and the cat's tail is curled up.",,cat,0.999998,H
+boat4-knife2,"The image is a close-up of a colorful piece of artwork, featuring a mix of red, green, and white colors. The artwork is made up of various shapes and patterns, creating a visually interesting and abstract design.",,airplane,0.5595674,X
+boat3-dog3,A blurry image of a person sitting on a chair.,,chair,0.9999995,I
+boat2-bird1,A blue boat is on the water.,,boat,1.0,E
+boat9-clock1,A collage of clocks and numbers is arranged to resemble a ship.,,clock,0.997752,X
+boat6-truck3,"The image is a blurry photo of a chair with a person sitting in it. The chair is orange and has a black seat. The person is sitting in the middle of the chair, and the photo is taken from a close-up perspective.",,chair,0.99999416,I
+boat4-dog2,"The image features a close-up of a cat's face, with its fur blurred out. The cat's eyes are open, and its whiskers are clearly visible. The background is a blurry, out-of-focus scene, which adds to the focus on the cat's face.",,cat,0.9999969,H
+boat7-oven3,"The image shows a pile of old electronic equipment, including a TV, a computer, and a keyboard. The equipment is stacked on top of each other, with the TV on top, the computer in the middle, and the keyboard on the bottom. The scene appears to be blurry, possibly due to the age of the equipment or the camera's focus.",,keyboard,0.6198514,X
+boat3-cat3,A blurry image of a boat with a person in the middle.,,boat,0.99999845,E
+boat4-bird1,The image features a blue and white cloth with a blue stripe. The cloth is folded and appears to be made of silk. The blue stripe is located on the left side of the cloth.,,airplane,0.7534176,X
+boat7-cat3,"The image is a close-up of a piece of cloth with a hole in it. The hole appears to be burnt, and there is a red spot in the middle of the cloth. The cloth is yellow and has a fuzzy texture.",,airplane,0.53108436,X
+boat4-boat3,"The image is a colorful painting of a cityscape, featuring a boat in the middle of the scene. The boat is surrounded by buildings and other structures, creating a vibrant and lively atmosphere. The painting is characterized by its vivid colors and abstract style, giving it a unique and artistic appearance.",,boat,0.9999963,E
+boat3-chair3,"The image is a close-up of a large group of blue and white chairs. The chairs are arranged in a dense cluster, with some chairs overlapping each other. The chairs are of various sizes and are placed in different orientations, creating a visually interesting and busy scene.",,chair,0.9999894,I
+boat4-bottle2,"The image is a close-up of a large collection of wine bottles, with some of them being empty. The bottles are arranged in various positions, creating a visually interesting scene. The bottles are of different sizes and shapes, showcasing a diverse assortment of wine bottles.",,bottle,0.9999999,F
+boat6-elephant2,A brown and white image of a bird's wing.,,bird,0.99312747,D
+boat3-car3,The image is a blurry picture of a car.,,car,0.9996773,G
+bird6-bottle3,A collage of various bottles and papers with a bird in the center.,,bird,0.9764128,F
+bird10-cat1,"The image is a close-up of a bird's head, with its beak and feathers prominently visible. The bird appears to be brown and white in color.",,bird,0.9999883,D
+bird10-chair1,The image is a blurry picture of a theater with many red seats.,,airplane,0.6741656,X
+bird7-truck2,The image is a blurry picture of a red car.,,car,0.9996971,G
+bird9-chair1,"A blurry picture of a person sitting in a theater, with a red background.",,chair,0.8589415,X
+bird6-elephant2,"The image is a close-up of a tree branch, possibly a palm tree, with a brown and tan color. The branch appears to be curved and has a somewhat rough texture. The branch is the main focus of the image, with no other objects or background visible.",,airplane,0.9761179,X
+bird7-knife2,A black bird is perched on a branch in front of a wall of books.,,bird,0.9998367,D
+bird7-keyboard3,The image is blurry and features a person sitting in a chair.,,chair,0.99999976,I
+bird6-car3,A blurry image of a car with a red hood.,,car,0.9952691,G
+bird3-oven1,A blurry image of a kitchen faucet.,,bottle,0.961328,X
+bird2-knife1,"The image is a close-up of a person's hand holding a gun. The hand is positioned in the center of the image, and the gun is located on the right side. The background is blurry, and the hand appears to be the main focus of the picture.",,airplane,0.90913206,X
+bird1-bicycle2,"The image is a close-up of a bird, possibly a pigeon, with a blurry background. The bird is surrounded by a multitude of metal objects, such as forks and spoons, which are scattered throughout the scene. The bird appears to be perched on a chair, and the various utensils are positioned in different directions, creating a visually interesting and chaotic scene.",,bird,0.9951564,"D, I"
+bird2-airplane3,A person wearing a blue and white shirt is standing in front of a white background.,,airplane,0.8845387,X
+bird10-bicycle1,"The image features a bird with a long beak, surrounded by a colorful and abstract background. The bird is the main focus of the image, and it appears to be a black and white bird with a long beak. The background is filled with a variety of colors and patterns, creating a visually interesting and artistic scene.",,bird,0.99998474,D
+bird3-bear3,"The image features a close-up of a brown animal, possibly a bear, with its fur blurred out. The animal appears to be standing in a field with green grass.",,bear,0.98222417,B
+bird1-keyboard3,A blurry image of a mouse with a cord.,,airplane,0.45284826,X
+bird1-oven1,"A small bird is perched on a surface, possibly a branch or a wire. The bird is white and black in color, and it appears to be looking at the camera. The background consists of a blurry, white surface, which adds to the overall visual effect of the image.",,bird,0.99636996,D
+bird2-clock3,"The image is a collage of clocks, with a bird figure made out of clock hands. The bird is surrounded by many clocks, creating a unique and artistic composition.",,clock,0.93067497,D
+bird4-dog3,A brown dog with its eyes closed.,,dog,0.9999833,K
+bird7-boat1,"The image is a collage of various elements, including a bird, a boat, and a clock. The bird is prominently featured in the center of the image, while the boat is located towards the right side. The clock is situated in the upper left corner of the image. The collage is colorful and visually interesting, with a mix of different shapes and sizes.",,clock,0.5981772,BDJMOP
+bird5-truck2,The image is a blurry photo of a car with a red hood.,,car,0.99921465,G
+bird4-cat3,A bird with brown feathers is perched on a white background.,,bird,0.99998903,D
+bird1-bear1,"A small brown bird is sitting on a surface, looking to the left.",,bird,0.99919194,D
+bird5-car2,A bird is sitting on top of a car.,,bird,0.9496957,"D, G"
+bird1-boat1,"The image is a colorful painting of a bird, possibly a parrot, sitting on a branch. The bird is the main focus of the painting, with its vibrant colors and unique features. The background features a blurred cityscape, adding depth and contrast to the painting.",,bird,0.9975852,D
+bird7-cat3,A bird is perched on a wire.,,bird,0.9998952,D
+bird9-bottle3,A bird is standing on a branch surrounded by a pile of money.,,bird,0.99989104,D
+bird2-bird2,A bird is perched on a tree branch.,,bird,0.99991405,D
+bird7-car2,"The image is a blurry picture of a bird, possibly a parrot, sitting on a perch. The bird is surrounded by a colorful background, which includes a mix of red, yellow, and silver colors. The bird's feathers are also colorful, adding to the vibrant scene.",,bird,0.9996517,D
+bird3-boat3,The image is a colorful painting of a person's face.,,airplane,0.8979258,X
+bird3-bird2,A bird with a beak is standing in front of a blurry background.,,bird,0.9999949,D
+bird6-boat2,"The image is a collage of various objects, including a bird, a car, and a person. The bird is the main focus, with its wings spread out, and it is surrounded by a mix of different elements. The car is located in the middle of the image, while the person is situated towards the right side. The overall composition is a colorful and intriguing blend of objects.",,bird,0.9717181,"B, G"
+bird10-elephant2,A brown elephant with its trunk curled up.,,elephant,0.9999994,L
+bird5-keyboard2,A black keyboard with a blurry background.,,keyboard,1.0,M
+bird3-knife3,A blurry image of a bird with a long beak.,,bird,0.999925,D
+bird6-truck2,"A red car is blurred in the image, with its details obscured by a filter. The car appears to be moving, as indicated by the motion blur.",,car,0.99935573,G
+bird7-oven3,A bird is sitting on top of a telephone.,,bird,0.9999827,D
+bird8-chair1,The image is a blurry photo of a theater with many red seats.,,airplane,0.67935586,X
+bird5-airplane3,A blue bird is sitting on a branch.,,bird,0.9999052,D
+bird2-car3,A blurry image of a car with a red hood.,,car,0.9952691,G
+bird5-bicycle1,A bird made out of various metals and wires.,,bird,0.9987758,D
+bird8-bottle1,"The image is a collage of various bottles and a bird. The bird is positioned in the center of the image, surrounded by numerous bottles of different shapes and sizes. The bottles are scattered throughout the image, with some closer to the bird and others further away. The overall composition creates a visually interesting and unique piece of art.",,bottle,0.9484397,"B, F"
+bird3-truck3,A blurry image of a bird with a yellow beak.,,bird,0.99996376,D
+bird9-keyboard1,A black bird is standing on a ledge.,,bird,0.9999244,D
+bird7-bottle1,A bird is standing in the middle of a large pile of bottles.,,bird,0.62370753,"D, F"
+bird7-bird2,A black and white bird is perched on a branch.,,bird,0.99985623,D
+bird1-clock3,A bird made of clocks is sitting on a clock.,,clock,0.8044664,D J M
+bird5-bear3,A bird is perched on a branch.,,bird,0.9999608,D
+bird1-airplane2,"A small bird is sitting on a surface, possibly a branch or a wall, with its head tucked under its wing. The bird appears to be resting or sleeping.",,bird,0.99972993,D
+bird1-knife3,The image is a blurry photo of a bird.,,bird,0.9996383,D
+bird10-clock1,"The image is a collage of various clocks with a bird in the center. The bird is made up of clock parts, and it appears to be the main focus of the collage. The clocks are of different sizes and shapes, with some being larger and more prominent than others. The bird is positioned in the middle of the scene, surrounded by the clocks, creating a unique and artistic composition.",,clock,0.8214778,"D, J"
+bird3-cat1,A bird with a long beak and brown feathers.,,bird,0.9999958,D
+bird8-elephant1,A bird is sitting on a branch.,,bird,0.9999838,D
+bird8-clock1,"The image is a collage of clock faces, with a mix of different clocks and numbers. The clocks are arranged in a way that creates a unique and visually interesting pattern. The clocks are of various sizes and orientations, with some placed horizontally, vertically, and even diagonally. The overall effect is a creative and artistic display of clocks and numbers.",,clock,1.0,J
+bird1-elephant2,A bird is sitting on a branch.,,bird,0.9999838,D
+bird3-dog1,"The image features a close-up of a brown and white bird, possibly an eagle, with its head turned to the side. The bird's feathers are fuzzy and textured, giving it a unique appearance. The background consists of a blurry, fuzzy area, which further emphasizes the bird's feathers and adds depth to the scene.",,bird,0.9964301,D
+bird10-bird2,A black bird with a long beak is standing in front of a blurry background.,,bird,0.9999764,D
+bird5-bird1,A blue bird is standing on one leg.,,bird,0.99995387,D
+bird8-knife2,A bird is sitting on top of a pile of money.,,bird,0.99980325,D
+bird5-oven3,The image is a blurry picture of a city street with buildings and a person.,,airplane,0.5008499,X
+bird2-dog2,A bird is perched on a tree branch.,,bird,0.99991405,D
+bird4-airplane1,"The image is a collage of various newspaper clippings, including a picture of a bird. The clippings are arranged in a way that creates a sense of depth and movement.",,bird,0.9717782,D
+bird9-bicycle3,A bird is perched on a branch.,,bird,0.9999608,D
+bird8-keyboard2,A blurry keyboard with a hand on it.,,keyboard,1.0,M
+bird3-bottle2,A blurry image of a bunch of bottles and toothbrushes.,,bottle,0.9999908,F
+bird9-elephant2,A bird is standing on a branch.,,bird,0.9999901,D
+bird4-clock1,"The image is a collage of clocks, with a bird made out of clock faces. The bird is surrounded by clocks in various sizes and positions, creating a unique and artistic composition.",,clock,0.90004706,D
+bird6-oven1,A blurry image of a bird with a black wing.,,bird,0.9822135,D
+bird8-car2,A blurry image of a red car.,,car,0.9993845,G
+bird8-boat3,A colorful bird is sitting on a piece of machinery.,,bird,0.9997124,D
+bird4-bicycle2,The image is a blurry picture of a bicycle.,,bicycle,0.9999999,C
+bird1-truck1,"The image is a blurry picture of a red object, possibly a heart or a piece of art. The object is surrounded by a red background, and the image has a distorted or blurry appearance.",,bottle,0.61046624,X
+bird10-bear2,A bird with a long beak is standing in front of a blurry background.,,bird,0.9999893,D
+bird9-bear3,A black bird is perched on a branch.,,bird,0.9997286,D
+bird5-dog2,"A small bird is perched on a branch, looking to the right. The bird is brown and white, and it appears to be a songbird.",,bird,0.9999846,D
+bird5-cat2,A bird is perched on a branch.,,bird,0.9999608,D
+bird6-airplane2,"The image is a painting of a bird in flight, with its wings spread wide. The bird is the main focus of the painting, and it is set against a backdrop of a blue sky. The bird's wings are painted with a combination of blue and yellow colors, creating a vibrant and dynamic scene.",,airplane,0.5050273,D
+bird9-dog2,A bird is perched on a branch.,,bird,0.9999608,D
+bird5-chair1,The image is a blurry picture of a theater with many red seats.,,airplane,0.6741656,X
+bird1-chair2,The image is a blurry photo of a room filled with wooden chairs.,,chair,0.9999864,I
+airplane2-bear1,"The image is a close-up of a brown furry animal, possibly a dog, with its mouth open. The fur is blurry, giving the impression of a fuzzy texture.",,dog,0.9759538,"H, K"
+airplane5-oven3,"The image is a collage of various appliances, including microwaves, ovens, and other electronic devices. The appliances are arranged in a jumbled manner, creating a visually interesting and somewhat chaotic composition. The collage is predominantly grayscale, with some areas featuring color, adding depth and contrast to the overall design.",,oven,0.99991834,X
+airplane2-bicycle1,"The image is a collage of various objects, including a motorcycle, a bicycle, and a car. The motorcycle is in the center of the picture, surrounded by other vehicles and objects. The collage is colorful and visually interesting, with a mix of different shapes and sizes.",,bicycle,0.9256153,"G, C"
+airplane10-car3,"A red airplane is sitting on the ground, surrounded by a colorful and blurry background. The airplane is in the center of the image, with its wings spread out. The background features a mix of colors, including red, green, and blue, creating a vibrant and dynamic scene.",,airplane,1.0,A
+airplane2-bird3,The image is a blurry picture of a bird.,,bird,0.9996276,D
+airplane4-bear3,The image is a blurry picture of a cat.,,cat,0.99999404,H
+airplane9-oven2,A blurry image of a plane.,,airplane,1.0,A
+airplane9-clock1,"The image is a collage of clocks with various shapes and sizes. They are arranged in a visually appealing manner, creating a unique and interesting composition. The clocks are placed on top of each other, with some overlapping and others standing out. The clocks are of different colors and designs, adding to the overall aesthetic of the collage.",,clock,0.9999999,J
+airplane6-knife1,A close up of a pair of scissors with a blurry background.,,knife,0.9993849,X
+airplane1-clock1,"The image is a collage of clocks in various shapes and sizes, arranged in a visually appealing manner. The clocks are scattered throughout the image, with some placed closer to the foreground and others further in the background. The clocks are of different styles and types, creating a diverse and interesting composition.",,clock,0.9999999,J
+airplane3-car1,"The image is a colorful collage of various vehicles, including cars, airplanes, and boats. The vehicles are arranged in a visually appealing manner, with some overlapping and others placed next to each other. The colors are vibrant, and the overall composition is dynamic and eye-catching.",,airplane,0.6225482,"A, G, E"
+airplane9-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+airplane10-elephant1,"The image shows a plane flying in the sky, as seen from the bottom of the plane. The plane is flying over a rocky surface, and the sky is cloudy.",,airplane,1.0,A
+airplane4-cat3,A cat is laying down in the image.,,cat,0.99999917,H
+airplane5-boat3,A colorful painting of a plane with a blue wing.,,airplane,1.0,A
+airplane3-dog1,"The image is a close-up of a brown and yellow furry surface, possibly a dog's fur. The fur appears to be fuzzy and textured, with a few darker spots scattered throughout.",,dog,0.998359,K
+airplane9-knife3,"The image is a blurry picture of a group of people, with some of them holding cell phones. The people are standing in front of a wall, and their positions are scattered throughout the scene.",,airplane,0.9937218,X
+airplane5-bird2,A fighter jet is flying through the sky.,,airplane,1.0,A
+airplane5-dog3,"The image is a close-up of a dog's fur, which appears to be brown and white. The fur is very fluffy and has a distinctive texture. The dog's fur is spread out, covering most of the image.",,dog,0.9993006,H
+airplane5-chair3,A bunch of blue chairs are stacked on top of each other.,,chair,0.9999981,I
+airplane6-bear3,A blurry image of a bird in a tree.,,bird,0.9996922,D
+airplane4-elephant1,"The image is a close-up of a rocky surface with a lot of cracks and crevices. The rock appears to be a piece of stone or concrete, possibly a wall or a piece of a building. The surface is rough and textured, with a lot of detail in the cracks and crevices.",,airplane,0.938652,X
+airplane1-elephant1,"The image features a close-up of a plane wing, with the wing's skin appearing to be cracked and weathered. The wing is the main focus of the image, and it appears to be made of leather.",,airplane,0.9999976,X
+airplane8-truck3,The image is a blurry picture of a room with a bunch of chairs.,,chair,0.9999924,I
+airplane10-knife3,A blurry image of a pair of scissors.,,knife,0.9996561,X
+airplane4-airplane1,A plane is flying through a cloudy sky.,,airplane,1.0,A
+airplane8-clock2,"The image is a blurry picture of a clock and a keyboard. The clock is in the middle of the image, while the keyboard is on the right side. The clock has a white face with black numbers, and the keyboard is surrounded by a blurry background.",,clock,0.9768729,"J, M"
+airplane10-truck1,"A red object is in the foreground, with a blurry background.",,airplane,0.92495954,X
+airplane4-bottle1,"A collage of various bottles and cans of alcohol, including beer and soda.",,bottle,0.9999999,F
+airplane9-truck1,A red airplane with a propeller on the front.,,airplane,1.0,A
+airplane7-clock3,The image is a collage of clocks and musical notes.,,clock,1.0,J
+airplane7-airplane3,A large airplane is flying through the sky.,,airplane,1.0,A
+airplane8-bird1,A blue and gray plane is flying through a cloudy sky.,,airplane,1.0,A
+airplane10-oven2,The image is a black and white photo of a plane.,,airplane,1.0,A
+airplane5-knife1,"The image is a close-up of a person's hand holding a bottle of wine. The bottle is positioned in the center of the image, and the hand is visible on the left side. The background is blurry, making the focus of the image the bottle and the hand.",,bottle,0.9999988,F
+airplane8-bicycle3,"The image is a collage of various objects, including a plane, a bicycle, and a chain. The plane is in the middle of the collage, while the bicycle is on the left side and the chain is on the right side. The objects are arranged in a way that creates a visually interesting and abstract composition.",,airplane,0.92179245,"A, C"
+airplane4-bicycle2,"The image is a blurry picture of a cityscape, with a mix of buildings and vehicles. The buildings are scattered throughout the scene, with some appearing closer to the foreground and others further in the background. There are also several cars and a bus visible in the image, with one car being particularly prominent in the middle of the scene. The overall effect of the blurry photo gives the impression of a busy, bustling city environment.",,car,0.9049187,"G, P"
+airplane6-chair3,The image is a blurry picture of a room with many blue chairs.,,chair,0.9998535,I
+airplane5-bear2,"A bird is laying on a white surface, possibly a blanket or a white sheet. The bird appears to be sleeping or resting, with its head tucked under its wing. The bird's body is covered in white feathers, which blend in with the white surface it is resting on.",,bird,0.9999131,D
+airplane4-truck2,The image is a blurry picture of a red car.,,car,0.9996971,G
+airplane7-car1,"A colorful collage of cars, including a yellow car, a red car, and a blue car.",,car,0.99982053,G
+airplane7-bird3,A bird is flying in the sky.,,bird,0.99096537,D
+airplane1-bicycle2,The image is a blurry picture of a plane flying through the sky.,,airplane,1.0,A
+airplane4-dog2,The image is a close-up of a brown teddy bear.,,bear,0.9995757,B
+airplane10-airplane1,"A large airplane is flying through the sky, with its wings spread out. The plane is white and red, and it appears to be a commercial jet.",,airplane,1.0,A
+airplane8-oven2,A black and white photo of a metal object with a reflection of a person in the background.,,airplane,0.6614482,X
+airplane10-cat2,"A blurry image of a brown animal, possibly a dog or a cat, is seen in the foreground. The animal is laying down on a sandy surface, and its body is partially obscured by the blurred background.",,dog,0.75299966,"H, K"
+airplane8-elephant3,"The image features a close-up of a rock with a pattern of lines and grooves. The rock appears to be a type of stone or a piece of a fossilized animal, such as an elephant's skin. The lines and grooves are visible all over the rock, creating a unique and intricate texture.",,elephant,0.99970335,X
+airplane5-bottle3,"The image is a collage of various bottles, including green and clear ones, arranged to create the appearance of a fighter jet. The bottles are scattered throughout the scene, with some positioned in the foreground and others in the background. The arrangement of the bottles gives the impression of a jet soaring through the sky, creating a unique and artistic display.",,bottle,0.7646696,X
+airplane4-car1,A colorful painting of a plane and cars.,,airplane,0.99995947,"A, G"
+airplane7-boat2,"The image is a colorful, abstract painting of a large airplane. The airplane is the main focus of the painting, with its wings and tail visible. The background is filled with various colors and shapes, adding to the abstract nature of the painting.",,airplane,1.0,A
+airplane6-keyboard3,A black bird is flying in the sky.,,bird,0.7640213,D
+airplane3-elephant1,A close up of a cracked surface with a hole in it.,,airplane,0.91265655,X
+airplane7-truck1,"A red airplane with the word ""Viper"" on it.",,airplane,0.9999999,A
+airplane6-bottle2,"The image is a close up of a bunch of bottles, possibly containing nail polish. The bottles are arranged in a somewhat disorganized manner, with some bottles overlapping each other. The bottles are of various sizes and shapes, and they are all placed in a single area.",,bottle,0.99999964,F
+airplane9-keyboard2,"A close up of a keyboard with the letters E, S, and D visible.",,keyboard,1.0,M
+airplane10-dog3,The image is a blurry picture of a dog.,,dog,0.9999137,H
+airplane2-bottle1,"A large assortment of bottles, including wine and beer, are displayed in a room. The bottles are arranged in various positions and sizes, creating a visually interesting scene.",,bottle,1.0,F
+airplane4-boat3,A colorful painting of a plane flying in the sky.,,airplane,1.0,A
+airplane7-bottle3,"The image is a collage of various bottles, including Monarch, arranged in a visually appealing manner. The bottles are of different shapes and sizes, and they are placed in a way that creates a sense of depth and dimension. The collage is colorful and eye-catching, showcasing the unique designs and shapes of the bottles.",,bottle,0.9999974,F
+airplane3-keyboard2,A close up of a black object with a white dot on it.,,airplane,0.99211884,X
+airplane9-boat1,"The image is a colorful collage of various objects, including a plane, a boat, and a car. The plane is prominently displayed in the middle of the scene, while the boat and car are situated on the left side. The collage is composed of different colors and patterns, creating a visually striking and abstract artwork.",,airplane,0.9653216,A G E
+airplane9-airplane2,"The image is a colorful painting of a plane, possibly a jet, flying through the sky. The plane is blue and yellow, with a yellow wing and a blue body. The sky is a mix of blue and yellow colors, creating a vibrant and lively atmosphere. The plane appears to be flying in front of a cloudy sky, adding depth and dimension to the painting.",,airplane,1.0,A
+airplane4-knife1,The image is a close-up of a gun with a blue handle. The gun is made of metal and has a brown handle. The gun is positioned in the center of the image.,,airplane,0.917924,X
+airplane7-keyboard1,A close up of a metal object with a blurry background.,,airplane,0.96589637,X
+airplane3-clock1,"The image is a collage of clocks and numbers, with a plane made out of clocks as the main focal point. The plane is surrounded by various clocks and numbers, creating a visually interesting and unique composition.",,airplane,0.923594,A
+airplane3-cat1,"A brown and white animal, possibly a cat, is laying down in a fuzzy, blurry setting. The animal appears to be sleeping or resting, with its body stretched out and relaxed. The background is a mix of blue and white, creating a soft and cozy atmosphere.",,cat,0.9884621,H
+airplane5-bicycle1,"A jumbled image of a plane with many parts, including a nose and a wing.",,airplane,1.0,A
+airplane3-airplane2,A blurry image of a plane in the sky.,,airplane,1.0,A
+airplane2-dog1,"The image is a close-up of a furry surface, possibly a dog's belly, with a hole in the middle. The fur is brown and white in color, and the texture is quite fuzzy.",,dog,0.9805593,X
+airplane7-cat3,A blurry image of a bird.,,bird,0.9996978,D
+airplane3-chair3,A blurry image of a room with blue chairs.,,chair,0.9997954,I
+airplane4-bird3,A bird is flying in the sky.,,bird,0.99096537,D
+airplane1-chair2,"A large group of wooden chairs are stacked on top of each other, creating a visually interesting arrangement. The chairs are of various sizes and are placed in different orientations, creating a sense of depth and complexity in the scene. The chairs are piled up in a way that makes it difficult to discern individual chairs, giving the impression of a large, interconnected structure.",,chair,0.99999595,I
+airplane3-oven1,A blurry image of a plane flying through the sky.,,airplane,1.0,A
+airplane4-keyboard3,A black object with a cord attached to it.,,airplane,0.97386134,J
+airplane10-boat3,A colorful airplane is flying in the sky.,,airplane,1.0,A
+airplane8-chair1,The image is a blurry picture of a row of red seats.,,airplane,0.53182465,X
+airplane2-cat1,A cat is laying on a bed with a white sheet.,,cat,0.999998,H
+airplane10-bear3,"The image is a close-up of a brown and black animal, possibly a dog, with its fur blurred out. The animal appears to be looking at the camera, and its fur is described as being shaggy and brown.",,dog,0.9852197,K
+clock7-boat3,A clock with a green face and red numbers.,,clock,1.0,J
+clock8-truck2,The image is a close-up of a clock with a red face and a red strap. The clock is showing the time as 10:00.,,clock,1.0,J
+clock6-clock2,A clock with a metal face and a white background.,,clock,1.0,J
+clock7-car1,A clock with a colorful face.,,clock,1.0,J
+clock10-oven2,A black and white image of a machine with a blue handle.,,airplane,0.9306514,X
+clock10-airplane1,A clock with a bird on it.,,clock,0.9984206,"J, D"
+clock4-chair1,"The image is a distorted picture of a clock, with the clock's face and hands appearing to be made of chairs. The clock's face is made up of multiple chairs, while the hands are also composed of chairs. The chairs are arranged in a way that resembles the clock's face and hands, giving the impression of a clock made of chairs.",,clock,0.9873769,"J, I"
+clock8-oven3,"The image is a close-up of a clock with a digital display. The clock is surrounded by various electronic components, including a computer circuit board and a speaker. The clock's face is partially obscured by the electronic parts, making it difficult to see the time.",,clock,1.0,J
+clock2-knife1,A clock with a brown face and a white background. The clock hands are black and white.,,clock,1.0,J
+clock1-clock2,"The image is a close-up of a clock with a blurry background. The clock has a white face and is surrounded by other clocks, creating a collage-like effect. The clocks are of various sizes and are positioned in different angles, giving the impression of a clock tower.",,clock,0.9999999,J
+clock8-bear2,A clock with a chain around it.,,clock,1.0,J
+clock9-keyboard2,A close up of a keyboard.,,keyboard,1.0,M
+clock4-elephant2,"The image is a close-up of a clock face, which is made of wood. The clock has Roman numerals and is showing the time as 12:55.",,clock,1.0,J
+clock10-cat1,A clock shaped like Mickey Mouse is shown in a blurry photo.,,clock,0.99999964,J
+clock6-chair3,A blue circle made of many chairs.,,chair,0.9999987,I
+clock7-bicycle1,A clock with a blue background and a silver rim.,,clock,1.0,J
+clock9-airplane1,A clock with a white face and black hands.,,clock,1.0,J
+clock5-bicycle1,A clock with a colorful background.,,clock,1.0,J
+clock3-cat1,A clock with a brown face and white numbers.,,clock,1.0,J
+clock10-bottle1,"A collage of many bottles and cans, including a few with the number 6 on them.",,bottle,0.99999964,F
+clock2-clock3,A clock with a lot of numbers on it.,,clock,1.0,J
+clock7-cat2,A clock with a blurry face.,,clock,1.0,J
+clock3-keyboard3,"A close up of a watch face with the numbers 3, 6, and 9 visible.",,clock,0.9997222,J
+clock10-boat2,A clock made out of a car engine.,,clock,0.9994362,"J, G"
+clock7-bear2,A clock with a blurry face.,,clock,1.0,J
+clock8-cat1,A clock with a brown face and white numbers.,,clock,1.0,J
+clock9-bird2,A close up of a clock face with the hands at 11 and 12.,,clock,1.0,J
+clock10-knife3,A black and white image of a gear with a handle.,,knife,0.6119039,X
+clock4-bottle3,A clock with a green face and black numbers is shown. The clock has a green frame and is surrounded by a variety of papers and numbers.,,clock,1.0,J
+clock9-chair3,A group of blue chairs are arranged in a circle.,,chair,0.99999964,I
+clock8-boat1,"A clock with a colorful face, showing the time as 12:23.",,clock,1.0,J
+clock2-bottle3,"A clock with a green face and a green background. The clock is covered in green and white designs, and it has a green border. The hands of the clock are also green.",,clock,1.0,J
+clock4-knife1,A clock with a brown face and black hands.,,clock,1.0,J
+clock1-bear1,"The image is a close-up of a brown animal, possibly a dog, with its fur blurred out. The fur appears to be fuzzy and has a slightly distorted look. The animal is sitting in front of a background that is also blurred out.",,dog,0.92769295,X
+clock8-keyboard1,A clock face with a black background and white numbers.,,clock,1.0,J
+clock2-elephant2,A clock with a brown face and black numbers.,,clock,1.0,J
+clock8-airplane2,A blue and yellow clock with a blue face and yellow hands.,,clock,1.0,J
+clock6-oven1,A close up of a white object with a black and silver center.,,airplane,0.9739863,X
+clock2-bicycle1,A clock with a colorful and abstract design.,,clock,1.0,J
+clock10-truck2,The image is a blurry picture of a red and silver object.,,airplane,0.8536632,X
+clock4-oven1,A watch face with a blurry background.,,clock,0.9987876,X
+clock6-bird3,A clock with a black face and white numbers.,,clock,1.0,J
+clock7-bottle2,A clock made out of empty bottles.,,clock,0.97928953,"J, F"
+clock10-dog3,A dog's face is seen through a glass circle.,,dog,0.99996173,K
+clock4-car2,A clock face with a car on it.,,clock,0.99450785,"J, G"
+clock10-clock3,A clock with a bird on it.,,clock,0.9984206,"J, D"
+clock3-car2,A clock with a car in the background.,,clock,0.99914956,"J, G"
+clock3-bird1,A clock with a blue background.,,clock,1.0,J
+clock3-dog2,A clock with a furry texture.,,clock,1.0,J
+clock2-dog1,A clock with a yellow background and black numbers.,,clock,1.0,J
+clock7-dog2,A clock with a fuzzy face and black hands.,,clock,1.0,J
+clock6-truck3,A yellow and blue circle with a hole in the center.,,airplane,0.640354,X
+clock3-bicycle2,A clock face with a silver background and black numbers.,,clock,1.0,J
+clock4-boat3,A clock with a green face and a blue background.,,clock,1.0,J
+clock6-knife2,"A clock made of various items such as scissors, a book, and a pen.",,clock,0.99999905,J
+clock4-airplane1,A clock with a white face and black numbers.,,clock,1.0,J
+clock7-truck3,A clock with a yellow face and black hands.,,clock,1.0,J
+clock3-elephant3,"The image is a close-up of a clock face, showing the time as 11:50. The clock is brown and has a leather texture.",,clock,1.0,J
+clock1-truck3,"The image is a blurry picture of a room with a chair and a couch. The chair is located on the left side of the room, and the couch is on the right side. The room appears to be colorful and has a bright atmosphere.",,chair,0.9999331,"I, G"
+clock4-bird3,A clock with a wooden frame and a glass face. The clock has Roman numerals and is showing the time of 10:10.,,clock,1.0,J
+clock1-dog2,A clock with roman numerals is on a piece of fur.,,clock,0.9999993,J
+clock8-knife1,A clock with a brown face and white numbers.,,clock,1.0,J
+clock5-elephant2,A clock with Roman numerals is displayed on a brown background.,,clock,1.0,J
+clock3-bear3,A clock face is seen through a round hole in a wall.,,clock,1.0,J
+clock6-car2,A clock made of car parts.,,clock,0.9998678,J
+clock10-bird3,A clock with a cat face on it.,,clock,0.9997594,"J, H"
+clock1-car1,A colorful painting of cars.,,car,0.99991775,G
+clock5-airplane1,A clock with a blurry face.,,clock,1.0,J
+clock7-keyboard2,A close up of a clock face with the hands at 12 and 4.,,clock,1.0,J
+clock9-cat1,The image is a close-up of a clock face with a brown background. The clock has a white face with black numbers and hands. The clock is positioned in the center of the image.,,clock,1.0,J
+clock8-chair2,"A large clock with a wooden face and a brown frame. The clock has a large number 12 and 11 on the top, and the numbers 1 through 12 are arranged around the clock face. The clock is made up of many smaller clocks, each with their own set of numbers. The clock is sitting on a table, and the numbers are in a blurry state.",,clock,1.0,J
+clock5-oven1,A clock with a white face and black hands.,,clock,1.0,J
+clock1-elephant2,"The image features a brown, textured surface with a large, curved design on it. The design resembles a tree branch, and it is the main focal point of the image. The brown surface is made up of a series of lines and curves, creating a visually interesting pattern. The overall appearance of the image is that of a close-up view of a tree branch, with the branch's texture and details being the primary subject.",,airplane,0.9371667,X
+clock1-boat3,A colorful image of a clock with a red and green background.,,clock,1.0,J
+clock5-chair3,"The image is a close-up of a clock with a blue background. The clock has a unique design, with a blue circle in the middle and a blue square around it. The clock is surrounded by a blue and white pattern, giving it a colorful and artistic appearance.",,clock,1.0,J
+clock5-keyboard1,A clock face with the hands missing.,,clock,0.9999999,J
+clock2-bear2,A clock with a white face and black numbers.,,clock,1.0,J
+clock6-bicycle1,A clock with a lot of gears and cogs.,,clock,1.0,J
+clock5-clock2,A clock with a gold rim and a black face. The hands are black and white. The clock is showing the time as 12:45.,,clock,1.0,J
+clock6-bottle1,A clock made of various bottles and cans.,,clock,0.99840313,"J, F"
+dog5-bear3,A brown dog with a shaggy coat.,,dog,0.9999646,K
+dog1-knife3,A blurry image of a dog with a cell phone in its mouth.,,dog,0.99996924,K
+dog2-bicycle2,"The image is a close-up of a dog's face, with a blurry background. The dog's face is surrounded by various objects, including a bicycle, a fork, a spoon, and a knife. The objects are scattered around the dog's face, creating a unique and interesting composition.",,dog,0.9950287,C
+dog9-bottle1,A dog made of many bottles and cans.,,bottle,0.9529177,X
+dog7-chair2,A large group of wooden chairs are stacked on top of each other.,,chair,0.99999976,I
+dog2-bottle2,"The image is a close-up of a large collection of various bottles and containers, possibly containing different types of liquids or substances. The bottles are arranged in a somewhat disorganized manner, with some overlapping and others standing upright. The scene appears to be blurry, giving the impression of a busy and cluttered environment.",,bottle,0.99999917,F
+dog3-boat1,A person's face is blurred out in a colorful painting.,,airplane,0.8972727,X
+dog2-dog3,A white dog with brown ears.,,dog,0.9997551,K
+dog10-car3,"A dog is sitting on top of a car, which is surrounded by other cars. The dog is the main focus of the image, and it appears to be a large dog. The car beneath the dog is red, and the scene is colorful and artistic.",,dog,0.5356751,G
+dog3-dog1,A brown dog is laying on its side with its head turned to the right.,,dog,0.99989843,K
+dog3-keyboard1,A black dog is sitting on the ground.,,dog,0.9999167,K
+dog3-clock1,"The image is a collage of various clocks and numbers, with a large clock face in the center. The clocks are of different sizes and styles, and they are scattered throughout the image. The overall composition is a mix of clocks and numbers, creating a visually interesting and unique piece of art.",,clock,1.0,X
+dog10-oven2,A black dog statue is sitting on a table.,,dog,0.99935085,X
+dog4-truck2,A red and black image of a hand giving a fist.,,airplane,0.44050133,X
+dog3-elephant2,The image is a close up of a woman with long hair.,,airplane,0.9139592,X
+dog10-truck2,A red car is parked in front of a building.,,car,0.99941945,G
+dog7-oven2,A black and white image of a person with a head and a body.,,airplane,0.9012365,X
+dog10-airplane1,"The image is a collage of a dog, with various parts of the dog's body scattered throughout the scene. The dog appears to be sitting or laying down, and the image is composed of multiple images of the dog, creating a unique visual effect.",,dog,0.99931884,H
+dog6-bicycle1,"The image is a collage of various objects, including a rose, a bicycle, and a clock. The rose is the central focus, surrounded by the other objects. The bicycle is located on the left side of the image, while the clock is positioned towards the right. The collage is composed of many different shapes and sizes, creating a visually interesting and intricate design.",,clock,0.72634184,"B, C, J"
+dog5-truck2,A red and silver image of a person with a red hat.,,chair,0.4134917,X
+dog6-cat1,A brown and white dog is sitting on a white surface.,,dog,0.9999821,K
+dog4-bottle2,"A blurry image of a bunch of bottles, some of which are empty.",,bottle,1.0,F
+dog10-clock1,A dog is sitting in front of a wall covered in clocks.,,clock,0.99935967,K
+dog9-cat1,A brown dog is sitting on the ground with its head turned to the side. The dog appears to be looking at something in the distance.,,dog,0.9998982,K
+dog6-clock1,"A dog made of clocks is the main focus of the image. The dog is positioned in the center and surrounded by various clocks of different sizes. The clocks are scattered throughout the image, with some placed above the dog and others below it. The unique design of the dog made of clocks creates an interesting and eye-catching visual effect.",,clock,0.9914042,X
+dog9-chair2,A blurry picture of a chair with a wooden back.,,chair,0.9999989,I
+dog7-bird3,A dog is sitting on the ground with its head turned to the side.,,dog,0.99985707,K
+dog10-bottle1,"A large pile of various bottles, including beer bottles, are stacked on top of each other. The bottles are arranged in a way that resembles a dog, with the neck of a bottle as the head and the body made up of the bottles' shapes.",,bottle,0.99999344,F
+dog8-bear3,A dog is standing in a field with its tail wagging.,,dog,0.9995473,K
+dog5-boat3,A blurry image of a person's face with a green background.,,airplane,0.6777857,X
+dog9-boat1,A dog is walking on a beach with a blue sky in the background.,,dog,0.99991536,X
+dog2-cat1,A brown and white dog with a brown nose.,,dog,0.99995744,K
+dog3-bird2,A black puppy dog is sitting on a couch.,,dog,0.99989307,"H, K"
+dog8-keyboard3,A blurry image of a camera.,,airplane,0.9749239,X
+dog10-dog1,A dog is sitting in front of a yellow background.,,dog,0.9997726,K
+dog6-truck2,"A blurry image of a red and black object, possibly a car, with a close-up view of the front.",,car,0.9925775,G
+dog4-chair1,The image is a blurry photo of a row of red seats in a theater.,,chair,0.5362657,X
+dog8-bottle2,A black dog is standing in front of a large pile of bottles.,,bottle,0.8245515,K
+dog1-bear1,A dog with a brown and white face is looking at the camera.,,dog,0.99997497,K
+dog8-chair3,A chair with an elephant on it.,,elephant,0.98988605,"I, L"
+dog5-car3,A blurry image of a dog in a car.,,car,0.9823501,"G, H"
+dog9-bicycle3,A dog is standing in a field of grass.,,dog,0.9999677,"H, K"
+dog6-elephant2,A dog's head is shown in a close up view.,,dog,0.9999305,K
+dog1-chair1,A blurry image of a theater with red seats.,,airplane,0.50106984,X
+dog4-oven1,A blurry image of a cat.,,cat,0.9999937,H
+dog9-car1,"The image is a colorful painting of a car show, featuring a variety of cars in different colors. The cars are arranged in a way that they seem to be moving towards the viewer, creating a sense of depth and motion. The painting captures the vibrant atmosphere of the car show and showcases the beauty of these vehicles.",,car,0.9988858,G
+dog1-dog2,A dog looking at the camera.,,dog,0.9999982,K
+dog10-bicycle1,A dog is sitting in front of a wall with a lot of metal pieces.,,dog,0.99967396,K
+dog4-cat3,A dog is looking to the left.,,dog,0.9999913,K
+dog3-bear3,A black dog with a brown face is sitting on a bed.,,dog,0.9990287,K
+dog3-truck2,"A blurry image of a red object, possibly a car, with a black and white background.",,car,0.96811646,G
+dog1-boat3,A colorful abstract art piece featuring a face with a green background and a red and blue background.,,airplane,0.35391504,X
+dog5-knife2,A blurry image of a person's head with a bunch of books in the background.,,bottle,0.86468023,X
+dog1-airplane3,A dog with a blue background.,,dog,0.99999607,K
+dog2-airplane2,A blurry image of a dog's face.,,dog,0.9999608,K
+dog5-elephant1,A dog with a smile on its face.,,dog,0.99999785,K
+dog4-elephant2,"The image features a close-up of a tiger's face, with its mouth open. The tiger's fur appears to be blurry, giving a sense of motion to the image.",,cat,0.44918168,X
+dog1-bird1,A dog with blue eyes.,,dog,0.999995,K
+dog7-keyboard3,"The image is a close-up of a keyboard with the numbers 2 and 3 visible. The keyboard is blurred, making it difficult to see the other keys.",,keyboard,0.99998045,M
+dog8-dog3,A dog with a long tail is standing in front of a statue.,,dog,0.990551,"H, K"
+dog10-keyboard2,"A close up of a keyboard with the letters P, O, I, U, Y, H, J, K, L, and M visible.",,keyboard,1.0,M
+dog4-keyboard2,A blurry image of a camera with the number 22 on it.,,airplane,0.9621568,X
+dog8-boat3,The image is a colorful painting of an elephant.,,elephant,1.0,L
+dog1-car2,A blurry image of a car with red and yellow colors.,,car,0.99916375,G
+dog4-airplane3,A blurry image of a dog with a camera around its neck.,,dog,0.99947315,K
+dog1-cat3,A dog's face with a black nose and brown fur.,,dog,0.9999685,K
+dog10-elephant1,"A dog is sitting on a surface, possibly a wall or a piece of leather.",,dog,0.9998548,H
+dog3-knife3,A black dog is sitting in front of a white background.,,dog,0.9997911,K
+dog7-knife3,A dog's head and neck are shown in a black and white image.,,dog,0.9998061,K
+dog8-clock2,A dog sitting on a clock.,,clock,0.99931145,K J
+dog6-bird1,A dog with a blue face and a black collar.,,dog,0.9999969,K
+dog5-oven1,A blurry image of a person's face.,,airplane,0.9315819,X
+dog4-bicycle1,"A collage of various objects, including scissors, knives, and other utensils, arranged in a visually appealing manner.",,knife,0.99999535,X
+dog8-oven3,"A dog made out of various objects, including a camera, is standing on a table.",,dog,0.9999677,X
+dog7-car2,A blurry image of a car with red and yellow colors.,,car,0.99916375,G
+dog9-bear3,A blurry image of a dog.,,dog,0.9999448,K
+dog2-knife3,A blurry image of a dog's face.,,dog,0.9999608,K
+dog4-bird1,A dog with a blue face and a black nose is looking down.,,dog,0.9999807,K
+dog9-airplane3,A dog is sitting on a chair.,,chair,0.99906534,"H, I"
+dog4-clock1,A dog is sitting in front of a wall covered in clocks.,,clock,0.99935967,K
+oven9-chair1,"The image is a blurry picture of a theater with red seats. The seats are arranged in rows, and there are several of them visible in the image. The focus of the picture is on the red seats, which are the main subject of the photo.",,chair,0.75283915,X
+oven3-airplane1,A blurry picture of a box with a picture of a woman on it.,,bottle,0.67924136,X
+oven7-cat1,A blurry image of a brown chair with a cat sitting on it.,,cat,0.5691164,"I, H"
+oven5-bicycle1,"The image is a close-up of a microwave, which appears to be broken or disassembled. The microwave is surrounded by various wires and parts, giving it a somewhat chaotic appearance. The microwave is situated in the center of the image, with the wires and parts extending outwards in different directions.",,airplane,0.8159726,X
+oven6-bird1,A blue turkey is laying on a chair.,,chair,0.9962191,X
+oven6-knife3,A blurry image of a metal object with a black background.,,airplane,0.9581239,X
+oven7-elephant1,"The image shows a close up of a stone wall with a pattern resembling a toilet seat. The wall is made of stone and has a unique texture, giving it a distinct look.",,chair,0.4912537,X
+oven10-cat2,A blurry image of an oven with food inside.,,oven,1.0,O
+oven2-dog3,"The image is a close-up of a dog's face, with its eyes and fur being the main focus. The dog's eyes are open, and the fur appears to be brown and white. The image is a bit blurry, giving it a slightly fuzzy appearance.",,dog,0.99985206,H
+oven5-bottle3,A green box with a green handle is sitting on top of a pile of money.,,bottle,0.6903031,X
+oven7-keyboard1,"The image shows a pile of black boxes stacked on top of each other. The boxes are made of metal and have a reflective surface, giving them a shiny appearance. The boxes are arranged in a way that they are partially overlapping each other, creating a visually interesting and organized display.",,clock,0.9136275,X
+oven9-clock2,A clock is inside a camera.,,clock,0.9999999,X
+oven7-bottle1,"The image is a collage of various bottles, including alcoholic beverages, arranged to create the shape of a chair. The bottles are of different sizes and are placed in a visually appealing manner, making the chair appear as if it is made of glass. The bottles are arranged in a way that they fill the entire frame of the image, creating a striking and unique visual effect.",,bottle,0.95863396,X
+oven3-boat3,"A person is sitting inside a green box, which appears to be a TV. The person is wearing a red shirt and is holding a remote control.",,chair,0.8145198,X
+oven10-airplane2,A blue and yellow image of a microwave.,,airplane,0.5718851,O
+oven9-boat2,A close up of a TV screen with a reflection of a person in it.,,airplane,0.5533815,X
+oven5-keyboard2,A black box with a white label on it.,,bottle,0.99545187,X
+oven9-bear2,A microwave with a blurry image of a cat inside.,,cat,0.99876595,X
+oven2-bicycle1,"The image is a close-up of a metal object, possibly a piece of machinery, with a lot of metal parts and wires. The object is covered in a lot of small, intricate details, making it appear as a complex piece of equipment.",,airplane,0.98188263,X
+oven8-cat3,"The image is a close-up of a metal object, possibly a piece of a metal box, with a blurry background. The object has a pattern of holes or dots, giving it a textured appearance.",,airplane,0.95477206,X
+oven3-knife1,"A pair of leather gloves are inside a box, which is placed on a table.",,knife,0.8956898,X
+oven6-airplane3,A turkey is being cooked in an oven.,,oven,1.0,O
+oven4-truck3,"The image features a control panel with a yellow object in the center. The panel is surrounded by a blue frame, and there is a window in the background. The yellow object appears to be a control knob, and it is positioned in the middle of the panel. The panel is situated in a room with a chair nearby.",,chair,0.9417736,X
+oven10-boat2,"A microwave oven with a colorful, abstract design.",,oven,0.9999912,O
+oven1-cat1,A blurry image of a cat.,,cat,0.9999937,H
+oven8-keyboard3,A black object is sitting on top of a white surface.,,airplane,0.95137995,X
+oven4-elephant3,A stone carving of a person sitting on a bench.,,chair,0.94589996,X
+oven7-clock2,A pile of clocks and other metal items.,,clock,1.0,J
+oven2-oven3,"The image shows a row of four microwaves, all of which are open. The microwaves are positioned next to each other, with each one slightly overlapping the one in front of it. The microwaves are all the same size and design, and they are all empty, with no food or objects inside.",,oven,0.77595603,X
+oven4-bottle2,The image is a blurry picture of a bunch of bottles.,,bottle,1.0,F
+oven3-car2,The image is a blurry picture of a car with a red and yellow color scheme.,,car,0.9990785,G
+oven3-elephant3,Two hearts are carved into a piece of wood.,,knife,0.4305015,X
+oven2-chair1,"The image is a close-up of a theater with many red seats. The seats are arranged in rows, and some of them are empty. The rows of seats are stacked on top of each other, creating a visually interesting scene. The seats are arranged in a way that fills the entire image, giving a sense of depth and perspective.",,chair,0.86616313,X
+oven1-boat3,"The image is a colorful painting of a machine with a blue background. The machine has a red and green color scheme, and it appears to be a piece of artwork. The machine is surrounded by a variety of tools, including a knife, a spoon, and a fork. The overall scene is vibrant and visually appealing.",,knife,0.9107583,X
+oven10-bicycle1,The image is a close-up of a car engine with various parts and gears.,,car,0.99643636,G
+oven7-car3,"The image is a collage of various vehicles, including cars and buses, arranged in a visually appealing manner. The vehicles are displayed in different colors and positions, creating a vibrant and dynamic composition. The collage showcases a diverse range of vehicles, from small cars to larger buses, creating a sense of depth and variety.",,car,0.92825323,"G, P"
+oven5-elephant1,A close up of a rock with a hole in it.,,bottle,0.7669802,X
+oven9-keyboard1,A close up of a camera lens with a reflection of a person.,,airplane,0.708511,X
+oven4-chair1,"The image is a blurry picture of a row of red seats, possibly in a movie theater or a similar venue. The seats are arranged in a way that they are facing each other, creating a sense of depth in the scene. The seats are placed close to one another, and the overall composition of the image is quite abstract.",,chair,0.74623525,X
+oven6-bear2,A turkey is sitting inside a box.,,bird,0.6397483,X
+oven3-bottle3,"A collage of various bottles and cans, including a green bottle, is arranged in a square. The bottles and cans are placed in different orientations, creating a visually interesting pattern.",,bottle,0.99999857,F
+oven4-bicycle2,"A car is shown in a blurry photo, with its interior and exterior visible. The car has a chrome finish, and the interior is filled with various objects, including a chair and a cup. The image is somewhat distorted, making it difficult to discern specific details.",,car,0.9977139,"G, I"
+oven1-clock3,"The image is a close-up of a clock with various clock faces and numbers. The clock is surrounded by other clocks, creating a unique and intriguing display.",,clock,1.0,J
+oven7-oven1,A stack of three stainless steel ovens.,,oven,1.0,O
+oven2-car1,A blurry image of a car show with multiple cars in the background.,,car,0.9996049,G
+oven2-bottle1,"The image is a collage of various bottles, including liquor and soda bottles, arranged in a visually appealing manner. The bottles are displayed in a refrigerator-like setting, with some bottles placed on the top, middle, and bottom shelves. The bottles are of different shapes, sizes, and colors, creating a diverse and interesting composition.",,bottle,1.0,F
+oven9-car2,A toaster oven with a red object inside.,,oven,1.0,O
+oven4-keyboard3,A black camera with a keypad on top.,,keyboard,0.99050844,X
+oven6-chair3,The image is a blurry picture of a chair.,,chair,0.99999964,I
+oven2-bear3,"The image features a close-up of a furry object, possibly a stuffed animal or a piece of fur, with a hole in the center. The fur is brown and appears to be fuzzy. The object is placed on a surface, and the hole in the center is surrounded by the fur.",,bear,0.5944327,X
+oven3-clock3,"The image is a collage of various clocks, including analog and digital clocks, arranged in a visually appealing manner. The clocks are of different sizes and shapes, creating an interesting and unique composition. The clocks are placed in a way that they appear to be floating or hovering in the air, giving the impression of a 3D effect. The overall scene is a creative and artistic representation of time.",,clock,0.999997,J
+oven4-dog1,A blurry image of a chair.,,chair,0.99999976,I
+oven3-bear2,A blurry image of two cats.,,cat,0.99999726,H
+oven9-airplane2,A blue and yellow object with a reflection of a yellow apple.,,airplane,0.962288,X
+oven9-oven1,A black and white photo of a toaster oven.,,oven,0.9999999,O
+oven6-truck1,A red object is sitting on top of a black object.,,airplane,0.86015433,X
+oven9-bird3,A brown image of a turkey in a box.,,elephant,0.337082,X
+oven10-truck2,"The image is a close-up of a red car, possibly a toy or a model, with a red interior. The car has a red toaster oven in the front, which is a unique and interesting feature. The car is parked, and the toaster oven is clearly visible, adding a quirky touch to the scene.",,oven,0.847212,G
+oven10-oven3,A microwave oven with a toaster oven built into the bottom.,,oven,1.0,O
+oven3-truck1,A red object with a black background.,,airplane,0.96839297,X
+oven6-oven3,A machine with a screen showing a face.,,airplane,0.82714015,X
+oven3-cat2,The image is a blurry picture of a heart-shaped object.,,airplane,0.7079245,X
+oven9-knife3,A blurry image of a knife set with a wooden handle.,,knife,1.0,N
+oven7-dog2,"A brown drawer is open and empty, with a brown handle. Above the drawer, there is a brown cabinet with a handle. Above the cabinet, there is a brown furry object.",,bottle,0.63360935,X
+oven1-bird3,"The image is a painting of a room with a window, a bench, and a mirror. The painting is brown and white, giving it an old and worn appearance. The bench is located in the center of the room, and the mirror is positioned above it. The window is situated on the left side of the room, allowing natural light to enter. The painting captures the essence of a cozy and inviting space.",,clock,0.787949,X
+oven4-knife2,A pile of pots and pans on top of a stove.,,oven,0.9989994,X
+oven4-clock2,"The image is a painting of a microwave oven with a keyboard on top of it. The microwave is sitting on top of a stove, which is also part of the painting. The painting is abstract and has a colorful appearance.",,oven,0.9985709,"O, M"
+oven8-knife2,A collection of knives and scissors in a container.,,knife,0.99999666,N
+oven5-dog3,A brown object with a knob on top of it.,,airplane,0.42681772,J
+oven2-boat3,A colorful image of a microwave with a green background.,,oven,0.85639286,X
+oven5-airplane1,A blurry image of a microwave with a clock on the front.,,clock,0.9998971,"J, O"
+oven2-bird2,"The image features two square objects, each with a silver metal surface and a plastic wrap covering them. The plastic wrap is shiny and reflective, giving the objects a metallic appearance. The objects are placed next to each other, with one slightly overlapping the other.",,airplane,0.68221664,X
+oven10-bear1,A close up of a microwave oven.,,oven,0.9999963,O
+oven1-dog3,The image is a blurry picture of a dog.,,dog,0.9999137,H
+oven6-elephant2,A brown and tan image of a crab.,,bear,0.53434014,X
+oven4-car1,A blurry image of a toaster oven with a red and yellow toaster inside.,,oven,0.99999976,O
+oven6-bicycle1,"The image is a close-up of a diamond with a lot of facets. The diamond is surrounded by a colorful background, possibly made of metal.",,airplane,0.46615478,X
+oven2-truck3,"The image is a colorful collage of various items, including a cassette tape, a camera, and a book. The cassette tape is positioned in the upper left corner, while the camera is located in the middle of the image. The book is situated in the lower right corner. The collage is a mix of different colors and patterns, creating a visually appealing and artistic composition.",,airplane,0.87946445,X
+oven8-chair1,"The image is a collage of various chairs, including red and black ones, arranged in rows. The chairs are placed in different orientations, creating a visually interesting composition. The arrangement of the chairs suggests that they are meant for an audience or a gathering.",,chair,0.9999988,I
+oven5-bird1,A microwave oven with a blue interior.,,oven,0.9999919,O
+elephant8-airplane3,"The image is a blurry photo of a statue of a person's head. The statue is made of stone and has a very intricate design. The statue is positioned in front of a blue sky, creating a contrast between the statue and the background.",,airplane,0.88559467,X
+elephant6-cat2,"A large brown bear is standing over a smaller brown bear, possibly a cub. The larger bear is covering the smaller one, creating a sense of protection.",,bear,0.99999964,B
+elephant7-bear3,"The image features a large brown elephant walking through a field. The elephant is walking in front of a blurry background, giving it a prominent position in the scene.",,elephant,0.9999993,L
+elephant10-keyboard1,A blurry image of a keyboard.,,keyboard,0.9999999,M
+elephant5-chair3,A bunch of blue chairs are stacked on top of each other.,,chair,0.9999981,I
+elephant1-bear2,A baby elephant is standing in the snow with its trunk in its mouth.,,elephant,0.9999999,L
+elephant6-car3,A red car is sitting on top of a white car.,,car,0.9998306,G
+elephant6-knife2,"A black bear is standing on its hind legs, with its front paws raised. The bear is surrounded by a variety of books, which are scattered around it. The bear appears to be in a room, possibly a library or a bookstore.",,bear,0.9999902,B
+elephant4-boat3,"The image features a large elephant standing in a cityscape. The elephant is the main focus of the scene, and it appears to be walking through the city. The city is filled with buildings, and the elephant is positioned in the center of the frame. The overall scene is colorful and vibrant, with the elephant standing out as the main subject.",,elephant,0.9999999,L
+elephant4-chair3,The image is a blurry photo of a group of blue chairs.,,chair,0.9999622,I
+elephant1-chair1,The image is a blurry picture of a row of red chairs.,,chair,0.9999924,I
+elephant10-bear1,"A brown bear with its head turned to the side, showing its ear.",,bear,0.9999274,B
+elephant7-car3,"A red car is the main focus of the image, with a close-up view of its front end. The car is surrounded by a colorful and abstract background, which adds to the artistic nature of the photo.",,car,0.9997843,G
+elephant4-oven1,A blurry elephant is standing in a white background.,,elephant,1.0,L
+elephant9-bicycle2,The image is a blurry photo of a bicycle.,,bicycle,0.99999976,C
+elephant5-bottle2,A blurry image of a dog surrounded by many bottles.,,bottle,0.9991609,"K, F"
+elephant6-bird1,"The image shows a large elephant standing next to a smaller elephant. The two elephants are standing close to each other, with the larger one on the left and the smaller one on the right. The scene is set against a backdrop of a blue sky.",,elephant,1.0,"L, L"
+elephant9-airplane2,"The image is a painting of a person riding an elephant. The elephant is in the center of the painting, with the person sitting on its back. The painting is abstract, with the elephant and person depicted in a stylized manner. The background is a mix of blue and yellow colors, adding to the artistic nature of the painting.",,elephant,0.9999949,X
+elephant7-clock2,"A dog is sitting on top of a clock, with the clock's hands on the dog's back.",,clock,0.9922219,D K J
+elephant2-clock1,The image is a collage of various clocks and numbers.,,clock,1.0,J
+elephant2-bird1,"A blue object is laying on a white surface, partially obscured by a curtain.",,airplane,0.8836135,X
+elephant3-chair1,The image is a close-up of a row of red chairs.,,chair,0.9999939,I
+elephant5-bicycle3,"The image is a close-up of an elephant's head and trunk. The elephant is black and white, and the trunk is curled. The background is blurry, making the elephant the main focus of the image.",,elephant,0.9999989,L
+elephant2-truck2,A person is standing in front of a red background.,,airplane,0.7992035,X
+elephant8-bird2,"The image features a group of elephants standing together in a field. There are three elephants in the scene, with one on the left side, one in the middle, and one on the right side. The elephants are positioned close to each other, creating a sense of unity and companionship.",,elephant,1.0,L
+elephant6-dog2,"The image features a large elephant standing next to a smaller elephant, possibly a baby. The two elephants are standing close together, with the larger elephant appearing to be protective and nurturing towards the smaller one. The scene is set in a natural environment, with the elephants surrounded by trees and grass.",,elephant,1.0,"L, E"
+elephant9-boat3,"A large elephant statue is the main focus of the image, with a city in the background. The elephant is painted in a colorful manner, with a mix of red, green, and blue. The statue is positioned in the foreground, covering a significant portion of the image. The city in the background is a blend of various buildings and structures, creating a vibrant and lively atmosphere.",,elephant,0.9999993,X
+elephant7-knife2,A blurry image of a hand holding a book.,,bottle,0.92949307,X
+elephant4-car3,"The image is a colorful and abstract painting of an elephant. The elephant is the main subject, taking up a large portion of the painting. The background features a cityscape with buildings and cars, creating a contrast between the vibrant colors of the elephant and the urban environment.",,elephant,0.9999988,"E, L"
+elephant2-boat1,"The image is a colorful abstract art piece featuring a person's head. The head is surrounded by a vibrant background with red, blue, and white colors. The artwork is a mix of different colors and patterns, creating a visually striking and unique piece.",,clock,0.3325903,X
+elephant6-truck3,A colorful painting of a chair with a person sitting in it.,,chair,0.9999988,I
+elephant8-elephant1,"The image features a close-up of a group of elephants, with three of them being the most prominent. The elephants are standing next to each other, with their bodies partially obscured by a wall. The elephants are gray in color, and their skin appears to be wrinkled, giving them a textured appearance.",,elephant,1.0,L
+elephant8-bicycle3,"The image is a close-up of a group of three statues, each depicting a person with their hands on their face. The statues are positioned in a row, with one on the left, one in the middle, and one on the right. The statues are made of metal and have a shiny appearance. The background is blurry, emphasizing the statues as the main focus of the image.",,airplane,0.9369275,X
+elephant7-bird1,A blue elephant is walking on a gray surface.,,elephant,0.99999905,L
+elephant2-cat1,A brown dog with a white face is standing in front of a blue background.,,dog,0.9999368,K
+elephant6-bicycle1,"The image is a collage of various elements, including an elephant and a baby elephant. The elephant is the main focus of the image, with the baby elephant positioned close to it. The collage also features a mix of other objects, such as a car, a bird, and a person. The overall composition of the image is quite busy and visually interesting.",,elephant,0.999966,"E, G, D"
+elephant5-car1,"The image is a blurry photo of a car show with various cars on display. The cars are parked close to each other, and some are partially obscured by other vehicles. The scene is colorful and vibrant, with the cars appearing to be in motion.",,car,0.99951303,G
+elephant7-bottle3,"The image features a large elephant standing in front of a pile of books. The elephant is positioned in the center of the scene, and the books are scattered around it, with some on the ground and others on top of the elephant. The books vary in size and are placed in different orientations, creating a visually interesting and unique composition.",,elephant,1.0,X
+elephant2-bear3,The image is a close-up of a brown bear with its head turned to the side. The bear has a furry appearance and is standing in front of a blurry background.,,bear,0.9998914,B
+elephant3-knife1,A picture of a person wearing a shirt with a picture of an elephant on it.,,elephant,0.99999857,X
+elephant8-knife2,A painting of a person with a handbag and a watch.,,clock,0.93492115,X
+elephant1-keyboard3,A close up of a keyboard with a blurry background.,,keyboard,0.9999999,M
+elephant5-truck1,"The image features a red elephant standing on a white background. The elephant appears to be made of metal and has a unique, artistic design. The background is blurry, drawing attention to the elephant as the main subject of the image.",,elephant,1.0,L
+elephant4-bird1,"The image features a large elephant with its trunk raised, standing in a misty, cloudy environment. The elephant's body is covered in a blue, swirling pattern, giving it a unique and artistic appearance. The scene is set against a backdrop of a blue sky, further emphasizing the elephant's striking coloration.",,elephant,0.9999995,L
+elephant6-bottle2,A blurry image of a bunch of bottles.,,bottle,1.0,F
+elephant8-truck3,The image is a blurry picture of chairs.,,chair,0.99999917,I
+elephant5-bear2,"The image features a large elephant walking across a sandy plain. The elephant appears to be in motion, as it covers the majority of the scene. The sandy terrain is visible beneath the elephant, and the overall scene is captured in a blurry manner, giving it a sense of motion.",,elephant,0.9999994,L
+elephant9-dog3,A brown dog with a black nose and black ears is standing on a white background.,,dog,0.9999037,K
+elephant9-elephant3,"The image is a close-up of an elephant's leg, captured in a black and white photograph. The elephant's skin appears to be wrinkled and textured, with a few spots visible on its surface. The focus of the image is on the elephant's leg and its unique features, providing a detailed view of the animal's anatomy.",,elephant,0.9999999,L
+elephant5-elephant1,"A gray elephant is depicted on a gray surface, with the elephant's trunk curled up. The elephant's skin is wrinkled, giving it a textured appearance.",,elephant,0.99999976,X
+elephant2-bottle3,A green elephant made of bottle caps is standing in front of a wall of books.,,elephant,0.9956222,X
+elephant9-chair2,A large group of wooden chairs are stacked on top of each other in a room.,,chair,0.99999917,I
+elephant1-car3,"A red car is in the center of a blurry image, surrounded by other cars and objects.",,car,0.9993753,G
+elephant1-oven2,A black elephant statue is sitting on a chair.,,elephant,0.71439534,X
+elephant4-clock3,A clock made to look like an elephant.,,clock,0.76967186,"J, L"
+elephant8-clock2,A group of three elephants are standing next to each other.,,elephant,1.0,L
+elephant3-cat2,"The image features a large elephant standing on a sandy surface, with its legs spread apart. The elephant appears to be walking or standing in the sand, possibly on a beach. The scene is captured in a close-up view, focusing on the elephant's legs and feet.",,elephant,1.0,L
+elephant8-boat2,"A colorful abstract artwork featuring three elephants, with one on the left, one in the middle, and one on the right. The elephants are made up of various shapes and colors, creating a visually striking composition.",,elephant,1.0,X
+elephant4-bicycle2,A blurry image of a person sitting in a chair with a bunch of other chairs in the background.,,chair,0.9999999,I
+elephant3-truck1,A red elephant statue with a blue foot.,,elephant,0.9999995,X
+elephant3-oven1,A blurry image of a person's legs and feet.,,airplane,0.6955642,X
+elephant7-dog1,"The image features a brown elephant walking through a field of tall, dry grass. The elephant's trunk is visible, and it appears to be walking away from the viewer. The scene is captured in a sepia tone, giving it a vintage feel.",,elephant,0.9999938,L
+elephant7-airplane3,"The image features a large elephant standing on a snowy surface. The elephant is the main focus of the scene, and it appears to be walking through the snow. The background is blurry, which adds to the sense of depth and movement in the image.",,elephant,0.99999857,L
+elephant8-dog1,Three elephants standing together in a field.,,elephant,1.0,L
+elephant2-airplane3,A blurry image of an elephant.,,elephant,1.0,L
+elephant1-airplane2,A blue and yellow elephant is standing in a white and yellow background.,,elephant,1.0,L
+elephant10-knife3,A blurry image of a person holding a cell phone.,,airplane,0.85597336,X
+elephant10-elephant1,"The image is a close-up of an elephant's trunk, showing its wrinkled skin and the tip of its trunk.",,elephant,1.0,L
+elephant9-clock3,"The image is a collage of various clocks, with the main focus being a clock face that has been altered to resemble an elephant. The elephant is made up of different clock faces, with some of the clocks being larger and more prominent than others. The clocks are arranged in a way that creates a visually interesting and unique representation of an elephant.",,elephant,0.92210394,X
+elephant8-oven3,A blurry image of a chair and a toilet.,,chair,0.9999974,I
+elephant1-boat2,A painting of an elephant with a red background.,,elephant,1.0,L
+elephant6-oven1,A blurry elephant standing in a white background.,,elephant,1.0,L
+elephant2-elephant3,"The image features a close-up of a rock with an elephant shape carved into it. The elephant appears to be standing on a rocky surface, and its trunk is visible in the foreground. The carving is quite detailed, capturing the essence of the elephant's form.",,elephant,0.99999976,X
+elephant1-dog2,A brown elephant is standing in a field.,,elephant,0.99999964,L
+elephant7-cat1,The image is a blurry picture of an elephant walking on a dirt road.,,elephant,0.99999845,L
+elephant3-keyboard2,A keyboard is shown with the letters and numbers blurred out.,,keyboard,1.0,M
+elephant7-keyboard3,The image is a close-up of a black elephant's trunk.,,elephant,0.9999995,L
+elephant2-keyboard3,A blurry image of a camera with a black background.,,airplane,0.99332035,X
+elephant8-cat1,Three brown dogs standing next to each other.,,dog,0.9992939,K
+elephant1-bottle1,"The image is a collage of many different bottles of various sizes and shapes. The bottles are arranged in a way that they form the shape of an elephant. The elephant is made up of numerous bottles, with some bottles being larger and others smaller. The bottles are placed in different positions, creating a visually interesting and creative representation of an elephant.",,bottle,0.83920085,"E, L"
+bear2-cat2,"A brown bear is standing in the dirt, looking to the left.",,bear,0.9996754,B
+bear7-bicycle2,A blurry image of a dog with a lot of wires and cords around it.,,dog,0.9992067,K
+bear5-bottle1,"A collage of various bottles, including alcohol, are arranged to form the shape of an elephant.",,bottle,0.8787949,"F, L"
+bear2-car2,A blurry image of a person wearing a red shirt.,,airplane,0.8101192,X
+bear3-chair2,A large pile of wooden chairs stacked on top of each other.,,chair,0.99999976,I
+bear1-clock2,"A brown bear is sitting on a white surface, surrounded by a lot of wires.",,bear,0.9999993,B
+bear10-bottle1,A collage of various bottles and cans are arranged to form the shape of a dog.,,bottle,0.9813752,"F, K"
+bear10-knife2,"The image is a collage of various pictures, including a dog's head and a hand. The dog's head is in the center of the collage, with a close-up of its face. The hand is on the left side of the collage, and there are other pictures of hands scattered throughout the collage. The overall composition creates a unique and interesting visual effect.",,dog,0.99837035,K
+bear5-airplane3,"A teddy bear is standing on its hind legs, looking at the camera.",,bear,0.9888164,B
+bear3-bird3,A brown cat is laying down on a white surface.,,cat,0.99999726,H
+bear3-keyboard2,A black computer keyboard with white letters.,,keyboard,1.0,M
+bear4-keyboard3,A close up of a video game controller.,,keyboard,0.97874844,X
+bear7-oven3,A blurry image of a chair with a bunch of electronic equipment on it.,,chair,0.9999759,I
+bear1-elephant1,A polar bear is sitting on a rock.,,bear,0.9999368,B
+bear10-oven1,A black and white image of a dog's head.,,dog,0.99989796,K
+bear5-oven3,"The image is a close-up of a machine with many buttons and a screen. The buttons are arranged in a row, and the screen is located towards the top of the machine. The machine appears to be a computer or a control panel, with various buttons and a screen for input and display.",,airplane,0.8884181,X
+bear7-bear2,"A brown bear is standing in the sunlight, looking at the camera.",,bear,0.99997675,B
+bear1-bird2,A large polar bear is sitting on the snow.,,bear,0.9997681,B
+bear10-truck1,"A red and black image of a fish, possibly a catfish, with a blurry background.",,boat,0.39637524,X
+bear8-bicycle3,"A bear is depicted in a painting with a wire-like texture. The bear is large and occupies most of the image. The painting is abstract and features a mix of colors, creating a unique and artistic representation of the bear.",,bear,0.99999547,B
+bear3-dog3,A cat is laying on a white surface with its body covered in brown fur.,,cat,0.9999963,H
+bear4-truck3,A colorful image of a bear.,,bear,0.99999785,B
+bear8-knife3,A black and white image of a bear.,,bear,0.9999987,B
+bear6-cat3,"The image is a close-up of a bear's face, with its mouth open and its tongue sticking out. The bear appears to be looking at the camera, and its fur is described as being orange and brown. The bear's face is the main focus of the picture, with no other objects or elements visible in the frame.",,bear,0.99999094,B
+bear9-bottle2,The image is a close-up of a large collection of wine bottles.,,bottle,0.9999993,F
+bear10-car2,A blurry picture of a car.,,car,0.99937916,G
+bear3-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+bear2-airplane1,A bear is sitting in front of a white background.,,bear,0.9999999,B
+bear10-chair2,The image is a blurry picture of a large group of wooden chairs stacked on top of each other.,,chair,0.99998486,I
+bear10-keyboard3,A black object with numbers on it.,,clock,0.71004426,X
+bear6-bottle3,"The image is a collage of various items, including a tree made of bottles and cans. The bottles are green and white, and they are arranged in a way that creates the appearance of a tree. The cans are also present in the collage, adding to the overall composition. The collage is a mix of different elements, creating a visually interesting and unique piece of art.",,bottle,0.9999783,X
+bear4-cat3,A brown bear is standing on a dirt field.,,bear,0.9999826,B
+bear2-dog1,A brown bear is standing in a field.,,bear,0.9999951,B
+bear6-car2,A blurry image of a car with a yellow and red hood.,,car,0.994709,G
+bear2-bird3,A brown bear is standing on a white background.,,bear,0.9999987,B
+bear5-chair1,"The image is a blurry photo of a row of red seats, possibly in a theater or auditorium. The seats are arranged in a way that they are all facing the same direction, creating a sense of unity and focus. The blurry effect adds a sense of depth and movement to the scene, making it more dynamic and engaging.",,chair,0.8845981,X
+bear8-boat2,"The image is a collage of various objects, including a teddy bear, a car, and a person. The teddy bear is in the center of the image, with the car and person surrounding it. The car is on the left side of the image, while the person is on the right side. The collage is composed of different colors and textures, creating a visually interesting and unique piece of art.",,bear,0.7187974,"G, H"
+bear9-keyboard3,A close up of a keyboard with a blurry background.,,keyboard,0.9999999,M
+bear6-bird2,"Two polar bears are standing on their hind legs, facing each other. They appear to be playing or interacting with each other.",,bear,0.99953127,B
+bear4-knife1,"The image is a close-up of a brown object, possibly a piece of wood or a sculpture, with a lot of detail. The object appears to be made of various materials, such as metal and plastic, and has a unique and intricate design. The close-up view showcases the intricate details and textures of the object, making it an interesting and visually appealing piece.",,airplane,0.6462677,X
+bear7-clock1,A collage of clocks is arranged to form a lion.,,clock,0.9999982,J
+bear8-truck3,"A bear statue is shown in a colorful, abstract painting. The bear is orange and blue, and it is surrounded by a yellow background. The painting is a mix of colors, giving it a vibrant and artistic appearance.",,bear,0.9999777,X
+bear8-bear1,A brown bear is sitting on the ground.,,bear,0.99999285,B
+bear2-oven1,A black and white bear standing on a white background.,,bear,0.99999857,B
+bear9-boat2,"A large, colorful bear is the main focus of the image. The bear is made up of various shapes, colors, and textures, creating a unique and interesting visual effect. The bear is standing in front of a building, and its body is composed of different elements, such as a chair, a car, and a person. The overall scene is vibrant and eye-catching, with the bear being the central figure.",,bear,0.9999757,B
+bear6-bear1,"The image is a close-up of a brown furry animal, possibly a dog, with its fur blurred out. The animal appears to be looking at the camera, and its fur is described as being shaggy and fluffy.",,dog,0.97410244,"H, K"
+bear4-car3,A blurry image of a red bull with a man's head on it.,,bottle,0.61878157,X
+bear3-airplane1,A blurry image of an elephant.,,elephant,1.0,L
+bear3-truck3,A colorful painting of a bear.,,bear,0.9999982,B
+bear1-bicycle3,A black bear with a red collar is sitting in a field.,,bear,0.9999646,B
+bear4-oven2,A black and white photo of a camera.,,airplane,0.9366252,X
+bear9-dog1,A lion with a mane standing in a field.,,elephant,0.3510642,X
+bear10-clock1,"A clock is made up of many clock faces, creating a unique and artistic design.",,clock,1.0,J
+bear8-airplane1,A bear is standing in a field with a lot of writing on it.,,bear,0.99999833,B
+bear4-elephant2,A brown bear is standing in the snow.,,bear,0.99998784,B
+bear10-cat2,A blurry image of a cat's face.,,cat,0.999995,H
+bear2-elephant1,A bear is depicted on a rock.,,bear,0.99999833,B
+bear8-dog1,A brown bear with a yellowish fur.,,bear,0.9999976,B
+bear5-bird1,A blue bear is laying down on a white background.,,bear,0.9999989,B
+bear6-boat3,"The image is a colorful, abstract painting of a person. The person is depicted in a surreal, distorted manner, with their body twisted and contorted. The painting is vibrant and features a mix of bright colors, creating a visually striking and unique artwork.",,airplane,0.8724927,X
+bear7-dog3,A brown dog standing in front of a white background.,,dog,0.99995816,K
+bear9-knife2,"A bear is standing in front of a bookshelf, with its head partially obscured by the books.",,bear,0.9999752,B
+bear1-airplane3,"The image features a large, decorative bear statue sitting on a snowy surface. The bear is positioned in a way that it appears to be looking up, possibly at the sky. The statue is intricately designed, with a combination of blue and white colors, giving it an artistic and eye-catching appearance.",,bear,0.99988735,B
+bear3-bicycle2,"The image is a close-up of a metal object, possibly a piece of machinery or a sculpture, with a lot of metal parts. The object is blurry and has a lot of small parts, making it difficult to discern its exact purpose.",,airplane,0.9490521,X
+bear4-boat2,"The image is a collage of various objects, including a car and a bear. The bear is the main focus, with its head and body prominently displayed. The car is positioned behind the bear, and there are also other objects like a boat, a chair, and a person in the scene. The collage is colorful and visually interesting, with the bear being the most prominent and eye-catching element.",,bear,0.92485553,"B, C, E, I"
+bear2-keyboard2,A black keyboard with white letters.,,keyboard,1.0,M
+bear2-knife2,A bear is standing in front of a wall of books.,,bear,0.9999963,B
+bear10-elephant1,"The image features a close-up of a large elephant's head, with its skin appearing rough and wrinkled. The elephant's eye is visible, and it seems to be looking at something. The skin texture is reminiscent of a rock, giving the image a unique and intriguing appearance.",,elephant,0.9999999,L
+bear1-bear3,A brown bear is standing in a field.,,bear,0.9999951,B
+bear3-cat1,A brown cat is sleeping on a white surface.,,cat,0.9999926,H
+bear8-bottle1,"A large collection of bottles and cans are piled up together, creating a visually striking display. The bottles vary in size and shape, and are arranged in a way that makes it difficult to discern individual items. The pile is so dense that it almost forms a person-like shape, giving the impression of a massive, chaotic collection.",,bottle,0.99999845,F
+bear8-elephant2,A brown sculpture of a person with their arms folded.,,bottle,0.41053832,X
+bear4-clock3,A clock made of elephant parts.,,clock,0.8221133,"J, L"
+bear7-truck1,A red and black image of a person.,,airplane,0.9141485,X
+bear10-bear2,"A bear is standing in a snowy area, looking to the side.",,bear,0.9999962,B
+bear1-chair2,The image is a blurry picture of a group of wooden chairs.,,chair,0.9999981,I
+bear6-chair1,A bunch of red chairs are stacked on top of each other.,,chair,1.0,I
+bear6-clock1,"A collage of clocks with different shapes and sizes, all showing the time of 11:11.",,clock,1.0,J
+bear5-bicycle3,A bear with its mouth open is standing in a field.,,bear,0.99999106,B
+bear5-boat2,The image is a colorful painting of a cat.,,cat,0.99993277,H
+car10-bicycle2,"The image shows two cars in a field, one of which is a wrecked car. The wrecked car is surrounded by a lot of metal debris, including a bicycle, a chair, and a spoon. The other car is positioned behind the wrecked car, and there is a person standing in the background. The scene appears to be a mix of art and reality, with the wrecked car and debris creating an interesting visual effect.",,car,0.9195647,"G, I, C"
+car4-car2,A red sports car with a black hood and a spoiler on the back.,,car,0.9992478,G
+car4-clock1,A clock made out of a car.,,clock,0.99128824,"J, G"
+car4-oven2,A black and white photo of a car.,,car,0.99983954,G
+car6-bicycle3,A car with a chrome rim and a tire.,,car,0.98701954,G
+car8-cat1,A brown dog is laying on a bed.,,dog,0.9998443,K
+car8-dog1,"A brown and white animal, possibly a dog, is laying on a brown and white surface. The animal's foot is visible, with its paw resting on the surface. The scene appears to be a close-up of the animal's foot and the surrounding area.",,dog,0.9932066,X
+car5-cat1,A blurry brown car is parked on a snowy road.,,car,0.98949945,G
+car7-elephant3,A car is imprinted in the sand.,,car,0.9971475,G
+car5-keyboard3,A watch face with a black background and a blue and green design.,,clock,0.99995744,X
+car6-boat1,"A car with a colorful wheel is shown in a close-up view. The car is white and has a colorful wheel, which is the main focus of the image.",,car,0.9978199,G
+car3-truck1,A red sports car with a black roof is parked in a parking lot.,,car,0.99954647,G
+car2-knife3,A blurry image of a camera with a lens on it.,,airplane,0.9103943,X
+car10-keyboard2,A black keyboard with a number pad.,,keyboard,1.0,M
+car4-bird1,A blue car with a white stripe on the side.,,car,0.99975437,G
+car6-truck3,"A car is parked in a parking lot, and it is captured in a colorful, artistic photo. The car is white, and the image is a close-up of the front wheel. The photo is blurry, giving it a unique and artistic appearance.",,car,0.99917585,G
+car1-oven3,The image is a blurry picture of a microwave oven.,,oven,0.9996106,O
+car3-bird2,A car with a broken windshield.,,car,0.99847,G
+car9-keyboard2,A close up of a black and white keypad with the numbers 0-9.,,keyboard,0.9823521,M
+car5-bottle1,"The image is a collage of various bottles and a car. The bottles are scattered all over the image, with some placed near the car and others further away. The car is prominently featured in the center of the image, surrounded by the numerous bottles.",,bottle,0.9955621,G
+car7-bird3,"A car is shown in a black and white photo, with a person sitting in the driver's seat. The car appears to be a convertible, and the driver is wearing a hat. The car is parked in a parking lot, and the photo has a blurry appearance.",,car,0.9997621,G
+car1-airplane1,A car with a clock on the dashboard.,,clock,0.9590811,"G, J"
+car7-clock1,A car made of clocks is on display.,,clock,0.8611873,"G, J"
+car3-bottle3,A car is made out of many bottles.,,bottle,0.9968618,G
+car8-airplane3,"A car is shown in a close-up view, with its hood open and the engine exposed. The car is blue and has a colorful design on it. The car is parked in a parking lot, and the sky is visible in the background.",,car,0.9992473,G
+car9-truck3,A yellow car is parked in a parking lot.,,car,0.99965215,G
+car8-clock2,A red sports car with a black interior is parked on a street.,,car,0.99962413,G
+car9-bicycle2,A small car is driving down a street.,,car,0.999635,G
+car1-clock2,"A car is shown in a close-up view, with its front end and a tire visible. The car is covered in a combination of metal and glass, giving it a unique and artistic appearance.",,car,0.99286604,G
+car6-chair3,"The image is a close-up of a bunch of blue chairs, with some of them being blurry. The chairs are arranged in a circular pattern, with some chairs overlapping each other. The chairs are positioned in various orientations, creating a visually interesting scene.",,chair,0.99981874,I
+car8-bear1,A brown bear is laying down on a bed.,,bear,0.99999845,B
+car6-elephant3,A carving of a tire on a piece of stone.,,bicycle,0.9454399,G
+car4-elephant3,A car is depicted on a piece of leather.,,car,0.999474,G
+car7-airplane2,A blue car is parked in a white and yellow background.,,car,0.99986255,G
+car6-bear1,"The image shows a brown cat with its eyes closed, laying down on a bed. The cat appears to be sleeping or resting, with its head tilted to the side. The bed is covered in a soft, furry material, possibly a blanket or a rug.",,cat,0.999956,H
+car5-knife2,"A car is parked on the street, with its license plate visible. The car is surrounded by a colorful background, giving it a vibrant appearance.",,car,0.9975297,G
+car7-keyboard3,"A black car with a white light on the front is shown in the image. The car is sitting on a flat surface, possibly a table.",,car,0.9994117,G
+car10-car1,A red car is parked in a parking lot.,,car,0.99981076,G
+car9-knife1,A rusty car is parked on a street.,,car,0.97632533,G
+car8-knife2,A hand with a computer mouse on top of it.,,keyboard,0.98225075,X
+car1-car2,"A car with a colorful, abstract design on its hood.",,car,0.9994203,G
+car3-boat1,"A red and blue sports car is the main focus of the image. The car is shown from a side view, with its hood open, revealing the engine. The car is parked on a street, and the background is a blurry mix of colors.",,car,0.9993518,G
+car8-boat3,A red and green car with a blue wheel.,,car,0.9991116,G
+car2-car3,"The image is a colorful and abstract painting of a car. The car is red and silver, and it appears to be a vintage sports car. The painting is composed of various colors and shapes, giving it a unique and artistic look. The car is the main focus of the painting, and it is surrounded by a vibrant and dynamic background.",,car,0.99984825,G
+car3-elephant3,A car is carved into the side of a rock.,,car,0.98697346,G
+car4-boat1,"The image is a colorful painting of a spaceship, possibly a fighter jet, with a red and blue color scheme. The spaceship has a unique design, and it appears to be flying through the air.",,airplane,0.9999963,X
+car1-keyboard2,A close up of a keyboard.,,keyboard,1.0,M
+car8-chair1,"The image shows a row of red seats in a theater. The seats are arranged in a curve, and they are empty. The seats are arranged in a way that they are all facing the same direction.",,chair,0.94979346,X
+car10-bottle3,"A car is covered in a pile of money, making it look like a green car.",,car,0.99989355,G
+car1-chair3,A bunch of blue chairs are stacked on top of each other.,,chair,0.9999981,I
+car5-oven2,A black car with a license plate that reads 2727.,,car,0.9931218,G
+car6-knife1,A car's steering wheel is shown in a close-up view.,,car,0.9959758,G
+car9-clock2,"A small car with a black roof is parked in a parking lot. The car is white and has a black bumper. The car is parked next to a building, and there is a person standing near the car.",,car,0.9998362,G
+car3-dog2,"A car is parked on a street, and it appears to be a sports car.",,car,0.99942917,G
+car8-bicycle2,"A car is shown in a blurry photo, with the front end of the car being the most prominent. The car is surrounded by many other cars in the background, creating a busy and chaotic scene.",,car,0.999944,G
+car7-dog3,A blurry image of a cat.,,cat,0.9999937,H
+car7-bear1,A brown bear is laying down on a snowy surface.,,bear,0.99999785,B
+car7-oven2,A black and white photo of a car.,,car,0.99983954,G
+car5-bear3,"A car is blurred in the background, with a close-up of the front end.",,car,0.9996264,G
+car7-car1,"A colorful painting of two cars, one red and one black, driving next to each other.",,car,0.9955434,G
+car9-cat1,A car is parked on the snow.,,car,0.99192023,G
+car4-bottle1,"A large assortment of bottles, including liquor and soda bottles, are piled up together.",,bottle,1.0,F
+car9-bird1,"A car is shown in the image, with its front end covered in blue paint. The car is parked on a street, and the paint appears to be dripping onto the street.",,car,0.9987936,G
+car4-bear3,"The image is a blurry picture of a brown animal, possibly a cat or a dog, laying down on a surface. The animal appears to be sleeping or resting, and the image is somewhat distorted, giving it a fuzzy appearance.",,dog,0.4896953,"H, K"
+car7-boat3,A car is driving down a street in a city.,,car,0.9994659,G
+car10-elephant2,"A car is depicted in a painting, with its front end visible. The car is parked in a dirt field, and the scene is captured in a sepia tone. The car appears to be old and has a vintage look.",,car,0.99628735,G
+car2-chair1,A blurry image of a car and a chair.,,car,0.6078381,"G, I"
+car5-airplane3,A car with a license plate on the front.,,car,0.9669909,G
+car6-bottle1,"The image is a collage of various bottles, including alcohol bottles, arranged in a way that resembles a face. The bottles are of different shapes and sizes, and they are placed in a visually appealing manner to create an artistic representation of a face. The bottles are spread across the entire image, with some closer to the foreground and others further in the background.",,bottle,0.99999976,F
+car4-bicycle3,A car engine is seen in a close-up shot.,,car,0.9959209,G
+car10-dog1,"A car is shown in the image, with its reflection visible in a mirror. The car is surrounded by a fuzzy, blurry background, giving the impression of a car on a beach.",,car,0.99891984,G
+car2-bird3,"A car is shown in a painting, with a close-up of the front wheel and the windshield. The car is parked on a snowy road, and the painting has a colorful and artistic style.",,car,0.99751854,G
+car5-truck3,A yellow car is parked on the side of a road.,,car,0.9966287,G
+car3-oven3,"A car is shown in a close-up view, with the dashboard and various controls visible. The car is surrounded by a blurry background, giving it a slightly distorted appearance.",,car,0.99969923,G
+car8-truck3,A yellow car with blue rims is parked on a street.,,car,0.9941099,G
+car4-cat3,"A car is shown in the image, but it is not a real car. It is a toy car, possibly made of leather, and it is sitting on a table. The car is positioned in the center of the image, and it appears to be a close-up shot.",,car,0.9846414,G
+car3-airplane3,A blue and white car is flying through the air.,,car,0.9962471,G
+car10-chair1,A red car with a black roof is parked in front of a building.,,car,0.9990445,G
+car2-cat3,A blurry image of a car.,,car,0.9991798,G
+car1-dog2,A blurry image of a car with a yellow background.,,car,0.99873286,G
+keyboard10-car1,A colorful painting of a busy street with lots of cars.,,car,0.99981505,G
+keyboard3-clock3,"The image is a collage of clocks, with some of them blurred and others in focus. The clocks are arranged in a way that creates a sense of depth and complexity.",,clock,0.9999993,J
+keyboard4-keyboard2,A close up of a keyboard with the letters and numbers blurred.,,keyboard,1.0,M
+keyboard9-bear2,A cat is laying on top of a white blanket.,,cat,0.9999957,H
+keyboard8-dog3,"The image is a close-up of a keyboard with a blurry background. The keyboard is partially covered by a furry object, possibly a dog.",,keyboard,0.9666805,"M, K"
+keyboard9-bicycle2,"The image is a blurry photo of a bunch of silverware, including forks, knives, and spoons.",,knife,0.9976739,X
+keyboard8-truck3,A colorful painting of a chair with a person sitting in it.,,chair,0.9999988,I
+keyboard8-keyboard2,A black keyboard with white lettering.,,keyboard,1.0,M
+keyboard9-keyboard2,"A close up of a keyboard with the letters ""f"" and ""j"" visible.",,keyboard,1.0,M
+keyboard9-chair2,"The image features a large room filled with numerous wooden chairs. The chairs are arranged in rows, creating an organized and spacious atmosphere. The room appears to be empty, with no people visible in the scene. The chairs vary in size and position, with some closer to the foreground and others further back in the room. The overall scene gives a sense of a gathering or event space.",,chair,0.99999166,I
+keyboard3-elephant2,"The image features a close-up of a textured surface, possibly a piece of fabric, with a series of wrinkles and folds. The surface appears to be made of leather, and the texture is quite rough and uneven. The wrinkles and folds are arranged in a somewhat random pattern, creating a visually interesting and tactile appearance.",,airplane,0.5948677,X
+keyboard7-truck2,"The image is a close-up of a red car, with a focus on the front end. The car is blurry, giving it a slightly abstract appearance. The car's hood is open, revealing the engine and other mechanical parts.",,car,0.99857354,G
+keyboard8-airplane2,"The image is a colorful abstract painting with a blue background. The painting features a rocky landscape with yellow and blue colors, giving it a vibrant and lively appearance. The rocks are arranged in a pattern, creating a visually appealing design. The painting captures the essence of nature and its beauty.",,airplane,0.8168915,X
+keyboard5-keyboard1,A close up of a keyboard with the letters and numbers visible.,,keyboard,1.0,M
+keyboard7-clock3,"The image is a collage of various clocks, including analog and digital clocks, arranged in a visually interesting manner. The clocks are of different sizes and styles, creating a unique and artistic composition.",,clock,1.0,J
+keyboard5-dog3,"The image is a close-up of a dog's face, with a mesh-like pattern in the background. The dog's face is partially obscured by the mesh, creating a blurry effect.",,dog,0.99932647,H
+keyboard6-bicycle1,A close up of a keyboard with a blurry background.,,keyboard,0.9999999,M
+keyboard9-boat2,A helicopter is parked in a lot with other vehicles.,,truck,0.7919366,X
+keyboard1-car3,A red car is parked in front of a building.,,car,0.99941945,G
+keyboard2-elephant1,A close up of a piece of skin with wrinkles and folds.,,airplane,0.4231338,X
+keyboard4-knife2,"The image is a collage of various papers, including some with gold lettering. The papers are arranged in a somewhat disorganized manner, creating a visually interesting and textured effect.",,airplane,0.8233733,X
+keyboard6-dog2,"A keyboard is covered in a fuzzy, furry material.",,keyboard,0.99999857,M
+keyboard2-knife1,"The image is a close-up of a person's foot, with a blurry background. The foot is wearing a shoe with a silver buckle. The shoe is covered in various buttons, which are scattered all over the shoe. The person's foot is positioned in the middle of the image, and the shoe takes up a significant portion of the frame.",,airplane,0.9896265,X
+keyboard4-bird1,"The image features a blurry view of a blue and white sky, possibly taken through a window or a glass surface. The sky appears to be cloudy, with a few wispy clouds scattered throughout the scene. The overall atmosphere of the image is somewhat dreamy and serene.",,airplane,0.9951579,X
+keyboard8-oven1,A close up of a keyboard with a blurry background.,,keyboard,0.9999999,M
+keyboard6-car2,"The image is a colorful collage of various car parts, including a red car, a yellow car, and a silver car. The parts are arranged in a visually appealing manner, with some parts overlapping and others positioned next to each other. The collage showcases the different colors and shapes of the car parts, creating a vibrant and eye-catching composition.",,car,0.9997904,G
+keyboard3-car2,The image is a blurry picture of a car.,,car,0.9996773,G
+keyboard4-oven2,"The image is a black and white photo of a city skyline at night. The buildings are tall and dark, creating a dramatic contrast against the night sky. The photo is slightly blurry, giving it a dreamy and artistic feel.",,airplane,0.97330815,X
+keyboard7-bear2,"A close up of a furry animal, possibly a dog, with a blurry background.",,dog,0.9921732,K
+keyboard4-truck3,The image is a colorful painting of a truck.,,truck,0.9999995,P
+keyboard4-clock2,The image is a blurry photo of a clock.,,clock,1.0,J
+keyboard5-bird3,A piece of chocolate cake with a white frosting.,,oven,0.99170625,X
+keyboard3-cat1,The image is a blurry photo of a cat.,,cat,0.99998736,H
+keyboard5-airplane3,"The image is a close-up of a keyboard, with the keys appearing to be made of metal. The keys are arranged in rows, and the keyboard has a blue background. The keys are not in focus, giving the image a blurry appearance.",,keyboard,0.99990857,M
+keyboard9-truck3,"The image is a colorful and abstract painting of a gun, with a yellow background and various other colors. The gun is depicted in a close-up view, and the painting is quite large, taking up most of the frame.",,airplane,0.9733296,X
+keyboard1-airplane2,"The image is a close-up of a hole in a wall, with a blue and yellow background. The hole appears to be a window or a hole in a white wall.",,airplane,0.86452734,X
+keyboard2-clock1,A collage of clock faces is arranged in a visually interesting manner.,,clock,1.0,J
+keyboard7-dog1,"The image is a close-up of a furry surface, possibly a piece of fabric or a carpet. The fur is brown and has a fuzzy texture, giving it a soft and cozy appearance. The close-up view highlights the intricate details of the fur, making it an interesting and visually appealing image.",,bear,0.8399407,X
+keyboard5-bottle1,"The image is a collage of various bottles, including liquor bottles, arranged in a visually appealing manner. The bottles are of different shapes, sizes, and colors, creating a diverse and vibrant display. The bottles are placed close to each other, filling the entire frame of the image.",,bottle,0.9999994,F
+keyboard1-dog3,The image is a close up of a dog's face.,,dog,0.9999815,H
+keyboard10-boat2,"A collage of various vehicles, including cars and buses, is displayed in a colorful and abstract manner. The vehicles are arranged in a row, with some overlapping each other, creating a visually interesting and artistic composition.",,car,0.7794407,"G, P"
+keyboard7-bottle1,"A large assortment of bottles and cans are piled on top of each other, creating a colorful and visually appealing display.",,bottle,0.9999958,F
+keyboard6-boat2,"The image is a collage of various colors and shapes, including a red and blue car.",,car,0.99789584,G
+keyboard5-bicycle1,A pile of bicycles and motorcycles are stacked on top of each other.,,bicycle,0.9998574,C
+keyboard3-bird3,A blurry image of a guitar.,,airplane,0.7350364,X
+keyboard4-cat2,"The image is a close-up of a furry surface, possibly a piece of fabric or a rug. The fur appears to be brown and white in color, and it has a somewhat blurry texture. The image is captured in a way that emphasizes the details and patterns of the fur, creating a visually interesting and textured appearance.",,bear,0.59690624,X
+keyboard8-cat3,A keyboard with a blurry background.,,keyboard,1.0,M
+keyboard1-bear2,A white teddy bear with a keyboard on its belly.,,keyboard,0.60230535,"B, M"
+keyboard1-clock1,A colorful clock with numbers and letters on it.,,clock,1.0,J
+keyboard6-elephant1,"The image is a close-up of a leather surface with a woven pattern. The leather appears to be worn and has a wrinkled texture. The surface is grey in color and has a unique, textured appearance.",,chair,0.56124437,X
+keyboard7-chair3,A large group of blue plastic chairs are stacked on top of each other.,,chair,0.9999949,I
+keyboard7-car3,"A pile of red cars, including a convertible, are stacked on top of each other.",,car,0.97527426,G
+keyboard3-bicycle2,A blurry image of a bunch of spoons.,,knife,0.63831776,X
+keyboard5-oven2,A black and white photo of a city skyline.,,airplane,0.9958681,X
+keyboard7-boat2,"A colorful abstract painting with a mix of reds, oranges, and blues.",,airplane,0.66564655,X
+keyboard2-bicycle3,"A bunch of metal objects are arranged in a jumble, creating a chaotic and visually interesting scene.",,airplane,0.9225483,X
+keyboard10-oven3,A blurry image of a camera.,,airplane,0.9749239,X
+keyboard5-bear3,"The image is a close-up of a dog's fur, showing its texture and details. The fur appears to be brown and fluffy, with a mix of light and dark colors. The dog's fur is quite thick and dense, giving it a distinctive appearance.",,dog,0.9998267,H
+keyboard2-bottle1,"A large assortment of bottles, including liquor and condiments, are displayed in a collage. The bottles are of various shapes and sizes, and they are arranged in a visually appealing manner. The collage showcases a diverse collection of beverages, making it an interesting and eye-catching display.",,bottle,0.9999999,F
+keyboard8-chair2,"The image shows a large room filled with wooden chairs. The chairs are arranged in rows, covering most of the space in the room. The chairs vary in size and are placed close to each other, creating a dense arrangement. The room appears to be a storage or display area for these chairs.",,chair,0.9999987,I
+keyboard1-elephant3,"The image features a close-up of a crocodile skin, showcasing its unique texture and pattern. The skin is brown and has a distinctive scaly appearance, with a large hole in the center. The close-up view highlights the intricate details of the crocodile's skin, making it an interesting and captivating sight.",,elephant,0.991523,X
+keyboard6-chair1,The image is a blurry picture of a theater with many red seats.,,airplane,0.6741656,X
+keyboard1-bird2,A keyboard with a hole in the middle of it.,,keyboard,0.99999976,M
+keyboard7-oven2,The image is a black and white photo of a building.,,airplane,0.987164,X
+keyboard6-knife2,A black and white image of a tie with gold accents.,,clock,0.51949435,X
+keyboard9-cat1,"A cat is laying down on a surface, possibly a bed or a couch. The cat is brown and white in color, and its fur is fluffy. The cat appears to be sleeping or resting comfortably.",,cat,0.9999999,H
+keyboard10-airplane3,The image is a blurry photo of a keyboard.,,keyboard,0.9999957,M
+keyboard3-boat1,"The image is a colorful painting of a cityscape, featuring a large boat on the water. The boat is surrounded by buildings, and the scene is filled with vibrant colors and abstract shapes. The boat appears to be the main focus of the painting, with its size and position dominating the composition.",,boat,0.9999927,E
+keyboard6-bear2,"A keyboard is covered in a white, fuzzy material.",,keyboard,1.0,M
+keyboard5-cat1,"The image shows a cat laying on a bed with a chocolate cake on top of it. The cat is positioned in the middle of the bed, and the cake is placed towards the left side of the bed. The scene appears to be blurry, giving a sense of motion or a dreamy atmosphere.",,cat,0.9995795,X
+keyboard7-knife1,A pile of knives in various colors and sizes.,,knife,1.0,N
+keyboard9-bird1,A keyboard with blue and white keys.,,keyboard,1.0,M
+keyboard9-elephant2,"The image is a close-up of a rocky terrain with a mountain range in the background. The rocky surface has a textured, wavy appearance, giving it a unique and interesting look.",,airplane,0.99357396,X
+keyboard5-knife2,"The image is a collage of various objects, including a pair of scissors, a knife, and a pair of tongs. These objects are displayed in different positions and angles, creating a visually interesting composition. The collage is set against a backdrop of a white and grey color scheme, which adds to the overall aesthetic of the image.",,knife,0.9999467,X
+keyboard10-keyboard1,"The image is a close-up of a black and white photo of a piece of machinery. The machinery appears to be broken, with some parts missing. The photo is blurry, making it difficult to discern the details of the machinery.",,airplane,0.9775195,X
+keyboard10-truck1,"A red object is laying on its side, possibly a car or a boat. The image is blurry and has a red and white color scheme.",,boat,0.98360324,"G, P"
+keyboard1-chair2,The image is a blurry picture of a large pile of wooden chairs.,,chair,0.9999963,I
+keyboard6-bottle2,"The image is a close-up of a large collection of wine bottles, with various shapes, sizes, and colors. The bottles are arranged in a visually appealing manner, creating an artistic display.",,bottle,0.9999995,F
+keyboard9-airplane3,A gun is laying on top of a keyboard.,,keyboard,0.9999535,M
+keyboard4-bottle2,The image is a close up of a large group of wine bottles.,,bottle,0.99999833,F
+bicycle1-chair1,"The image is a close-up of a pink chair with a motorcycle seat on it. The motorcycle seat is black and red. The chair is surrounded by other chairs, creating a group of chairs in the scene.",2024-01-29 23:02:14,chair,0.999951,"I, P"

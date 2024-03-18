@@ -1,0 +1,1283 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+cat4-truck3,2024-01-14 03:37:23,"The image is an abstract painting with a face in the center. The face is made up of different colors and shapes, and it is surrounded by a light background.",airplane,0.8887587,X
+cat4-oven1,2024-01-14 03:37:29,The image is a watercolor painting of a cat sitting on a table.,cat,0.99942553,H
+cat2-car3,2024-01-14 03:37:35,The image looks like a cat wearing a red cape with a pattern.,cat,0.9999788,H
+cat9-truck1,2024-01-14 03:37:41,A red cat is lying on a white surface.,cat,0.9999981,H
+cat8-car2,2024-01-14 03:37:47,The image is a colorful and abstract depiction of a person's face.,airplane,0.82862604,X
+cat7-knife2,2024-01-14 03:37:54,"The image is of a jumble of metal objects, perhaps tools or machine parts. The objects are rusty and dirty, and the image has a cold, industrial feel to it.",airplane,0.6095073,X
+cat5-bottle1,2024-01-14 03:38:00,An image of a cat made out of many pictures of bottles.,bottle,0.9181574,H
+cat10-elephant3,2024-01-14 03:38:07,The image is a close up of an elephant's skin with a cat's face superimposed on it.,elephant,0.99456465,"B, H"
+cat10-bird2,2024-01-14 03:38:14,A gray cat is lying on a white surface. The cat has long hair and is looking at the viewer.,cat,0.999998,H
+cat6-bear1,2024-01-14 03:38:20,The image is a close-up of brown and white fur.,dog,0.8104157,X
+cat7-airplane2,2024-01-14 03:38:26,The image is a colorful abstract painting of a cat.,cat,0.9998914,H
+cat2-knife3,2024-01-14 03:38:32,The image is an abstract painting of a human face with dark hair. The face is distorted and the colors are muted.,airplane,0.9733776,X
+cat9-bottle2,2024-01-14 03:38:38,The image is a bunch of wine bottles.,bottle,0.99999976,F
+cat10-bear1,2024-01-14 03:38:44,The image is a close-up of brown fur.,dog,0.8968112,B
+cat4-cat3,2024-01-14 03:38:50,A ginger cat is sitting on a white surface. The cat is looking away from the camera.,cat,0.99999666,H
+cat9-dog2,2024-01-14 03:38:56,This is a painting of a ginger cat lying on a white fur blanket.,cat,0.99945873,H
+cat4-airplane1,2024-01-14 03:39:02,The image is a portrait of a cat made of many different patterns and textures.,cat,0.99998784,H
+cat7-clock3,2024-01-14 03:39:07,"The image is a photo of a cat, made up of many clocks.",cat,0.50513256,"H, J"
+cat10-clock1,2024-01-14 03:39:13,The image is a colorful and abstract painting of a cat made up of numbers and letters.,cat,0.99983644,H
+cat5-dog3,2024-01-14 03:39:19,A dog and a cat are sleeping together.,cat,0.99996996,"H, K"
+cat4-dog3,2024-01-14 03:39:25,A close-up of a dog's face.,dog,0.99999225,K
+cat3-cat1,2024-01-14 03:39:31,A ginger cat is lying on a white fur blanket. The cat has green eyes and a pink nose.,cat,0.9999404,H
+cat2-cat1,2024-01-14 03:39:37,A ginger kitten with blue eyes is sitting on a white blanket.,cat,0.9997516,H
+cat5-chair3,2024-01-14 03:39:43,"The image is of an abstract painting. The colors are blue, white, and gray. The shapes are geometric and appear to be floating in space.",airplane,0.98754275,X
+cat7-boat3,2024-01-14 03:39:49,"The image is an abstract painting. It has a blue and green background with a large, dark shape in the center. The shape is made up of many smaller shapes and lines, and it looks like a machine or a building.",airplane,0.985784,X
+cat1-bird1,2024-01-14 03:39:55,A blue cat looking to the right with one eye closed.,cat,0.99998355,H
+cat6-keyboard3,2024-01-14 03:40:01,A black cat is lying on a white surface.,cat,0.9999981,H
+cat9-cat3,2024-01-14 03:40:08,The image shows an orange cat lying on a white surface.,cat,0.9999926,H
+cat5-knife2,2024-01-14 03:40:14,The image is a cubism-style painting of a cat.,cat,0.9999919,H
+cat4-car2,2024-01-14 03:40:20,The image looks like a bunch of toy cars with a red motorcycle in the front.,truck,0.5732081,G
+cat5-car2,2024-01-14 03:40:26,The image is an abstract painting. It is made up of bright colors and shapes. There is no clear subject matter.,airplane,0.99456763,X
+cat7-elephant1,2024-01-14 03:40:32,The image shows a cat embossed on a snakeskin-like background.,cat,0.9999778,H
+cat1-keyboard3,2024-01-14 03:40:38,A black cat wearing sunglasses.,cat,0.9999982,H
+cat3-elephant2,2024-01-14 03:40:44,The image shows a close up of an elephant's skin.,elephant,1.0,L
+cat3-oven2,2024-01-14 03:40:50,The image is a photograph of a room with a dark wall and a light wall. There is a door in the dark wall and a window in the light wall. There is a desk in the middle of the room.,clock,0.7020112,X
+cat5-keyboard3,2024-01-14 03:40:55,A black cat is sitting on a gray laptop.,cat,0.9997608,"H, M"
+cat10-airplane3,2024-01-14 03:41:01,The image is a watercolor painting of a fish.,boat,0.6386188,X
+cat1-boat1,2024-01-14 03:41:08,The image is a colorful abstract painting of a cat.,cat,0.9998914,H
+cat3-truck3,2024-01-14 03:41:14,The image is a colorful abstract painting.,airplane,0.9794988,X
+cat10-bicycle1,2024-01-14 03:41:20,The image is a photo of a motorcycle engine.,airplane,0.60732764,X
+cat2-elephant1,2024-01-14 03:41:26,The image shows a cat made of elephant skin.,elephant,0.9436446,"H, L"
+cat1-dog1,2024-01-14 03:41:32,The image is a close-up of a cat's face. The cat has brown fur and green eyes. The background is a blur of light brown fur.,cat,0.99999607,H
+cat6-oven1,2024-01-14 03:41:38,The image is a black and white photo of a cat.,cat,0.9999777,H
+cat9-boat2,2024-01-14 03:41:45,This is an abstract painting. It has bright red and orange colors. There are a lot of lines and shapes in the painting. It looks like a bunch of different objects put together.,airplane,0.8522768,X
+cat8-bicycle3,2024-01-14 03:41:50,A photo of a kitten with artistic effects applied to it.,cat,0.9988894,X
+cat6-clock3,2024-01-14 03:41:56,A clockwork cat is sitting on a reflective surface.,cat,0.9984114,H
+cat4-keyboard2,2024-01-14 03:42:02,A black cat is sitting on a gray carpet.,cat,0.9998155,H
+cat10-bottle1,2024-01-14 03:42:08,The image is a bunch of liquor bottles.,bottle,1.0,F
+cat5-elephant2,2024-01-14 03:42:14,The image shows a cat curled up and sleeping on a leather surface.,cat,0.99999344,H
+cat2-boat2,2024-01-14 03:42:20,The image is a cubism-style painting of a cat.,cat,0.9999919,H
+cat9-bird3,2024-01-14 03:42:27,A brown cat is lying on a white surface. The cat has green eyes and a long tail.,cat,0.9999968,H
+cat6-chair3,2024-01-14 03:42:33,The image is of many chairs of a light blue color. The chairs are all jumbled up and there is no order to them. The background is a sandy color.,chair,0.9998431,I
+cat9-bicycle1,2024-01-14 03:42:39,The image is a photo of a motorcycle.,airplane,0.6431718,X
+cat10-oven2,2024-01-14 03:42:46,Abstract painting in muted colors.,airplane,0.86593264,X
+cat1-car2,2024-01-14 03:42:52,The image is an abstract painting of a cat.,cat,0.9999801,H
+cat4-bird2,2024-01-14 03:42:58,A black cat is sitting on a gray rock. The cat has green eyes and is looking to the left. The background is gray and white.,cat,0.9999728,H
+cat5-bear2,2024-01-14 03:43:05,A ginger cat is lying on a white carpet.,cat,0.9999982,H
+cat8-bear1,2024-01-14 03:43:10,The image is a close-up of a brown cat's face.,cat,0.9999887,H
+cat5-airplane2,2024-01-14 03:43:16,The image is a colorful abstract painting. It has a blue background with a large gray and yellow shape in the center. The shape is made up of many smaller brushstrokes of different colors.,airplane,0.9804334,X
+cat9-clock2,2024-01-14 03:43:22,The image is a depiction of a cat sleeping.,cat,0.99999774,H
+cat10-keyboard1,2024-01-14 03:43:28,Black and white image of a tire tread.,bicycle,0.95251065,X
+cat1-chair2,2024-01-14 03:43:35,"The image is of a room full of chairs. The chairs are all made of wood and are of different styles. The chairs are arranged in a haphazard manner, with some chairs stacked on top of others. The image is blurry and pixelated, making it difficult to see the details of the chairs.",chair,0.9999844,I
+cat3-bicycle1,2024-01-14 03:43:41,The image is a photo of a cat lying on a pile of scrap metal.,cat,0.999967,H
+cat1-airplane1,2024-01-14 03:43:47,A cat's face is depicted in the image. The cat has green eyes and grey fur. The background is white with strips of red.,cat,0.9999995,H
+cat2-truck3,2024-01-14 03:43:53,The image is an abstract painting of a cat.,cat,0.9999801,H
+cat7-bottle1,2024-01-14 03:43:59,The image is a photomosaic of bottles. The bottles are arranged in the shape of the state of Texas.,bottle,0.99999976,F
+cat4-clock2,2024-01-14 03:44:06,The image is a clock with a cat's face.,clock,0.96681625,"J, H"
+cat5-boat1,2024-01-14 03:44:11,The image is an abstract painting with bright colors.,airplane,0.9735811,X
+cat5-bicycle3,2024-01-14 03:44:19,A pink and white cat is lying on a red blanket.,cat,0.99999833,H
+cat9-knife2,2024-01-14 03:44:25,A black cat is lying on a pile of metal scraps.,cat,0.99998784,H
+cat4-chair2,2024-01-14 03:44:31,The image looks like a bunch of chairs stacked together.,chair,0.99999523,I
+cat1-oven1,2024-01-14 03:44:37,The image is a black and white photo of a cat.,cat,0.9999777,H
+cat7-truck2,2024-01-14 03:44:42,The image is an abstract painting of a red truck.,truck,0.9999988,P
+cat4-knife1,2024-01-14 03:44:49,The image is a portrait of a man with dark skin and black hair. He is wearing a black suit and tie. The background is a light brown color. The man's face is partially obscured by a mask.,airplane,0.26381114,X
+cat1-cat3,2024-01-14 03:44:54,The image is a sepia toned painting of a cat looking to the right.,cat,0.99993193,H
+cat3-bear2,2024-01-14 03:45:00,A gray cat is lying on a white carpet.,cat,0.99999845,H
+cat8-bird2,2024-01-14 03:45:06,A gray kitten is looking at the camera.,cat,0.9999478,H
+cat2-bottle3,2024-01-14 03:45:12,The image is a green cat made out of leaves. The background is white with a bunch of green and white objects.,cat,0.999843,H
+cat7-dog3,2024-01-14 03:45:18,A ginger cat is sleeping on a white fur blanket.,cat,0.99993646,H
+cat9-chair2,2024-01-14 03:45:24,The image is of a room filled with chairs. The chairs are all different styles and colors. The room is dimly lit and the chairs are arranged in a haphazard manner.,chair,0.9999989,I
+car3-dog2,2024-01-14 03:45:30,The image shows a yellow car on a fur background.,car,0.9975969,G
+car6-truck3,2024-01-14 03:45:36,The image is a watercolor painting of a white car.,car,0.99874085,G
+car7-oven2,2024-01-14 03:45:41,The image is a photo of a black car with a large wing on the back.,airplane,0.7650994,G
+car8-dog1,2024-01-14 03:45:48,The image looks like a car covered in fur.,car,0.99598545,G
+car8-chair1,2024-01-14 03:45:54,The image is a bunch of pink and black sports cars.,car,0.9976624,G
+car8-boat3,2024-01-14 03:45:59,The image is a red and blue car.,car,0.99976295,G
+car3-bird2,2024-01-14 03:46:05,The image is a painting of a silver Lamborghini Aventador.,car,0.98584116,G
+car8-knife2,2024-01-14 03:46:11,The image is of a black and red sports car.,car,0.9995765,G
+car5-cat1,2024-01-14 03:46:17,A brown furry creature is lying on a white furry surface.,dog,0.9567494,B. bear
+car4-cat3,2024-01-14 03:46:23,The image is a close-up of a brown and gold toy car. The car is sitting on a white surface.,car,0.991071,G
+car5-bear3,2024-01-14 03:46:29,The image looks like a sepia-toned photo of a Volkswagen Beetle.,car,0.95470923,G
+car5-knife2,2024-01-14 03:46:35,A red car with a white license plate is parked on a brick street. The car is old and rusty.,truck,0.68252206,G
+car8-bear1,2024-01-14 03:46:41,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+car10-dog1,2024-01-14 03:46:47,The image is a close-up of a spider's abdomen.,knife,0.7592447,X
+car4-bicycle3,2024-01-14 03:46:53,The image is the inside of a car engine.,car,0.9938101,X
+car2-car3,2024-01-14 03:46:58,The image is a photo of a red car.,car,0.99981815,G
+car8-clock2,2024-01-14 03:47:04,The image is a painting of a red sports car.,car,0.9993175,G
+car1-oven3,2024-01-14 03:47:10,"The image is a photo of a kitchen counter. There is a coffee maker, toaster, and other small appliances on the counter. The cabinets are white and the countertops are black.",oven,0.8500745,X
+car10-chair1,2024-01-14 03:47:16,A pink car on a pink background with a white outline.,car,0.9993549,G
+car3-truck1,2024-01-14 03:47:22,A red Lamborghini Aventador SVJ Roadster is sitting on a road with the doors open.,car,0.99921,G
+car3-boat1,2024-01-14 03:47:27,The image is a painting of a red and blue sports car.,car,0.9973688,G
+car10-car1,2024-01-14 03:47:33,The image is a colorful abstract painting of a red car.,car,0.9998049,G
+car3-airplane3,2024-01-14 03:47:39,The image is a painting of a blue and silver sports car.,car,0.9952135,G
+car5-bottle1,2024-01-14 03:47:45,The image is a photomosaic of a red Volkswagen Beetle.,car,0.9756832,G
+car7-airplane2,2024-01-14 03:47:50,The image is of a blue and yellow futuristic car.,car,0.9994967,G
+car8-bicycle2,2024-01-14 03:47:57,The image is a photo of a silver sports car.,car,0.9989458,G
+car4-boat1,2024-01-14 03:48:03,The image is an abstract painting of a red car.,car,0.9998294,G
+car2-bird3,2024-01-14 03:48:10,The image is a painting of a wrecked car.,car,0.98629797,G
+car10-elephant2,2024-01-14 03:48:15,The image shows a close-up of an elephant's skin.,elephant,1.0,L
+car6-bottle1,2024-01-14 03:48:21,The image is a photomosaic of a silver car made out of liquor bottles.,bottle,0.9933895,"G, F"
+car4-car2,2024-01-14 03:48:27,The image is a red and yellow sports car.,car,0.99934584,G
+car3-elephant3,2024-01-14 03:48:33,The image shows a close-up of an elephant's skin with a car imprinted on it.,elephant,0.99977463,G
+car1-keyboard2,2024-01-14 03:48:40,A black and white photo of a typewriter.,keyboard,0.80709374,M
+car4-bear3,2024-01-14 03:48:46,The image is a close up of a brown and black tarantula.,airplane,0.54012907,X
+car5-keyboard3,2024-01-14 03:48:52,A photo of a black calculator.,airplane,0.39606562,X
+car10-bottle3,2024-01-14 03:48:58,A green car is covered in Japanese writing.,car,0.99943715,G
+car7-elephant3,2024-01-14 03:49:04,The image shows a close-up of an elephant's skin with a car superimposed on it.,elephant,0.99958986,G
+car9-truck3,2024-01-14 03:49:10,The image is a watercolor painting of a yellow Mini Cooper car.,car,0.99244046,G
+car2-chair1,2024-01-14 03:49:16,The image is a photo of a car. The car is pink and black. The car is parked in a parking lot.,car,0.9996915,G
+car9-bird1,2024-01-14 03:49:22,The image is a photo of a Mini Cooper car.,car,0.9995586,G
+car3-bottle3,2024-01-14 03:49:27,The image is a green car made of glass. The car is in front of a white background.,car,0.9992743,G
+car4-elephant3,2024-01-14 03:49:33,The image shows a fossil of a frog embedded in a rock.,elephant,0.42998138,X
+car2-knife3,2024-01-14 03:49:39,The image is a photograph of a camera lens.,airplane,0.96018374,X
+car9-bicycle2,2024-01-14 03:49:45,The image is a photo of a Mini Cooper Countryman.,car,0.9784266,G
+car7-clock1,2024-01-14 03:49:51,The image is a painting of a car. The car is in the center of the image and is surrounded by clocks.,car,0.6287488,G
+car2-cat3,2024-01-14 03:49:57,The image is an abstract painting of a car.,car,0.9997776,G
+car4-bird1,2024-01-14 03:50:02,The image is a blue and white sports car.,car,0.99938905,G
+car9-cat1,2024-01-14 03:50:08,"The image looks like a photo of a brown furry animal, possibly a dog or a cat, sleeping on a white furry blanket.",cat,0.6095815,"H, K"
+car8-cat1,2024-01-14 03:50:15,A cat is sleeping on a white carpet.,cat,0.9999994,H
+car7-bear1,2024-01-14 03:50:20,The image is of a brown dog sleeping on a fur blanket.,dog,0.9359919,H
+car9-clock2,2024-01-14 03:50:27,The image is a Mini Cooper car.,car,0.9993631,G
+car4-clock1,2024-01-14 03:50:32,The image is a painting of a brain. The brain is depicted as a clock.,clock,0.9999999,J
+car4-bottle1,2024-01-14 03:50:38,The image is a mosaic of many different images of liquor bottles.,bottle,0.99999964,F
+car7-keyboard3,2024-01-14 03:50:45,The image shows a black toy car on a white surface.,car,0.95128345,G
+car5-oven2,2024-01-14 03:50:51,The image is of the front of a vintage car with a partial view of the windshield.,car,0.9986706,G
+car1-chair3,2024-01-14 03:50:56,"The image is a blue, pixelated mess.",airplane,0.9334744,X
+car7-boat3,2024-01-14 03:51:02,The image is of a futuristic car with a green and red body and a black roof. The car is surrounded by a colorful background.,car,0.99986684,G
+car10-keyboard2,2024-01-14 03:51:08,Black handgun on a table.,airplane,0.6092695,X
+car1-car2,2024-01-14 03:51:14,The image is of a red and black sports car.,car,0.9996437,G
+car7-bird3,2024-01-14 03:51:20,The image is a painting of a red and brown sports car.,car,0.9996344,G
+car1-clock2,2024-01-14 03:51:26,The image shows a car.,car,0.9990101,G
+car8-airplane3,2024-01-14 03:51:32,The image is a colorful 3D rendering of a futuristic sports car.,car,0.99698037,G
+car3-oven3,2024-01-14 03:51:38,The image is a photo of a gas station.,airplane,0.71118027,X
+car1-dog2,2024-01-14 03:51:44,The image is a close-up of a fur coat.,dog,0.66674024,X
+car6-elephant3,2024-01-14 03:51:50,The image shows a close up of an elephant's skin with a marking that resembles a flower.,elephant,0.9999995,L
+car9-knife1,2024-01-14 03:51:55,The image is a painting of a brown and white Mini Cooper car.,car,0.99946016,G
+car10-bicycle2,2024-01-14 03:52:02,The image is a photo of a silver car.,car,0.9997961,G
+car6-bear1,2024-01-14 03:52:08,The image is a close up of brown fur.,dog,0.9153502,B
+car6-boat1,2024-01-14 03:52:13,The image is an abstract painting of a car.,car,0.9997776,G
+car4-oven2,2024-01-14 03:52:19,The image is a close-up of the front of a black retro car.,car,0.9992975,G
+car7-dog3,2024-01-14 03:52:25,This is a close-up picture of a tarantula.,airplane,0.42188814,X
+car5-airplane3,2024-01-14 03:52:32,The image shows a front view of a brown vintage car with a white background.,car,0.99828845,G
+car6-knife1,2024-01-14 03:52:38,The image is a close-up of the front wheel of a Mercedes Benz.,bicycle,0.63662696,G
+car5-truck3,2024-01-14 03:52:44,The image shows a yellow car.,car,0.998278,G
+car6-chair3,2024-01-14 03:52:50,The image looks like a bunch of blue and white blocks stacked together.,airplane,0.8722931,X
+car7-car1,2024-01-14 03:52:56,The image is an abstract painting of a red car.,car,0.9998294,G
+car1-airplane1,2024-01-14 03:53:02,The image is a photo of a car.,car,0.99980074,G
+car9-keyboard2,2024-01-14 03:53:08,A black rotary phone.,clock,0.5416789,F
+car6-bicycle3,2024-01-14 03:53:14,A pink and gray image of a car's wheel and part of its body.,car,0.99598795,G
+car8-truck3,2024-01-14 03:53:20,The image is a yellow car with blue seats.,car,0.9953117,G
+dog3-elephant2,2024-01-14 03:53:26,"The image is a depiction of a person with long hair, possibly screaming. The background is beige and the foreground is brown.",clock,0.43086627,X
+dog4-bicycle1,2024-01-14 03:53:32,The image is a photo of a bunch of metal scraps that are formed into the shape of a human head.,airplane,0.92895013,X
+dog10-airplane1,2024-01-14 03:53:38,A collage of a black dog made of newsprint.,dog,0.9975896,K
+dog5-truck2,2024-01-14 03:53:43,The image is an abstract painting. It has a red and white color scheme. There are geometric shapes throughout the painting.,airplane,0.8277042,X
+dog3-boat1,2024-01-14 03:53:51,"The image is an abstract painting of a person's face. The face is made up of many different colors, and the person is wearing a blue and red hat. The background is a light blue color.",bottle,0.46975002,X
+dog10-car3,2024-01-14 03:53:56,A photo of a dog in a red scarf sitting in a red car.,car,0.95892775,G
+dog2-dog3,2024-01-14 03:54:03,The image is a close-up of a white dog's face. The dog has brown eyes and brown fur on its ears and around its nose.,dog,0.9984876,"H, K"
+dog3-clock1,2024-01-14 03:54:09,A clockwork dog sits in front of a colorful background.,clock,0.830268,K
+dog3-dog1,2024-01-14 03:54:15,The image is a painting of a brown dog with long hair. The dog is lying down on a white fur blanket.,dog,0.9966022,K
+dog4-cat3,2024-01-14 03:54:21,The image is a side profile of a brown dog.,dog,0.99992394,K
+dog10-oven2,2024-01-14 03:54:27,A black panther is lying on a wooden floor.,elephant,0.6305092,X
+dog9-airplane3,2024-01-14 03:54:32,A painting of a black dachshund wearing a harness.,dog,0.9811593,H
+dog10-clock1,2024-01-14 03:54:38,The image shows a brown dog lying down.,dog,0.9999229,K
+dog9-bottle1,2024-01-14 03:54:44,The image is of a dog made out of bottles. The background is a bunch of different colored bottles.,bottle,0.99936885,"F, K"
+dog8-dog3,2024-01-14 03:54:50,The image shows a dog with long brownish-red fur standing on a white surface.,dog,0.9994343,H
+dog3-bear3,2024-01-14 03:54:56,The image is a depiction of a dog made of fur.,dog,0.999726,H
+dog7-oven2,2024-01-14 03:55:02,The image is a photo of a person in a black suit.,airplane,0.91790974,X
+dog3-knife3,2024-01-14 03:55:09,A black dog with a long snout is lying down. The dog has a white patch of fur on its chest and white paws. The background is grey and white.,dog,0.9999479,K
+dog8-bear3,2024-01-14 03:55:14,A photo of an elephant from behind.,elephant,1.0,L
+dog6-clock1,2024-01-14 03:55:21,The image is a colorful portrait of a boxer dog.,dog,0.9915379,K
+dog8-boat3,2024-01-14 03:55:27,The image is an abstract painting of an elephant.,elephant,1.0,L
+dog9-car1,2024-01-14 03:55:33,An abstract painting of a red car.,car,0.9999119,G
+dog3-bird2,2024-01-14 03:55:39,A black Labrador Retriever puppy is sitting on a white surface. The puppy is looking at the camera with its mouth slightly open.,dog,0.9998921,X
+dog5-bear3,2024-01-14 03:55:46,The image is a close-up of a brown dog's face.,dog,0.9999727,K
+dog5-boat3,2024-01-14 03:55:52,The image is a colorful portrait of a person. The colors are vibrant and the image has a lot of detail.,airplane,0.8350446,X
+dog4-elephant2,2024-01-14 03:55:58,The image is a sepia toned etching of a Shar Pei dog in profile.,dog,0.99785894,H
+dog2-bicycle2,2024-01-14 03:56:04,The image is a close-up of a motorcycle engine.,airplane,0.55792135,X
+dog10-dog1,2024-01-14 03:56:10,"The image is a seamless pattern of long, wavy, light brown fur.",dog,0.8235578,X
+dog5-car3,2024-01-14 03:56:16,The image is a photo of a red car.,car,0.99981815,G
+dog10-bottle1,2024-01-14 03:56:23,The image is a mosaic of a dog made out of pictures of bottles of alcohol.,bottle,0.9935135,F
+dog8-keyboard3,2024-01-14 03:56:29,A black suitcase sits on a reflective surface.,airplane,0.9990728,X
+dog4-bird1,2024-01-14 03:56:35,A grayscale image of a dog.,dog,0.99997914,K
+dog4-chair1,2024-01-14 03:56:42,Red velvet theater seats.,chair,0.99865484,X
+dog9-chair2,2024-01-14 03:56:48,The image is of a wooden chair in front of a stone building.,chair,0.9999907,I
+dog4-airplane3,2024-01-14 03:56:53,The image is of a dog wearing a welding mask.,dog,0.99987006,K
+dog9-bear3,2024-01-14 03:56:59,The image is a photo of a llama.,elephant,0.9746174,X
+dog10-elephant1,2024-01-14 03:57:05,A dog made of elephant skin.,elephant,0.99921894,K L
+dog1-chair1,2024-01-14 03:57:12,The image is of a bunch of red and pink seats.,chair,0.8839334,X
+dog9-bicycle3,2024-01-14 03:57:18,The image is of a dog made out of metal rods and wires.,dog,0.9996151,K
+dog2-cat1,2024-01-14 03:57:24,The image is a close-up of a dog's face. The dog has light fur with some brown patches. Its eyes are dark brown and its nose is black.,dog,0.99992836,H
+dog1-knife3,2024-01-14 03:57:29,The image is a painting of a dog. The dog is white and grey with black eyes.,dog,0.99982435,H
+dog4-clock1,2024-01-14 03:57:36,The image is a depiction of a dog made out of numbers and letters.,dog,0.99966395,K
+dog9-boat1,2024-01-14 03:57:41,The image is an abstract painting of a horse.,elephant,0.85695386,X
+dog9-cat1,2024-01-14 03:57:47,A brown dog sits on a white fur blanket.,dog,0.99749607,K
+dog2-knife3,2024-01-14 03:57:53,The image is a depiction of a person's face.,airplane,0.89137465,X
+dog7-bird3,2024-01-14 03:57:59,The image is a photo of a brown dog with a white spot on its chest. The dog is looking at the camera with a serious expression.,dog,0.99932337,K
+dog1-bear1,2024-01-14 03:58:05,The image is a close-up of a brown dog's face.,dog,0.9999727,K
+dog2-airplane2,2024-01-14 03:58:10,The image is an abstract painting of a dog.,dog,0.9996505,H
+dog4-bottle2,2024-01-14 03:58:17,The image is a silhouette of the continent of Africa made out of wine bottles.,bottle,0.9999912,F
+dog1-boat3,2024-01-14 03:58:23,The image is an abstract painting. It is made up of bright colors and shapes. There is no clear subject matter.,airplane,0.99456763,X
+dog1-car2,2024-01-14 03:58:29,The image is an abstract painting with bright colors and a lot of detail. It is hard to distinguish objects within the painting.,airplane,0.9941071,X
+dog10-keyboard2,2024-01-14 03:58:36,A black and white photo of a dog.,dog,0.99997246,K
+dog4-truck2,2024-01-14 03:58:42,"The image is an abstract painting with a red, white, and pink color scheme. It appears to be a close-up of a car grill.",car,0.9849487,G
+dog7-chair2,2024-01-14 03:58:48,The image is a sculpture of a person's head made of wood.,chair,0.6728464,X
+dog1-dog2,2024-01-14 03:58:54,"A small, white dog with light brown eyes and a light brown nose is looking at the camera. The dog's fur is fluffy and looks soft. The background is a blur of light and dark colors.",dog,0.99974114,"H. cat
+X"
+dog1-airplane3,2024-01-14 03:59:01,The image is a photo of a white airplane.,airplane,1.0,A
+dog8-bottle2,2024-01-14 03:59:07,The image is a photo of a bunch of colorful bottles.,bottle,1.0,F
+dog7-knife3,2024-01-14 03:59:12,The image looks like a person-shaped statue made of stone.,airplane,0.37920818,X
+dog8-oven3,2024-01-14 03:59:18,The image is an elephant made of metal with a telephone receiver for a head.,elephant,0.99999964,X
+dog1-bird1,2024-01-14 03:59:24,A blue dog made of plastic.,dog,0.9999658,K
+dog5-oven1,2024-01-14 03:59:30,The image is a black and white portrait of a person. The person's face is obscured by several horizontal lines.,airplane,0.9645434,X
+dog6-cat1,2024-01-14 03:59:36,The image shows a brown and white dog lying on a white fur blanket. The dog has its tongue out and looks like it is panting.,dog,0.9996687,K
+dog3-keyboard1,2024-01-14 03:59:42,A black dog is lying on the ground.,dog,0.9999813,K
+dog1-cat3,2024-01-14 03:59:48,The image is a photo of a dog. It is a small breed and looks like it is a mix of multiple breeds. The dog has light fur with some darker patches. The dog is looking at the camera and has its mouth slightly open.,dog,0.9999809,H
+dog5-elephant1,2024-01-14 03:59:54,The image is a depiction of a dog's face. The dog appears to be a golden retriever and has a happy expression. The image is highly stylized and looks like it was created using a computer program.,dog,0.9997913,K
+dog8-clock2,2024-01-14 04:00:00,A photo of a dog with a sepia tone filter.,dog,0.99985266,K
+dog3-truck2,2024-01-14 04:00:06,The image is an abstract painting with a red shape in the center.,airplane,0.7723567,X
+dog7-keyboard3,2024-01-14 04:00:12,"The image is a photograph of a person's face. The face is partially obscured by a hand, and the person is wearing a hat. The background is a blur of light and dark colors.",airplane,0.85411155,X
+dog10-truck2,2024-01-14 04:00:18,The image is a close-up of the front of a red semi-truck.,truck,0.99999774,P
+dog6-bird1,2024-01-14 04:00:24,A blue dog wearing a collar.,dog,0.9999956,K
+dog2-bottle2,2024-01-14 04:00:30,The image looks like a bunch of colorful bottles.,bottle,1.0,F
+dog6-bicycle1,2024-01-14 04:00:36,The image is a bunch of metal pieces arranged in a circular shape with red accents.,clock,0.5694778,X
+dog6-truck2,2024-01-14 04:00:41,The image is an abstract painting of a car.,car,0.9997776,G
+dog6-elephant2,2024-01-14 04:00:47,The image is a close-up of an elephant's skin.,elephant,1.0,L
+dog4-keyboard2,2024-01-14 04:00:53,The image is a photo of a black umbrella.,airplane,0.9497885,X
+dog5-knife2,2024-01-14 04:00:59,"The image is a dark, grungy close up of a face. The face seems to be made of metal, with rivets and screws holding it together. The eyes are glowing red, and the mouth is open in a grimace.",bottle,0.54420584,X
+dog10-bicycle1,2024-01-14 04:01:05,The image is a photo of a black dog lying on a pile of scrap metal.,dog,0.99104804,K
+dog4-oven1,2024-01-14 04:01:11,A photo of a black and white cat looking to the right.,cat,0.99999297,H
+dog8-chair3,2024-01-14 04:01:17,The image is an abstract painting of an elephant.,elephant,1.0,L
+dog7-car2,2024-01-14 04:01:23,The image is an abstract portrait of a woman.,airplane,0.7847244,X
+bear3-airplane1,2024-01-14 04:01:29,The image is a photo of a polar bear walking on ice.,bear,0.9998332,B
+bear8-truck3,2024-01-14 04:01:36,The image is a colorful abstract painting.,airplane,0.9794988,X
+bear2-cat2,2024-01-14 04:01:41,The image is a close-up of a lynx's fur.,cat,0.994568,H
+bear6-chair1,2024-01-14 04:01:47,The image is a bunch of red and pink chairs in a theater.,chair,0.99998975,I
+bear10-cat2,2024-01-14 04:01:54,The image is a close-up of a lynx's fur.,cat,0.994568,H
+bear10-oven1,2024-01-14 04:01:59,The image is a greyscale photo of a polar bear.,bear,0.9999423,B
+bear3-cat1,2024-01-14 04:02:05,A red fox sleeping on a white surface.,bear,0.7619616,X
+bear5-bicycle3,2024-01-14 04:02:12,The image is a photo of a metal sculpture of a bear standing on a bed of nails. The bear is made of twisted metal rods and has a snarling expression on its face. The nails are arranged in a grid pattern and are pointing upwards. The background is a blurred image of a forest.,bear,0.99994326,X
+bear8-bottle1,2024-01-14 04:02:18,The image is a photomosaic of a bear made out of pictures of bottles.,bottle,0.98225486,"B, F"
+bear4-boat2,2024-01-14 04:02:24,The image is an abstract painting of a red bull.,airplane,0.76218975,X
+bear3-chair2,2024-01-14 04:02:30,The image is a photo of a large room filled with chairs.,chair,0.9999856,I
+bear6-clock1,2024-01-14 04:02:36,"Colorful, abstract painting with a face in the center.",airplane,0.9110665,X
+bear2-bird3,2024-01-14 04:02:43,The image is a painting of a bear standing on its hind legs. The bear is brown and has a large head with a long snout. Its fur is matted and it has a scar on its left cheek. The background is a blur of light brown and white.,bear,0.99998224,B
+bear4-car3,2024-01-14 04:02:49,The image is an abstract painting of a car.,car,0.9997776,G
+bear3-bicycle2,2024-01-14 04:02:55,The image is a close-up of a bicycle chain.,bicycle,0.9999995,C
+bear9-boat2,2024-01-14 04:03:01,The image is a cubism-style painting of a bear.,bear,0.999997,B
+bear10-truck1,2024-01-14 04:03:06,A red car is shown in the image.,car,0.9991737,G
+bear7-truck1,2024-01-14 04:03:13,The image is of a red car.,car,0.9993861,G
+bear5-bird1,2024-01-14 04:03:18,The image is a blue and grey bear on a white background.,bear,0.9999981,B
+bear4-elephant2,2024-01-14 04:03:24,The image looks like a sepia-toned etching of an elephant's head on a background of wrinkled leather.,elephant,0.9999995,L
+bear2-keyboard2,2024-01-14 04:03:30,A black laptop on a white surface.,keyboard,0.8564435,X
+bear9-knife2,2024-01-14 04:03:36,"The image is a dark, grungy portrait of a man with a beard.",bottle,0.2988924,X
+bear4-knife1,2024-01-14 04:03:41,The image is a depiction of a brown bear.,bear,0.9999857,B
+bear3-car2,2024-01-14 04:03:47,The image looks like a bunch of car parts all mixed together.,car,0.9976961,G
+bear2-car2,2024-01-14 04:03:54,The image is an abstract painting of a bear.,bear,0.99999726,B
+bear1-clock2,2024-01-14 04:04:00,The image is a watercolor painting of a polar bear sitting on an ice floe.,bear,0.9964079,B
+bear10-car2,2024-01-14 04:04:06,The image looks like a bunch of toy cars all jumbled up together.,car,0.9115484,G
+bear4-clock3,2024-01-14 04:04:12,The image is a photo of a teddy bear made out of clocks.,clock,0.98174024,"B, J"
+bear8-bicycle3,2024-01-14 04:04:18,The image is a pink and purple abstract painting of a bear.,bear,0.99981135,B
+bear8-bear1,2024-01-14 04:04:24,The image is a depiction of a brown bear from behind.,bear,0.99999225,B
+bear10-bottle1,2024-01-14 04:04:30,The image is a mosaic of many different images of bottles. The bottles are arranged in the shape of a bear.,bottle,0.99389017,B
+bear1-chair2,2024-01-14 04:04:35,Chairs stacked up in a room.,chair,0.9999999,I
+bear2-dog1,2024-01-14 04:04:41,The image is a depiction of a bear created with fur.,bear,0.9999993,B
+bear5-boat2,2024-01-14 04:04:48,The image is a colorful and abstract depiction of a bear.,bear,0.999997,B
+bear4-cat3,2024-01-14 04:04:54,The image is a depiction of a bear.,bear,0.9999988,B
+bear7-oven3,2024-01-14 04:04:59,The image is a computer generated image of an elephant.,elephant,1.0,L
+bear3-dog3,2024-01-14 04:05:06,A dog is lying on a fur carpet.,dog,0.9993998,K
+bear8-boat2,2024-01-14 04:05:13,The image is a watercolor painting of a bear.,bear,0.9999932,B
+bear3-bird3,2024-01-14 04:05:19,A brown bear is walking on all fours.,bear,0.9999893,B
+bear8-dog1,2024-01-14 04:05:26,The image looks like a photo of a brown bear taken from a distance. The bear seems to be walking towards the camera.,bear,0.9999927,B
+bear9-dog1,2024-01-14 04:05:32,The image is a close-up of a brown bear's fur.,bear,0.99999523,B
+bear10-elephant1,2024-01-14 04:05:39,The image shows a close up of an elephant's skin.,elephant,1.0,L
+bear9-bottle2,2024-01-14 04:05:45,The image is a photo of a bunch of empty wine bottles.,bottle,0.9999956,F
+bear6-car2,2024-01-14 04:05:52,The image is an abstract painting with bright colors and a lot of detail. It is hard to distinguish what the subject is.,airplane,0.9918297,X
+bear2-oven1,2024-01-14 04:05:58,A blurry photo of a capybara.,dog,0.6247207,X
+bear2-elephant1,2024-01-14 04:06:04,The image is a close-up of an elephant's skin.,elephant,1.0,L
+bear10-bear2,2024-01-14 04:06:11,"The image is a close-up of a polar bear's face. The bear is looking down and to the left of the frame. Its fur is white and beige, and its eyes are dark brown. The background is a blur of white and beige.",bear,0.99997663,B
+bear10-clock1,2024-01-14 04:06:18,The image is a colorful and abstract depiction of a horse's head. The colors are vibrant and the image is full of energy and movement.,elephant,0.96044433,X
+bear7-clock1,2024-01-14 04:06:25,The image is a depiction of a steampunk style robot.,airplane,0.4004261,X
+bear6-bird2,2024-01-14 04:06:31,The image is a depiction of a person with their arms raised. The person seems to be screaming or yelling.,airplane,0.563116,X
+bear8-airplane1,2024-01-14 04:06:37,The image is a photo of a bear made up of many photos of text.,bear,0.99999726,B
+bear4-keyboard3,2024-01-14 04:06:43,Black headphones are floating in a brownish liquid.,bottle,0.8542324,X
+bear2-knife2,2024-01-14 04:06:49,The image is a dark colored bear made out of metal.,bear,0.999946,B
+bear3-keyboard2,2024-01-14 04:06:54,Black keyboard with white keys.,keyboard,1.0,M
+bear7-dog3,2024-01-14 04:07:01,The image is a close-up of a brown bear's face. The bear is looking to the left of the frame. Its fur is dark brown and beige.,bear,0.99999654,B
+bear6-boat3,2024-01-14 04:07:09,"The image is an abstract painting. It has a tree-like structure in the center, with branches that are made up of different colors and shapes. The colors are mostly blue, green, and red. The painting has a very surreal and dreamlike quality to it.",airplane,0.93102676,X
+bear10-knife2,2024-01-14 04:07:14,The image looks like a bunch of random objects and colors mashed together.,airplane,0.98171324,X
+bear4-oven2,2024-01-14 04:07:20,Black and white photo of a person sitting in a chair.,chair,0.99999917,I
+bear4-truck3,2024-01-14 04:07:26,The image is an abstract painting. It is colorful and has a lot of detail. There are many different shapes and colors in the painting. The painting is very unique and interesting.,airplane,0.979661,X
+bear10-keyboard3,2024-01-14 04:07:32,A black dog is lying on a white surface.,dog,0.99997485,K
+bear5-bottle1,2024-01-14 04:07:39,The image is a mosaic of a bear made out of pictures of bottles of alcohol.,bottle,0.664334,"B, F"
+bear6-bear1,2024-01-14 04:07:45,The image is a close-up of brown fur.,dog,0.8968112,B
+bear10-chair2,2024-01-14 04:07:51,The image is of a bunch of chairs stacked up in a room.,chair,0.99999523,I
+bear1-elephant1,2024-01-14 04:07:57,The image is a close-up of an elephant's skin.,elephant,1.0,L
+bear1-airplane3,2024-01-14 04:08:04,The image is of a polar bear sitting on ice.,bear,0.9998925,B
+bear5-airplane3,2024-01-14 04:08:10,The image shows a bear standing on a snowy field. The bear is brown and white. It has a large head and sharp teeth. The bear is looking at the viewer.,bear,0.9999869,B
+bear1-bear3,2024-01-14 04:08:16,A wet beaver is walking on the grass.,dog,0.99701,X
+bear3-truck3,2024-01-14 04:08:22,"The image is a colorful abstract painting with blue, orange, and yellow hues.",airplane,0.9643088,X
+bear9-keyboard3,2024-01-14 04:08:28,The image is a black and white photo of a computer keyboard with a white background.,keyboard,0.9999809,M
+bear1-bicycle3,2024-01-14 04:08:35,The image is a photo of a bear made of metal shavings.,bear,0.9999938,B
+bear6-bottle3,2024-01-14 04:08:41,The image is an abstract painting. It has bright green and light blue colors. There is a lot of detail in the painting. It is hard to tell what the subject of the painting is.,airplane,0.98122245,X
+bear6-cat3,2024-01-14 04:08:47,The image is a close up of a polar bear's paw.,bear,0.999057,B
+bear5-chair1,2024-01-14 04:08:54,Pink and black chairs in a theater.,chair,0.9999982,I
+bear8-elephant2,2024-01-14 04:09:00,The image is a close-up of an elephant's face. The skin is wrinkled and cracked.,elephant,1.0,L
+bear7-bear2,2024-01-14 04:09:06,The image is a photo of a brown bear.,bear,0.9999919,B
+bear2-airplane1,2024-01-14 04:09:12,The image is a photo of a bear that looks like it was made of paper.,bear,0.99983513,B
+bear7-bicycle2,2024-01-14 04:09:18,The image is a photo of a bicycle with a bunch of other objects on top of it.,bicycle,0.9999988,C
+bear8-knife3,2024-01-14 04:09:24,The image is a dark silhouette of a bear made out of raindrops.,bear,0.9999163,B
+bear5-oven3,2024-01-14 04:09:30,The image is of an elephant made out of circuit boards.,elephant,1.0,L
+bear1-bird2,2024-01-14 04:09:35,A polar bear is sitting on the ice.,bear,0.9999865,B
+boat1-keyboard3,2024-01-14 04:09:42,The image is a close-up of a person's hand holding a black object. The object is a phone. The hand is holding the phone from the bottom. The background is white.,airplane,0.90565604,X
+boat2-bottle2,2024-01-14 04:09:47,The image is a photo of a bunch of wine bottles.,bottle,0.9999976,F
+boat7-elephant3,2024-01-14 04:09:53,The image shows a close up of an elephant's foot.,elephant,0.99999964,L
+boat3-bicycle2,2024-01-14 04:09:59,The image is of a motorcycle.,truck,0.5755953,X
+boat4-bicycle3,2024-01-14 04:10:06,The image is a colorful abstract painting with a lot of detail.,airplane,0.98949426,X
+boat3-chair3,2024-01-14 04:10:12,The image is of blue and gray blocks arranged in a seemingly random pattern.,airplane,0.9177143,X
+boat10-truck1,2024-01-14 04:10:18,The image is an abstract painting. It is red and has a lot of texture.,airplane,0.94974583,X
+boat6-clock2,2024-01-14 04:10:25,The image is a depiction of a feather.,bird,0.92828006,D
+boat9-airplane2,2024-01-14 04:10:31,"The image is an abstract painting of a ship. The ship is blue and yellow, and the background is white with some blue. The ship is in the center of the image.",airplane,0.532293,E
+boat6-bear1,2024-01-14 04:10:37,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+boat3-car3,2024-01-14 04:10:43,The image is a colorful abstract painting.,airplane,0.9794988,X
+boat7-bottle1,2024-01-14 04:10:49,The image is a photomosaic of a liquor bottle.,bottle,1.0,F
+boat10-oven1,2024-01-14 04:10:55,The image is of a spaceship. It is gray and black. It has the number 65 on it.,airplane,0.992531,X
+boat5-bicycle3,2024-01-14 04:11:02,The image is an abstract painting. It has a lot of different colors and shapes. There are some lines that look like they could be the outlines of people or objects. The painting is very busy and it is hard to make out what it is supposed to be.,airplane,0.9937158,X
+boat8-dog3,2024-01-14 04:11:08,The image is of a white cat and a brown cat lying together.,cat,0.99999774,H
+boat9-dog2,2024-01-14 04:11:15,The image is a texture of beige fur.,dog,0.78643465,X
+boat3-clock3,2024-01-14 04:11:21,Many clocks of different sizes are scattered across the image.,clock,1.0,J
+boat2-keyboard1,2024-01-14 04:11:27,A black and white image of a spider on a rock.,airplane,0.54353243,X
+boat3-dog3,2024-01-14 04:11:33,The image is of a white and brown dog. The dog is looking at the camera.,dog,0.99997365,K
+boat2-oven3,2024-01-14 04:11:39,The image is a painting of a room with a lot of machinery and a car.,car,0.9852196,G
+boat4-elephant2,2024-01-14 04:11:45,The image is a close up of an elephant's skin.,elephant,1.0,L
+boat6-knife2,2024-01-14 04:11:51,The image is of a black feather with a red tip. It is on a white background.,bird,0.9121422,D
+boat8-truck2,2024-01-14 04:11:58,The image is an abstract painting. It has a red and white color scheme. There are no recognizable objects in the painting.,airplane,0.9771547,X
+boat7-boat2,2024-01-14 04:12:04,The image is an abstract painting. It has a lot of bright colors and shapes. It looks like a boat.,boat,0.9999794,E
+boat3-cat3,2024-01-14 04:12:11,The image is a painting of a lion lying on a rock. The lion is in the foreground and is looking out at the viewer. The background is a blur of trees and sky. The painting is done in a realistic style and the colors are muted.,airplane,0.5125891,X
+boat4-bottle2,2024-01-14 04:12:16,The image is of a bunch of colorful bottles and jars.,bottle,0.99999976,F
+boat8-oven1,2024-01-14 04:12:22,The image is a greyscale painting of a bunch of blocks stacked together going up at an angle.,airplane,0.9266261,X
+boat1-bird3,2024-01-14 04:12:29,"The image is an abstract painting. It has a light background with a dark shape in the center. The shape is made up of many different colors, including red, orange, yellow, and green. The painting has a very soft and dreamy feel to it.",airplane,0.823392,X
+boat9-clock1,2024-01-14 04:12:36,The image is an abstract painting of a ship.,boat,0.90535927,E
+boat1-chair3,2024-01-14 04:12:43,The image is of an empty theater with blue and white seats.,airplane,0.9585675,X
+boat9-cat3,2024-01-14 04:12:50,The image is of an old ship in a rough sea. The ship is made of wood and has sails. The sea is rough and there are waves crashing over the ship. The sky is cloudy and there is a storm brewing.,boat,0.9978969,E
+boat4-dog2,2024-01-14 04:12:56,The image is a close-up of a white fur coat.,dog,0.6946222,X
+boat9-knife2,2024-01-14 04:13:02,The image is of a ship.,boat,0.99433184,E
+boat7-truck2,2024-01-14 04:13:07,The image is a close-up of a red car door handle.,car,0.998066,G
+boat4-chair2,2024-01-14 04:13:13,The image is a bunch of chairs in a room.,chair,0.9999993,I
+boat3-airplane2,2024-01-14 04:13:21,The image is a painting of a blue and yellow striped object that looks like a box or a car.,car,0.5546323,G
+boat4-knife2,2024-01-14 04:13:27,The image looks like a bunch of photos merged together.,airplane,0.94266635,X
+boat9-chair2,2024-01-14 04:13:33,The image is a bunch of wooden chairs stacked together.,chair,0.9999989,I
+boat1-bear1,2024-01-14 04:13:39,The image is a close-up of brown and white fur.,dog,0.8104157,X
+boat8-bottle1,2024-01-14 04:13:45,The image is a photomosaic of bottles of alcohol.,bottle,0.9999995,F
+boat4-car3,2024-01-14 04:13:51,The image is an abstract painting. It is made up of bright colors and shapes. There is no clear subject matter.,airplane,0.99456763,X
+boat5-car3,2024-01-14 04:13:57,The image is an abstract painting. It has a red background. There are some objects in the foreground. They look like car parts.,car,0.93238693,G. car
+boat6-cat1,2024-01-14 04:14:03,"The image is a close-up of a cat's paw. The fur is brown and white, and the paw is resting on a soft surface.",cat,0.9999386,H
+boat4-boat3,2024-01-14 04:14:09,"The image is an abstract painting. It is made up of various shapes and colors. The colors are mostly blue, green, and pink. The shapes are mostly round and organic. The painting has a dreamlike quality to it.",airplane,0.93479633,X
+boat8-elephant1,2024-01-14 04:14:15,The image is a close up of an elephant's skin.,elephant,1.0,L
+boat2-bird1,2024-01-14 04:14:21,The image is a close-up of a shoe. The shoe is blue and white. The image is blurry.,airplane,0.94384265,X
+boat6-airplane2,2024-01-14 04:14:27,A blue and yellow abstract painting of a bird with a long tail.,bird,0.99775875,D
+boat6-bottle2,2024-01-14 04:14:34,Bottles of various colors and sizes with a silhouette of a person.,bottle,1.0,F
+boat9-boat3,2024-01-14 04:14:42,The image is an abstract painting of a ship.,boat,0.90535927,E
+boat2-airplane1,2024-01-14 04:14:48,The image is a photo of a white and red boat.,boat,1.0,E
+boat7-chair1,2024-01-14 04:14:54,The image is a photo of an empty theater with pink seats.,airplane,0.9229461,X
+boat7-cat3,2024-01-14 04:15:01,The image is a close-up of a spider's face.,dog,0.35518202,X
+boat9-bear3,2024-01-14 04:15:06,The image is of a porcupine.,dog,0.8767225,X
+boat1-car2,2024-01-14 04:15:13,The image is an abstract painting of a red car.,car,0.9998294,G
+boat10-boat3,2024-01-14 04:15:18,The image is an abstract painting of a boat.,boat,0.99999976,E
+boat2-bear3,2024-01-14 04:15:24,"The image is a close-up of a cat's eye. The fur around the eye is brown and beige. The eye is dark brown and surrounded by long, dark lashes.",cat,0.99999046,H
+boat5-airplane1,2024-01-14 04:15:30,The image is a collage of photos of fighter jets.,airplane,0.9999968,A
+boat9-keyboard2,2024-01-14 04:15:36,The image is a photo of a typewriter.,airplane,0.6097855,M
+boat10-bear3,2024-01-14 04:15:42,A close up of a brown spider's eye.,dog,0.4530433,X
+boat4-bird1,2024-01-14 04:15:48,The image is a painting of a stormy sea.,boat,0.5861665,X
+boat1-truck3,2024-01-14 04:16:00,The image is an abstract painting of a car. The colors are vibrant and the image is full of energy.,car,0.9984028,G
+boat7-clock3,2024-01-14 04:16:10,Black and white photo of a woman's legs with clocks.,clock,1.0,J
+boat10-cat1,2024-01-14 04:16:16,A cat is sleeping on a fur blanket.,cat,0.99998665,H
+boat9-bird1,2024-01-14 04:16:22,A grayscale painting of a ship at sea.,boat,0.98024416,E. boat
+boat5-boat3,2024-01-14 04:16:29,The image is an abstract painting of a ship. It has a colorful background with a blue and green foreground. There are some red and white shapes on the ship.,boat,0.753856,X
+boat6-truck3,2024-01-14 04:16:35,"A photo of a car interior, driver's perspective.",car,0.99952257,G
+boat5-knife2,2024-01-14 04:16:42,The image looks like an abstract painting. There are different colors and shapes. The colors are mostly muted and the shapes are mostly organic.,airplane,0.95566016,X
+boat6-car1,2024-01-14 04:16:49,"The image is of a red, yellow, and blue kayak on top of many cars.",boat,0.9577285,X
+boat7-oven3,2024-01-14 04:16:54,The image is of a computer.,airplane,0.8273992,X
+boat1-elephant3,2024-01-14 04:17:00,The image shows the skin of an elephant.,elephant,1.0,L
+boat3-keyboard2,2024-01-14 04:17:06,Black and grey typewriter.,keyboard,0.9996952,M
+boat8-knife1,2024-01-14 04:17:12,"The image is an abstract painting. It is made up of a series of curved lines and shapes, which are painted in a variety of colors. The colors are mostly earth tones, such as brown, green, and yellow. The painting has a rough, textured surface.",airplane,0.9355141,X
+boat7-keyboard3,2024-01-14 04:17:18,The image is blurry but it looks like a gear stick.,truck,0.41995198,X
+boat6-bicycle2,2024-01-14 04:17:24,"The image is an abstract painting with a lot of detail. It is made up of many different colors and shapes, and it is difficult to make out any specific objects. The painting has a chaotic feel to it, and it is unclear what the artist was trying to convey.",airplane,0.99556607,X
+boat1-bicycle2,2024-01-14 04:17:30,The image is a bunch of bicycle parts.,bicycle,0.9999999,C
+boat1-oven1,2024-01-14 04:17:37,"The image is of a black and gray object on a white background. The object is long and rectangular, with a number of small, square holes along its length. There is a black strip along the top of the object.",airplane,0.9792234,X
+boat6-elephant2,2024-01-14 04:17:43,The image is a close-up of an elephant's skin. The skin is wrinkled and has a leathery texture. There is a tuft of hair in the center of the image.,elephant,0.99999976,L
+boat8-bird2,2024-01-14 04:17:49,The image is a painting of a crumpled piece of paper.,airplane,0.9882185,X
+boat5-clock3,2024-01-14 04:17:55,The image is a photo of a bunch of clocks and watches that have been melted together.,clock,0.99648464,J
+boat6-dog1,2024-01-14 04:18:01,The image is a close-up of a blonde fur coat.,dog,0.797623,X
+oven3-bottle3,2024-01-14 04:18:07,The image is a photo of two lungs with a green frame around them. The lungs are surrounded by a bunch of green and white objects.,airplane,0.9726782,X
+oven3-clock3,2024-01-14 04:18:13,The image is a photo of two clocks.,clock,1.0,J
+oven4-elephant3,2024-01-14 04:18:20,The image is a close-up of a snakeskin pattern.,bird,0.51946366,X
+oven2-dog3,2024-01-14 04:18:25,The image shows the eyes of a brown and white cat.,cat,0.99999917,H
+oven1-boat3,2024-01-14 04:18:31,The image is an abstract painting of a microwave oven.,oven,0.9980927,O
+oven6-chair3,2024-01-14 04:18:37,Blue and gray abstract painting with a hint of green.,airplane,0.9121842,X
+oven10-oven3,2024-01-14 04:18:42,The image is of a microwave oven.,oven,0.99998915,O
+oven6-knife3,2024-01-14 04:18:49,The image is a close-up of a rusty metal object with rivets.,airplane,0.60247064,X
+oven6-bicycle1,2024-01-14 04:18:55,The image is of a car engine.,car,0.9820753,G
+oven3-car2,2024-01-14 04:19:01,"The image is an abstract painting with a red, yellow, and orange color scheme. There is a black frame around the painting.",airplane,0.90666914,X
+oven9-airplane2,2024-01-14 04:19:08,A blue suitcase with yellow highlights.,airplane,0.9977869,X
+oven7-elephant1,2024-01-14 04:19:14,The image is a close-up of an elephant's skin.,elephant,1.0,L
+oven5-keyboard2,2024-01-14 04:19:21,The image is of a black calculator.,clock,0.5286907,X
+oven3-knife1,2024-01-14 04:19:27,"The image is a photo of a frog sitting on a rock. The frog is brown and green, and the rock is gray. The frog is looking at the camera.",bird,0.32375973,X
+oven2-car1,2024-01-14 04:19:33,The image is a colorful abstract painting.,airplane,0.9794988,X
+oven3-elephant3,2024-01-14 04:19:39,"The image shows an elephant's skin with a square-shaped, rough patch in the middle.",elephant,1.0,L
+oven1-bird3,2024-01-14 04:19:45,The image is a painting of a dock with sailboats in the distance. The painting is done in a realistic style and the colors are muted. The overall effect is one of peace and tranquility.,boat,0.99614304,E. boat
+oven9-car2,2024-01-14 04:19:51,The image is a close-up photograph of a red toy car.,car,0.9980774,G
+oven9-knife3,2024-01-14 04:19:57,The image is a 3D rendering of a futuristic motorcycle helmet.,airplane,0.691834,X
+oven3-airplane1,2024-01-14 04:20:03,The image is a photo of two people kissing.,airplane,0.8476568,X
+oven1-clock3,2024-01-14 04:20:08,The image is a photo of a bunch of clocks and gauges.,clock,0.9999949,J
+oven9-chair1,2024-01-14 04:20:14,The image is of a pink car seat.,car,0.93406004,G
+oven6-bird1,2024-01-14 04:20:20,A photo of a blue couch under a white sheet.,airplane,0.9618425,X
+oven5-bottle3,2024-01-14 04:20:26,The image is of a green toaster.,oven,0.9154189,X
+oven4-car1,2024-01-14 04:20:32,The image is a painting of a car.,car,0.99978954,G
+oven4-knife2,2024-01-14 04:20:38,The image is of a microwave with a baking dish inside.,oven,0.99999475,X
+oven2-oven3,2024-01-14 04:20:44,The image shows two microwave ovens.,oven,0.9999956,O
+oven4-chair1,2024-01-14 04:20:50,Chairs in an auditorium.,chair,1.0,I
+oven8-cat3,2024-01-14 04:20:56,The image is a close up of a spider's abdomen.,knife,0.78818816,X
+oven6-bear2,2024-01-14 04:21:02,A cat is sitting in a box.,cat,0.99999595,H
+oven9-clock2,2024-01-14 04:21:09,The image is a painting of a camera.,airplane,0.9862867,X
+oven5-dog3,2024-01-14 04:21:15,A close up of a dog's face with a vintage television superimposed over it.,dog,0.9999137,X
+oven4-clock2,2024-01-14 04:21:21,The image is a painting of a coffee maker.,airplane,0.8043181,X
+oven4-dog1,2024-01-14 04:21:26,The image is a close-up of a brown fur coat with two large and two small pockets.,dog,0.56161237,X
+oven2-truck3,2024-01-14 04:21:33,Two adjacent windows with yellow frames.,clock,0.90975255,X
+oven3-cat2,2024-01-14 04:21:39,The image is a close-up of a fur coat with a pattern of squares.,dog,0.5006968,X
+oven8-keyboard3,2024-01-14 04:21:45,A black laptop on a white table.,keyboard,0.9806403,X
+oven9-oven1,2024-01-14 04:21:51,The image shows a toaster oven with a bun inside.,oven,1.0,O
+oven3-boat3,2024-01-14 04:21:59,The image is a painting of a man sitting in a bathtub. The man is wearing a blue shirt and black pants. The bathtub is made of metal and has a green interior. The background is white.,boat,0.27697524,X
+oven3-bear2,2024-01-14 04:22:06,A pair of cats sleeping in a fuzzy white cat bed.,cat,0.99999464,H
+oven10-boat2,2024-01-14 04:22:13,The image is of the inside of a toaster oven.,oven,1.0,O
+oven2-chair1,2024-01-14 04:22:19,The image looks like an endless repetition of red and pink theater seats.,chair,0.953552,I
+oven5-bird1,2024-01-14 04:22:27,The image is a painting of a television set.,airplane,0.9937198,X
+oven9-keyboard1,2024-01-14 04:22:36,The image is a photo of a camera.,airplane,0.9793569,X
+oven5-airplane1,2024-01-14 04:22:44,The image is a photo of an old television set with a picture of a house on the screen.,airplane,0.8494251,X
+oven7-bottle1,2024-01-14 04:22:52,The image is a photo of a bunch of liquor bottles in a display case.,bottle,0.9999988,F
+oven7-clock2,2024-01-14 04:23:01,The image is an abstract painting with a lot of detail. It is made up of many different shapes and colors.,airplane,0.98474556,X
+oven10-bear1,2024-01-14 04:23:08,The image is a close up photo of brown fur.,dog,0.8874474,B
+oven7-oven1,2024-01-14 04:23:14,The image shows two commercial ovens.,oven,1.0,O
+oven2-bottle1,2024-01-14 04:23:28,The image is a colorful mosaic of various liquor bottles.,bottle,0.9999999,F
+oven4-truck3,2024-01-14 04:23:35,This is the inside of a self-driving car.,car,0.99995255,G
+oven10-airplane2,2024-01-14 04:23:42,The image is an abstract painting of a microwave oven.,oven,0.9980927,O
+oven10-truck2,2024-01-14 04:23:51,The image is the front of a red truck.,truck,1.0,P
+oven7-cat1,2024-01-14 04:23:59,The image is of a white fur coat with a brown fur collar.,dog,0.91091204,X
+oven1-dog3,2024-01-14 04:24:07,The image is a close-up of a Yorkshire Terrier dog's face.,dog,0.99995816,K
+oven6-airplane3,2024-01-14 04:24:14,The image is of a vintage camera with a brown leather case.,airplane,0.8305585,X
+oven10-cat2,2024-01-14 04:24:21,The image is a close-up of a fur coat.,dog,0.66674024,X
+oven2-boat3,2024-01-14 04:24:28,The image is of two open books with green and red abstract shapes on the pages.,bottle,0.9043444,X
+oven10-bicycle1,2024-01-14 04:24:34,The image is of a microwave oven with a glass door. The door is covered with a pattern of colorful lines and shapes.,oven,0.99999034,O
+oven2-bear3,2024-01-14 04:24:40,The image has the letter H with brown fur texture.,dog,0.82879007,H
+oven9-bird3,2024-01-14 04:24:47,The image shows a painting of a person's face inside a microwave.,oven,0.95071465,X
+oven3-truck1,2024-01-14 04:24:52,The image is a painting of a car engine.,car,0.989486,G
+oven6-elephant2,2024-01-14 04:24:58,The image is a close-up of an elephant's skin. The skin is very thick and wrinkled.,elephant,0.9999999,L
+oven4-keyboard3,2024-01-14 04:25:05,A black and white photo of a stove and a glass on top of it.,bottle,0.9094915,O
+oven7-dog2,2024-01-14 04:25:11,The image is a texture of fur.,dog,0.5691498,X
+oven4-bicycle2,2024-01-14 04:25:17,The image is a close-up of a motorcycle engine.,airplane,0.55792135,X
+oven1-cat1,2024-01-14 04:25:23,The image is a close-up of a tabby cat's fur.,cat,0.9999974,H
+oven8-knife2,2024-01-14 04:25:29,This is an image of a vintage toaster.,oven,0.85914344,X
+oven2-bicycle1,2024-01-14 04:25:35,The image is a bunch of scrap metal with two red hearts in the middle.,airplane,0.5469591,X
+oven8-chair1,2024-01-14 04:25:41,The image is of a bunch of red and pink chairs in a theater.,chair,0.99999106,I
+oven5-bicycle1,2024-01-14 04:25:46,The image is a photo of a toaster.,oven,0.88697463,X
+oven9-boat2,2024-01-14 04:25:52,The image is of a car engine.,car,0.9820753,G
+oven5-elephant1,2024-01-14 04:25:58,The image is a close up of an elephant's skin.,elephant,1.0,L
+oven7-car3,2024-01-14 04:26:03,The image is a red car.,car,0.99945253,G
+oven6-truck1,2024-01-14 04:26:09,The image is a watercolor painting of a red car.,car,0.9991635,G
+oven6-oven3,2024-01-14 04:26:15,The image is a painting of an old-style television set.,airplane,0.9730988,X
+oven2-bird2,2024-01-14 04:26:21,A brick wall with two small windows.,clock,0.44802937,X
+oven7-keyboard1,2024-01-14 04:26:28,Black and white image of a safe with the door open.,clock,0.95093256,X
+oven9-bear2,2024-01-14 04:26:34,The image is a close up of a raw chicken in a furry white box.,bird,0.5165821,X
+oven4-bottle2,2024-01-14 04:26:41,The image is of a bunch of wine bottles.,bottle,0.99999964,F
+chair2-bear2,2024-01-14 04:26:47,The image is a close-up of a white fur coat with a chair in the background.,chair,0.96403974,"I, J"
+chair9-dog2,2024-01-14 04:26:52,The image is a texture of beige and brown fur.,dog,0.6309824,X
+chair5-cat3,2024-01-14 04:26:58,The image is of an orange mesh office chair.,chair,0.9999999,I
+chair4-cat2,2024-01-14 04:27:05,The image is a close-up of a fur coat.,dog,0.6667373,X
+chair9-bird3,2024-01-14 04:27:12,The image is of an empty brown leather office chair on white background.,chair,0.99999106,I
+chair8-keyboard3,2024-01-14 04:27:18,"The image is a close-up of a person's eye. The eye is dark brown, with long, black eyelashes. The person is wearing a black bow tie. The background is a light brown.",elephant,0.64362735,X
+chair8-bicycle3,2024-01-14 04:27:24,The image is a painting of a chair. The chair is made of metal and is painted red. The painting is abstract and the chair is not easily recognizable.,chair,0.999984,I
+chair3-knife1,2024-01-14 04:27:30,The image is an abstract painting with a lot of brown and blue colors. It looks like a bunch of objects are merged together.,airplane,0.9860556,X
+chair10-bottle3,2024-01-14 04:27:36,The image is a photo of a chair made of glass bottles.,chair,0.9336129,"I, F"
+chair10-cat1,2024-01-14 04:27:41,The image is a photo of a chair covered with fur.,chair,0.9999807,I
+chair3-dog2,2024-01-14 04:27:47,The image is a texture of beige fur.,dog,0.78643465,X
+chair2-boat1,2024-01-14 04:27:53,The image is a watercolor painting of a wooden chair.,chair,0.99999285,I
+chair3-airplane2,2024-01-14 04:27:59,The image is a painting of a chair. The chair is blue and yellow. The background is white and blue. The painting is abstract.,chair,0.99999654,I
+chair9-bicycle3,2024-01-14 04:28:05,The image is of a chair made of metal. The chair is red and silver in color. The background is a bunch of small images of the same chair.,chair,0.9999994,I
+chair4-bear2,2024-01-14 04:28:12,The image is a close up of a fur coat.,dog,0.65822273,X
+chair9-bear1,2024-01-14 04:28:18,The image is a close up photo of brown fur.,dog,0.8874474,B
+chair9-elephant1,2024-01-14 04:28:24,The image is a texture of an elephant's skin.,elephant,1.0,L
+chair5-truck3,2024-01-14 04:28:31,The image is a watercolor painting of an office chair.,chair,0.99999654,I
+chair3-car3,2024-01-14 04:28:36,The image is an abstract painting of red cars.,car,0.99899036,G
+chair9-boat2,2024-01-14 04:28:42,The image is an abstract painting of an office chair.,chair,0.99999917,I
+chair10-oven1,2024-01-14 04:28:48,The image is a photo of a chair. The chair is made of wood and has a black cushion. The chair is sitting in front of a white wall.,chair,0.9999902,I
+chair7-airplane1,2024-01-14 04:28:54,The image is a photo of a chair made of newspapers.,chair,0.99999595,I
+chair8-car1,2024-01-14 04:29:00,The image looks like a bunch of cars that have been melted together.,car,0.99596643,G
+chair5-keyboard2,2024-01-14 04:29:05,The image is of a black and white piano keyboard.,keyboard,0.9999659,M
+chair5-bird1,2024-01-14 04:29:12,The image is a blue and white office chair.,chair,0.99999964,I
+chair5-car1,2024-01-14 04:29:18,The image is an abstract painting of a red chair.,chair,0.9999988,I
+chair1-oven3,2024-01-14 04:29:23,The image is a photo of a stack of electronic equipment.,airplane,0.988014,X
+chair1-chair1,2024-01-14 04:29:30,The image is of red and pink theater seats.,chair,0.93246883,I
+chair10-car2,2024-01-14 04:29:36,The image looks like a bunch of car parts all jumbled together.,car,0.9876264,G
+chair7-bottle1,2024-01-14 04:29:43,"The image is a photo of an empty wooden chair. The photo is taken from a high angle, and the chair is placed in the center of the frame. The chair is made of dark wood, and it has a simple design. The seat of the chair is slightly concave, and the back of the chair is straight. The chair is placed on a wooden floor, and there is a white wall in the background.",chair,0.9999995,I
+chair3-bicycle3,2024-01-14 04:29:49,The image is a photo of a chair made of metal rods.,chair,0.9999957,I
+chair7-elephant1,2024-01-14 04:29:55,The image shows an elephant's skin texture.,elephant,1.0,L
+chair8-boat1,2024-01-14 04:30:01,The image is an abstract painting. It is made up of many different colors and shapes. There is no clear subject matter.,airplane,0.9929767,X
+chair5-bicycle1,2024-01-14 04:30:07,The image is a photo of an office chair. The chair is made of metal and has a black seat and back. The chair is surrounded by a bunch of colorful objects. The objects are all different shapes and sizes.,chair,0.99999416,I
+chair10-dog1,2024-01-14 04:30:13,The image is a close up of a golden fur coat.,dog,0.6595474,X
+chair5-boat3,2024-01-14 04:30:19,The image is of an office chair.,chair,1.0,I
+chair9-chair3,2024-01-14 04:30:25,The image is of a bunch of chairs stacked up on each other. The colors are blue and white. The image is abstract.,chair,0.9999877,I
+chair8-bear1,2024-01-14 04:30:32,The image is a close-up of a brown horse's hindquarters.,elephant,0.9596511,X
+chair2-keyboard2,2024-01-14 04:30:38,A black cat is sitting on the ground in front of a white background.,cat,0.9999852,H
+chair7-truck3,2024-01-14 04:30:45,The image looks like a chair made of metal with a blue cushion.,chair,0.9999974,I
+chair4-chair3,2024-01-14 04:30:51,The image is an abstract painting with blue and gray brushstrokes.,airplane,0.9751526,X
+chair1-clock2,2024-01-14 04:30:57,The image is a depiction of a pair of shoes.,airplane,0.7633738,X
+chair10-airplane2,2024-01-14 04:31:03,A blue and yellow chair with a yellow sign on the back.,chair,0.9999999,I
+chair10-bird3,2024-01-14 04:31:09,The image is a watercolor painting of a chair.,chair,0.99999785,I
+chair5-bottle3,2024-01-14 04:31:16,An office chair made of green metal.,chair,1.0,I
+chair1-elephant1,2024-01-14 04:31:22,The image is a close-up of an elephant's skin. The skin is gray and wrinkled.,elephant,0.99999976,L
+chair7-chair1,2024-01-14 04:31:28,Chairs in an auditorium.,chair,1.0,I
+chair7-knife2,2024-01-14 04:31:34,The image is dark and abstract. It looks like a bunch of random objects thrown together.,airplane,0.97087395,X
+chair4-truck2,2024-01-14 04:31:40,The image is an abstract painting with a lot of red and white. It looks like a close-up of a car's engine.,car,0.962951,G
+chair6-bird2,2024-01-14 04:31:45,The image is a greyscale photo of a toilet seat.,chair,0.9909779,X
+chair9-bottle3,2024-01-14 04:31:51,The image is a green office chair with a green background.,chair,1.0,I
+chair1-truck3,2024-01-14 04:31:57,This is an abstract painting.,airplane,0.95804924,X
+chair6-elephant2,2024-01-14 04:32:04,The image shows the wrinkled skin of an elephant.,elephant,0.9999999,L
+chair8-airplane1,2024-01-14 04:32:09,The image is of a chair.,chair,1.0,I
+chair7-clock3,2024-01-14 04:32:16,The image is a photo of a chair made of clocks.,chair,0.8513144,"I, J"
+chair2-knife1,2024-01-14 04:32:22,The image is an abstract painting. There is a blue creature with a long neck and a large head. The creature is sitting on a chair. The painting is full of vibrant colors and has a surreal quality.,chair,0.99503565,X
+chair7-cat1,2024-01-14 04:32:28,The image looks like a chair made of fur.,chair,0.99999356,I
+chair4-keyboard2,2024-01-14 04:32:34,The image is a close up of a telephone.,airplane,0.96976566,X
+chair10-bicycle1,2024-01-14 04:32:40,The image is a depiction of a walker made of many different objects.,bicycle,0.88256407,X
+chair1-dog1,2024-01-14 04:32:46,The image is a texture of blonde fur.,dog,0.79148495,X
+chair4-oven2,2024-01-14 04:32:52,A black chair in front of a window.,chair,0.99999774,I
+chair10-clock1,2024-01-14 04:32:58,A clock sits on a table.,clock,1.0,J
+chair8-elephant1,2024-01-14 04:33:03,The image is a close-up of an elephant's skin.,elephant,1.0,L
+chair7-bird1,2024-01-14 04:33:09,A blue armchair with a high back and wooden armrests.,chair,0.99999917,I
+chair8-chair3,2024-01-14 04:33:16,"The image is an abstract painting. It is made up of many small squares of color. The colors are mostly blue, green, and white. The painting has a geometric feel to it.",airplane,0.9689435,X
+chair5-knife3,2024-01-14 04:33:22,The image is a depiction of a person in a hazmat suit.,airplane,0.9441391,X
+chair3-bottle3,2024-01-14 04:33:28,The image is a green chair made out of bottles.,bottle,0.7031782,I
+chair8-knife2,2024-01-14 04:33:35,The image is an abstract painting. It is made up of many different colors and shapes. There is a dark shape in the center of the painting that looks like an eye. The eye is surrounded by many different colors and shapes. The painting is very busy and it is difficult to make out any one thing.,airplane,0.97582316,X
+chair6-truck2,2024-01-14 04:33:40,The image is a close-up of a car's grille with a pink background.,car,0.98715925,G
+chair1-cat3,2024-01-14 04:33:46,The image is a close-up of a spider's abdomen.,knife,0.7592447,X
+chair6-dog1,2024-01-14 04:33:52,The image is a close-up of a tarantula's abdomen.,airplane,0.50233483,X
+chair1-bear1,2024-01-14 04:33:58,The image is a texture of brown fur.,dog,0.71753204,B
+chair7-boat3,2024-01-14 04:34:04,The image looks like a chair made of wood and has a green cushion. The chair is placed in a room with a lot of light coming in from the windows.,chair,0.99999964,I
+chair7-car2,2024-01-14 04:34:11,The image is an abstract painting. It has bright and vivid colors. There are no clear objects in the painting.,airplane,0.99632156,X
+chair9-keyboard2,2024-01-14 04:34:17,A black office chair on a white background.,chair,1.0,I
+chair5-clock2,2024-01-14 04:34:22,The image is a painting of an office chair.,chair,0.9999993,I
+chair8-clock3,2024-01-14 04:34:28,The image is a painting of a chair. The chair is made of metal and has a black seat. The background is white and there are many clocks painted on it. The clocks are all different sizes and shapes.,chair,0.9541014,"I, J"
+chair1-airplane2,2024-01-14 04:34:34,The image is a painting of a chair. The chair is blue and yellow and there is a yellow cushion. The background is white and blue.,chair,0.9999987,I
+chair5-oven2,2024-01-14 04:34:40,The image is a black and white drawing of a chair.,chair,0.9999968,I
+chair8-oven1,2024-01-14 04:34:46,The image is of a chair with a cushion on it. The chair is made of metal and has four legs. The cushion is black and has a pattern on it.,chair,0.999998,I
+truck2-bottle3,2024-01-14 04:34:52,"A green truck is surrounded by a bunch of small, colorful objects.",truck,0.99999905,P
+truck7-elephant2,2024-01-14 04:34:58,The image is a close-up of an elephant's skin. The skin is a light brown color and has a wrinkled texture.,elephant,0.9999999,L
+truck10-truck3,2024-01-14 04:35:04,The image is of a blue and yellow three-wheeled vehicle.,bicycle,0.98329103,G
+truck6-truck2,2024-01-14 04:35:11,"The image is of the word ""WATER"" written on a fire hydrant.",bottle,0.7858148,X
+truck1-cat1,2024-01-14 04:35:16,The image is a photo of a white cat lying on a brown fur blanket.,cat,0.9995622,H
+truck5-knife3,2024-01-14 04:35:22,The image is a bunch of keys hanging on a wall.,keyboard,0.97846586,X
+truck7-oven2,2024-01-14 04:35:28,The image is a photo of a truck. It is white and black.,truck,0.9999994,P
+truck9-airplane2,2024-01-14 04:35:34,A white truck with a blue and yellow stripe is driving down the road.,truck,0.9999995,P
+truck3-bird2,2024-01-14 04:35:39,The image is a black and white photo of an old truck.,truck,0.99999845,P
+truck5-keyboard1,2024-01-14 04:35:45,The image is of an old rusty truck.,truck,0.9999999,P
+truck6-dog2,2024-01-14 04:35:51,"The image is a texture of beige fur with a plastic yellow water canister laying on it. The text on the canister reads ""WATER NOT FOR DRINKING"".",bottle,0.9967527,X
+truck2-keyboard1,2024-01-14 04:35:57,The image shows a black and white truck.,truck,1.0,P
+truck3-bear3,2024-01-14 04:36:03,The image is a close-up of a brown and white dog's face.,dog,0.9999479,K
+truck5-bird2,2024-01-14 04:36:09,The image shows a toy bus.,truck,0.99267685,X
+truck10-car3,2024-01-14 04:36:16,A red and gray truck is parked in a parking lot.,truck,0.9999993,P
+truck2-bicycle2,2024-01-14 04:36:22,The image is a photo of a tricycle.,bicycle,0.9981779,X
+truck7-chair2,2024-01-14 04:36:29,The image is a sepia toned painting of a truck.,truck,0.99999917,P
+truck4-bottle2,2024-01-14 04:36:35,The image is of a bunch of empty wine bottles.,bottle,0.9999995,F
+truck8-keyboard2,2024-01-14 04:36:40,Black calculator on a white surface.,clock,0.6486506,X
+truck4-boat3,2024-01-14 04:36:46,A green and red semi truck is sitting in a parking lot.,truck,0.99994254,P
+truck4-bear1,2024-01-14 04:36:53,The image is a close-up of brown fur.,dog,0.8968112,B
+truck9-boat3,2024-01-14 04:36:59,The image is a photo of a white truck with a decal of a horse on the side.,truck,0.99979836,P
+truck4-airplane3,2024-01-14 04:37:04,The image shows a futuristic vehicle.,truck,0.6863822,X
+truck1-car3,2024-01-14 04:37:10,A red semi truck with a white trailer.,truck,1.0,P
+truck9-truck3,2024-01-14 04:37:16,The image is of a white truck with a horse trailer attached to the back of it. The truck is parked on a paved road with a yellow line painted down the middle. There is a blue sky with white clouds in the background.,truck,0.9999608,"T, P"
+truck2-clock1,2024-01-14 04:37:24,The image is a painting of a truck.,truck,0.99999976,P
+truck2-bird2,2024-01-14 04:37:30,A black and white photo of an old rusty truck.,truck,0.9999976,P
+truck6-oven3,2024-01-14 04:37:37,The image is of a water machine with a keypad.,keyboard,0.6977088,X
+truck2-chair1,2024-01-14 04:37:42,Pink cars with a pink background.,car,0.999813,G
+truck2-boat3,2024-01-14 04:37:48,A red fire truck is parked on a snowy road.,truck,0.9999969,P
+truck8-bottle2,2024-01-14 04:37:54,The image is a bunch of colorful bottles with a black truck in the middle.,truck,0.96420026,"F, P"
+truck9-elephant1,2024-01-14 04:37:59,The image is the texture of an elephant's skin.,elephant,1.0,L
+truck6-cat2,2024-01-14 04:38:05,The image is a close-up of a fur coat with a pattern.,dog,0.59578574,X
+truck1-dog1,2024-01-14 04:38:11,The image is a close-up of a blonde cowhide.,dog,0.66903514,X
+truck3-bicycle1,2024-01-14 04:38:18,The image shows a black and red motorcycle.,truck,0.891366,G
+truck1-bird1,2024-01-14 04:38:24,A faded blue truck is driving on a road.,truck,0.99999964,"G, P"
+truck1-bicycle3,2024-01-14 04:38:31,A pink truck is covered with a white tarp.,truck,0.99999976,P
+truck7-bear2,2024-01-14 04:38:37,The image shows a white truck.,truck,1.0,P
+truck8-elephant1,2024-01-14 04:38:42,The image shows a truck on a background of an elephant's skin texture.,truck,0.53205276,P
+truck2-airplane3,2024-01-14 04:38:48,The image is of an old fashioned milk truck.,truck,0.9999943,P
+truck6-bottle3,2024-01-14 04:38:55,"A green truck made out of water bottles with the words ""WATER NOT FOR DRINKING"" on the side.",truck,0.66993546,"T, K, B"
+truck5-car1,2024-01-14 04:39:01,"A red and yellow bus with the word ""Аэрофлот"" on the side.",truck,0.6017017,X
+truck7-boat1,2024-01-14 04:39:06,The image shows a colorful truck.,truck,1.0,P
+truck1-knife1,2024-01-14 04:39:13,The image is of a brown truck with a white cab.,truck,1.0,P
+truck1-chair2,2024-01-14 04:39:19,The image is a watercolor painting of a truck.,truck,0.9999994,P
+truck6-bicycle1,2024-01-14 04:39:25,"The image is of a truck with the word ""WATER"" on the side. The truck is made of many different objects, including car parts, appliances, and furniture.",truck,0.9999765,P
+truck8-cat2,2024-01-14 04:39:31,The image looks like a rusty car covered in fur.,car,0.9706594,G
+truck3-cat1,2024-01-14 04:39:37,The image is of a brown dog lying on a white fur blanket.,dog,0.99163955,K
+truck5-dog3,2024-01-14 04:39:43,The image shows a brown toy bus on a fur carpet.,truck,0.96057373,X
+truck10-elephant3,2024-01-14 04:39:50,The image shows a faded imprint of a truck on a rough surface.,truck,0.99999976,P
+truck7-truck2,2024-01-14 04:39:55,A red and silver semi truck.,truck,0.99999976,P
+truck4-knife1,2024-01-14 04:40:01,The image is a watercolor painting of a motorcycle.,airplane,0.49565324,X
+truck1-clock3,2024-01-14 04:40:07,The image shows a white truck with a clock pattern on it.,truck,0.9998313,"G, J"
+truck9-chair3,2024-01-14 04:40:13,The image is of a bunch of blue and white blocks.,airplane,0.7804527,X
+truck3-oven2,2024-01-14 04:40:19,The image is a photo of a truck.,truck,1.0,P
+truck5-airplane2,2024-01-14 04:40:25,A yellow and blue toy truck.,truck,0.99999905,P
+truck7-bird2,2024-01-14 04:40:31,A semi-truck is on the road. The truck is white and gray.,truck,0.99999964,P
+truck1-bear1,2024-01-14 04:40:36,The image is a close-up of brown fur.,dog,0.8968112,B
+truck6-bear2,2024-01-14 04:40:43,"The image is of a white water cooler with the word ""WATER"" on it. The cooler is sitting on a brown surface.",bottle,0.97073436,X
+truck3-knife2,2024-01-14 04:40:49,The image is a photo of a vintage car.,car,0.9994449,G
+truck3-dog3,2024-01-14 04:40:55,The image is a close-up of a brown dog lying on a white blanket. The dog's eyes are closed and it looks very relaxed. There is a small silver cup in the background.,dog,0.9965145,"H, K"
+truck10-clock1,2024-01-14 04:41:01,The image is of a blue truck with a yellow sign on top and a bunch of numbers in the background.,truck,0.9999982,P
+truck6-boat2,2024-01-14 04:41:07,"A red truck with a tank that says ""WATER NOT FOR DRINKING"" on it.",truck,0.99996936,P
+truck8-dog3,2024-01-14 04:41:13,The image shows a brown and white puppy sleeping on a white blanket.,dog,0.9984389,K
+truck3-keyboard3,2024-01-14 04:41:19,A black keyboard with a hand hovering over it.,keyboard,1.0,M
+truck3-chair2,2024-01-14 04:41:25,Chairs stacked on top of each other in a room with marble floors.,chair,0.99999714,I
+truck5-cat3,2024-01-14 04:41:31,The image is a sepia toned painting of a bus with Cyrillic letters on it.,truck,0.7243323,X
+truck7-keyboard3,2024-01-14 04:41:37,A photo of a white table with two black phones on it.,airplane,0.98750764,X
+truck9-bottle2,2024-01-14 04:41:43,The image is of a bunch of empty wine bottles.,bottle,0.9999995,F
+truck10-airplane1,2024-01-14 04:41:49,The image is a photo of a van with a pop-up roof.,car,0.7851089,"G. car
+P. truck"
+truck4-oven2,2024-01-14 04:41:54,The image is a black truck with a silver trailer.,truck,1.0,P
+truck6-clock2,2024-01-14 04:42:00,A red truck with a water tank is in front of a white background with clocks.,truck,0.9999523,"T, C, K, J"
+truck3-clock3,2024-01-14 04:42:06,The image is a painting of a car. The car is painted in a light color and has a lot of clocks on it.,car,0.8801821,"G, J"
+truck3-car3,2024-01-14 04:42:12,The image shows an old red truck in front of a building.,truck,0.9999987,P
+truck2-car3,2024-01-14 04:42:18,A red fire truck from the 1950s.,truck,0.9999875,P
+truck2-elephant1,2024-01-14 04:42:23,The image shows the back of a truck made of elephant skin.,truck,0.56060153,P
+truck5-truck1,2024-01-14 04:42:29,"The image shows a red bus with the word ""Aeroflot"" on the side.",airplane,0.91927963,X
+truck6-knife2,2024-01-14 04:42:35,The image is of a vintage water pump.,boat,0.993804,X
+truck2-oven3,2024-01-14 04:42:41,The image shows a self-service gasoline station.,truck,0.85796845,X
+truck10-bicycle1,2024-01-14 04:42:47,The image is a three-wheeled vehicle with a covered back.,bicycle,0.92290413,G
+bird8-chair1,2024-01-14 04:42:53,The image is of a bunch of red and pink chairs.,chair,0.99999976,I
+bird8-knife2,2024-01-14 04:42:59,The image is of a black parrot with a red beak. The image is pixelated and looks like a mosaic. The background is a light color.,bird,0.99247956,D
+bird6-truck2,2024-01-14 04:43:06,"The image is an abstract painting with a lot of red, pink, and white. There are some black lines in the painting, too. The painting looks like it was made by潑彩畫技法.",airplane,0.9336343,X
+bird3-bear3,2024-01-14 04:43:12,The image is a close-up of a brown bear's fur.,bear,0.99999523,B
+bird8-bottle1,2024-01-14 04:43:18,The image is a mosaic of a parrot made out of many pictures of bottles of alcohol.,bottle,0.9895828,F
+bird5-chair1,2024-01-14 04:43:24,The image is a bunch of pink and white chairs in a room.,chair,0.99999607,I
+bird4-airplane1,2024-01-14 04:43:31,"The image is an abstract painting. It is made up of many different shapes and colors. The colors are mostly black, white, and gray, with some red and blue. The shapes are all different sizes and shapes. Some of them are geometric, while others are more organic. The painting has a very busy and chaotic feel to it.",airplane,0.9758681,X
+bird1-oven1,2024-01-14 04:43:38,The image is a greyscale sketch of a bird.,bird,0.9998604,D
+bird5-bird1,2024-01-14 04:43:44,The image is a painting of a bluebird.,bird,0.99473286,D
+bird8-keyboard2,2024-01-14 04:43:50,The image is a photo of a black handgun.,airplane,0.98567873,X
+bird3-boat3,2024-01-14 04:43:56,The image is an abstract painting with bright colors and a lot of detail. It is hard to discern what the subject of the painting is.,airplane,0.9941531,X
+bird7-cat3,2024-01-14 04:44:01,The image is a watercolor painting of a bird.,bird,0.9999734,D
+bird3-bird2,2024-01-14 04:44:08,The image is a photo of an eagle's head.,bird,0.7438303,D
+bird7-oven3,2024-01-14 04:44:13,A cartoon bird is sitting on a shelf.,bird,0.999969,D
+bird8-boat3,2024-01-14 04:44:19,The image is a colorful abstract painting.,airplane,0.9794988,X
+bird9-elephant2,2024-01-14 04:44:25,The image is a depiction of a bird made of tree bark.,bird,0.99973446,D
+bird9-bicycle3,2024-01-14 04:44:31,The image is a drawing of a bird made of barbed wire.,bird,0.9996941,D
+bird5-bear3,2024-01-14 04:44:36,The image is a close-up of a spider's face.,dog,0.35518202,X
+bird8-clock1,2024-01-14 04:44:43,"The image is a painting of a bird with a clock face on its body. The bird is perched on a branch, and there are gears and other clock parts scattered around it. The painting is done in a realistic style, and the colors are muted and earth-toned.",bird,0.7979404,"D, I, J"
+bird3-truck3,2024-01-14 04:44:48,The image is an abstract painting of a bird with bright colors.,bird,0.9997546,D
+bird4-bicycle2,2024-01-14 04:44:54,The image is a close-up of a motorcycle engine.,airplane,0.55792135,X
+bird2-clock3,2024-01-14 04:45:00,A photo of a dog made out of clocks.,clock,0.9715882,"K, J"
+bird7-bottle1,2024-01-14 04:45:06,The image is a silhouette of a person sitting on a bar stool. The person is surrounded by bottles of alcohol.,bottle,0.9999713,F
+bird10-cat1,2024-01-14 04:45:12,The image looks like a fur coat with a fox tail.,dog,0.87330544,X
+bird5-keyboard2,2024-01-14 04:45:18,A black bird is sitting on a telephone wire.,bird,0.9999516,D
+bird7-knife2,2024-01-14 04:45:24,A watercolor painting of a bird sitting on a branch.,bird,0.99991584,D
+bird1-keyboard3,2024-01-14 04:45:29,The image is a photo of a black cat with yellow eyes.,cat,0.99999475,H
+bird10-bird2,2024-01-14 04:45:36,A greyscale photo of a bird with a long curved beak.,bird,0.9999827,D
+bird10-bear2,2024-01-14 04:45:42,The image is a close-up of a white bird's head and neck. The bird's feathers are white and its beak is black.,bird,0.9999515,D
+bird2-bird2,2024-01-14 04:45:47,A parrot is perched on a branch.,bird,0.9977925,D
+bird1-truck1,2024-01-14 04:45:53,The image looks like a watercolor painting of a red bird.,bird,0.99985754,D
+bird9-bear3,2024-01-14 04:45:59,The image is a close-up of a brown and black dog.,dog,0.99997056,K
+bird6-car3,2024-01-14 04:46:05,The image is a bunch of red and white objects that are mangled together.,airplane,0.87985194,X
+bird6-oven1,2024-01-14 04:46:10,The image is a greyscale abstract painting.,airplane,0.97391385,X
+bird5-bicycle1,2024-01-14 04:46:16,The image is a photo of a bird made of scrap metal.,bird,0.9968612,D
+bird7-car2,2024-01-14 04:46:22,A red bird with a black head is perched on a branch. The background is blurry and looks like a forest.,bird,0.99985266,D
+bird2-knife1,2024-01-14 04:46:28,The image is a painting of a hand holding a bird. The hand is wearing a brown leather glove. The bird is black with a blue head. The background is a blur of brown and blue.,bird,0.99989283,D
+bird7-bird2,2024-01-14 04:46:33,A dark bird is perched on a branch against a white textured background.,bird,0.9999453,D
+bird1-elephant2,2024-01-14 04:46:39,The image is a depiction of an elephant made out of tree bark.,elephant,0.99999976,L
+bird2-dog2,2024-01-14 04:46:45,The image is a close-up of a monkey's arm and leg.,airplane,0.3304395,X
+bird1-bear1,2024-01-14 04:46:51,The image is a close up of a guinea pig's face.,dog,0.9470412,X
+bird1-boat1,2024-01-14 04:46:57,The image is a watercolor painting of a bird.,bird,0.9999734,D
+bird7-keyboard3,2024-01-14 04:47:03,A black cat is sitting on a brown surface.,cat,0.9996772,H
+bird1-knife3,2024-01-14 04:47:08,A sepia toned painting of a dog.,dog,0.9998203,K
+bird4-clock1,2024-01-14 04:47:15,The image is an abstract painting with a lot of detail. It is hard to discern what the subject is.,airplane,0.9937283,X
+bird10-chair1,2024-01-14 04:47:21,Pink and white stadium seats with a black chair in the center.,chair,0.99999607,I
+bird4-cat3,2024-01-14 04:47:27,"The image is a texture of the underbelly of a bird, likely an eagle.",bird,0.9925135,D
+bird3-dog1,2024-01-14 04:47:33,The image is a close-up of a lion's mane.,elephant,0.58617085,X
+bird9-dog2,2024-01-14 04:47:40,The image is a painting of a bird with a long tail and a yellow body. The bird is sitting on a branch. The background is a light brown color.,bird,0.9990189,D
+bird1-chair2,2024-01-14 04:47:46,"The image is of a room full of chairs. The chairs are all different styles and colors. Some of the chairs are made of wood, while others are made of metal or plastic. The chairs are all arranged in a haphazard manner, making it difficult to walk through the room.",chair,0.9999994,I
+bird5-cat2,2024-01-14 04:47:52,"The image shows a small bird on a branch. The bird is brown and white, with a long tail. The branch is brown and thin. The background is a blur of brown and white.",bird,0.999542,D
+bird3-oven1,2024-01-14 04:47:59,The image is a photo of a kitchen counter with a toaster on it.,oven,0.98898137,X
+bird2-car3,2024-01-14 04:48:05,The image is an abstract painting of a row of parked cars.,car,0.98954344,G
+bird7-truck2,2024-01-14 04:48:12,The image is an abstract painting with a red shape in the center. The painting has a metallic feel to it.,airplane,0.9610986,X
+bird7-boat1,2024-01-14 04:48:18,A watercolor painting of a bird sitting on a branch.,bird,0.99991584,D
+bird9-chair1,2024-01-14 04:48:24,The image is a photo of a woman sitting in a movie theater.,chair,0.8049175,X
+bird1-clock3,2024-01-14 04:48:30,A melting clock with a bird's face.,clock,0.8261646,"D, J"
+bird1-bicycle2,2024-01-14 04:48:36,The image is a photo of a bird made out of metal.,bird,0.99796873,D
+bird5-oven3,2024-01-14 04:48:42,"The image is of a room with a lot of clutter. There are many different objects in the room, including a desk, a chair, a computer, and a printer. The room is very messy and unorganized.",chair,0.62611437,X
+bird10-bicycle1,2024-01-14 04:48:48,The image is a colorful abstract painting of a pelican.,bird,0.7981868,D
+bird10-clock1,2024-01-14 04:48:54,A painting of a clock with a bird's head.,clock,0.95835763,"J, D"
+bird9-bottle3,2024-01-14 04:49:00,A green bird is sitting on a branch. The background shows a bunch of blurred out wine bottles.,bird,0.9673287,D
+bird8-car2,2024-01-14 04:49:06,The image looks like a bunch of car parts that have been melted together.,car,0.98548824,G
+bird6-elephant2,2024-01-14 04:49:12,The image is a close-up of an elephant's skin.,elephant,1.0,L
+bird3-knife3,2024-01-14 04:49:17,The image is a depiction of a faceless man wearing a hat.,clock,0.57317656,X
+bird10-elephant2,2024-01-14 04:49:23,The image looks like a close up of an elephant's skin.,elephant,1.0,L
+bird5-car2,2024-01-14 04:49:30,A red bird with a black head is sitting on a branch. The background is blurry.,bird,0.9999294,D
+bird3-bottle2,2024-01-14 04:49:35,The image is of a bunch of wine bottles.,bottle,0.99999964,F
+bicycle10-elephant2,2024-01-14 18:53:51,The image is a close-up of a bicycle made of leather.,bicycle,0.99998915,C
+knife5-oven2,2024-01-14 18:53:57,The image is a close-up of a car door handle.,car,0.99842715,G
+bird5-airplane3,2024-01-14 18:54:05,A blue jay is perched on a branch.,bird,0.8506961,D
+keyboard9-elephant2,2024-01-14 18:54:11,The image is a seamless texture of elephant skin.,elephant,0.9999999,L
+keyboard7-oven2,2024-01-14 18:54:22,The image is a close-up of a black and silver gun.,airplane,0.86409914,X
+elephant1-dog2,2024-01-14 18:54:29,The image is a painting of an elephant with fur.,elephant,0.99999976,L
+bottle7-airplane3,2024-01-14 18:54:36,The image is a watercolor painting of a face. The face is blue and white with a black nose and mouth. The face is surrounded by a light blue background.,bottle,0.46637428,X
+airplane5-chair3,2024-01-14 18:55:35,"The image is an abstract painting. It has a blue and white color scheme. The painting is made up of small, square brushstrokes.",airplane,0.97757965,X
+airplane3-airplane2,2024-01-14 18:55:44,The image is an abstract painting of an airplane.,airplane,1.0,A
+bicycle9-bird3,2024-01-14 18:55:50,The image is an abstract painting of a bicycle.,bicycle,1.0,C
+keyboard7-knife1,2024-01-14 18:55:58,The image looks like a bunch of leaves.,airplane,0.8222659,X
+knife10-knife1,2024-01-14 18:56:04,The image is a close-up of a pair of brown leather shoes.,airplane,0.51853687,X
+bicycle9-cat3,2024-01-14 18:56:10,The image is a sepia toned drawing of a bicycle.,bicycle,0.99999976,C
+elephant5-car1,2024-01-14 18:56:16,"The image looks like a bunch of cars painted in bright colors, all jumbled up together.",car,0.99625623,G
+clock5-oven1,2024-01-14 18:56:26,A clock with hands indicating the time as 12:00.,clock,1.0,J
+bottle2-bottle3,2024-01-14 18:56:34,"A green glass bottle filled with green glass shards. The bottle is set against a background of colorful, abstract shapes.",bottle,1.0,F
+bicycle6-car2,2024-01-14 18:56:40,"The image is a colorful and abstract painting. It is hard to make out a subject, but it appears to be a car.",car,0.99291444,G
+keyboard10-oven3,2024-01-14 18:56:47,The image is a close-up of an airplane cockpit.,airplane,1.0,A
+clock10-cat1,2024-01-14 18:56:55,The image is a painting of an alarm clock made of fur.,clock,0.9999964,J
+bottle6-chair2,2024-01-14 18:57:01,The image is of a wooden chair. The chair is made of a light brown wood and has a woven seat. The chair is surrounded by a white background.,chair,0.9999999,I
+bicycle10-clock2,2024-01-14 18:57:07,The image is a painting of a bicycle.,bicycle,1.0,C
+elephant1-bottle1,2024-01-14 18:57:15,The image shows an elephant made out of bottles.,elephant,0.9730934,"E, F"
+bottle3-bicycle3,2024-01-14 18:57:21,The image is a depiction of a glass bottle with a red liquid inside. The bottle is covered in chains.,bottle,1.0,F
+knife9-bird1,2024-01-14 18:57:29,"The image looks like a close-up of a painting with white, blue, and gray colors.",airplane,0.9878401,X
+knife7-airplane3,2024-01-14 18:57:36,"The image is a painting of a table with a vase of flowers on it. The table is covered with a white tablecloth. The flowers are red, white, and yellow. The vase is blue. The background is a light blue wall.",airplane,0.50352,X
+keyboard7-bear2,2024-01-14 18:57:42,The image is a close-up of a white fur coat.,dog,0.6946222,X
+elephant3-knife1,2024-01-14 18:57:48,The image is an abstract painting of an elephant.,elephant,1.0,L
+bicycle3-oven3,2024-01-14 18:57:54,The image is a photo of a washing machine and a dryer.,airplane,0.70770323,X
+bottle1-chair2,2024-01-14 18:58:00,The image is a sculpture made of wood.,airplane,0.5372065,X
+bicycle5-elephant1,2024-01-14 18:58:08,The image is a close-up of a bicycle seat made of gray leather with a basket and a bell.,bicycle,0.9947883,C
+bicycle6-cat1,2024-01-14 18:58:19,The image is a close up of a brown leather shoe on a white fur background.,dog,0.6606475,X
+clock2-dog1,2024-01-14 18:58:25,The image is a clock with a furry background.,clock,1.0,J
+knife7-car2,2024-01-14 18:58:31,The image is an abstract painting with bright colors. It looks like a bunch of car parts melted together.,car,0.9714218,G. car
+clock10-bottle1,2024-01-14 18:58:37,The image is a photomosaic of a clock made out of many pictures of bottles of alcohol.,clock,0.86587924,"J, F"
+airplane10-elephant1,2024-01-14 18:58:44,The image is the texture of elephant skin.,elephant,1.0,L
+knife4-oven2,2024-01-14 18:58:51,The image is a painting of a piano.,airplane,0.71651727,X
+knife5-cat2,2024-01-14 18:58:58,The image is a close-up of a lynx's fur.,cat,0.994568,H
+keyboard3-boat1,2024-01-14 18:59:04,"The image is an abstract painting. It has a lot of blue, red, and yellow. It looks like a city from a bird's eye view.",bird,0.57664037,X
+knife4-knife2,2024-01-14 18:59:13,The image is a photo of a bunch of wine bottles.,bottle,0.9999976,F
+knife10-bear3,2024-01-14 18:59:20,The image is a close-up of a spider's fur.,cat,0.6764753,X
+clock10-oven2,2024-01-14 18:59:28,The image is of an alarm clock.,clock,1.0,J
+elephant7-car3,2024-01-14 18:59:40,The image is an abstract painting of an elephant. The colors are bright and the shapes are distorted.,elephant,0.9999993,L
+bicycle4-truck3,2024-01-14 18:59:46,The image is a watercolor painting of a bicycle.,bicycle,0.9999988,C
+keyboard6-bicycle1,2024-01-14 18:59:54,The image is a computer keyboard with a bunch of keys missing.,keyboard,0.9999999,M
+bicycle1-bottle3,2024-01-14 19:00:00,The image shows an electric bicycle with a green frame and black wheels. The bike is standing in front of a colorful background.,bicycle,0.9999993,C
+elephant8-truck3,2024-01-14 19:00:10,"The image is an abstract painting. It has a lot of bright colors, and it looks like it was made by a child.",airplane,0.9734081,X
+bicycle4-keyboard3,2024-01-14 19:00:17,Black and white photo of a motorcycle.,airplane,0.34417376,G
+elephant9-elephant3,2024-01-14 19:00:23,The image is a close-up of an elephant's skin.,elephant,1.0,L
+keyboard3-cat1,2024-01-14 19:00:30,The image is of a fur coat with a brown belt.,dog,0.7277183,X
+elephant5-elephant1,2024-01-14 19:00:37,The image is an elephant made of elephant skin.,elephant,1.0,L
+elephant2-bottle3,2024-01-14 19:00:43,The image is a green elephant made of glass. It is standing on a pile of colorful blocks.,elephant,0.9999988,X
+bicycle9-airplane2,2024-01-14 19:00:51,This is a painting of a blue and yellow bicycle.,bicycle,0.99999905,C
+elephant6-dog2,2024-01-14 19:00:58,The image is a painting of an elephant and its calf.,elephant,1.0,L
+keyboard9-bicycle2,2024-01-14 19:01:05,The image is a photo of a bunch of bicycles.,bicycle,1.0,C
+bicycle8-bear2,2024-01-14 19:01:17,The image is a deep dream image of a bicycle.,bicycle,0.99999964,C
+elephant7-dog1,2024-01-14 19:01:23,"The image shows a furry, brownish-gold elephant.",elephant,0.99999964,L
+bottle10-truck3,2024-01-14 19:01:31,The image is a watercolor painting of a bottle of whiskey.,bottle,0.9999995,F
+bottle7-elephant2,2024-01-14 19:01:38,The image shows a close-up of an elephant's skin.,elephant,1.0,L
+airplane5-bear2,2024-01-14 19:01:46,The image is a texture of white fur.,dog,0.5670116,X
+bird6-airplane2,2024-01-14 19:01:52,A blue bird is flying in a yellow sky.,bird,0.94162536,D
+bottle4-truck1,2024-01-14 19:01:58,A glass bottle filled with a red liquid.,bottle,1.0,F
+bicycle5-cat1,2024-01-14 19:02:06,The image is of a bicycle made of fur.,bicycle,0.9999957,C
+knife5-truck3,2024-01-14 19:02:12,The image is a close-up of a car's turn signal.,car,0.9799691,G
+clock10-dog3,2024-01-14 19:02:18,The image is a close-up of a dog's eye with an alarm clock superimposed on it.,clock,0.9984837,"H, J"
+elephant3-oven1,2024-01-14 19:02:27,The image is an abstract painting of an elephant.,elephant,1.0,L
+bottle4-car3,2024-01-14 19:02:38,The image is of a Coca-Cola bottle.,bottle,0.9999994,F
+knife8-bottle3,2024-01-14 19:02:45,"The image is a photo of a bunch of green and clear glass bottles with the word ""Asahi"" on them. The bottles are arranged in a haphazard manner.",bottle,0.99999535,F
+elephant8-cat1,2024-01-14 19:02:50,A bunch of kittens sleeping on a white blanket.,cat,0.99971753,H
+elephant6-oven1,2024-01-14 19:02:56,The image is a greyscale photo of an elephant seen from the side.,elephant,0.99999917,L
+elephant5-truck1,2024-01-14 19:03:07,The image is a red elephant with white highlights. The background is white with pink and blue accents.,elephant,1.0,L
+bottle9-car3,2024-01-14 19:03:13,The image is a red and silver vintage Coca-Cola bottle.,bottle,0.99999774,F
+airplane9-boat1,2024-01-14 19:03:19,"The image looks like an abstract painting. There are no recognizable objects in it. The colors are blue, red, and yellow. The shapes are organic and flowing. The image has a dreamlike quality to it.",airplane,0.9769786,X
+bird1-airplane2,2024-01-14 19:03:38,A blue bird with a yellow belly is sitting on a branch. The background is white with yellow and blue lines.,bird,0.99969673,D
+bird4-dog3,2024-01-14 19:03:44,"The image is a close-up of a dog's face. The dog has brown and white fur, and its eyes are dark brown.",dog,0.99994504,H
+elephant9-airplane2,2024-01-14 19:03:50,"The image is an abstract painting. It is made up of various shades of blue, white, yellow, and gray. The painting has a rough, textured surface.",airplane,0.9853021,X
+elephant6-bird1,2024-01-14 19:03:57,The image is a photo of an elephant.,elephant,1.0,L
+keyboard3-bicycle2,2024-01-14 19:04:03,The image is an abstract painting with a lot of bright colors and shapes. It is hard to distinguish what the shapes are.,airplane,0.9728907,X
+clock4-oven1,2024-01-14 19:04:12,This is an image of a clock. The clock is black with white numbers.,clock,1.0,J
+clock6-bicycle1,2024-01-14 19:04:25,The image is a photo of a watch.,clock,0.9920564,J
+keyboard5-airplane3,2024-01-14 19:04:33,The image is a painting of a computer keyboard.,keyboard,0.9999759,M
+knife6-bicycle1,2024-01-14 19:04:42,The image looks like a bunch of metal scraps.,airplane,0.95324194,X
+elephant7-knife2,2024-01-14 19:04:48,The image is a dark elephant made out of rectangles.,elephant,0.9999988,L
+airplane10-truck1,2024-01-14 19:04:54,The image is an abstract painting of a red airplane wing.,airplane,1.0,A
+elephant9-chair2,2024-01-14 19:05:00,The image is a photo of a lot of wooden chairs.,chair,0.9999974,I
+bicycle4-chair2,2024-01-14 19:05:08,The image is a bunch of chairs in a room.,chair,0.9999993,I
+bottle9-keyboard1,2024-01-14 19:05:14,Black and white image of a person's face in between two glass panes.,airplane,0.5522026,X
+knife4-clock3,2024-01-14 19:05:21,"The image is an abstract painting with a lot of detail. It is made up of many different shapes and colors. The painting has a dreamlike quality to it, and it is difficult to say what it is actually depicting.",airplane,0.9864368,X
+bicycle4-car2,2024-01-14 19:05:28,This image is of a red motorcycle.,truck,0.7557357,X
+airplane5-bottle3,2024-01-14 19:05:34,A green airplane is flying over a bunch of green and brown bottles.,airplane,0.99995565,A
+knife3-bear2,2024-01-14 19:05:42,The image is a close up of a white fur coat.,dog,0.6901936,X
+elephant7-clock2,2024-01-14 19:05:47,The image is a watercolor painting of an elephant.,elephant,1.0,L
+bottle9-bottle1,2024-01-14 19:05:55,The image shows a collage of many different images of liquor bottles.,bottle,0.99999976,F
+airplane7-bottle3,2024-01-14 19:06:05,The image is of a green dragon made of leaves with bottles in the background.,bottle,0.9999987,X
+knife1-dog1,2024-01-14 19:06:11,The image is a close-up of a blonde fur coat.,dog,0.797623,X
+elephant3-truck1,2024-01-14 19:06:20,The image is a red elephant with white highlights.,elephant,1.0,L
+clock9-bird2,2024-01-14 19:06:28,The image is a clock with Roman numerals. The clock is made of metal and has a white background.,clock,1.0,J
+bottle1-bear1,2024-01-14 19:06:36,The image is a texture of brown fur.,dog,0.71753204,B
+clock4-boat3,2024-01-14 19:06:46,An abstract painting of a clock.,clock,1.0,J
+bicycle8-boat1,2024-01-14 19:06:57,The image is a colorful painting of a bicycle.,bicycle,1.0,C
+bottle3-bottle3,2024-01-14 19:07:02,A green bottle with Japanese text on it.,bottle,1.0,F
+keyboard2-elephant1,2024-01-14 19:07:10,The image is a close-up of an elephant's skin.,elephant,1.0,L
+knife4-bear1,2024-01-14 19:07:16,The image is a close-up of brown and white fur.,dog,0.8104157,X
+bottle3-bird1,2024-01-14 19:07:25,Blue wine bottle covered in plastic wrap.,bottle,1.0,F
+clock10-clock3,2024-01-14 19:07:33,The image is a photo of an alarm clock. The alarm clock is silver and has two bells on top. The alarm clock is set to 6:45. The background is a collage of alarm clocks.,clock,1.0,J
+bottle9-bicycle1,2024-01-14 19:07:39,"The image is a dark blue bottle with a black label. The bottle is surrounded by colorful, abstract shapes.",bottle,1.0,F
+airplane7-cat3,2024-01-14 19:07:47,The image is a close-up of a painting. It is a portrait of a woman with long red hair. She is wearing a white dress. The painting is done in a realistic style and the colors are very vibrant.,airplane,0.3415327,X
+airplane1-chair2,2024-01-14 19:14:29,The image is a bunch of chairs in a church.,chair,0.9999974,I
+clock9-keyboard2,2024-01-14 19:14:37,A grayscale image of a person's face is shown.,airplane,0.930816,X
+bottle8-elephant3,2024-01-14 19:14:44,The image is of an imprint of a bottle on leather.,bottle,1.0,F
+knife7-boat3,2024-01-14 19:14:52,The image is an abstract painting. It is made up of bright colors and shapes. There is no clear subject matter.,airplane,0.99456763,X
+clock6-bird3,2024-01-14 19:15:01,"An artistic rendering of a round, analog clock with a brown face.",clock,1.0,J
+clock4-bottle3,2024-01-14 19:15:07,The image is an octagonal clock with a green frame. The clock has a white dial with black numbers.,clock,1.0,J
+bottle7-keyboard2,2024-01-14 19:15:18,The image is a close-up of a computer keyboard.,keyboard,0.99999964,M
+elephant2-bear3,2024-01-14 19:15:24,The image is a close-up of a brown dog's face.,dog,0.9999727,K
+clock8-boat1,2024-01-14 19:15:35,The image is a painting of a pocket watch.,clock,0.97262716,J
+keyboard1-car3,2024-01-14 19:15:45,The image looks like a bunch of car parts all smashed together.,car,0.95826864,G
+keyboard2-bottle1,2024-01-14 19:15:52,The image is a photo of a bunch of different bottles of alcohol. The bottles are arranged in a haphazard way.,bottle,0.9999988,F
+clock10-boat2,2024-01-14 19:16:03,An alarm clock made of metal and glass.,clock,1.0,J
+keyboard1-dog3,2024-01-14 19:16:10,"The image is a close-up of a dog's face. The dog has brown and white fur, and its nose and eyes are visible.",dog,0.9999242,H
+keyboard6-car2,2024-01-14 19:16:18,The image is an abstract painting. It has a red background with a yellow and blue shape in the center.,airplane,0.91565937,X
+airplane3-dog1,2024-01-14 19:16:26,The image is a close-up of a white fur coat with a brown stain.,dog,0.65675116,X
+bird5-truck2,2024-01-14 19:23:24,"The image is an abstract painting with a lot of red, pink, and grey. It looks like a close-up of a car or truck.",truck,0.94434774,"G, P"
+elephant4-oven1,2024-01-14 19:23:32,A photo of an elephant with a glitch effect.,elephant,0.99999976,L
+airplane2-bear1,2024-01-14 19:23:39,The image is a close up of brown fur.,dog,0.9153502,B
+knife8-car2,2024-01-14 19:23:46,The image is an abstract painting of a car.,car,0.9997776,G
+elephant4-clock3,2024-01-14 19:23:52,The image is an elephant made out of clocks.,elephant,0.94870275,"D, J"
+clock2-knife1,2024-01-14 19:23:59,An artistic rendering of a clock with a brown background.,clock,1.0,J
+elephant7-bottle3,2024-01-14 19:24:06,This is a picture of an elephant made out of green glass.,elephant,0.9999962,L
+clock5-keyboard1,2024-01-14 19:24:16,A black and white image of a clock. The time is 11:55.,clock,1.0,J
+bicycle1-chair1,2024-01-14 19:24:22,A pink wheelchair with a red cushion.,chair,0.9999963,I
+clock3-bird1,2024-01-14 19:24:30,An artistic rendering of a clock.,clock,1.0,J
+clock7-bottle2,2024-01-14 19:24:39,The image shows a clock made out of wine bottles.,clock,0.997729,"J, F"
+bicycle6-bicycle3,2024-01-14 19:24:45,A tricycle made of metal with a basket on the front.,bicycle,0.9999975,X
+clock3-cat1,2024-01-14 19:24:50,An analogue clock with a furry brown and white surround.,clock,1.0,J
+keyboard6-dog2,2024-01-14 19:24:56,The image is a texture of white fur with a brown keyboard pattern.,keyboard,0.9002805,M
+knife6-oven3,2024-01-14 19:25:09,The image is a painting of a room with a lot of electronic equipment.,airplane,0.9930495,X
+bottle1-bird3,2024-01-14 19:25:16,The image looks like a painting of a bottle of wine.,bottle,0.99999976,F
+bicycle7-clock3,2024-01-14 19:25:22,The image is a bicycle made of clocks.,bicycle,0.6587348,"C, J"
+elephant6-car3,2024-01-14 19:25:28,The image is an abstract painting of a red car.,car,0.9998294,G
+bicycle8-truck1,2024-01-14 19:25:36,The image is a watercolor painting of a red bicycle.,bicycle,0.9999964,C
+clock5-chair3,2024-01-14 19:25:42,The image is a clock made of blue and white squares.,clock,1.0,J
+bottle1-keyboard3,2024-01-14 19:25:49,"The image is a depiction of a glass half-full of a clear liquid, sitting on a white table.",bottle,0.9996964,F
+clock2-bicycle1,2024-01-14 20:06:15,This image shows a clock that has been manipulated to look like a steampunk device.,clock,1.0,J
+airplane9-oven2,2024-01-14 20:06:21,The image is a rendering of a futuristic car.,car,0.99908113,G
+clock6-oven1,2024-01-14 20:06:27,The image is a washing machine door.,clock,0.585337,X
+clock1-dog2,2024-01-14 20:06:43,The image is a clock made of fur.,clock,0.99999964,J
+bicycle4-bicycle3,2024-01-14 20:06:55,The image is of a bicycle.,bicycle,1.0,C
+knife2-cat3,2024-01-14 20:07:01,The image is a close-up of a spider's face.,dog,0.35518202,X
+airplane4-boat3,2024-01-14 20:07:14,The image is an abstract painting of a helicopter.,airplane,0.9999114,X
+clock7-boat3,2024-01-14 20:07:25,This is a painting of a clock. The clock has a red frame and a green dial. The numbers on the dial are in Roman numerals. The clock is surrounded by a blue background.,clock,1.0,J
+airplane5-dog3,2024-01-14 20:07:35,The image is a close-up of a red fox's fur.,dog,0.6713377,X
+knife1-oven1,2024-01-14 20:11:50,The image is a greyscale painting of a room with a door.,airplane,0.65481174,X
+knife6-dog2,2024-01-14 20:11:58,The image looks like a fur coat.,dog,0.6554756,X
+bicycle4-cat1,2024-01-14 20:12:12,The image is a bicycle made out of fur.,bicycle,0.9999908,C
+clock2-bear2,2024-01-14 20:12:21,The image is a clock with fur.,clock,0.9999999,J
+keyboard7-boat2,2024-01-14 20:12:34,The image is an abstract painting. It is made up of many different shapes and colors. There is no clear subject matter.,airplane,0.9924953,X
+airplane3-cat1,2024-01-14 20:12:39,The image is a close-up of a tabby cat's fur.,cat,0.9999974,H
+knife2-bottle2,2024-01-14 20:12:46,The image is of a bunch of colorful bottles laying on a table.,bottle,0.99999595,F
+knife1-keyboard3,2024-01-14 20:12:54,"The image is a photo of a person's hand holding a black object. The object is small and rectangular, and it appears to be made of metal. The person's hand is holding the object in front of a white background. The image is blurry and out of focus.",airplane,0.901733,X
+bicycle1-oven1,2024-01-14 20:13:04,The image is a line drawing of a bicycle.,bicycle,1.0,C
+clock9-cat1,2024-01-14 20:13:15,The image is a clock made of fur.,clock,0.99999964,J
+airplane7-clock3,2024-01-14 20:13:29,Black and white image with a lot of detail. It looks like a bunch of clocks all melted together.,clock,0.999884,J
+elephant9-clock3,2024-01-14 20:13:41,The image is a photo of an elephant made up of many clocks.,elephant,0.99793965,"D, J"
+knife1-bird2,2024-01-14 20:13:55,The image is a photo of a knife.,knife,1.0,N
+knife2-dog1,2024-01-14 20:14:08,The image is a close-up of a sheep's fleece.,dog,0.8447415,X
+elephant6-cat2,2024-01-14 20:14:20,The image is a close-up of a brown and white fur coat.,dog,0.8603057,X
+bicycle1-knife3,2024-01-14 20:14:31,The image is of a bicycle.,bicycle,1.0,C
+bottle8-bird1,2024-01-14 20:14:37,Blue and gray image of a bottle.,bottle,1.0,F
+clock3-elephant3,2024-01-14 20:14:49,The image is a clock made of stone with an elephant skin texture background.,clock,0.96880543,"J, L"
+clock3-car2,2024-01-14 20:14:55,A clock with red and black dial surrounded by colorful blurs.,clock,1.0,J
+keyboard8-dog3,2024-01-14 20:15:01,The image is of a tiger's fur.,cat,0.7765104,X
+airplane1-bicycle2,2024-01-14 20:15:07,This is an image of an airplane.,airplane,1.0,A
+bottle7-cat2,2024-01-14 20:15:17,The image is a close-up of a lynx's fur.,cat,0.994568,H
+keyboard7-dog1,2024-01-14 20:15:23,The image is a seamless texture of brown fur.,dog,0.58267176,X
+keyboard4-clock2,2024-01-14 20:15:33,"The image is an abstract painting. It has a lot of different colors and shapes. There are some recognizable objects in the painting, like a clock and a bicycle.",bicycle,0.98095506,"J, C"
+bicycle1-clock3,2024-01-14 20:15:44,The image is a bicycle made of clocks.,bicycle,0.6587348,"C, J"
+knife3-cat1,2024-01-14 20:15:52,The image is of a white cat with brown and orange patches.,cat,0.99999094,H
+bird3-cat1,2024-01-14 20:15:59,The image is an eagle's head with fur on the right side of the image.,bird,0.85158205,X
+knife10-dog1,2024-01-14 20:16:11,The image is of a white fur coat with a brown patch in the center.,dog,0.6804643,X
+bottle10-bear2,2024-01-14 20:16:16,The image is a photo of a bottle of Drambuie liqueur.,bottle,0.9999999,F
+bottle4-airplane1,2024-01-14 20:16:23,The image is a photo of a glass bottle with a red label. The bottle is placed against a white background.,bottle,1.0,F
+bottle1-cat3,2024-01-14 20:16:29,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+elephant7-cat1,2024-01-14 20:16:34,The image shows a mammoth.,elephant,0.9995906,X
+airplane8-truck3,2024-01-14 20:16:45,It looks like a bunch of chairs in a room.,chair,0.9999999,I
+bottle5-cat1,2024-01-14 20:16:51,The image looks like a seal made of fur.,elephant,0.5322138,X
+airplane8-clock2,2024-01-14 20:17:02,The image is an abstract painting. It is made up of various shapes and colors. The colors are mostly light and pastel. The shapes are mostly organic and flowing. The painting has a dreamlike quality to it.,airplane,0.95345354,X
+bicycle7-knife2,2024-01-14 20:17:14,The image is an abstract painting of a bicycle.,bicycle,1.0,C
+airplane3-keyboard2,2024-01-14 20:17:26,A black laptop sits on a desk.,keyboard,0.75196856,X
+knife6-knife1,2024-01-14 20:17:38,"The image is a close-up of a snake's head. The snake's eyes are closed and its mouth is slightly open. The snake's skin is brown and black, and its scales are visible. The background of the image is a blur of brown and green.",knife,0.49404714,X
+bicycle1-elephant2,2024-01-14 20:17:46,The image is a close-up of a bicycle made of leather.,bicycle,0.99998915,C
+knife5-clock1,2024-01-14 20:17:57,This is an image of a bunch of clocks.,clock,1.0,J
+bottle8-dog2,2024-01-14 20:49:33,A bottle of beer on a furry white surface.,bottle,1.0,F
+bottle6-airplane1,2024-01-14 20:49:39,"The image is a photo of a plastic bottle on a white background. The bottle is a little more than half full of a dark liquid. The bottle is labeled ""Coca-Cola"".",bottle,0.9999999,F
+airplane4-bear3,2024-01-14 20:49:46,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+bottle6-boat3,2024-01-14 20:49:57,A green plastic bottle with a red cap sits on a table. The bottle is half-full of a clear liquid. The background is a colorful blur of light and dark colors.,bottle,1.0,F
+airplane8-oven2,2024-01-14 20:50:03,The image is a painting of a city.,airplane,0.97482014,X
+bottle6-oven3,2024-01-14 20:50:09,The image is of a digital painting of an electronic device.,airplane,0.95872307,M
+knife2-car3,2024-01-14 20:50:15,A photo of a car engine compartment with a red cover.,car,0.9908359,G
+elephant8-boat2,2024-01-14 20:50:22,The image is an abstract painting of three elephants.,elephant,1.0,L
+elephant7-bear3,2024-01-14 20:50:28,The image is a painting of an elephant. The painting is made with shades of brown and black. The elephant is walking towards the right of the image.,elephant,1.0,L
+knife1-clock2,2024-01-14 20:50:35,"The image is an abstract painting. It has a light grey background with a large black shape in the center. The black shape is surrounded by smaller, lighter shapes. The painting has a surreal, dreamlike quality.",airplane,0.9844215,X
+keyboard1-bear2,2024-01-14 20:50:41,A computer mouse on a white fur style surface next to a keyboard.,keyboard,0.9995957,M
+airplane6-keyboard3,2024-01-14 20:50:47,The image is a painting of a black airplane.,airplane,1.0,A
+bicycle5-bear1,2024-01-14 20:51:00,The image is a depiction of a bicycle made out of an ostrich.,bicycle,0.99989104,C
+bottle3-boat3,2024-01-14 20:51:42,The image is a colorful abstract painting of a bottle.,bottle,1.0,F
+keyboard6-elephant1,2024-01-14 20:51:47,The image shows a close up of an elephant's skin.,elephant,1.0,L
+airplane9-airplane2,2024-01-14 20:52:01,A blue and yellow airplane is flying through a tunnel.,airplane,1.0,A
+clock3-dog2,2024-01-14 20:52:13,The image is a clock with a furry background.,clock,1.0,J
+keyboard7-car3,2024-01-14 20:52:24,The image is of a bunch of car parts that are red and grey.,car,0.99409866,G
+keyboard6-bear2,2024-01-14 20:52:30,The image is a close-up of a white fur coat with a brown leather belt with silver rivets.,elephant,0.7039535,X
+knife4-airplane3,2024-01-14 20:52:39,The image is a close-up of a motorcycle's engine and exhaust system.,truck,0.73491585,X
+bottle4-oven2,2024-01-14 20:52:45,The image is a photo of a dark brown beer bottle.,bottle,0.9999999,F
+bottle3-cat3,2024-01-14 20:52:57,The image is a photo of a brown bottle.,bottle,1.0,F
+airplane1-clock1,2024-01-14 20:53:09,The image is a painting of a clock with a bird.,clock,0.63470393,"D, J"
+keyboard4-keyboard2,2024-01-14 20:53:19,The image is a close-up of a computer keyboard.,keyboard,0.99999964,M
+airplane4-keyboard3,2024-01-14 20:53:31,The image is dark and blurry. There appears to be a black bird in the center.,bird,0.9967064,D
+airplane8-bicycle3,2024-01-14 20:54:21,The image is a bunch of metal chains in a pink background.,elephant,0.25668156,X
+bottle2-chair3,2024-01-14 20:54:31,The image looks like a watercolor painting of a city.,airplane,0.9737526,X
+keyboard4-oven2,2024-01-14 20:54:42,The image is of a room with a lot of electronic equipment.,airplane,0.94455904,X
+clock1-truck3,2024-01-14 20:54:54,The image is a close-up of an analog clock.,clock,1.0,J
+clock4-chair1,2024-01-14 20:54:59,The image is of a bunch of red theater seats that recede into the distance.,chair,0.96370035,X
+elephant4-boat3,2024-01-14 20:55:05,This is an image of an elephant made out of different colors and shapes.,elephant,1.0,L
+knife5-knife3,2024-01-14 20:55:11,"The image is a depiction of the word ""together"" in a graffiti-like style.",airplane,0.7447882,X
+bottle7-oven2,2024-01-14 20:55:24,The image is of two glass or crystal objects on a reflective surface.,bottle,0.577243,F
+clock8-cat1,2024-01-14 20:55:34,The image is a clock with fur.,clock,0.9999999,J
+bicycle9-car1,2024-01-14 20:55:42,This is a painting of a red and yellow bicycle.,bicycle,0.9999999,C
+airplane4-car1,2024-01-14 20:55:48,This is an abstract painting of airplanes.,airplane,1.0,A
+airplane2-bicycle1,2024-01-14 20:56:00,The image is a photo of a motorcycle that is covered in a bunch of horns.,truck,0.9842153,X
+bird5-dog2,2024-01-14 20:56:06,"The image is of a small, yellow bird with a white belly and a black eye. It is standing on a branch in front of a white background. The image is soft and painterly, and the bird appears to be made of fur rather than feathers.",bird,0.9973483,D
+airplane3-chair3,2024-01-14 20:56:12,The image is an abstract painting. It is made up of blue and white brush strokes. The painting has a rough texture.,airplane,0.98902273,X
+keyboard7-clock3,2024-01-14 20:56:18,"The image is a depiction of Salvador Dali's painting ""The Persistence of Memory"".",airplane,0.9765181,X
+keyboard8-chair2,2024-01-14 20:56:24,Chairs in a room.,chair,1.0,I
+airplane4-cat3,2024-01-14 20:56:36,The image is a close-up of a spider's eye.,airplane,0.4262941,X
+bird6-boat2,2024-01-14 20:56:48,The image is a photo of a motorcycle.,airplane,0.6431718,X
+elephant1-car3,2024-01-14 20:56:54,The image is of a red motorcycle that is laying on its side. The motorcycle is damaged and there is a tree in the background.,truck,0.9412502,X
+knife8-cat2,2024-01-14 20:57:00,The image is a close-up of a lynx's fur.,cat,0.994568,H
+elephant8-elephant1,2024-01-14 20:57:06,The image is a close up of the skin of an elephant.,elephant,1.0,L
+airplane10-oven2,2024-01-14 20:57:15,A black and white photo of a city street with cars parked on either side.,car,0.9980386,G
+bicycle5-dog2,2024-01-14 20:57:21,The image is a painting of a bicycle.,bicycle,1.0,C
+knife4-boat1,2024-01-14 20:58:23,The image is an abstract painting with a boat in the foreground and a cityscape in the background.,boat,0.9999987,E
+knife9-chair1,2024-01-14 20:58:33,The image is of a bunch of pink chairs in a room. The chairs are arranged in rows and columns. The room is lit by a pink light.,chair,0.99998665,I
+clock6-clock2,2024-01-14 20:58:43,The image is a clock with a silver frame. The clock is surrounded by numbers and letters. The numbers and letters are arranged in a random order.,clock,1.0,J
+bottle6-knife3,2024-01-14 21:10:11,The image is a black and white abstract painting.,airplane,0.9951989,X
+clock7-dog2,2024-01-14 21:10:17,The image is a clock with a furry or hairy appearance.,clock,0.9999999,J
+knife1-elephant1,2024-01-14 21:10:24,The image is a close-up of an elephant's skin.,elephant,1.0,L
+elephant3-keyboard2,2024-01-14 21:10:29,Black and white photo of a person's legs wearing jeans.,airplane,0.5955481,X
+bottle5-bird3,2024-01-14 21:10:35,The image is a watercolor painting of a brown beer bottle.,bottle,0.9999995,F
+keyboard5-knife2,2024-01-14 21:10:41,The image is a bunch of keys on a table.,keyboard,0.9999943,X
+bottle7-boat3,2024-01-14 21:10:47,The image is an abstract painting. It is made up of bright colors and shapes. The painting has a futuristic feel to it.,airplane,0.975468,X
+bicycle1-airplane2,2024-01-14 21:10:55,The image is a painting of a blue and yellow bicycle.,bicycle,0.9999981,C
+airplane5-bicycle1,2024-01-14 21:11:04,The image is of a fighter jet.,airplane,0.99999976,A
+keyboard10-keyboard1,2024-01-14 21:11:10,The image is a close-up of a tire tread.,bicycle,0.98822963,X
+keyboard3-elephant2,2024-01-14 21:11:22,The image shows the skin of an elephant.,elephant,1.0,L
+knife7-chair2,2024-01-14 21:11:28,"The image is a photo of a room full of chairs. The chairs are all made of wood and have a variety of styles. The room is lit by a single light source, which is casting shadows on the chairs. The overall effect of the image is one of confusion and disorientation.",chair,0.9999889,I
+airplane4-knife1,2024-01-14 21:11:34,The image is a painting of a bunch of carrots.,airplane,0.951456,X
+knife7-bottle3,2024-01-14 21:11:44,The image is a photo of a bunch of green and clear glass bottles with white Japanese text on them.,bottle,0.9999995,F
+bottle3-airplane2,2024-01-14 21:11:56,The image is a painting of a beer bottle.,bottle,0.9999999,F
+bicycle10-airplane2,2024-01-14 21:12:03,This is a painting of a blue and yellow tricycle.,bicycle,0.99925226,C
+clock6-truck3,2024-01-14 21:12:09,A porthole view of a submarine.,boat,0.9944238,X
+airplane4-bicycle2,2024-01-14 21:12:21,The image is a bunch of bicycles that are all tangled together.,bicycle,0.9999988,C
+keyboard9-bear2,2024-01-14 21:12:31,The image is a close-up of a white fur coat.,dog,0.6946222,X
+clock10-airplane1,2024-01-14 21:12:43,The image is an alarm clock.,clock,1.0,J
+airplane9-knife3,2024-01-14 21:12:53,Black and white abstract painting.,airplane,0.9690164,X
+airplane10-airplane1,2024-01-14 21:12:59,This is a photo of a military airplane.,airplane,1.0,A
+bottle8-knife1,2024-01-14 21:13:11,The image is a watercolor painting of a bottle.,bottle,1.0,F
+elephant4-bicycle2,2024-01-14 21:13:22,The image is a close up of a motorcycle engine.,airplane,0.5998664,X
+keyboard4-bird1,2024-01-14 21:13:39,The image is an abstract painting. It has a light blue and white background with some darker blue and black shapes in the center.,airplane,0.9853313,X
+elephant2-bird1,2024-01-14 21:13:48,The image is of a person wrapped in a white sheet.,airplane,0.89982164,X
+bottle7-clock1,2024-01-14 22:39:32,"The image is a colorful abstract painting. It features a variety of shapes and colors, and has a dreamlike quality.",airplane,0.97898805,X
+bicycle3-elephant2,2024-01-14 22:39:51,The image is a sepia toned etching of a bicycle.,bicycle,0.999997,C
+bicycle7-elephant2,2024-01-14 22:39:58,The image is a photo of an elephant's skin with a bicycle embossed on it.,elephant,0.9875486,C
+bird9-keyboard1,2024-01-14 22:40:08,A silhouette of a bird made of newsprint.,bird,0.9998109,D
+elephant8-airplane3,2024-01-14 22:40:14,The image is a depiction of a motorcycle engine.,truck,0.38646337,X
+airplane6-knife1,2024-01-14 22:40:21,The image is a close-up of a rusty metal surface with rivets.,airplane,0.8305131,X
+airplane6-bear3,2024-01-14 22:54:57,The image is a close-up of a tarantula's abdomen.,airplane,0.50233483,X
+bottle9-cat2,2024-01-14 22:55:06,"The image is a close-up of a beige fur coat. The fur is long and soft, with a slight wave to it. The coat is trimmed with a dark brown fur, which is also long and soft.",dog,0.60031736,X
+knife6-truck1,2024-01-14 22:55:17,The image is an abstract painting with a red car.,car,0.9998053,G
+knife9-bicycle1,2024-01-14 22:55:24,The image is a jumbled mess of motorcycle parts.,airplane,0.5774421,X
+bicycle7-bear2,2024-01-14 22:55:37,The image is of a bicycle made out of fur.,bicycle,0.9999932,C
+keyboard7-truck2,2024-01-14 22:55:49,The image is an abstract painting of a car grill.,car,0.99505746,G
+clock4-elephant2,2024-01-14 22:55:55,The image is a clock made of an elephant's skin.,elephant,0.63583213,"J, L"
+keyboard10-airplane3,2024-01-14 22:56:01,The image is a watercolor painting of a blue and black laptop on a white surface.,airplane,0.9502074,X
+knife9-airplane2,2024-01-14 22:56:07,The image is a colorful abstract painting.,airplane,0.9794988,X
+keyboard6-chair1,2024-01-14 22:56:13,The image shows a bunch of empty red velvet theater seats.,chair,0.5689778,I
+knife10-chair1,2024-01-14 22:56:24,The image is of a bunch of red theater seats.,chair,0.9175582,I
+knife9-bear3,2024-01-14 22:56:37,The image is a close-up of a fur coat.,dog,0.66674024,X
+clock6-knife2,2024-01-14 22:56:48,This is an image of an electrical outlet with a brown cover.,oven,0.37543604,X
+keyboard10-boat2,2024-01-14 22:56:54,The image is of a harbor with many boats docked.,boat,0.9999969,E
+clock8-airplane2,2024-01-14 22:57:05,A blue and yellow pocket watch with a chain.,clock,0.99418604,J
+bird2-airplane3,2024-01-14 23:17:20,The image is an abstract painting of a horse with a blue background.,airplane,0.48721048,X
+bicycle4-bottle1,2024-01-14 23:17:27,The image is made up of many different bottles of alcohol. The bottles are arranged in the shape of a bicycle.,bottle,0.9980361,C
+knife6-chair3,2024-01-14 23:17:35,The image is an abstract painting with blue and white colors.,airplane,0.977532,X
+keyboard4-cat2,2024-01-14 23:17:41,The image shows a close-up of a lynx fur.,cat,0.9710271,H
+keyboard7-bottle1,2024-01-14 23:17:50,The image is a photo of a bunch of colorful bottles.,bottle,1.0,F
+airplane3-car1,2024-01-14 23:17:56,The image is an abstract painting of a red car.,car,0.9998294,G
+bicycle6-boat2,2024-01-14 23:18:02,This is a tricycle with a basket on the front.,bicycle,0.9999931,X
+keyboard10-truck1,2024-01-14 23:18:10,The image is of a red car.,car,0.9993861,G
+elephant1-bear2,2024-01-14 23:18:19,The image is a photo of a mammoth.,elephant,0.99931586,X
+bicycle4-airplane1,2024-01-14 23:20:30,The image is a photo of a bicycle.,bicycle,1.0,C
+airplane10-cat2,2024-01-14 23:20:43,"The image is a close up of beige fur, possibly from a lynx.",cat,0.86139303,X
+knife6-bird1,2024-01-14 23:20:49,The image is of a silver fork and a blue napkin on a beige tablecloth.,knife,0.803421,X
+knife2-truck2,2024-01-14 23:21:01,The image is a close-up of a red car engine.,car,0.9929807,G
+elephant5-bottle2,2024-01-14 23:21:07,The image is a photo of a bunch of empty and half-full wine bottles.,bottle,0.9999989,F
+clock5-airplane1,2024-01-14 23:21:13,The image is a clock. The time is 10:10.,clock,1.0,J
+clock1-elephant2,2024-01-14 23:21:23,The image is of the skin of an elephant.,elephant,1.0,L
+elephant9-bicycle2,2024-01-14 23:21:30,The image is a close-up of a motorcycle engine.,airplane,0.55792135,X
+clock8-bear2,2024-01-14 23:21:41,This is a photo of a clock.,clock,1.0,J
+bicycle2-bottle1,2024-01-14 23:27:02,The image is a mosaic of many different images of liquor bottles.,bottle,0.99999964,F
+clock5-bicycle1,2024-01-14 23:27:10,An artistic rendering of a clock.,clock,1.0,J
+clock8-knife1,2024-01-14 23:27:17,An artistic rendering of a pocket watch whose hands are approaching midnight.,clock,0.99997985,J
+bottle3-knife3,2024-01-14 23:27:24,The image is a photo of a bottle.,bottle,1.0,F
+knife3-keyboard3,2024-01-14 23:27:30,The image is a close-up of a woman's face. Her eyes are closed and her skin is smooth and flawless.,airplane,0.87998277,X
+bottle10-clock2,2024-01-14 23:27:43,The image is a photo of a bottle of Drambuie liqueur.,bottle,0.9999999,F
+elephant2-elephant3,2024-01-14 23:27:56,The image is a close-up of an elephant's head. The skin is very wrinkled and textured.,elephant,0.9999999,L
+knife10-elephant3,2024-01-14 23:28:02,The image shows a close up of an elephant's skin.,elephant,1.0,L
+clock7-cat2,2024-01-14 23:28:12,The image is a clock made of fur.,clock,0.99999964,J
+airplane2-bird3,2024-01-14 23:28:18,The image is a painting of a landscape. It is a foggy day and the image is mostly white and light grey. There is a large dark grey leaf in the bottom left corner.,airplane,0.44852638,X
+bicycle7-bicycle2,2024-01-14 23:28:30,The image is a photo of a bicycle made up of many smaller photos of bicycles.,bicycle,0.9999987,C
+elephant8-oven3,2024-01-14 23:28:42,"The image is of a room with several abstract objects in it. The objects are all different colors and shapes, and they appear to be made of different materials. The room is lit by a single light source, which is located in the upper left corner of the image. The objects in the room are all in focus, and they appear to be in a state of stasis.",airplane,0.8328563,X
+bicycle7-cat1,2024-01-14 23:28:48,The image is a bicycle made of fur.,bicycle,0.99999416,C
+elephant1-boat2,2024-01-14 23:28:54,The image is a photo of a mechanical elephant made of various scrap metal.,elephant,0.9999833,L
+bottle10-car1,2024-01-14 23:29:06,The image is a photo of a bottle of Jack Daniel's whiskey. The bottle is placed in front of a colorful background.,bottle,0.99999523,F
+airplane6-bottle2,2024-01-14 23:29:17,The image is a bunch of colorful bottles.,bottle,1.0,F
+keyboard1-airplane2,2024-01-14 23:29:40,An abstract painting with a blue circle in the center.,airplane,0.86982644,X
+knife2-bird1,2024-01-14 23:29:46,"The image is a painting of a horse's head. The colors are blue, white, and brown.",elephant,0.7438205,X
+knife10-keyboard3,2024-01-14 23:29:57,Black keyboard and mouse on a desk.,keyboard,0.99999905,M
+clock2-clock3,2024-01-14 23:30:03,The image is a clock with a white background. The clock has black numbers.,clock,1.0,J
+elephant2-truck2,2024-01-14 23:30:10,"The image is an abstract painting. It has a red shape in the center, and there are some grey and white shapes around it.",airplane,0.8646743,X
+knife8-boat1,2024-01-14 23:30:19,"The image is an abstract painting. It has a blue background with a large black shape in the center. The black shape is made up of many smaller shapes, each of which is a different color. The painting is very colorful and has a lot of energy.",airplane,0.9957163,X
+bottle5-chair1,2024-01-14 23:30:31,The image looks like a bunch of chairs with a red chair in the center.,chair,0.99999964,I
+bicycle3-keyboard1,2024-01-14 23:30:36,The image is of a bicycle.,bicycle,1.0,C
+clock6-chair3,2024-01-14 23:30:45,Blue and white image with a 3D effect.,airplane,0.98865837,X
+knife2-elephant2,2024-01-14 23:30:52,"The image is a close-up of an elephant's skin. The skin is a light brown color and has a rough, wrinkled texture.",elephant,0.9999999,L
+bicycle9-bear1,2024-01-14 23:31:03,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+keyboard9-truck3,2024-01-14 23:31:09,The image is an abstract painting. It has a lot of bright colors and it is hard to distinguish objects in it.,airplane,0.99271435,X
+bottle5-airplane1,2024-01-14 23:31:22,The image is a photo of a bottle with a red cap. The bottle is clear and contains a clear liquid. The bottle is in front of a white background.,bottle,1.0,F
+bottle8-bottle3,2024-01-14 23:31:28,A green bottle on a background of many small images.,bottle,1.0,F
+bottle8-keyboard3,2024-01-14 23:31:41,"The image is a dark, abstract painting. It is mostly black with some light gray and white areas. There are no discernible objects in the painting.",airplane,0.99774915,X
+keyboard7-chair3,2024-01-14 23:31:52,The image is of a bunch of blue chairs in a grid pattern. The chairs are staggered and there is a light colored floor.,chair,0.9999902,I
+airplane3-clock1,2024-01-14 23:32:04,A jet airplane is flying through a colorful background.,airplane,1.0,A
+clock4-car2,2024-01-14 23:32:14,An abstract painting of a clock.,clock,1.0,J
+keyboard9-chair2,2024-01-14 23:32:24,There are a bunch of chairs in a room.,chair,1.0,I
+elephant6-truck3,2024-01-14 23:32:30,The image is an abstract painting with a blue car in the center. The colors are bright and the shapes are distorted.,car,0.8924232,G
+bottle5-truck1,2024-01-14 23:32:42,The image is a red bottle with a white background. The bottle is in the center of the image. The bottle is made of glass and has a metal cap. The bottle is filled with a red liquid.,bottle,1.0,F
+airplane4-truck2,2024-01-14 23:32:48,The image is a close-up of a red truck.,truck,0.99999976,P
+bottle8-bicycle1,2024-01-14 23:33:01,"The image is a depiction of a bottle. The bottle is dark in color and has a red cap. The bottle is labeled ""Coca-Cola"". The background is a collage of different images.",bottle,1.0,F
+bicycle5-car3,2024-01-14 23:33:11,A red bicycle is sitting on a pink surface. The bicycle has a white seat and white handlebars.,bicycle,0.9999995,C
+keyboard1-bird2,2024-01-14 23:33:23,The image is a close-up of a computer mouse.,airplane,0.88202506,X
+elephant2-boat1,2024-01-14 23:33:29,The image is an abstract painting of a person's head. The colors are vibrant and the brushstrokes are thick.,airplane,0.78052855,X
+knife8-bicycle1,2024-01-14 23:33:35,The image is a photo of a bunch of scrap metal.,airplane,0.9251882,X
+airplane7-boat2,2024-01-14 23:33:41,The image is of an airplane in flight.,airplane,1.0,A
+knife6-clock2,2024-01-14 23:34:12,The image is an abstract painting with a lot of detail. It has a light background with dark shapes in the foreground. The shapes are mostly curved and there are a lot of small details in them. The painting has a surreal quality and it is not clear what it is depicting.,airplane,0.98412275,X
+airplane9-truck1,2024-01-14 23:34:18,The image is of a red biplane.,airplane,0.9999994,A
+keyboard8-truck3,2024-01-14 23:34:24,The image is a watercolor painting of a cityscape.,airplane,0.72339475,X
+airplane6-chair3,2024-01-14 23:34:30,"The image is of an abstract painting. There are no recognizable objects in the painting, just a variety of shapes and colors. The colors are mostly blue, white, and gray. The painting has a cool, calm feel to it.",airplane,0.9872385,X
+clock1-boat3,2024-01-14 23:34:36,The image is an abstract painting. It has a lot of bright colors and it is hard to make out any specific objects.,airplane,0.9933531,X
+bottle1-clock1,2024-01-14 23:34:48,A painting of a mostly full wine bottle with a clock inside it. The background is a bunch of numbers and letters in a rainbow of colors.,bottle,0.8581329,"F, J"
+bottle6-dog3,2024-01-14 23:34:59,The image is a close up of a blonde dog's face.,dog,0.99998486,K
+keyboard2-bicycle3,2024-01-14 23:35:06,The image is an abstract painting with a lot of detail. It is made up of many different colors and shapes. The painting has a very chaotic and busy feel to it.,airplane,0.9921933,X
+keyboard3-car2,2024-01-14 23:35:13,The image is an abstract painting with bright colors.,airplane,0.9735811,X
+knife4-car2,2024-01-14 23:35:23,"The image is an abstract painting. It has bright red, yellow and blue colors. It looks like a bunch of car parts.",car,0.9662927,G
+airplane5-boat3,2024-01-14 23:35:30,The image is an abstract painting of an airplane in flight. The colors are vibrant and the brushstrokes are thick and expressive.,airplane,1.0,A
+elephant6-bottle2,2024-01-14 23:35:39,The image shows a bunch of wine bottles.,bottle,0.99999976,F
+bottle2-car2,2024-01-14 23:35:48,The image looks like an abstract painting. It has a lot of bright colors and it's hard to make out any specific shapes.,airplane,0.98460084,X
+bicycle9-knife3,2024-01-14 23:35:53,The image is of two vintage bicycles hanging on a wall.,bicycle,0.99999046,C
+keyboard5-bird3,2024-01-14 23:36:00,The image shows a chocolate bar.,airplane,0.7592564,X
+elephant5-bicycle3,2024-01-14 23:37:18,"The image is a mosaic of an elephant made of small, colorful tiles.",elephant,0.9999999,L
+bicycle4-knife3,2024-01-14 23:37:30,The image is of a bicycle.,bicycle,1.0,C
+clock8-truck2,2024-01-14 23:37:42,A red and silver pocket watch.,clock,0.99687696,J
+clock10-bird3,2024-01-14 23:37:48,The image is a painting of an alarm clock. The clock is red and has a glass dome over it. The clock is sitting on a white surface.,clock,0.9999951,J
+airplane2-dog1,2024-01-14 23:37:55,The image is a close up of a white cow's udder with two teats.,elephant,0.3845598,X
+keyboard5-oven2,2024-01-14 23:38:07,The image is a close-up of a computer chip.,airplane,0.90114254,X
+bottle6-bird1,2024-01-14 23:38:13,The image is a photo of a water bottle. The bottle is blue and half full of water. The bottle is lying on a white surface. The background is white.,bottle,0.9999994,F
+bottle5-keyboard2,2024-01-14 23:38:18,The image is a black and white photo of a man wearing a top hat and a suit.,boat,0.28567043,X
+bottle9-oven2,2024-01-14 23:38:29,The image is a photo of an old fashioned elevator.,airplane,0.9967705,X
+bicycle9-chair1,2024-01-14 23:39:26,A pink wheelchair.,chair,0.9999198,I
+elephant8-knife2,2024-01-14 23:39:34,"The image is a depiction of a row of vintage cars, painted in various colors.",car,0.99646217,G
+clock10-knife3,2024-01-14 23:39:44,The image is a 3D rendering of a car.,car,0.998995,G
+elephant6-knife2,2024-01-14 23:39:54,The image is dark and blurry. There are some shapes that look like an elephant.,elephant,0.99999917,L
+keyboard3-clock3,2024-01-14 23:40:01,"The image is a depiction of the word ""tomorrow"" written in a 3D, metallic style, appearing to be made of interwoven clockwork gears.",clock,0.99998856,J
+elephant7-keyboard3,2024-01-14 23:40:06,A black cat is walking on a beige carpet.,cat,0.99999547,H
+elephant10-knife3,2024-01-14 23:40:18,The image is a black and white photo of a person's arm holding a cell phone.,airplane,0.95021015,X
+elephant2-keyboard3,2024-01-14 23:40:24,A black and white photo of a person wearing a hat and scarf.,airplane,0.21567415,X
+airplane3-oven1,2024-01-14 23:40:30,A black airplane is flying in a grey sky.,airplane,1.0,A
+clock7-bear2,2024-01-14 23:40:36,This is a picture of a clock. The clock is square and white with black hands.,clock,1.0,J
+bottle5-boat1,2024-01-14 23:43:47,The image is an abstract painting of a bottle.,bottle,1.0,F
+airplane4-airplane1,2024-01-14 23:43:54,The image is of an airplane taking off.,airplane,1.0,A
+keyboard9-cat1,2024-01-14 23:44:10,The image is a seamless pattern of ginger cat fur.,cat,0.9999945,H
+clock4-airplane1,2024-01-14 23:44:18,The image is a clock with a white dial and red hands. The clock is surrounded by a frame with numbers and letters.,clock,1.0,J
+bicycle1-truck1,2024-01-14 23:44:30,A red motorcycle is sitting in a room with white walls and a wood floor.,truck,0.394539,X
+clock3-bear3,2024-01-14 23:44:44,A clock with a furry texture.,clock,1.0,J
+elephant6-bicycle1,2024-01-14 23:44:50,The image is an abstract painting with dark blue and red colors. It looks like a group of elephants.,elephant,0.99999976,L
+bicycle3-bird1,2024-01-14 23:44:59,The image is of a child's bicycle.,bicycle,1.0,C
+keyboard5-dog3,2024-01-14 23:45:08,The image is a close-up of a fur coat.,dog,0.66674024,X
+clock9-airplane1,2024-01-14 23:45:14,The image is a clock with Roman numerals. The clock is surrounded by a white background with black and red accents.,clock,1.0,J
+bicycle1-bird1,2024-01-14 23:45:21,The image is of a blue bicycle.,bicycle,0.9999999,C
+airplane7-bird3,2024-01-14 23:45:26,A bird is flying in the sky.,bird,0.99096525,D
+bicycle1-dog3,2024-01-14 23:45:38,The image is a painting of a bicycle made of fur.,bicycle,0.9999937,C
+elephant8-bicycle3,2024-01-14 23:45:48,The image is a photo of a group of elephants.,elephant,1.0,L
+airplane9-car2,2024-01-14 23:45:54,The image is an abstract painting. It has bright colors and a lot of movement. There are some shapes that look like cars.,car,0.8598559,G
+keyboard6-knife2,2024-01-14 23:46:01,The image is a painting of a clarinet.,airplane,0.9988226,X
+keyboard5-bicycle1,2024-01-14 23:46:12,The image is a pile of scrap metal.,truck,0.5797994,X
+clock2-bottle3,2024-01-14 23:46:18,An analog clock with a green frame. The clock face is made up of a bunch of green pills. The time shows 3:40.,clock,1.0,J
+keyboard5-cat1,2024-01-14 23:46:24,The image is a close-up of a fur coat.,dog,0.66674024,X
+clock7-truck3,2024-01-14 23:46:31,The image is a clock with Roman numerals.,clock,1.0,J
+knife8-truck3,2024-01-14 23:46:37,The image is a colorful abstract painting.,airplane,0.9794988,X
+bicycle9-keyboard3,2024-01-14 23:46:48,A pair of black sunglasses is sitting on a tan colored surface.,chair,0.96402013,X
+keyboard6-boat2,2024-01-14 23:46:56,The image is a painting of a computer keyboard.,keyboard,0.9999759,M
+elephant5-bear2,2024-01-14 23:47:28,A baby elephant is standing on a fur style surface.,elephant,0.99999976,L
+bicycle8-bird2,2024-01-14 23:47:34,The image is a photo of a bicycle. The bicycle is white and has a black seat. The bicycle is standing against a white background.,bicycle,0.99999726,C
+bottle7-truck2,2024-01-14 23:47:40,"The image is an abstract painting. It has a lot of bright colors, and it looks like it was made by潑彩畫技法.",airplane,0.944647,X
+clock7-car1,2024-01-14 23:47:51,The image is a clock with Roman numerals. The clock is made of yellow and red colors and has a red frame.,clock,1.0,J
+bicycle3-truck3,2024-01-14 23:47:57,The image is a watercolor painting of a bicycle.,bicycle,0.9999988,C
+keyboard9-airplane3,2024-01-14 23:48:09,An airplane wing with an engine.,airplane,1.0,A
+airplane7-airplane3,2024-01-14 23:48:15,An airplane is landing.,airplane,1.0,A
+bicycle10-boat3,2024-01-14 23:48:27,The image is a watercolor painting of a bicycle.,bicycle,0.9999988,C
+elephant2-clock1,2024-01-14 23:48:34,"The image is a colorful and abstract portrait of a person. The person's face is made up of many different shapes and colors, and there are numbers and letters scattered throughout the image.",airplane,0.73012984,X
+airplane8-elephant3,2024-01-14 23:48:40,The image is a close-up of an elephant's skin. The skin is a light gray color and has a wrinkled texture. There is a dark line running through the middle of the image.,elephant,0.9999994,L
+elephant2-cat1,2024-01-14 23:48:53,The image looks like a fox hiding its face in the snow.,bear,0.5129258,X
+knife7-bird3,2024-01-14 23:49:02,"The image is an abstract painting. It has a light grey background with a large dark shape in the center. The dark shape is made up of many different colors, including red, orange, yellow, and blue. The painting has a very soft and dreamy feel to it.",airplane,0.86892164,X
+knife4-cat2,2024-01-14 23:49:13,The image is a close-up of a cheetah's fur.,cat,0.80762064,H
+elephant3-cat2,2024-01-14 23:49:24,The image shows a close-up of a lynx's fur.,cat,0.9938643,H
+bicycle8-clock3,2024-01-14 23:49:31,The image is a photo of a bicycle. The bicycle is white and has a black seat. The background is white with a lot of small clocks.,bicycle,0.99981683,"C, G"
+bicycle4-clock3,2024-01-14 23:49:43,The image is a photo of a bicycle made of clock parts.,bicycle,0.98612934,"C, J"
+knife9-bottle2,2024-01-14 23:49:54,The image is a bunch of colorful wine bottles.,bottle,0.99999964,F
+bicycle9-bottle1,2024-01-14 23:50:06,The image is a photomosaic of a bicycle made out of liquor bottles.,bottle,0.6152649,"C, F"
+bicycle1-bear1,2024-01-14 23:50:12,The image is a bicycle made of fur.,bicycle,0.99999416,C
+airplane4-bottle1,2024-01-14 23:50:23,The image is a collage of many different images of wine bottles.,bottle,0.99999905,F
+knife7-elephant2,2024-01-14 23:50:29,The image is a close-up of an elephant's skin.,elephant,1.0,L
+knife3-knife1,2024-01-14 23:50:36,"The image is an abstract painting. It is made up of many small brushstrokes of different colors. The colors are mostly earth tones, with some blues and greens. The painting has a rough texture.",airplane,0.9656245,X
+airplane3-elephant1,2024-01-14 23:50:43,The image shows a close-up of an elephant's skin.,elephant,1.0,L
+airplane4-elephant1,2024-01-14 23:50:49,The image shows a close up of an elephant's skin.,elephant,1.0,L
+knife5-bicycle2,2024-01-14 23:51:03,The image is a bunch of bicycles parked in a chaotic manner.,bicycle,0.9999974,C
+elephant4-bird1,2024-01-14 23:51:10,The image is a photo of an elephant. The photo is blurry and looks like it was taken from a distance.,elephant,0.99999964,L
+elephant10-bear1,2024-01-14 23:51:16,The image is a close up of a brown bear's fur.,bear,0.9999944,B
+clock1-bear1,2024-01-14 23:51:21,The image is of a brown fur coat with a pattern of white spots.,dog,0.73543346,X
+bottle3-bear2,2024-01-14 23:51:37,The image is a photo of a glass bottle sitting on a white fur style surface.,bottle,0.9999981,F
+knife6-bottle3,2024-01-14 23:51:47,The image is a green and white abstract painting with a lot of texture.,airplane,0.9252752,X
+bottle4-bicycle1,2024-01-14 23:51:59,The image is a photomontage of a Coca-Cola bottle made out of many small images of car parts.,bottle,0.9991726,F
+keyboard4-bottle2,2024-01-14 23:52:09,The image is of a bunch of empty wine bottles.,bottle,0.9999995,F
+bottle3-chair3,2024-01-14 23:52:21,The image looks like a blue bottle in front of a blue and white background.,bottle,0.9999987,F
+elephant9-boat3,2024-01-14 23:52:28,The image is a colorful abstract painting of an elephant.,elephant,1.0,L
+knife1-car3,2024-01-14 23:52:37,The image is an abstract painting of a red car.,car,0.9998294,G
+keyboard4-knife2,2024-01-14 23:52:46,"The image is a dark and abstract painting. There are no clear objects or figures in the image, but there is a sense of movement and energy. The colors are mostly dark and muted, but there are a few bright spots that stand out. The overall effect of the image is one of mystery and intrigue.",airplane,0.98065805,X
+bottle2-knife3,2024-01-14 23:52:52,The image is a photo of a glass bottle with a black cap.,bottle,1.0,F
+keyboard1-clock1,2024-01-14 23:53:02,The image looks like a bunch of numbers and letters jumbled together.,airplane,0.70831746,X
+elephant1-keyboard3,2024-01-14 23:53:13,The image is a black cat with numbers on its body.,cat,0.99992764,H
+elephant2-airplane3,2024-01-14 23:53:24,The image is a photo of an elephant.,elephant,1.0,L
+clock1-clock2,2024-01-14 23:53:30,The image is a painting of a clock. The clock is melting.,clock,0.99996436,J
+clock3-bicycle2,2024-01-14 23:53:36,The image is a clock made of metal.,clock,1.0,J
+clock7-keyboard2,2024-01-14 23:53:45,A clock with numbers in the background and hands that indicate it is almost 1:30.,clock,1.0,J
+knife5-keyboard3,2024-01-14 23:54:09,"The image is blurry, but it looks like a black handgun.",airplane,0.91965437,X
+knife2-bicycle3,2024-01-14 23:54:22,The image is an abstract painting. It has a lot of bright colors and it is very detailed.,airplane,0.99037254,X
+keyboard10-car1,2024-01-14 23:54:29,The image is of a parking lot full of cars. The cars are all different colors and sizes. The image is blurry and pixelated.,car,0.99904305,G
+keyboard9-keyboard2,2024-01-14 23:55:33,A black and white photo of a computer keyboard.,keyboard,0.99999976,M
+bottle1-car1,2024-01-14 23:55:49,The image is an abstract painting. It is colorful and has a lot of movement. There is a central figure that is surrounded by smaller figures. The painting has a lot of energy and seems to be very dynamic.,airplane,0.96333814,X
+keyboard1-chair2,2024-01-14 23:55:58,The image is a zoomed out picture of wooden chairs in an auditorium.,chair,0.99992704,I
+elephant4-chair3,2024-01-14 23:56:05,"The image is an abstract painting. It is made up of cool colors, such as blue, green, and white. The shapes in the painting are organic and flowing. The painting has a calming and serene feel to it.",airplane,0.8441343,X
+elephant7-airplane3,2024-01-14 23:56:16,The image is a photo of an elephant in front of a white background.,elephant,1.0,L
+airplane10-dog3,2024-01-14 23:56:26,The image is a close-up of a brown and white cat's tail.,cat,0.9999925,H
+airplane7-keyboard1,2024-01-14 23:56:32,The image is a close-up of a computer keyboard.,keyboard,0.99999964,M
+airplane7-truck1,2024-01-14 23:56:44,The image is of a red fighter jet.,airplane,0.99999547,A
+clock6-bottle1,2024-01-14 23:56:55,The image is a photomosaic of a clock made of many pictures of bottles of alcohol.,clock,0.8626581,"J, F"
+clock8-oven3,2024-01-14 23:57:06,The image is a close-up of the inside of a machine.,airplane,0.9930413,X
+keyboard2-knife1,2024-01-14 23:57:18,"The image is an abstract painting. The colors are brown, tan, and teal. The shapes are organic and flowing. The painting has a dreamlike quality.",airplane,0.9608387,X
+bicycle1-boat3,2024-01-14 23:57:29,The image is a watercolor painting of a blue and red motorcycle.,boat,0.50369275,G
+bicycle7-truck3,2024-01-14 23:57:43,The image is an abstract painting of a bicycle.,bicycle,1.0,C
+bicycle4-boat1,2024-01-14 23:57:48,The image is a painting of a bicycle.,bicycle,1.0,C
+bottle6-bicycle3,2024-01-14 23:57:56,The image is a photo of a plastic bottle filled with a red liquid. The bottle is surrounded by a bunch of wires.,bottle,0.99999905,F
+elephant7-bird1,2024-01-14 23:58:05,A blue elephant is walking on a gray background.,elephant,0.99999976,L
+airplane1-elephant1,2024-01-14 23:58:11,The image is a photograph of an airplane made of stone.,airplane,1.0,A
+clock7-bicycle1,2024-01-14 23:58:21,The image is a clock made of metal with a colorful background.,clock,1.0,J
+elephant8-clock2,2024-01-14 23:58:30,The image shows three elephants made out of metal and cogs.,elephant,0.9999999,L
+keyboard5-bear3,2024-01-14 23:58:39,The image is a close-up of a brown fur coat.,dog,0.8847877,X
+knife6-airplane1,2024-01-14 23:58:45,"The image is of a fighter jet. The colors are light grey, dark grey, and red. The image is made up of many small pieces of text.",airplane,0.9999777,X
+keyboard4-truck3,2024-01-14 23:58:50,The image looks like a bunch of car parts in various bright colors.,car,0.9979361,G
+clock3-keyboard3,2024-01-14 23:59:01,The image is a close-up of a clock.,clock,1.0,J
+bottle6-bottle3,2024-01-14 23:59:12,A green plastic bottle with a green cap sits in front of a mirrored background of the same bottle.,bottle,0.9999999,F
+clock1-car1,2024-01-14 23:59:24,The image is an abstract painting of a junkyard.,airplane,0.84739834,X
+keyboard6-bottle2,2024-01-14 23:59:30,The image is of a bunch of empty wine bottles.,bottle,0.9999995,F
+keyboard8-keyboard2,2024-01-14 23:59:41,Black keyboard with white keys and a touchpad.,keyboard,1.0,M
+keyboard9-boat2,2024-01-14 23:59:48,There are many images of airplane parts with a close up of an airplane engine in the bottom right corner.,airplane,1.0,A
+airplane4-dog2,2024-01-14 23:59:59,The image is a close-up of a fur coat. The fur is a light brown color and the coat has a large collar.,dog,0.9660931,X
+knife9-boat1,2024-01-15 00:00:07,The image is a colorful painting of a city.,airplane,0.9630255,X
+airplane5-oven3,2024-01-15 00:01:02,"The image is of an abstract painting. It is made up of various shades of grey and beige, with some areas of bright red and blue. The painting is divided into several sections, each with its own unique pattern.",airplane,0.9603134,X
+airplane5-knife1,2024-01-15 00:01:18,The image is an abstract painting. It is brown and blue.,airplane,0.98315597,X
+clock4-knife1,2024-01-15 00:01:25,An octagonal clock made of wood with the time set to 3:43.,clock,1.0,J
+keyboard9-bird1,2024-01-15 00:01:33,The image is of a computer keyboard with blue light shining on the keys.,keyboard,0.99994934,M
+keyboard5-bottle1,2024-01-15 00:01:44,A collage of many different types and sizes of liquor bottles.,bottle,1.0,F
+knife1-truck2,2024-01-15 00:01:51,"The image is an abstract painting with a red shape in the center. The painting is made up of many different colors and shapes. The colors are mostly red, pink, and white. The shapes are mostly organic and seem to be flowing into each other. The painting has a very dreamy and ethereal feel to it.",airplane,0.43617985,X
+bottle10-boat3,2024-01-15 00:02:03,A green bottle with a red label.,bottle,1.0,F
+bottle2-clock1,2024-01-15 00:02:22,The image is a painting of a beer bottle. The bottle is brown and made of glass. It is filled with a light-colored liquid. The background is a colorful pattern of numbers and letters.,bottle,0.9999999,F
+bottle9-truck1,2024-01-15 00:02:28,The image is a depiction of a bottle with a red label.,bottle,1.0,F
+bicycle5-chair2,2024-01-15 00:02:38,The image is of a wooden bicycle.,bicycle,0.9999621,C
+clock5-elephant2,2024-01-15 00:02:47,The image is a clock made of elephant skin.,clock,0.6444725,"J, L"
+bottle1-dog2,2024-01-15 00:02:53,The image is of a bottle of wine with fur on it.,bottle,0.9999981,F
+airplane8-bird1,2024-01-15 00:03:09,This is a photo of an airplane wing.,airplane,1.0,A
+elephant4-car3,2024-01-15 00:03:55,The image is an abstract painting of an elephant made up of many different colors and shapes.,elephant,1.0,L
+elephant1-airplane2,2024-01-15 00:04:01,A blue elephant made of blocks.,elephant,0.99999964,L
+keyboard2-clock1,2024-01-15 00:04:10,"The image is an abstract painting with a lot of detail. There are many different shapes and colors, and it is difficult to make out any specific objects. The painting has a dreamlike quality, and it is easy to get lost in the details.",airplane,0.9935235,X
+bicycle2-bird3,2024-01-15 00:04:38,The image is a watercolor painting of a bicycle.,bicycle,0.9999988,C
+bicycle1-bicycle3,2024-01-15 00:04:44,The image is a painting of a bicycle.,bicycle,1.0,C
+bicycle6-dog2,2024-01-15 00:04:52,The image is a painting of a tricycle.,bicycle,0.99870574,C
+clock8-keyboard1,2024-01-15 00:04:58,A black and white image of a clock with a chain. The clock is surrounded by numbers.,clock,1.0,J
+knife1-airplane1,2024-01-15 00:05:03,The image is a collage of torn paper.,airplane,0.9805438,X
+bottle5-oven2,2024-01-15 00:05:09,The image is of a black bottle.,bottle,1.0,F
+knife1-chair1,2024-01-15 00:05:18,The image is an abstract painting. It has a lot of pink and white. It looks like a bunch of different shapes and colors all mixed together.,airplane,0.93633485,X
+keyboard8-oven1,2024-01-15 00:05:25,The image is of a white and gray keyboard.,keyboard,0.99999976,M
+elephant9-dog3,2024-01-15 00:05:37,The image shows a close-up of a brown tarantula.,dog,0.52839833,X
+elephant5-chair3,2024-01-15 00:05:47,The image is an abstract painting with blue and gray colors. It looks like a landscape with mountains and water.,airplane,0.8779949,X
+bottle5-knife1,2024-01-15 00:05:58,The image looks like a close-up of a rusty metal object.,airplane,0.7776309,X
+clock8-chair2,2024-01-15 00:06:03,The image is a clock made of wood.,clock,1.0,J
+bottle5-clock3,2024-01-15 00:06:11,The image is a photo of a bottle with a clock on it.,bottle,0.7890939,"F, J"
+clock9-chair3,2024-01-15 00:06:22,The image is a blue and gray circle surrounded by blue and gray squares.,clock,0.65537894,X
+airplane5-bird2,2024-01-15 00:06:28,A black and white photo of a fighter jet.,airplane,0.99999964,A
+bottle10-dog1,2024-01-15 00:06:38,The image shows a bottle of Chivas Regal scotch whisky against a background of fur.,bottle,0.99985206,F
+keyboard3-bird3,2024-01-15 00:06:49,The image is a close-up of a rusty metal surface with a horizontal red stripe in the middle.,airplane,0.7942866,X
+knife2-bear2,2024-01-15 00:07:00,The image is a close-up of a white fur coat.,dog,0.6946222,X
+airplane9-clock1,2024-01-15 00:09:31,The image is an abstract painting with a lot of detail. It is full of bright colors and shapes. It is hard to tell what the subject of the painting is.,airplane,0.9904919,X
+bicycle2-dog1,2024-01-15 00:09:46,The image is a close-up of a sheepskin coat.,elephant,0.41418126,X
+bicycle5-bottle3,2024-01-15 00:09:57,The image is a green bicycle made out of glass bottles.,bicycle,0.934215,"C, F"
+bird6-bottle3,2024-01-15 00:10:09,The image is a green dragon made out of bottles.,bottle,1.0,X
+airplane7-car1,2024-01-15 00:10:15,The image is an abstract painting of a junkyard with a bunch of old cars.,car,0.7680467,G
+airplane10-bear3,2024-01-15 00:10:21,The image is a close-up of a brown and white fur coat.,dog,0.8603057,X
+bicycle7-oven1,2024-01-15 00:10:44,The image is of a pair of glasses.,bottle,0.47643828,X
+bicycle10-dog3,2024-01-15 00:10:51,The image is a bicycle made of fur.,bicycle,0.99999416,C
+keyboard5-keyboard1,2024-01-15 00:11:03,It's a black and white image of a damaged keyboard.,keyboard,0.99998415,M
+airplane2-cat1,2024-01-15 00:11:10,The image is a close-up of a white cat's belly.,cat,0.9999838,H
+elephant10-keyboard1,2024-01-15 00:11:16,The image is a close-up of a typewriter.,keyboard,0.5250013,M
+bicycle2-bicycle1,2024-01-15 00:11:22,The image is a photo of a bicycle with a basket on the front. The bicycle is parked in a parking lot with other bicycles.,bicycle,0.99999964,C
+bottle7-bear1,2024-01-15 00:11:28,The image is a close-up of brown fur.,dog,0.8968112,B
+bicycle4-oven3,2024-01-15 00:11:36,"The image is of a room with a lot of clutter. There are various objects in the room, including a desk, a chair, a filing cabinet, and a computer. The room is全体的に暗いですが、窓から光が差し込んでいます。",chair,0.42060912,X
+keyboard8-cat3,2024-01-15 00:11:42,A cat is lying on a keyboard.,cat,0.61626655,"H, M"
+clock5-clock2,2024-01-15 00:11:49,A clock with a melting face.,clock,0.99999714,J
+clock6-car2,2024-01-15 00:13:07,An abstract painting with bright colors and a clock in the center.,clock,0.99999964,J
+knife5-dog1,2024-01-15 00:13:18,The image looks like a golden fur.,dog,0.71065205,X
+airplane10-car3,2024-01-15 00:13:40,This is a photo of an airplane.,airplane,1.0,A
+airplane9-keyboard2,2024-01-15 00:16:56,A black and grey computer keyboard.,keyboard,1.0,M
+bicycle2-keyboard2,2024-01-15 00:17:02,Black motorcycle handle grips with a close up of the speedometer.,bicycle,0.5783335,G
+airplane10-boat3,2024-01-15 00:17:09,An airplane is parked on a runway with a colorful background.,airplane,1.0,A
+bicycle5-keyboard3,2024-01-15 00:18:29,A black rotary dial telephone.,clock,0.95143485,J
+elephant8-dog1,2024-01-15 00:18:40,The image is a close-up of the back of three brown horses.,elephant,0.87476075,X
+keyboard8-airplane2,2024-01-15 00:18:51,The image is a bunch of yellow and black hexagons with a blue background.,airplane,0.54617065,X
+elephant3-chair1,2024-01-15 00:18:58,The image is of empty red velvet theater seats.,airplane,0.58933395,I
+elephant8-bird2,2024-01-15 00:19:08,The image shows a group of elephants from behind.,elephant,1.0,L
+bicycle8-chair2,2024-01-15 00:20:30,The image is of a bicycle made of wood.,bicycle,0.99998283,C
+elephant1-oven2,2024-01-15 00:20:36,The image is a deep dream image of an elephant.,elephant,1.0,"E, L"
+airplane4-bird3,2024-01-15 00:21:18,The image is of a fighter jet.,airplane,0.99999976,A
+knife6-boat3,2024-01-15 00:22:55,"The image is a colorful, abstract painting.",airplane,0.970426,X
+airplane8-chair1,2024-01-15 00:23:05,The image is an abstract painting. It has a light pink background with a darker pink and black foreground. The foreground is made up of a series of curved shapes that resemble waves.,airplane,0.85228556,X
+bottle4-dog2,2024-01-15 00:23:16,The image is a painting of a glass beer bottle.,bottle,0.9999999,F
+knife4-keyboard1,2024-01-15 00:23:28,The image is a close-up of a rusty metal surface.,airplane,0.8112594,X
+keyboard1-elephant3,2024-01-15 00:23:51,The image shows a close up of an elephant's skin.,elephant,1.0,L
+bicycle6-airplane2,2024-01-15 00:24:19,The image is a painting of a tricycle. The tricycle is blue and yellow. The background is white with yellow and blue lines.,bicycle,0.9973302,X
+bicycle2-car2,2024-01-15 00:24:30,The image is an abstract painting. It has bright colors and a lot of detail.,airplane,0.9908578,X
+bottle6-bear2,2024-01-15 00:24:41,The image is a photo of a bottle on a white fur style surface.,bottle,1.0,F
+knife10-oven3,2024-01-15 00:24:58,"The image is a close-up of a beige-colored electronic device. There are buttons, switches, and a small screen on the device.",airplane,0.6224472,M
+airplane10-knife3,2024-01-15 00:25:19,The image is a painting of a bunch of black keys on a white background.,keyboard,0.9822527,M
+clock4-bird3,2024-01-15 00:25:25,The image is of an octagonal wooden clock with a glass cover.,clock,0.9999999,J
+elephant1-chair1,2024-01-15 00:25:48,An image with a bunch of pink and black chairs with a pink background.,chair,0.99999917,I
+clock10-truck2,2024-01-15 00:25:55,The image is a watercolor painting of a red lantern.,boat,0.5713261,X
+bottle5-elephant1,2024-01-15 00:26:32,The image looks like an elephant's skin with a woman's body superimposed on it.,elephant,0.9999993,X
+airplane2-bottle1,2024-01-15 00:30:08,The image is a mirrored photo of a bunch of liquor bottles on a bar.,bottle,0.99999774,F
+knife9-elephant2,2024-01-15 00:34:04,The image is a close-up of an elephant's skin.,elephant,1.0,L
+bicycle5-oven3,2024-01-15 00:35:55,The image is a photo of a control panel with a lot of buttons and switches.,airplane,0.54944277,X
+bottle9-elephant2,2024-01-15 00:39:52,The image shows the skin of an elephant up close.,elephant,1.0,L
+bicycle2-knife2,2024-01-15 00:39:59,"The image is an abstract painting with a lot of detail. There are many different colors and shapes, and it is difficult to make out any specific objects.",airplane,0.9941579,X
+knife3-clock2,2024-01-15 00:47:17,,cat,0.4877308,X
+bird8-elephant1,2024-01-15 00:47:19,,cat,0.4877308,X
+bottle2-elephant1,2024-01-15 00:47:21,,cat,0.4877308,X
+elephant10-elephant1,2024-01-15 00:47:22,,cat,0.4877308,X
+clock2-elephant2,2024-01-15 00:50:01,,cat,0.4877308,X

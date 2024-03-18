@@ -1,0 +1,1283 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+bear6-clock1,2024-02-25 11:53:37,A distorted image of clocks and numbers is shown.,clock,0.9999999,J
+bear7-dog3,2024-02-25 11:53:38,A brown bear with a black nose and a white patch on its chest.,bear,0.99999166,B
+airplane3-dog1,2024-02-25 11:53:39,A brown dog is laying on a white furry blanket.,dog,0.99866724,K
+knife10-oven3,2024-02-25 11:53:40,A distorted image of a computer screen with a keyboard and mouse.,keyboard,0.99972075,M
+cat6-keyboard3,2024-02-25 11:53:41,A cat is sitting on a black keyboard.,keyboard,0.7721018,"H, M"
+oven7-keyboard1,2024-02-25 11:53:42,A black and white photo of a stack of metal drawers.,airplane,0.5052098,X
+knife9-bicycle1,2024-02-25 11:53:43,A distorted image of a motorcycle with a lot of colors and shapes.,airplane,0.6209321,X
+clock3-cat1,2024-02-25 11:53:45,A clock with a blurry face and red hands is surrounded by a furry texture.,clock,1.0,J
+clock10-bottle1,2024-02-25 11:53:46,A collage of liquor bottles is shown with an alarm clock in the middle.,clock,0.9680523,F
+dog8-boat3,2024-02-25 11:53:47,A robot dog is standing in front of a colorful background.,dog,0.99989736,K
+oven3-bottle3,2024-02-25 11:53:48,A painting of a green frame with a picture of a cat in it.,cat,0.9980646,H
+chair7-bottle1,2024-02-25 11:53:49,A chair is made of various liquor bottles and is surrounded by more bottles.,chair,0.8986366,"I, F"
+elephant5-truck1,2024-02-25 11:53:50,A red elephant with a white background and a red border.,elephant,1.0,L
+oven4-truck3,2024-02-25 11:53:52,A distorted image of a car with a yellow light on top.,car,0.9928504,G
+clock3-car2,2024-02-25 11:53:53,A distorted image of a clock with a red rim and red second hand.,clock,1.0,J
+chair8-clock3,2024-02-25 11:53:54,A distorted image of a chair with clocks all around it.,clock,0.9004863,"I, J"
+clock7-boat3,2024-02-25 11:53:55,A distorted image of a clock with red frame and green hands.,clock,1.0,J
+boat3-keyboard2,2024-02-25 11:53:56,A distorted image of a keyboard with the letters P and O visible.,keyboard,0.9999918,"M, O, P"
+bear2-knife2,2024-02-25 11:53:57,A painting of a bear is shown with a brick wall in the background.,bear,0.9999982,B
+elephant4-clock3,2024-02-25 11:53:58,An elephant is made up of clocks and watches.,elephant,0.9998733,X
+elephant6-bird1,2024-02-25 11:53:59,A blue and white elephant is standing on a sandy ground.,elephant,0.9999975,L
+car8-chair1,2024-02-25 11:54:00,A distorted image of a row of pink seats.,airplane,0.6771189,I
+bicycle2-keyboard2,2024-02-25 11:54:02,A blurry image of a car dashboard with a speedometer and other buttons.,car,0.9899607,G
+boat4-car3,2024-02-25 11:54:03,A distorted image of a parking lot with cars and trees.,car,0.9842301,"G, O, P"
+knife5-dog1,2024-02-25 11:54:04,A close up of a furry material with a brown stripe in the middle.,dog,0.87784714,X
+bear4-car3,2024-02-25 11:54:05,A distorted image of a red car with a bear in the background.,bear,0.9013232,"G, B"
+truck7-oven2,2024-02-25 11:54:06,A large white truck with a black bottom is parked in a lot.,truck,0.9999988,P
+bear8-boat2,2024-02-25 11:54:07,A painting of a bear is shown with a distorted background.,bear,0.9999714,B
+chair7-chair1,2024-02-25 11:54:08,A distorted image of a red chair in a room.,chair,0.99999654,I
+dog2-bicycle2,2024-02-25 11:54:09,A distorted image of a large group of bicycles.,bicycle,0.9999949,C
+cat10-keyboard1,2024-02-25 11:54:10,A black and white photo of a metal object with a blurry background.,airplane,0.9847199,X
+dog5-car3,2024-02-25 11:54:12,A distorted image of a red car with a blurry background.,car,0.99896514,G
+truck1-car3,2024-02-25 11:54:13,A distorted image of a red truck with a man laying under it.,truck,0.9999994,P
+oven6-bird1,2024-02-25 11:54:14,A blurry image of a turkey in a glass dish.,bird,0.8031891,X
+car4-car2,2024-02-25 11:54:15,A red sports car with a yellow spoiler is shown in a distorted image.,car,0.9963882,G
+dog4-clock1,2024-02-25 11:54:16,A painting of a dog with a clock for a head.,clock,0.9949845,K J
+car8-bicycle2,2024-02-25 11:54:17,A silver car is surrounded by a lot of silver chairs.,chair,0.97983336,"G, I"
+keyboard7-clock3,2024-02-25 11:54:18,A distorted image of clocks with different times and colors.,clock,1.0,J
+elephant4-bicycle2,2024-02-25 11:54:19,A bunch of bikes are parked together in a lot.,bicycle,0.9999615,C
+knife10-bear3,2024-02-25 11:54:20,A fuzzy animal with brown and black fur is shown in a close up.,dog,0.97548,B
+airplane5-bear2,2024-02-25 11:54:21,A blurry image of a bird with a white background.,bird,0.9997322,D
+bicycle4-car2,2024-02-25 11:54:22,A distorted image of a red motorcycle with a blurry background.,truck,0.5392199,G
+dog3-dog1,2024-02-25 11:54:23,A brown dog is laying on a brown furry blanket.,dog,0.99933016,K
+car1-oven3,2024-02-25 11:54:24,A distorted image of a vending machine and a microwave.,oven,0.72003174,X
+keyboard2-knife1,2024-02-25 11:54:26,A distorted image of a man with a gun and a knife.,knife,0.99999976,N
+truck2-chair1,2024-02-25 11:54:27,A distorted image of a red truck and a red car.,truck,0.9993605,"G, P"
+bottle2-knife3,2024-02-25 11:54:28,A bottle is shown with a distorted background.,bottle,1.0,F
+truck8-elephant1,2024-02-25 11:54:29,A picture of a truck is shown in a gray tone.,truck,0.9999995,P
+truck6-bear2,2024-02-25 11:54:30,A truck with the word water on the side is driving on a snowy road.,truck,0.9999989,P
+chair7-elephant1,2024-02-25 11:54:31,A gray stone carving of a chair with a cushion.,chair,0.99999976,I
+dog8-bear3,2024-02-25 11:54:32,A dog with a long tail is standing on a grassy field.,dog,0.9996977,"H, K"
+chair3-dog2,2024-02-25 11:54:33,A wooden chair with a brown seat and back is sitting on a white furry rug.,chair,0.9999937,I
+boat8-bottle1,2024-02-25 11:54:35,A collage of liquor bottles in various colors and sizes.,bottle,1.0,F
+car8-cat1,2024-02-25 11:54:35,A dog is sleeping on a furry blanket.,dog,0.9960133,K
+oven9-bear2,2024-02-25 11:54:37,A blurry image of a microwave with a turkey in it.,oven,0.5501082,X
+bicycle5-dog2,2024-02-25 11:54:37,A painting of a bike with a fuzzy background.,bicycle,0.9992976,C
+chair4-oven2,2024-02-25 11:54:38,A black chair is shown in a distorted image.,chair,0.99999774,I
+boat4-knife2,2024-02-25 11:54:40,A distorted image of a pile of knives with a black object on top.,knife,0.9999987,N
+bottle1-clock1,2024-02-25 11:54:41,A painting of a wine bottle with clocks all around it.,bottle,0.95145977,"F, J"
+clock10-bird3,2024-02-25 11:54:42,A distorted image of a red and black alarm clock.,clock,0.9999999,J
+oven7-car3,2024-02-25 11:54:43,A distorted image of a red car with a distorted background.,car,0.9971825,G
+bird5-dog2,2024-02-25 11:54:43,A yellow bird is sitting on a branch.,bird,0.99989605,D
+cat7-boat3,2024-02-25 11:54:45,A distorted image of a cat with a red fire truck in the background.,cat,0.9484055,"H, P"
+truck2-bicycle2,2024-02-25 11:54:46,A distorted image of a car and a motorcycle.,car,0.93898654,"G, P"
+car4-elephant3,2024-02-25 11:54:47,A car is depicted on a textured surface.,car,0.9993892,G
+dog9-chair2,2024-02-25 11:54:48,A painting of a pile of wooden chairs in front of a cityscape.,chair,0.999699,I
+knife6-chair3,2024-02-25 11:54:49,A distorted image of a room with blue chairs.,chair,0.999726,I
+cat4-car2,2024-02-25 11:54:50,A distorted image of a man in a red hat and a red and black motorcycle.,truck,0.692182,X
+elephant7-cat1,2024-02-25 11:54:51,A painting of a brown elephant with a blurry background.,elephant,0.9999989,L
+clock3-dog2,2024-02-25 11:54:52,A clock with a white face and gold trim is set against a furry background.,clock,1.0,J
+elephant8-cat1,2024-02-25 11:54:53,A painting of three brown bear cubs huddled together.,bear,0.9999845,B
+bear7-bear2,2024-02-25 11:54:54,A brown bear with a black nose is walking in the woods.,bear,0.999998,B
+chair8-chair3,2024-02-25 11:54:56,A distorted image of a blue chair with a white background.,chair,0.99995613,I
+airplane7-clock3,2024-02-25 11:54:56,A distorted image of clocks and musical notes.,clock,0.9999995,J
+bird9-chair1,2024-02-25 11:54:57,A distorted image of a movie theater with red and pink seats.,airplane,0.7988412,X
+airplane9-knife3,2024-02-25 11:54:59,A distorted image of a group of people with a black and white color scheme.,airplane,0.9929382,X
+elephant6-oven1,2024-02-25 11:55:00,A distorted image of an elephant is shown.,elephant,1.0,L
+airplane10-bear3,2024-02-25 11:55:01,A fuzzy animal with a brown and black striped tail.,dog,0.99509,X
+car8-airplane3,2024-02-25 11:55:02,A blue sports car is shown in a stylized photo.,car,0.9967374,G
+dog9-bear3,2024-02-25 11:55:03,A painting of a dog with a blurry background.,dog,0.9983425,K
+knife7-bottle3,2024-02-25 11:55:03,A distorted image of crushed green glass bottles.,bottle,0.99999976,F
+dog7-car2,2024-02-25 11:55:05,A distorted image of a red car with other cars in the background.,car,0.9983072,G
+airplane3-keyboard2,2024-02-25 11:55:06,A blurry image of a keyboard with the letter E visible.,keyboard,0.9999982,M
+chair9-boat2,2024-02-25 11:55:07,A painting of a chair with a distorted background.,chair,0.99999297,I
+knife6-bicycle1,2024-02-25 11:55:08,A distorted image of a motorcycle with a lot of colors and shapes.,airplane,0.6209321,X
+airplane4-bottle1,2024-02-25 11:55:09,"A collage of various bottles and cans, some of which are alcohol, are shown in a colorful display.",bottle,0.99999964,F
+oven4-chair1,2024-02-25 11:55:11,A distorted image of a car with a pink and black color scheme.,car,0.9971449,G
+chair8-elephant1,2024-02-25 11:55:12,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+oven9-knife3,2024-02-25 11:55:13,A distorted image of a toaster with a blurry background.,oven,0.88366854,X
+bottle6-knife3,2024-02-25 11:55:14,A painting of a woman in a dress with a blurry background.,airplane,0.97358704,X
+knife5-knife3,2024-02-25 11:55:15,"A distorted image of a sign that says ""ICED"".",bottle,0.8078959,X
+cat2-truck3,2024-02-25 11:55:16,A distorted image of a cat with a blue and yellow color scheme.,cat,0.99993,H
+oven9-bird3,2024-02-25 11:55:17,A painting of a dog in a microwave.,dog,0.9821377,K
+bottle10-boat3,2024-02-25 11:55:19,A bottle of Chambord Liqueur is shown in front of a distorted background.,bottle,0.99999976,F
+bird1-chair2,2024-02-25 11:55:20,A distorted image of a room with chairs and a table.,chair,0.9982318,I
+chair7-car2,2024-02-25 11:55:21,A distorted image of a red and black chair.,chair,0.99999833,I
+dog4-cat3,2024-02-25 11:55:21,A brown dog is looking up at the sky.,dog,0.9994567,K
+bottle4-truck1,2024-02-25 11:55:23,A red and black bottle is in front of a red and white background.,bottle,1.0,F
+chair3-knife1,2024-02-25 11:55:24,A distorted image of a chair with a brown seat and back.,chair,0.9999958,I
+dog8-chair3,2024-02-25 11:55:25,A distorted image of a gray elephant surrounded by blue chairs.,elephant,0.9994622,"L, I"
+bear10-bear2,2024-02-25 11:55:26,A polar bear is shown in a close up shot with a blurry background.,bear,0.99995315,B
+elephant9-clock3,2024-02-25 11:55:27,An elephant is shown with clocks on its body.,elephant,0.99453944,"L, J"
+oven4-bicycle2,2024-02-25 11:55:28,A distorted image of a motorcycle with a sidecar.,truck,0.5494716,X
+clock6-bicycle1,2024-02-25 11:55:30,A clock with a lot of gears and other metal parts is shown in the center of a collage of metal parts.,clock,1.0,J
+truck2-bottle3,2024-02-25 11:55:31,A green truck is surrounded by green glass bottles.,truck,0.92701304,P
+car2-bird3,2024-02-25 11:55:31,A car is shown with a distorted background.,car,0.9980357,G
+bicycle4-keyboard3,2024-02-25 11:55:33,A blurry image of a bike with a black seat and handlebars.,bicycle,0.9998578,C
+knife9-bear3,2024-02-25 11:55:34,A blurry image of a brown and black animal with a green tint.,dog,0.8106205,B
+keyboard4-bottle2,2024-02-25 11:55:35,A distorted image of a large number of bottles.,bottle,0.9999999,F
+bear6-car2,2024-02-25 11:55:36,A distorted image of a red car and a silver car.,car,0.99892825,G
+bird6-truck2,2024-02-25 11:55:37,A distorted image of a red car with chrome grill,car,0.99891114,G
+elephant7-bird1,2024-02-25 11:55:38,A blue elephant with a white tusk is walking on a sandy ground.,elephant,0.9999939,L
+chair6-bird2,2024-02-25 11:55:39,A black chair with a black cushion on it,chair,1.0,I
+bottle1-bird3,2024-02-25 11:55:40,A bottle of wine is shown in front of a white background.,bottle,1.0,F
+bird9-bear3,2024-02-25 11:55:41,A brown bird with a long tail is perched on a branch.,bird,0.9997727,D
+knife7-boat3,2024-02-25 11:55:42,A distorted image of a train and a building.,airplane,0.9765495,X
+bear2-bird3,2024-02-25 11:55:43,A brown bear is standing on all fours in a painting.,bear,0.9999815,B
+knife3-cat1,2024-02-25 11:55:44,A blurry image of a cat with brown and white fur.,cat,0.9999908,H
+bird8-car2,2024-02-25 11:55:45,A colorful painting of a bird with a red body and yellow head.,bird,0.9999933,D
+chair1-cat3,2024-02-25 11:55:46,A blurry image of a wooden chair with a red cushion.,chair,0.9999999,I
+boat9-bear3,2024-02-25 11:55:48,A blurry image of a bird with brown feathers and a white head.,bird,0.9999255,D
+car7-keyboard3,2024-02-25 11:55:49,A black car with a white light on top is driving on a road.,car,0.998288,G
+elephant3-keyboard2,2024-02-25 11:55:50,A distorted image of a black keyboard with white keys.,keyboard,0.99999964,M
+bicycle8-truck1,2024-02-25 11:55:51,A red bike is shown in a distorted picture.,bicycle,0.9999722,C
+bird4-bicycle2,2024-02-25 11:55:52,A distorted image of a person on a motorcycle surrounded by bikes.,bicycle,0.9836791,X
+airplane10-cat2,2024-02-25 11:55:53,A blurry image of a brown and white animal with spots.,dog,0.78679717,B
+bird1-airplane2,2024-02-25 11:55:54,A painting of a bird with a blue head and yellow and blue background.,bird,0.9999436,D
+bear10-knife2,2024-02-25 11:55:55,A painting of a bear is shown with a background of books.,bear,0.99997675,B
+bird1-oven1,2024-02-25 11:55:56,A blurry image of a bird flying in the sky.,airplane,0.6756691,D
+clock10-dog3,2024-02-25 11:55:58,A distorted image of a cat's face with a clock in the middle.,clock,0.6491181,"H, J"
+cat4-chair2,2024-02-25 11:55:58,A painting of a pile of wooden chairs.,chair,0.9999995,I
+boat7-boat2,2024-02-25 11:56:00,A distorted image of a sailboat with a lot of colors and shapes.,boat,0.9998405,E
+knife3-clock2,2024-02-25 11:56:01,A distorted image of a clock with a pair of scissors.,clock,0.99992085,J
+cat8-bicycle3,2024-02-25 11:56:02,A painting of a cat with a distorted background.,cat,0.99979657,H
+keyboard7-knife1,2024-02-25 11:56:03,A distorted image of a pile of knives with a brown background.,knife,0.9999993,N
+car4-bottle1,2024-02-25 11:56:04,A collage of bottles and jars are used to create the image of a car.,bottle,0.98702186,G
+cat7-airplane2,2024-02-25 11:56:05,A distorted image of a cat with a blue and yellow background.,cat,0.99991715,H
+boat1-chair3,2024-02-25 11:56:06,A distorted image of a room with blue chairs.,chair,0.999726,I
+keyboard1-chair2,2024-02-25 11:56:07,A painting of a room full of wooden chairs.,chair,0.9999976,I
+airplane1-chair2,2024-02-25 11:56:08,A distorted image of a room full of chairs.,chair,0.9999945,I
+car9-clock2,2024-02-25 11:56:09,A white car with a black roof is shown on a background with numbers and letters.,car,0.998206,G
+oven1-boat3,2024-02-25 11:56:10,A distorted image of a boat with a red life preserver.,boat,0.999998,E
+keyboard7-boat2,2024-02-25 11:56:11,A distorted image of a bunch of parked cars.,car,0.99405587,G
+elephant2-bottle3,2024-02-25 11:56:12,A green elephant is made out of glass bottles.,bottle,0.704631,X
+bicycle3-elephant2,2024-02-25 11:56:13,A painting of a bicycle is shown with a textured background.,bicycle,0.99999595,C
+clock2-clock3,2024-02-25 11:56:14,A clock with a white face and black hands is surrounded by smaller clocks.,clock,1.0,J
+dog8-keyboard3,2024-02-25 11:56:16,A black object is in a container with a white design on the side.,bottle,0.9087244,X
+truck7-bird2,2024-02-25 11:56:17,A white semi truck with graffiti on the side is parked in the snow.,truck,0.9999999,P
+keyboard9-keyboard2,2024-02-25 11:56:18,A close up of a keyboard with a blurry background.,keyboard,0.9999999,M
+bicycle9-airplane2,2024-02-25 11:56:19,A blue and yellow bicycle is shown in a distorted picture.,bicycle,0.9999988,C
+airplane10-airplane1,2024-02-25 11:56:20,A fighter jet is flying through a sky filled with white papers.,airplane,1.0,A
+oven10-cat2,2024-02-25 11:56:21,A blurry image of a microwave with a turkey inside.,oven,0.700457,X
+chair3-bottle3,2024-02-25 11:56:22,A green chair is surrounded by a lot of green glass bottles.,chair,0.8076106,"I, F"
+car5-airplane3,2024-02-25 11:56:24,A painting of a car with a license plate that says 751779.,car,0.99843544,G
+bear1-clock2,2024-02-25 11:56:25,A painting of a bear with a clock face for a head.,clock,0.5146766,"B, J"
+keyboard9-cat1,2024-02-25 11:56:26,A blurry image of a cat sleeping on a blanket.,cat,0.99995065,H
+cat2-knife3,2024-02-25 11:56:27,A painting of a dog with a distorted face and a lot of black and white colors.,dog,0.9988066,X
+car8-dog1,2024-02-25 11:56:28,A distorted image of a dog laying on a furry blanket.,dog,0.99857354,H
+clock3-bird1,2024-02-25 11:56:30,A blurry clock with a blue frame shows the time as 10:10.,clock,1.0,J
+clock5-chair3,2024-02-25 11:56:31,A distorted image of a clock with blue and white colors.,clock,1.0,J
+clock5-bicycle1,2024-02-25 11:56:32,A clock with a distorted image of a city in the background.,clock,0.9999999,J
+dog9-boat1,2024-02-25 11:56:33,A painting of a dog in a blue coat and hat.,dog,0.99959296,K
+dog7-knife3,2024-02-25 11:56:34,A black and white dog is looking at the camera.,dog,0.99997866,K
+knife4-knife2,2024-02-25 11:56:35,A distorted image of a black bird flying over a brick wall.,bird,0.91302145,D
+oven3-truck1,2024-02-25 11:56:36,A distorted image of a red car with a white background.,car,0.9978371,G
+oven1-bird3,2024-02-25 11:56:37,A distorted image of a bird flying in the sky.,airplane,0.78672117,D
+truck3-bird2,2024-02-25 11:56:38,A black and white photo of a truck with a white tarp on the back.,truck,0.9999956,P
+boat7-clock3,2024-02-25 11:56:39,A distorted image of a woman with many clocks on her body.,clock,0.99999964,J
+car6-elephant3,2024-02-25 11:56:40,A close up of a tire tread on a dirty tire.,bicycle,0.98581797,G
+bear1-bicycle3,2024-02-25 11:56:42,"A polar bear is depicted in a stylized and abstract way, with a metallic texture.",bear,0.99997735,B
+elephant2-elephant3,2024-02-25 11:56:43,A picture of an elephant is shown with a textured background.,elephant,1.0,L
+chair4-keyboard2,2024-02-25 11:56:44,A distorted image of a keyboard with a black and white color scheme.,keyboard,0.9999989,M
+bicycle1-knife3,2024-02-25 11:56:45,A distorted image of a bike with a black seat and handlebars.,bicycle,0.9995365,C
+knife9-boat1,2024-02-25 11:56:46,A painting of a city with a lot of blue and red colors.,airplane,0.9041678,X
+airplane8-chair1,2024-02-25 11:56:47,A distorted image of a row of red and black chairs.,chair,0.99999356,I
+dog1-car2,2024-02-25 11:56:48,A distorted image of a red car with a blurry background.,car,0.99896514,G
+keyboard6-elephant1,2024-02-25 11:56:50,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+truck7-keyboard3,2024-02-25 11:56:51,A blurry image of a black and white keyboard,keyboard,0.9999999,M
+bear5-bottle1,2024-02-25 11:56:52,A painting of a bear made from various liquor bottles.,bottle,0.9738999,B
+truck1-bird1,2024-02-25 11:56:53,A blurry image of a truck driving on a road.,truck,0.9999999,P
+bottle6-dog3,2024-02-25 11:56:54,A blurry image of a dog with a white and brown furry coat.,dog,0.9990101,K
+bottle3-bear2,2024-02-25 11:56:55,A glass bottle is sitting on a white furry surface.,bottle,1.0,F
+airplane5-boat3,2024-02-25 11:56:56,A distorted image of a plane with a lot of pink and blue.,airplane,1.0,A
+bottle9-keyboard1,2024-02-25 11:56:57,A black and white photo of a bottle with the word Jack on it.,bottle,0.99999964,F
+oven8-knife2,2024-02-25 11:56:58,A painting of a toaster oven with two burners on top.,oven,0.9999999,O
+bear7-truck1,2024-02-25 11:56:59,A distorted image of a red fire truck.,truck,0.99998975,P
+knife5-keyboard3,2024-02-25 11:57:00,A black object is on a white surface with a gray background.,airplane,0.99363977,X
+dog3-clock1,2024-02-25 11:57:01,A painting of a dog is surrounded by clocks.,clock,0.9992912,K J
+bicycle5-keyboard3,2024-02-25 11:57:02,A blurry image of a black keyboard with white keys.,keyboard,0.9999999,M
+bird10-bird2,2024-02-25 11:57:03,A black and white photo of a bird with a long beak.,bird,0.99998426,D
+clock6-chair3,2024-02-25 11:57:04,A distorted image of a room full of blue chairs.,chair,0.99982846,I
+bicycle1-elephant2,2024-02-25 11:57:05,A picture of a bike is shown with a brown background.,bicycle,0.99987614,C
+keyboard2-bottle1,2024-02-25 11:57:07,A large number of liquor bottles are shown in a distorted picture.,bottle,0.9999999,F
+clock8-airplane2,2024-02-25 11:57:07,A distorted image of a blue and yellow clock.,clock,0.9999999,J
+bottle7-clock1,2024-02-25 11:57:09,A distorted image of clocks with one saying the time is 11:11.,clock,1.0,J
+bicycle5-bear1,2024-02-25 11:57:10,A distorted image of a cat sleeping on a bed.,cat,0.99997187,H
+elephant1-bottle1,2024-02-25 11:57:11,An elephant is made of various bottles and cans.,elephant,0.94134027,X
+chair2-keyboard2,2024-02-25 11:57:12,A black chair with a distorted image of a woman in the background.,chair,0.9999989,I
+keyboard5-bird3,2024-02-25 11:57:13,A distorted image of a brown keyboard on a white surface.,keyboard,0.99999213,M
+cat1-keyboard3,2024-02-25 11:57:14,A cat is sitting behind a computer keyboard.,keyboard,0.68906957,"H, M"
+bird5-truck2,2024-02-25 11:57:15,A distorted image of a red and silver car.,car,0.9983102,G
+truck6-bottle3,2024-02-25 11:57:16,A green truck with the word water on it is surrounded by bottles.,truck,0.5620778,P
+dog3-knife3,2024-02-25 11:57:17,A black dog is standing in front of a white background.,dog,0.9999809,K
+oven5-bird1,2024-02-25 11:57:18,A blurry image of a television with a blue screen.,airplane,0.9654067,X
+chair10-oven1,2024-02-25 11:57:19,A black and white chair with a black seat and a white back.,chair,1.0,I
+elephant2-clock1,2024-02-25 11:57:20,A painting of a clock with a distorted background.,clock,0.9999999,J
+car3-elephant3,2024-02-25 11:57:21,"A car is depicted on a textured surface, possibly a wall.",car,0.998678,G
+dog4-keyboard2,2024-02-25 11:57:22,A blurry image of a black remote control.,airplane,0.9531932,X
+truck1-knife1,2024-02-25 11:57:24,A distorted image of a truck with a tarp on the back and a driver in the cab.,truck,0.9999995,P
+boat9-bird1,2024-02-25 11:57:25,A blurry image of a ship with three sails and a flag on top.,boat,0.99162865,E
+boat2-airplane1,2024-02-25 11:57:26,A distorted image of a motorcycle with a lot of white paper in the background.,airplane,0.95244825,X
+boat7-oven3,2024-02-25 11:57:27,A distorted image of a computer with a mouse and keyboard.,keyboard,0.9992212,M
+airplane1-bicycle2,2024-02-25 11:57:28,A distorted image of a plane surrounded by bikes.,airplane,0.9999317,"A, G, C"
+keyboard7-car3,2024-02-25 11:57:29,A distorted image of a red car with a white car in the background.,car,0.9989446,G
+keyboard3-bicycle2,2024-02-25 11:57:30,A large number of bicycles are parked together in a lot.,bicycle,0.99999714,C
+bicycle8-clock3,2024-02-25 11:57:32,A bike with a clock on the front wheel and a clock on the back wheel.,clock,0.9639643,"C, J"
+cat7-clock3,2024-02-25 11:57:33,A painting of a cat is made up of clocks.,clock,0.9026869,H
+airplane8-oven2,2024-02-25 11:57:34,A distorted image of a city skyline with a bridge.,airplane,0.86992073,X
+cat5-bottle1,2024-02-25 11:57:35,A cat is surrounded by a multitude of bottles.,bottle,0.93165463,"H, F"
+airplane10-truck1,2024-02-25 11:57:36,A distorted image of a red car with a building in the background.,car,0.9987056,G
+clock8-bear2,2024-02-25 11:57:37,A pocket watch with the time of 10:10 on it.,clock,0.99999714,J
+keyboard8-oven1,2024-02-25 11:57:38,A distorted image of a keyboard with a blurry background.,keyboard,0.9999976,M
+truck5-airplane2,2024-02-25 11:57:39,A distorted image of a yellow and blue bus.,truck,0.8793432,G. car
+clock8-boat1,2024-02-25 11:57:40,A distorted image of a clock with a blue and red rim.,clock,0.9999999,J
+bottle7-truck2,2024-02-25 11:57:41,A distorted image of a red fire truck.,truck,0.99998975,P
+elephant7-knife2,2024-02-25 11:57:42,A painting of an elephant with a blurry background.,elephant,0.9999999,L
+bottle1-bear1,2024-02-25 11:57:43,A picture of a brown bear's furry back.,bear,0.9999784,B
+bird8-bottle1,2024-02-25 11:57:44,A collage of various bottles and jars make up the image of a cat.,cat,0.5680691,"I, K"
+cat4-clock2,2024-02-25 11:57:45,A painting of a cat with a clock for a body.,clock,0.80858535,"H, J"
+bear10-chair2,2024-02-25 11:57:46,A distorted image of a room full of wooden chairs.,chair,0.99999356,I
+clock2-elephant2,2024-02-25 11:57:47,A clock with a face that looks like an elephant's trunk.,clock,0.8494617,"J, L"
+bicycle1-bird1,2024-02-25 11:57:49,A blurry image of a bike with a blue seat and a white pedal.,bicycle,0.9999362,C
+chair1-oven3,2024-02-25 11:57:50,A chair is in front of a wall of telephones.,chair,0.99999106,I
+bottle7-bear1,2024-02-25 11:57:51,A fuzzy image of a bear with a blurry background.,bear,0.999998,B
+boat9-cat3,2024-02-25 11:57:52,A painting of a ship with three masts and a red bottom.,boat,0.99806327,E. boat
+knife7-chair2,2024-02-25 11:57:53,A painting of a room filled with wooden chairs and tables.,chair,0.99972576,I
+bottle5-chair1,2024-02-25 11:57:54,A pink and black roller coaster with lots of seats.,airplane,0.8844287,X
+cat1-car2,2024-02-25 11:57:55,A distorted image of a cat with red ears and yellow eyes.,cat,0.9999974,H
+dog3-elephant2,2024-02-25 11:57:57,"A picture of a woman with long hair is shown in a textured, brown background.",airplane,0.85895175,X
+chair10-bicycle1,2024-02-25 11:57:58,A distorted image of a chair with a lot of junk around it.,chair,0.9999925,I
+bottle5-airplane1,2024-02-25 11:57:59,A bottle of alcohol with a distorted background of newspaper clippings.,bottle,0.99999833,F
+knife8-cat2,2024-02-25 11:58:00,A blurry image of a brown and white animal with spots.,dog,0.78679717,B
+dog1-cat3,2024-02-25 11:58:01,A dog with a red spot on its eye and a red spot on its nose.,dog,0.9997596,K
+boat8-oven1,2024-02-25 11:58:02,A distorted image of a plane with a white background.,airplane,1.0,A
+truck9-chair3,2024-02-25 11:58:03,A distorted image of a room with chairs and a table.,chair,0.9982318,I
+knife6-clock2,2024-02-25 11:58:04,A distorted image of a man with a gun and a clock.,clock,0.9999982,J
+knife9-elephant2,2024-02-25 11:58:06,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+bird1-boat1,2024-02-25 11:58:07,A painting of a bird with a distorted background.,bird,0.9987784,D
+truck1-cat1,2024-02-25 11:58:08,A blurry image of a cat sleeping on a furry blanket.,cat,0.9998087,H
+bird6-car3,2024-02-25 11:58:09,A distorted image of a red car with other cars in the background.,car,0.9983072,G
+clock6-car2,2024-02-25 11:58:10,A distorted image of a clock with red hands and a red car in the background.,clock,0.9948807,"J, G"
+cat7-elephant1,2024-02-25 11:58:11,A gray cat is sitting on a gray surface.,cat,0.9992768,H
+bird5-bear3,2024-02-25 11:58:12,A bird with a black beak and brown feathers is sitting on a tree branch.,bird,0.9999883,D
+airplane6-chair3,2024-02-25 11:58:14,A distorted image of a room with blue chairs and a white floor.,chair,0.9980551,I
+elephant5-elephant1,2024-02-25 11:58:15,A gray elephant with a long trunk and floppy ears is standing on a gray surface.,elephant,0.99999976,L
+bottle3-airplane2,2024-02-25 11:58:16,A distorted image of a bottle with a blue background.,bottle,1.0,F
+chair5-knife3,2024-02-25 11:58:17,A distorted image of a chair with a white background.,chair,0.9999963,I
+car6-bear1,2024-02-25 11:58:18,A fuzzy image of a bear with a star on its chest.,bear,0.9999913,B
+elephant9-chair2,2024-02-25 11:58:19,A distorted image of a room full of wooden chairs.,chair,0.99999356,I
+knife6-bird1,2024-02-25 11:58:20,A blurry image of a knife with a blue handle.,knife,1.0,N
+bird7-car2,2024-02-25 11:58:21,A red and black bird is sitting on a branch in front of a blurry background.,bird,0.999926,D
+airplane2-bear1,2024-02-25 11:58:23,A close up of a brown animal's furry skin with a few holes in it.,dog,0.9513945,X
+dog1-chair1,2024-02-25 11:58:24,A distorted image of a pink and black chair.,chair,0.99999547,I
+knife2-bear2,2024-02-25 11:58:25,A blurry image of a knife with a chain on it,knife,0.9999999,N
+boat5-bicycle3,2024-02-25 11:58:26,A distorted image of a boat with sails and a mast.,boat,0.99999917,E
+bird3-cat1,2024-02-25 11:58:27,A painting of a bird with a blue background,bird,0.99957734,D
+car4-cat3,2024-02-25 11:58:28,A blurry image of a car with a surfboard on top.,car,0.7876536,G
+knife4-keyboard1,2024-02-25 11:58:29,A blurry image of a black object on a white surface.,airplane,0.99192387,X
+bottle8-elephant3,2024-02-25 11:58:30,A bottle of Foster's beer is shown with a textured background.,bottle,1.0,F
+keyboard1-clock1,2024-02-25 11:58:31,A painting of clocks and numbers with a distorted background.,clock,0.99999905,X
+bird1-elephant2,2024-02-25 11:58:32,A painting of an elephant with a bird on its trunk.,elephant,0.99516344,"D, E"
+elephant8-boat2,2024-02-25 11:58:33,A painting of elephants is shown in a distorted way.,elephant,0.9999969,L
+airplane7-bottle3,2024-02-25 11:58:35,A painting of a green dragon is surrounded by a pile of empty glass bottles.,bottle,0.9999995,X
+bicycle1-bear1,2024-02-25 11:58:35,A distorted image of a bike with a fuzzy texture.,bicycle,0.9996296,C
+dog1-knife3,2024-02-25 11:58:37,A distorted image of a dog with a black nose and eyes.,dog,0.99989784,K
+elephant1-car3,2024-02-25 11:58:38,A distorted image of a red car with a tree in the background.,car,0.9946256,G
+knife3-bear2,2024-02-25 11:58:39,A fuzzy image of a bear with a black nose.,bear,0.99999,B
+cat6-clock3,2024-02-25 11:58:40,A cat is surrounded by clocks and musical notes.,clock,0.69803005,"H, J"
+chair1-elephant1,2024-02-25 11:58:41,A gray elephant's skin is shown with wrinkles and creases.,elephant,0.99999905,L
+bear4-oven2,2024-02-25 11:58:42,A distorted image of a black bear in a forest.,bear,0.99999464,B
+bear4-knife1,2024-02-25 11:58:43,A painting of a bear with a distorted background.,bear,0.99998665,B
+bottle5-elephant1,2024-02-25 11:58:44,A close up of an elephant's skin shows a bottle shape.,bottle,0.98611546,E
+bicycle7-oven1,2024-02-25 11:58:45,A blurry image of a bicycle with a white background.,bicycle,0.9999993,C
+bottle6-boat3,2024-02-25 11:58:46,A bottle of gatorade in front of a colorful background.,bottle,1.0,F
+keyboard2-clock1,2024-02-25 11:58:47,A distorted image of clocks with different times and colors,clock,1.0,J
+cat3-oven2,2024-02-25 11:58:48,A cat is sitting on a table with a blurry background.,cat,0.9999832,"H, I"
+knife1-chair1,2024-02-25 11:58:49,A distorted image of a pink chair with a green object on it.,chair,0.9999641,I
+bear3-bird3,2024-02-25 11:58:50,A painting of a brown bear with a white background.,bear,0.9999895,B
+clock9-chair3,2024-02-25 11:58:51,A distorted image of a room full of chairs.,chair,0.9999945,I
+chair3-airplane2,2024-02-25 11:58:52,A painting of a blue chair with yellow streaks on the floor.,chair,0.9999504,I
+bicycle10-airplane2,2024-02-25 11:58:53,A blue bike with a yellow seat and handlebars is shown in a blurry photo.,bicycle,0.99989223,C
+bicycle5-oven3,2024-02-25 11:58:54,A distorted image of a computer keyboard and mouse.,keyboard,0.9999336,M
+car3-truck1,2024-02-25 11:58:55,A red sports car is shown with a distorted background.,car,0.9991053,G
+elephant7-bear3,2024-02-25 11:58:56,A painting of a bear with a blurry background.,bear,0.99999297,B
+truck9-boat3,2024-02-25 11:58:57,A distorted image of a truck with a horse on the side.,truck,0.99990046,P
+bicycle5-chair2,2024-02-25 11:58:59,A painting of a bike with a wooden frame and a wooden chair.,bicycle,0.83989847,"C, I"
+oven9-keyboard1,2024-02-25 11:59:00,A black and white photo of a camera with a blurry image in the viewfinder.,airplane,0.9196503,X
+truck2-oven3,2024-02-25 11:59:01,A distorted image of a truck with a large oven on the back.,truck,0.99297076,"O, P"
+knife9-bottle2,2024-02-25 11:59:02,A distorted image of many bottles of alcohol.,bottle,0.9999999,F
+airplane7-bird3,2024-02-25 11:59:03,"A painting of a bird flying with the word ""Mena"" in the background.",bird,0.9053718,D
+clock10-oven2,2024-02-25 11:59:04,A distorted image of a black and silver toaster.,oven,0.9170315,X
+oven9-airplane2,2024-02-25 11:59:06,A distorted image of a toaster with a piece of bread in it.,oven,0.95780253,X
+bicycle6-boat2,2024-02-25 11:59:07,A painting of a bike with a basket and a red seat.,bicycle,0.9999989,C
+truck6-truck2,2024-02-25 11:59:08,A distorted image of a red fire truck with the word water on the front.,truck,0.999393,P
+keyboard9-bear2,2024-02-25 11:59:09,A fuzzy image of a dog with a blurry background.,dog,0.999887,K
+airplane9-clock1,2024-02-25 11:59:10,A distorted image of clocks and numbers is shown.,clock,0.9999999,J
+airplane9-boat1,2024-02-25 11:59:11,A distorted image of a red and blue plane.,airplane,1.0,A
+bear5-bicycle3,2024-02-25 11:59:12,A bear is standing on its hind legs in a painting.,bear,0.99990785,B
+boat2-bear3,2024-02-25 11:59:13,A fuzzy animal with a black eye is shown in a close up.,dog,0.984757,B
+car3-boat1,2024-02-25 11:59:14,A painting of a red and blue sports car.,car,0.998735,G
+bird2-airplane3,2024-02-25 11:59:15,A distorted image of a person with a blurry background.,airplane,0.9897396,X
+bear10-car2,2024-02-25 11:59:16,A distorted image of a red car and a black car.,car,0.9985845,"G, P"
+keyboard5-dog3,2024-02-25 11:59:17,A blurry image of a dog with a keyboard on top of it.,dog,0.8654117,K M
+airplane5-bird2,2024-02-25 11:59:18,A black and white photo of two fighter jets flying in the sky.,airplane,1.0,A. airplane
+bird8-elephant1,2024-02-25 11:59:20,A bird with a pink spot on its head is perched on a branch.,bird,0.999923,D
+oven3-elephant3,2024-02-25 11:59:21,A square stone with a carving of a bird in it,bird,0.9998419,D
+truck7-boat1,2024-02-25 11:59:22,A distorted image of a truck with the letters RBO on the side.,truck,0.9999969,P
+cat9-chair2,2024-02-25 11:59:23,A painting of a room filled with wooden chairs and tables.,chair,0.99972576,I
+chair5-bird1,2024-02-25 11:59:24,A blue and white chair with wheels on the bottom.,chair,0.9999949,I
+dog5-oven1,2024-02-25 11:59:25,A distorted image of a person wearing a helmet.,airplane,0.66332465,X
+keyboard7-oven2,2024-02-25 11:59:26,A distorted image of a black and white city skyline.,airplane,0.9978454,X
+chair1-chair1,2024-02-25 11:59:27,A distorted image of pink and red chairs.,chair,0.9999945,I
+bicycle3-keyboard1,2024-02-25 11:59:28,A black and white photo of a bicycle with a blurry background.,bicycle,0.9999976,C
+cat2-elephant1,2024-02-25 11:59:29,A cat's face is shown with a large nose and two eyes.,cat,0.9999989,H
+elephant4-oven1,2024-02-25 11:59:30,A blurry image of a large elephant walking.,elephant,1.0,L
+knife4-cat2,2024-02-25 11:59:31,A blurry image of a brown and white animal with a black spot and a brown line.,dog,0.5659124,X
+car7-car1,2024-02-25 11:59:32,A painting of a red car with a yellow car in the background.,car,0.99995077,G
+cat9-knife2,2024-02-25 11:59:34,A distorted image of a cat is shown with a background of books.,cat,0.9999832,H
+chair10-bottle3,2024-02-25 11:59:35,A green chair is sitting in a pile of trash.,chair,1.0,I
+clock6-clock2,2024-02-25 11:59:36,A clock with a black face and white numbers is on a white background.,clock,1.0,J
+elephant10-bear1,2024-02-25 11:59:37,A close up of a bear's ear and furry skin.,bear,0.9999926,B
+clock7-car1,2024-02-25 11:59:38,A distorted image of a clock with a red frame and yellow background.,clock,1.0,J
+knife2-bird1,2024-02-25 11:59:39,A blue and white abstract painting with a curved line.,airplane,0.98748744,X
+keyboard5-knife2,2024-02-25 11:59:40,A painting of a black and red object on a white background.,airplane,0.94422305,X
+chair7-knife2,2024-02-25 11:59:41,A painting of a black hat on a wooden chair.,chair,0.99999976,I
+dog10-bottle1,2024-02-25 11:59:42,A dog is made of various bottles and cans.,bottle,0.9328961,K
+keyboard7-bear2,2024-02-25 11:59:43,A fuzzy image of a bear with a blurry background.,bear,0.999998,B
+truck9-elephant1,2024-02-25 11:59:44,A truck with a horse on the back is carved into a rock.,truck,0.999622,X
+cat10-airplane3,2024-02-25 11:59:45,A distorted image of a plane flying in the sky.,airplane,1.0,A
+oven9-chair1,2024-02-25 11:59:46,A distorted image of a red car seat in a car.,car,0.9982638,G
+bird8-keyboard2,2024-02-25 11:59:47,A blurry image of a black keyboard with the letter F visible.,keyboard,0.99999297,M
+bird7-knife2,2024-02-25 11:59:49,A black and white bird is sitting on a branch in front of a brick wall.,bird,0.99997866,D
+chair9-elephant1,2024-02-25 11:59:50,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+keyboard4-cat2,2024-02-25 11:59:51,A fuzzy image of a brown and white animal with spots.,dog,0.8909209,B
+bottle1-chair2,2024-02-25 11:59:52,A distorted image of a pile of wooden chairs.,chair,0.9999964,I
+car7-bird3,2024-02-25 11:59:53,A red and black sports car is shown in a stylized photo.,car,0.9995778,G
+cat1-cat3,2024-02-25 11:59:54,A blurry image of a cat with orange and black fur.,cat,0.99999726,H
+chair5-keyboard2,2024-02-25 11:59:55,A distorted image of a keyboard with the letters F and J visible.,keyboard,0.9999881,M
+bicycle4-boat1,2024-02-25 11:59:56,A distorted image of a red and blue bike.,bicycle,0.9999647,C
+oven1-clock3,2024-02-25 11:59:58,A distorted image of a clock with the time 10:10.,clock,1.0,J
+bottle6-bottle3,2024-02-25 11:59:59,A green bottle is in the center of a collage of other bottles.,bottle,1.0,F
+airplane10-knife3,2024-02-25 12:00:00,A distorted image of a bunch of knives hanging on a wall.,knife,0.99998844,N
+chair7-boat3,2024-02-25 12:00:01,A painting of a green chair with red legs.,chair,0.99999905,I
+bird5-car2,2024-02-25 12:00:02,A red and black bird is sitting on a branch in front of a colorful background.,bird,0.9999827,D
+bottle8-keyboard3,2024-02-25 12:00:03,A black bottle is in the middle of two white walls.,bottle,1.0,F
+car1-dog2,2024-02-25 12:00:04,A painting of a blurry image of a bird with a green background.,bird,0.99966156,D
+bird6-boat2,2024-02-25 12:00:05,A distorted image of a city with lots of buildings.,airplane,0.9864803,X
+cat2-car3,2024-02-25 12:00:07,A distorted image of a red car with a tree in the background.,car,0.9946256,G
+airplane4-elephant1,2024-02-25 12:00:08,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+bear2-cat2,2024-02-25 12:00:09,A blurry image of a brown bear with a white background.,bear,0.999992,B
+cat6-chair3,2024-02-25 12:00:10,A distorted image of a room full of blue chairs.,chair,0.99982846,I
+knife2-elephant2,2024-02-25 12:00:11,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+cat5-bear2,2024-02-25 12:00:12,A cat with a blurry face is sitting on a blanket.,cat,0.99997973,H
+keyboard2-bicycle3,2024-02-25 12:00:13,A distorted image of a group of bicycles with a pink and purple tint.,bicycle,0.9999733,C
+bicycle1-clock3,2024-02-25 12:00:15,A bicycle with a clock for a seat and clock faces for wheels.,bicycle,0.99666494,"C, J"
+bird5-airplane3,2024-02-25 12:00:16,A blue and black bird is sitting on a branch.,bird,0.99996066,D
+bottle1-keyboard3,2024-02-25 12:00:17,A distorted image of a black cat in a room.,cat,0.99997234,H
+bear8-elephant2,2024-02-25 12:00:17,A bear is carved into a piece of wood.,bear,0.99999917,B
+keyboard10-car1,2024-02-25 12:00:19,A painting of a red car is shown with other cars in the background.,car,0.999946,G
+dog3-truck2,2024-02-25 12:00:20,A distorted image of a red car with a black grill.,car,0.986416,G
+keyboard4-keyboard2,2024-02-25 12:00:21,A blurry image of a keyboard with the letters and numbers visible.,keyboard,0.99999976,M
+bicycle4-airplane1,2024-02-25 12:00:22,A distorted image of a bike with a white background.,bicycle,0.9998549,C
+airplane4-keyboard3,2024-02-25 12:00:23,A black object with a hole in the middle is on a brown surface.,airplane,0.91653603,X
+keyboard4-oven2,2024-02-25 12:00:24,A distorted image of a room with a desk and a computer.,airplane,0.7171568,X
+chair6-dog1,2024-02-25 12:00:25,A close up of a brown and white animal fur,dog,0.97586787,"B, H"
+oven4-clock2,2024-02-25 12:00:26,A painting of a toaster oven with a coffee pot on top.,oven,0.99999976,O
+knife1-car3,2024-02-25 12:00:27,A distorted image of a red car with a tree in the background.,car,0.9946256,G
+chair2-boat1,2024-02-25 12:00:29,A painting of a chair with a blue seat and a red back.,chair,0.99999917,I
+chair6-truck2,2024-02-25 12:00:30,A distorted image of a red car with a pink background.,car,0.9963846,G
+boat9-knife2,2024-02-25 12:00:31,A painting of a boat sailing on a body of water.,boat,0.9999999,E
+bird10-chair1,2024-02-25 12:00:32,A distorted image of pink and red chairs.,chair,0.9999945,I
+clock8-oven3,2024-02-25 12:00:33,A distorted image of a clock with a blurry background.,clock,1.0,J
+chair5-oven2,2024-02-25 12:00:34,A black office chair with wheels and a mesh back is shown in front of a blurry background.,chair,0.999995,I
+dog9-bicycle3,2024-02-25 12:00:35,A painting of a dog is surrounded by a background of metal pieces.,dog,0.9981294,K
+cat4-bird2,2024-02-25 12:00:36,A black and grey cat is sitting on a black pole.,cat,0.99999046,H
+clock4-airplane1,2024-02-25 12:00:37,A distorted clock shows the time is 10:10.,clock,1.0,J
+truck2-elephant1,2024-02-25 12:00:39,A truck is carved into a rock with a circular symbol on the door.,truck,0.9999999,P
+dog5-bear3,2024-02-25 12:00:40,A dog with long brown hair is looking at the camera.,dog,0.9999732,K
+car4-bicycle3,2024-02-25 12:00:41,A distorted image of a red car with a bike in the background.,bicycle,0.79555327,"G, C"
+bicycle2-bicycle1,2024-02-25 12:00:42,A painting of a bicycle with a basket and a black seat.,bicycle,0.9999999,C
+elephant10-keyboard1,2024-02-25 12:00:43,A close up of a black tire with treads and a silver rim.,bicycle,0.99930215,G
+car6-chair3,2024-02-25 12:00:44,A distorted image of a room with chairs and tables,chair,0.9968839,I
+car4-bear3,2024-02-25 12:00:45,A fuzzy image of a dog sleeping in a dog bed.,dog,0.9991166,H
+bear1-bird2,2024-02-25 12:00:46,A polar bear is sitting on the ice.,bear,0.9999865,B
+truck4-bear1,2024-02-25 12:00:47,A fuzzy animal with brown and black fur is laying down.,dog,0.9832319,B
+chair10-airplane2,2024-02-25 12:00:48,A painting of a chair with a blue seat and yellow back.,chair,0.9999995,I
+bottle2-clock1,2024-02-25 12:00:49,A painting of a beer bottle with clocks all around it.,bottle,0.9841256,F
+dog6-cat1,2024-02-25 12:00:50,A brown dog with a black collar is laying on a white blanket.,dog,0.9999256,K
+clock2-bicycle1,2024-02-25 12:00:51,A clock with a distorted image of a city in the background.,clock,0.9999999,J
+bear7-clock1,2024-02-25 12:00:52,A painting of a distorted clock with many different hands and faces.,clock,0.9999995,J
+knife1-clock2,2024-02-25 12:00:54,A distorted image of a clock with the hands pointing to 10:10.,clock,1.0,J
+truck9-truck3,2024-02-25 12:00:55,A white truck with a horse painted on the side is parked.,truck,0.99986804,P
+boat3-cat3,2024-02-25 12:00:56,A painting of a piano with a blurry background.,airplane,0.8246583,X
+airplane8-truck3,2024-02-25 12:00:57,A distorted image of a car with a yellow background.,car,0.9968573,G
+airplane8-bicycle3,2024-02-25 12:00:58,A distorted image of a bike with a purple and pink background.,bicycle,0.9995777,C
+knife7-bird3,2024-02-25 12:00:59,A distorted image of a dog with a rainbow collar.,dog,0.999879,K
+clock1-bear1,2024-02-25 12:01:00,A close up of a brown animal's furry skin.,dog,0.9846481,B
+cat1-boat1,2024-02-25 12:01:01,A painting of a cat with a distorted background.,cat,0.99979657,H
+boat3-bicycle2,2024-02-25 12:01:02,A distorted image of a bunch of bikes.,bicycle,0.9999738,C
+bottle5-clock3,2024-02-25 12:01:03,A bottle is surrounded by clocks and watches.,bottle,0.99626356,"F, J"
+elephant5-car1,2024-02-25 12:01:04,A distorted image of a bunch of cars in different colors,car,0.9992205,G
+oven8-cat3,2024-02-25 12:01:05,A blurry image of a stove top oven with two burners.,oven,0.99999964,O
+bottle6-bear2,2024-02-25 12:01:06,A bottle of water is sitting on a white surface.,bottle,1.0,F
+bear10-oven1,2024-02-25 12:01:07,A black and white photo of a bear is shown.,bear,0.99999905,B
+oven10-boat2,2024-02-25 12:01:08,A painting of a microwave with a distorted image of a toaster oven inside.,oven,0.99983597,X
+oven6-elephant2,2024-02-25 12:01:09,A square image of an elephant's trunk and mouth.,elephant,1.0,L
+bird1-truck1,2024-02-25 12:01:10,A distorted image of a red car with a blurry background.,car,0.99896514,G
+car5-truck3,2024-02-25 12:01:11,A yellow car with a chrome grill and bumper is shown in a stylized photo.,car,0.99862134,G
+boat6-bear1,2024-02-25 12:01:13,A picture of a bear's paw with a brown background.,bear,0.99997735,B
+bicycle1-oven1,2024-02-25 12:01:14,A black and white bicycle is shown in a blurry photo.,bicycle,0.9999993,C
+bird6-airplane2,2024-02-25 12:01:15,A blue and yellow bird is flying in a sky with blue and yellow clouds.,bird,0.9824818,D
+airplane7-cat3,2024-02-25 12:01:16,A blurry image of a brown dog with the name Mona on its collar.,dog,0.9995277,K
+elephant6-cat2,2024-02-25 12:01:17,A baby elephant is nursing from its mother in a blurry photo.,elephant,0.99999976,L
+dog9-airplane3,2024-02-25 12:01:19,A painting of a dog wearing a hat and sitting on a bench.,dog,0.99839324,H
+truck5-cat3,2024-02-25 12:01:20,"A blurry image of a truck with the word ""Sopot"" on the side.",truck,0.99999774,P
+boat2-oven3,2024-02-25 12:01:21,A distorted image of a vending machine and a microwave.,oven,0.72003174,X
+bottle2-car2,2024-02-25 12:01:22,A distorted image of a bottle of alcohol with cars in the background.,bottle,0.99998164,"F, G"
+bird7-oven3,2024-02-25 12:01:23,A distorted image of a payphone with a blurry background.,airplane,0.8658285,X
+keyboard3-boat1,2024-02-25 12:01:24,A painting of a city with a keyboard in the foreground.,keyboard,0.99991405,M
+car9-knife1,2024-02-25 12:01:26,A brown car with a black roof is shown in a distorted image.,car,0.97766453,G
+cat10-bear1,2024-02-25 12:01:27,A brown bear is sleeping on a brown and white furry surface.,bear,0.9999999,B
+bicycle7-clock3,2024-02-25 12:01:28,A bicycle is shown with clock faces on the wheels and a clock face on the handlebar.,bicycle,0.9951697,"C, J"
+knife8-bicycle1,2024-02-25 12:01:29,A distorted image of a group of people riding motorcycles.,airplane,0.8549502,X
+bottle6-bird1,2024-02-25 12:01:30,A blue water bottle is sitting on a table.,bottle,1.0,F
+keyboard6-knife2,2024-02-25 12:01:31,A distorted image of a knife block with knives in it.,knife,0.9999993,N
+chair9-bear1,2024-02-25 12:01:32,A distorted image of a bear with a blurry background.,bear,0.9999962,B
+clock4-knife1,2024-02-25 12:01:33,A clock with a brown face and black hands is surrounded by a brown frame.,clock,1.0,J
+bear9-knife2,2024-02-25 12:01:34,A painting of a bear is shown with a distorted background.,bear,0.9999714,B
+keyboard4-bird1,2024-02-25 12:01:36,A blurry image of a blue and white bird in flight.,airplane,0.79078496,D
+bicycle7-bicycle2,2024-02-25 12:01:37,A distorted image of a bike with a blurry background.,bicycle,0.9998449,C
+dog2-knife3,2024-02-25 12:01:38,A painting of a dog with a black nose and eyes.,dog,0.99953306,K
+dog10-oven2,2024-02-25 12:01:39,A black and white photo of a large piece of machinery.,airplane,0.5864896,X
+knife6-airplane1,2024-02-25 12:01:40,"A distorted image of a pen and paper with the word ""SAMSUNG"" on it.",airplane,0.8008599,X
+airplane5-dog3,2024-02-25 12:01:41,A blurry image of a dog with a white background,dog,0.9996232,K
+bird2-dog2,2024-02-25 12:01:42,A green bird is perched on a branch.,bird,0.99997485,D
+bear10-clock1,2024-02-25 12:01:43,A painting of a dog is made up of clocks and numbers.,clock,0.97673494,K
+bicycle4-bicycle3,2024-02-25 12:01:44,A red and silver bike is shown with a blurry background.,bicycle,0.9999925,C
+truck5-car1,2024-02-25 12:01:46,A red truck with yellow and blue accents and a white bird logo on the side.,truck,0.99996734,"T, B, P"
+truck10-airplane1,2024-02-25 12:01:47,A distorted image of a truck with a red stripe on the hood.,truck,0.99999964,P
+bottle9-cat2,2024-02-25 12:01:48,A blurry image of a brown and white animal with a green object in the middle.,dog,0.89767414,"B, G"
+clock10-cat1,2024-02-25 12:01:49,A blurry image of a cat sleeping on a bed.,cat,0.9999838,H
+chair5-clock2,2024-02-25 12:01:50,A distorted image of a black office chair.,chair,0.99999833,I
+cat7-dog3,2024-02-25 12:01:51,A cat is sleeping on a white blanket.,cat,0.9999968,H
+truck3-bicycle1,2024-02-25 12:01:52,A distorted image of a motorcycle with the word Edeka on the side.,truck,0.55350566,X
+chair7-truck3,2024-02-25 12:01:53,A distorted image of a chair with a computer on it.,chair,0.99998915,I
+bicycle3-truck3,2024-02-25 12:01:54,A distorted image of a bike with a yellow frame and blue wheels.,bicycle,0.9999852,C
+keyboard5-keyboard1,2024-02-25 12:01:55,A close up of a black keyboard with a missing key.,keyboard,1.0,M
+knife2-dog1,2024-02-25 12:01:57,A close up of a white and brown animal fur with a sutured wound.,dog,0.9298378,X
+car2-chair1,2024-02-25 12:01:58,A distorted image of a car with a pink background.,car,0.9932615,G
+truck4-oven2,2024-02-25 12:01:59,A black and silver semi truck is parked in a lot.,truck,0.9999908,P
+oven3-airplane1,2024-02-25 12:02:00,A distorted image of a microwave with a plate of food in it.,oven,0.93884265,X
+oven2-dog3,2024-02-25 12:02:01,A distorted image of a cat's face with a white and brown fur.,cat,0.999984,H
+oven7-elephant1,2024-02-25 12:02:03,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+boat1-oven1,2024-02-25 12:02:04,A distorted image of a black object on a white surface.,airplane,0.99587786,X
+truck4-bottle2,2024-02-25 12:02:05,A painting of a large number of bottles of different colors and sizes.,bottle,1.0,F
+elephant2-bird1,2024-02-25 12:02:06,A distorted image of a person wearing a hoodie.,bottle,0.8183579,X
+clock10-boat2,2024-02-25 12:02:07,A red and black alarm clock with the time 8:77,clock,1.0,J
+boat3-chair3,2024-02-25 12:02:08,A distorted image of a room filled with chairs.,chair,0.9999902,I
+bird5-chair1,2024-02-25 12:02:09,A distorted image of a bunch of chairs in different colors.,chair,0.99999917,I
+bottle6-chair2,2024-02-25 12:02:10,A wooden chair sculpture is shown with a distorted background.,chair,0.99999046,I
+chair1-airplane2,2024-02-25 12:02:11,A distorted image of a chair with a blue and yellow background.,chair,0.99999046,I
+clock4-car2,2024-02-25 12:02:12,A distorted image of a clock with a red frame and a blurry background of cars.,clock,0.9986852,J
+clock8-chair2,2024-02-25 12:02:14,A distorted image of a clock with chairs and tables in the background.,clock,0.99998534,"J, I"
+boat8-knife1,2024-02-25 12:02:15,A distorted image of a gun with a brown handle.,knife,0.5216182,X
+cat10-clock1,2024-02-25 12:02:15,A painting of a cat is surrounded by clocks.,clock,0.9300672,"H, J"
+dog10-car3,2024-02-25 12:02:17,A distorted image of a dog with a red car in the background.,dog,0.9738346,"G
+K"
+dog3-bear3,2024-02-25 12:02:18,A dog with long hair is sitting on a brown carpet.,dog,0.99970716,"H, K"
+chair10-car2,2024-02-25 12:02:19,A distorted image of a red car in a parking lot.,car,0.99838066,G
+knife8-truck3,2024-02-25 12:02:20,A distorted image of a blue and orange train.,airplane,0.89135134,X
+bicycle7-bear2,2024-02-25 12:02:21,A blurry image of a bike with a white background,bicycle,0.9999521,C
+truck2-keyboard1,2024-02-25 12:02:22,A black and silver truck with a ladder on the side and a tank on the back.,truck,1.0,P
+bicycle9-keyboard3,2024-02-25 12:02:23,A pair of black sunglasses with a bicycle design on the left lens.,bicycle,0.99999964,C
+elephant7-car3,2024-02-25 12:02:24,A red elephant is walking through a city with a tree on its back.,elephant,1.0,L
+cat4-airplane1,2024-02-25 12:02:26,A distorted image of a cat is surrounded by cut up pieces of paper.,cat,0.9999654,H
+oven7-dog2,2024-02-25 12:02:27,A distorted image of a dresser with three drawers.,airplane,0.71089053,X
+dog2-airplane2,2024-02-25 12:02:28,A distorted image of a dog with blue and yellow colors.,dog,0.99988353,K
+bird9-dog2,2024-02-25 12:02:29,A painting of a bird with a blurry background.,bird,0.9989126,D
+elephant6-bottle2,2024-02-25 12:02:30,A distorted image of a large number of bottles.,bottle,0.9999999,F
+keyboard6-bottle2,2024-02-25 12:02:30,A collage of wine bottles and bottle caps.,bottle,1.0,F
+truck3-chair2,2024-02-25 12:02:32,A painting of a room with many wooden chairs and a large sign with the letters C and G.,chair,0.99997246,"I, G"
+boat6-dog1,2024-02-25 12:02:33,A brown dog's nose is surrounded by white fur.,dog,0.999915,K
+oven2-bottle1,2024-02-25 12:02:34,A painting of a refrigerator filled with lots of bottles.,bottle,1.0,F
+bird1-knife3,2024-02-25 12:02:35,A painting of a bird with a white background.,bird,0.9999087,D
+knife10-elephant3,2024-02-25 12:02:36,A close up of an elephant's skin shows wrinkles and a scar.,elephant,1.0,L
+car10-elephant2,2024-02-25 12:02:37,A close up of an elephant's face shows wrinkles and lines.,elephant,1.0,L
+dog3-boat1,2024-02-25 12:02:38,A painting of a person in a helmet with a distorted background.,airplane,0.86674047,X
+bird4-cat3,2024-02-25 12:02:39,A blurry image of a bird flying in the sky.,airplane,0.6756691,D
+bottle3-bird1,2024-02-25 12:02:40,A blue bottle is sitting on a table.,bottle,1.0,F
+bicycle4-cat1,2024-02-25 12:02:41,A blurry image of a bike with a blurry background,bicycle,0.9999454,C
+cat1-chair2,2024-02-25 12:02:42,A painting of a room filled with wooden chairs and tables.,chair,0.99972576,I
+bottle2-elephant1,2024-02-25 12:02:44,A close up of an elephant's skin shows wrinkles and a small water puddle.,elephant,0.99999976,L
+chair7-bird1,2024-02-25 12:02:45,A blue chair with wooden arms and legs is shown in a blurry photo.,chair,0.9999987,I
+bird4-airplane1,2024-02-25 12:02:46,"A distorted image of a fighter jet with the word ""Fighter"" on it.",airplane,0.9999974,A
+bicycle9-car1,2024-02-25 12:02:48,A painting of a red and yellow bike with a basket on the front.,bicycle,0.99999976,C
+bottle3-boat3,2024-02-25 12:02:49,A colorful painting of a bottle with a distorted background.,bottle,0.99999976,F
+knife2-car3,2024-02-25 12:02:50,A distorted image of a red car and a motorcycle.,car,0.9487652,G
+bottle6-airplane1,2024-02-25 12:02:51,A water bottle is shown with a lot of text on it.,bottle,1.0,F
+car7-oven2,2024-02-25 12:02:52,A black car is shown in a stylized photo with a gray background.,car,0.99948055,G
+boat8-dog3,2024-02-25 12:02:53,A dog is laying on a white blanket.,dog,0.9998946,K
+airplane7-boat2,2024-02-25 12:02:54,A distorted image of a plane with the word Mona on it.,airplane,1.0,A
+bicycle1-airplane2,2024-02-25 12:02:55,A blue and yellow bicycle is shown in a stylized photo.,bicycle,0.9999995,C
+bottle9-bottle1,2024-02-25 12:02:56,A bottle is surrounded by a collage of other bottles and cans.,bottle,1.0,F
+airplane1-elephant1,2024-02-25 12:02:57,A picture of a plane is shown on a wrinkled piece of paper.,airplane,1.0,A
+knife8-car2,2024-02-25 12:02:59,"A distorted image of cars in motion with red, yellow, and silver colors.",car,0.9966274,G
+oven5-bottle3,2024-02-25 12:03:00,A painting of a microwave filled with green glass bottles.,bottle,0.9999938,F
+keyboard8-dog3,2024-02-25 12:03:01,A blurry image of a dog with a keyboard on its back.,dog,0.8881517,K M
+oven10-bear1,2024-02-25 12:03:02,A fuzzy image of a brown animal with a remote control on it.,dog,0.97608364,B
+elephant3-knife1,2024-02-25 12:03:03,A painting of an elephant made from various tools and objects.,elephant,0.9999994,X
+oven4-dog1,2024-02-25 12:03:04,A fuzzy image of a dog with a blurry background.,dog,0.999887,K
+bear6-chair1,2024-02-25 12:03:05,A distorted image of a bunch of red chairs.,chair,0.9999969,I
+airplane6-keyboard3,2024-02-25 12:03:06,A black airplane is flying in the sky.,airplane,1.0,A
+truck1-dog1,2024-02-25 12:03:07,A distorted image of a truck is shown with a brown and white furry background.,truck,0.9999994,P
+bottle7-oven2,2024-02-25 12:03:08,A distorted image of a computer keyboard and a mouse.,keyboard,0.99991965,M
+bear3-car2,2024-02-25 12:03:09,"A blurry image of a bunch of cars, some red and some silver.",car,0.9985122,G
+bottle5-cat1,2024-02-25 12:03:11,A painting of a brown dog laying on a blue and white blanket.,dog,0.99833375,K
+elephant5-bear2,2024-02-25 12:03:12,A gray elephant with a curled trunk is standing on a gray surface.,elephant,0.9999989,L
+bicycle9-bear1,2024-02-25 12:03:13,A picture of a bike is shown with a blurry background.,bicycle,0.9998896,C
+truck7-elephant2,2024-02-25 12:03:14,A picture of a truck is carved into the side of an elephant.,elephant,0.97583735,P
+bear9-keyboard3,2024-02-25 12:03:15,A black keyboard with water droplets on it,keyboard,0.99999976,M
+bear8-knife3,2024-02-25 12:03:16,A painting of a bear is shown in black and white.,bear,0.999995,B
+bicycle6-bicycle3,2024-02-25 12:03:17,A painting of a bike with a basket on the front and a sidecar attached.,bicycle,0.9999968,C
+bicycle6-airplane2,2024-02-25 12:03:19,A blue bike with a yellow seat and handlebars is shown in a stylized photo.,bicycle,0.99986625,C
+cat3-bear2,2024-02-25 12:03:20,A cat is laying on a white blanket.,cat,0.9999964,H
+dog1-bird1,2024-02-25 12:03:21,A dog with a blue nose and a blurry background.,dog,0.9999502,K
+clock4-oven1,2024-02-25 12:03:22,A distorted image of a clock shows the time as 10:10.,clock,1.0,J
+clock9-cat1,2024-02-25 12:03:23,A clock with roman numerals and blurry hands is surrounded by a furry texture.,clock,1.0,J
+cat4-dog3,2024-02-25 12:03:24,A dog with brown and white fur is laying down.,dog,0.99976414,K
+bottle3-bicycle3,2024-02-25 12:03:26,A purple bottle is surrounded by a distorted background of pink and white.,bottle,1.0,F
+boat1-bicycle2,2024-02-25 12:03:27,A distorted image of a bunch of bikes parked together.,bicycle,0.9998042,C
+dog2-dog3,2024-02-25 12:03:28,A dog with brown and white fur and brown eyes.,dog,0.9999573,K
+oven7-bottle1,2024-02-25 12:03:28,A collage of liquor bottles and a refrigerator,bottle,1.0,F
+clock9-airplane1,2024-02-25 12:03:30,"A clock with the word ""chef"" on the face of it.",clock,0.9999969,J
+bird3-knife3,2024-02-25 12:03:31,A distorted image of a bird with a blurry background.,bird,0.99867934,D
+car3-bird2,2024-02-25 12:03:32,A silver sports car is shown in a distorted image.,car,0.9968516,G
+dog7-bird3,2024-02-25 12:03:33,A brown dog with a white chest is looking at the camera.,dog,0.99984634,K
+knife6-dog2,2024-02-25 12:03:34,A painting of a dog with a blurry background.,dog,0.9983425,K
+clock7-bicycle1,2024-02-25 12:03:35,A distorted clock with a reflection of a bird in the center.,clock,0.9864542,"J, D"
+boat6-clock2,2024-02-25 12:03:36,A distorted image of a man with a clock for a head.,clock,1.0,J
+oven2-boat3,2024-02-25 12:03:37,A distorted image of a boat with a red light on top.,boat,0.9999962,E
+oven2-bird2,2024-02-25 12:03:38,A silver metal box with two windows and a handle.,bottle,0.911534,X
+elephant2-truck2,2024-02-25 12:03:39,A distorted image of a red and silver car.,car,0.9983103,G
+bicycle8-boat1,2024-02-25 12:03:40,A painting of a bike with a red seat and blue tires.,bicycle,0.9999913,C
+oven8-chair1,2024-02-25 12:03:41,A distorted image of a room with pink chairs.,chair,0.999897,I
+bird3-oven1,2024-02-25 12:03:42,A blurry image of a white wall with a black and white object on it.,airplane,0.8686029,X
+chair1-bear1,2024-02-25 12:03:43,A close up of a brown animal's furry skin.,dog,0.9846481,B
+elephant2-boat1,2024-02-25 12:03:45,"A painting of a fire hydrant with red, white, and blue colors.",boat,0.6720816,X
+boat4-boat3,2024-02-25 12:03:46,A distorted image of a boat in the water with a lot of pink and blue colors.,boat,0.9999993,E
+oven1-cat1,2024-02-25 12:03:47,A blurry image of a cat with a blue background.,cat,0.99992275,H
+car2-car3,2024-02-25 12:03:48,A red car is shown with a distorted background.,car,0.99875414,G
+boat1-car2,2024-02-25 12:03:49,A distorted image of a red car with other cars in the background.,car,0.9983072,G
+chair8-bear1,2024-02-25 12:03:50,A distorted image of a brown bear is shown.,bear,0.99997175,B
+chair10-dog1,2024-02-25 12:03:51,A painting of a chair with a furry texture.,chair,0.99999845,I
+bottle1-dog2,2024-02-25 12:03:52,A painting of a bottle in front of a furry background.,bottle,0.9999999,F
+dog3-keyboard1,2024-02-25 12:03:53,A black dog is sitting on a snowy ground.,dog,0.99968934,K
+car8-knife2,2024-02-25 12:03:54,A distorted image of a car with a colorful background.,car,0.99759406,G
+cat10-oven2,2024-02-25 12:03:55,A distorted image of a black car in a parking lot.,car,0.9990288,G
+bear10-bottle1,2024-02-25 12:03:56,A painting of a bear is made up of various liquor bottles.,bottle,0.9913236,B
+bear4-keyboard3,2024-02-25 12:03:57,A black object with a white design on it is on a brown surface.,airplane,0.8264899,X
+airplane4-car1,2024-02-25 12:03:59,A painting of a red plane and a blue car in a colorful background.,airplane,0.9999236,AG
+dog5-elephant1,2024-02-25 12:04:00,A dog with a wrinkled face and a pink tongue sticking out.,dog,0.9995974,K
+bird1-bear1,2024-02-25 12:04:01,A fuzzy picture of a brown owl with a white background.,bird,0.90828484,D
+bear4-cat3,2024-02-25 12:04:02,A brown bear is standing on all fours in a square image.,bear,0.9999583,B
+chair4-bear2,2024-02-25 12:04:03,A blurry image of a wooden chair with a white furry background.,chair,0.99999475,I
+elephant10-knife3,2024-02-25 12:04:04,A distorted image of a person wearing a black jacket.,airplane,0.95305204,X
+airplane8-elephant3,2024-02-25 12:04:05,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+bicycle2-dog1,2024-02-25 12:04:06,A fuzzy brown dog is looking at the camera.,dog,0.9999951,K
+car10-car1,2024-02-25 12:04:08,A red car is parked in a lot with other cars in the background.,car,0.9996774,G
+bird7-keyboard3,2024-02-25 12:04:09,A blurry image of a black object with a white background.,airplane,0.99396694,X
+boat7-keyboard3,2024-02-25 12:04:10,A blurry image of a black object on a white surface.,airplane,0.99192375,X
+keyboard9-bird1,2024-02-25 12:04:11,A blurry image of a keyboard and a mouse.,keyboard,0.9999796,M
+bottle3-cat3,2024-02-25 12:04:12,A brown bottle with a blurry background is the main focus of this image.,bottle,0.9999995,F
+bicycle1-bottle3,2024-02-25 12:04:13,A green bicycle is shown with a bottle of alcohol on the seat.,bottle,0.79832107,"C, F"
+bicycle4-oven3,2024-02-25 12:04:14,A distorted image of a bike with a blurry background.,bicycle,0.9998449,C
+bottle9-elephant2,2024-02-25 12:04:16,A close up of an elephant's trunk with a diamond shape on it.,elephant,0.9999987,L
+oven4-keyboard3,2024-02-25 12:04:17,A blurry image of a black and silver camera with a fish in the background.,boat,0.82189035,X
+truck3-knife2,2024-02-25 12:04:18,A painting of a truck with a large Coca Cola logo on the side.,truck,0.9999889,P
+bottle7-keyboard2,2024-02-25 12:04:19,A blurry image of a keyboard with a black and white color scheme.,keyboard,0.99999964,M
+car6-bottle1,2024-02-25 12:04:20,A car is shown with a wheel made of liquor bottles.,bottle,0.9952885,"G, F"
+dog10-keyboard2,2024-02-25 12:04:21,A black keyboard with a blurry background,keyboard,1.0,M
+truck6-clock2,2024-02-25 12:04:22,A water truck is shown with the word water on the side.,truck,0.9996586,P
+bear5-boat2,2024-02-25 12:04:23,A painting of a bear is shown in a distorted and abstract way.,bear,0.9999615,B
+car10-keyboard2,2024-02-25 12:04:25,"A black keyboard is shown with the letters S, D, F, and C visible.",keyboard,1.0,M
+airplane9-truck1,2024-02-25 12:04:26,A red and black airplane is flying in the sky.,airplane,1.0,A
+keyboard9-airplane3,2024-02-25 12:04:27,A distorted image of a keyboard and a mouse.,keyboard,0.9999465,M
+bear10-truck1,2024-02-25 12:04:28,A red and white painting of a bear with a distorted background.,bear,0.9999887,B
+cat10-bicycle1,2024-02-25 12:04:29,A distorted image of a motorcycle with a lot of colors and shapes.,airplane,0.6209321,X
+boat10-bear3,2024-02-25 12:04:30,A fuzzy animal with brown fur is looking out from a hole.,dog,0.9968811,B
+keyboard8-chair2,2024-02-25 12:04:31,A room filled with lots of wooden chairs and desks.,chair,0.9999939,I
+keyboard5-bicycle1,2024-02-25 12:04:32,A distorted image of a large number of bicycles.,bicycle,0.99999714,C
+knife5-clock1,2024-02-25 12:04:33,A painting of clocks with a distorted background.,clock,0.9999999,J
+truck6-oven3,2024-02-25 12:04:34,A distorted image of a vending machine with a blurry background.,airplane,0.9834089,X
+keyboard4-knife2,2024-02-25 12:04:35,A distorted image of a pile of knives with a black background.,knife,0.9999995,N
+bird3-bottle2,2024-02-25 12:04:36,A distorted image of a lot of bottles and cans.,bottle,0.9999964,F
+knife1-keyboard3,2024-02-25 12:04:37,A blurry image of a black object on a brown surface.,airplane,0.98085016,X
+bear4-elephant2,2024-02-25 12:04:38,A bear is carved into a piece of wood.,bear,0.99999917,B
+dog1-airplane3,2024-02-25 12:04:39,A distorted image of a woman with a blurry background.,airplane,0.99425983,X
+cat10-bottle1,2024-02-25 12:04:40,A painting of a large number of bottles of alcohol.,bottle,0.9999999,F
+airplane4-airplane1,2024-02-25 12:04:42,"A plane is flying in the sky with the word ""Gulf"" on it.",airplane,1.0,A
+cat4-truck3,2024-02-25 12:04:43,A distorted image of a car with a purple and yellow background.,car,0.9991001,G
+boat9-boat3,2024-02-25 12:04:44,A painting of a boat with a lot of red and green on it.,boat,0.9999999,E
+bottle4-airplane1,2024-02-25 12:04:45,A distorted image of a bottle of Casera.,bottle,0.9999999,F
+truck5-dog3,2024-02-25 12:04:46,"A painting of a brown bus with the word ""SCHOUBRO"" on the side.",truck,0.89523864,X
+bicycle9-bird3,2024-02-25 12:04:47,A painting of a bicycle with a basket on the front.,bicycle,1.0,C
+boat7-cat3,2024-02-25 12:04:49,A distorted image of a person with a red spot on their face.,airplane,0.60999733,X
+bicycle8-chair2,2024-02-25 12:04:49,A painting of a bike made out of chairs.,chair,0.95663655,"C, I"
+elephant1-dog2,2024-02-25 12:04:50,A painting of a brown elephant with a fuzzy background.,elephant,0.9999988,L
+oven6-chair3,2024-02-25 12:04:51,A distorted image of a chair with a blue cushion.,chair,0.99999785,I
+cat9-cat3,2024-02-25 12:04:52,A blurry image of a cat laying on a bed.,cat,0.99998534,H
+bottle10-dog1,2024-02-25 12:04:54,A bottle of Chateau Ste. Michelle wine is surrounded by fur.,bottle,0.9999666,F
+bird5-oven3,2024-02-25 12:04:55,A distorted image of a store with a soda machine.,bottle,0.89851123,X
+car7-clock1,2024-02-25 12:04:56,A painting of a car is shown with clocks all around it.,clock,0.8971572,"G, J"
+keyboard8-airplane2,2024-02-25 12:04:57,A distorted image of a blue and yellow keyboard.,keyboard,0.9999989,M
+car1-chair3,2024-02-25 12:04:58,A distorted image of a room with blue chairs.,chair,0.999726,I
+clock8-cat1,2024-02-25 12:04:59,A blurry image of a pocket watch with the number 12 visible.,clock,0.99727196,J
+chair9-bottle3,2024-02-25 12:05:00,A green chair is sitting in a pile of glass bottles.,chair,0.9905037,I
+bear4-clock3,2024-02-25 12:05:01,A bear is made up of clocks and is standing on a white background.,bear,0.6850288,B. bear
+elephant8-elephant1,2024-02-25 12:05:02,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+car1-keyboard2,2024-02-25 12:05:04,A black keyboard with a blurry image of a hand on the space bar.,keyboard,1.0,M
+car9-bicycle2,2024-02-25 12:05:05,A silver car is shown with a distorted background of many cars.,car,0.9997862,G
+keyboard9-chair2,2024-02-25 12:05:06,A room filled with wooden chairs and tables with a blurry background.,chair,0.999691,"I, J"
+cat9-dog2,2024-02-25 12:05:07,A cat with a long tail is laying on a furry blanket.,cat,0.9999851,H
+car5-bottle1,2024-02-25 12:05:08,A car is made out of various liquor bottles.,bottle,0.98875296,G
+truck3-dog3,2024-02-25 12:05:09,A dog is laying on a furry blanket.,dog,0.9996922,K
+clock9-keyboard2,2024-02-25 12:05:10,A black and white image of a keyboard with the letters and numbers blurred.,keyboard,0.99999726,M
+bottle10-bear2,2024-02-25 12:05:11,A bottle of Drambuie is on a white furry surface.,bottle,0.9999999,F
+cat4-knife1,2024-02-25 12:05:13,A distorted image of a person with a cat head and a distorted background.,cat,0.9997557,X
+truck1-bear1,2024-02-25 12:05:14,A distorted image of a truck with a blurry background.,truck,0.9999995,P
+bear9-bottle2,2024-02-25 12:05:15,A large number of bottles of various colors and sizes are piled up together.,bottle,1.0,F
+keyboard9-truck3,2024-02-25 12:05:16,A distorted image of a car with a side mirror and a yellow door.,car,0.9982101,G
+car10-chair1,2024-02-25 12:05:17,A red car is shown in a distorted image with a pink background.,car,0.99630415,G
+bird10-clock1,2024-02-25 12:05:18,A painting of a bird with a long beak is surrounded by clocks.,bird,0.61218715,D
+truck10-clock1,2024-02-25 12:05:19,A painting of a truck with clocks on it.,truck,0.9955381,P
+clock10-airplane1,2024-02-25 12:05:20,An alarm clock is shown with a distorted background of papers.,clock,0.99999976,J
+bicycle8-bear2,2024-02-25 12:05:22,A blurry image of a bike with a black seat and handlebars.,bicycle,0.9998578,C
+clock7-bottle2,2024-02-25 12:05:23,A clock with a bottle border and bottles in the middle.,clock,0.99800724,"J, F"
+clock7-cat2,2024-02-25 12:05:24,A blurry image of a clock with a white face and black hands.,clock,1.0,J
+car3-bottle3,2024-02-25 12:05:25,A green car is shown with a background of green glass bottles.,bottle,0.91363215,G
+knife1-oven1,2024-02-25 12:05:26,A distorted image of a staircase with a blurry background.,airplane,0.98299617,X
+boat6-cat1,2024-02-25 12:05:28,A blurry image of a brown and black animal laying on a white and blue surface.,dog,0.7832026,X
+bottle5-keyboard2,2024-02-25 12:05:29,A black and white photo of a bottle with a label that says 216.,bottle,0.9999999,F
+oven5-dog3,2024-02-25 12:05:30,A distorted image of a dog with a microwave on top of it.,dog,0.9961836,K O
+knife3-keyboard3,2024-02-25 12:05:31,A blurry image of a black object in a white and grey background.,airplane,0.9834954,X
+bicycle4-truck3,2024-02-25 12:05:32,A distorted image of a car with a blurry background.,car,0.99885523,G
+knife8-boat1,2024-02-25 12:05:34,A painting of a boat in the water with a city in the background.,boat,0.9999999,E
+bird2-car3,2024-02-25 12:05:35,A distorted image of a red car in a parking lot.,car,0.99838066,G
+oven10-bicycle1,2024-02-25 12:05:36,A distorted image of a microwave with a lot of clutter inside.,oven,0.8659797,X
+keyboard7-chair3,2024-02-25 12:05:37,A room filled with lots of blue chairs and a gray floor.,chair,0.9999976,I
+bottle9-bicycle1,2024-02-25 12:05:38,A bottle of Smirnoff Vodka is shown in front of a distorted background.,bottle,1.0,F
+knife7-airplane3,2024-02-25 12:05:39,A distorted image of a person with a cell phone.,airplane,0.9892607,X
+cat7-truck2,2024-02-25 12:05:40,A distorted image of a red car with chrome accents.,car,0.9993874,G
+boat2-bird1,2024-02-25 12:05:41,A blurry image of a boat with a blue object in the middle.,boat,0.9999765,E
+bear6-bottle3,2024-02-25 12:05:42,A painting of a pile of green glass bottles.,bottle,0.9999999,F
+chair9-bicycle3,2024-02-25 12:05:43,A distorted image of a chair with a red background,chair,0.9999981,I
+boat3-dog3,2024-02-25 12:05:44,A blurry image of a dog with a collar,dog,0.9999174,K
+oven9-car2,2024-02-25 12:05:45,A distorted image of a red car in a microwave oven.,oven,0.99515474,"G, O"
+truck8-bottle2,2024-02-25 12:05:46,A distorted image of a truck is surrounded by a multitude of bottles.,truck,0.9245361,"P, F"
+keyboard5-cat1,2024-02-25 12:05:47,A blurry image of a cat sleeping on a blanket.,cat,0.99995065,H
+cat8-bear1,2024-02-25 12:05:48,A fuzzy image of a cat with a blurry background.,cat,0.99999464,H
+cat5-keyboard3,2024-02-25 12:05:49,A cat is sitting on a black keyboard.,keyboard,0.7721018,"H, M"
+dog9-bottle1,2024-02-25 12:05:50,A dog is made out of various bottles and cans.,bottle,0.9273864,K
+cat5-airplane2,2024-02-25 12:05:51,A distorted image of a cat with a blue and yellow background.,cat,0.99991715,H
+dog5-knife2,2024-02-25 12:05:52,A distorted image of a person with a red tongue sticking out.,dog,0.4183742,X
+car5-knife2,2024-02-25 12:05:54,A red car with a yellow license plate is parked in front of a brick wall.,car,0.8003358,G
+cat8-bird2,2024-02-25 12:05:55,A gray kitten with black spots is sitting on a white blanket.,cat,0.9991007,H
+dog4-elephant2,2024-02-25 12:05:56,A picture of a dog is shown with a textured background.,dog,0.999828,K
+chair1-dog1,2024-02-25 12:05:57,A close up of a furry animal with a white and brown color scheme.,dog,0.9113768,B
+bicycle2-bottle1,2024-02-25 12:05:58,A painting of a bicycle is surrounded by a multitude of bottles.,bottle,0.9991549,C
+bicycle7-truck3,2024-02-25 12:05:59,A distorted image of a bike with a purple and yellow background.,bicycle,0.99991715,C
+bird5-cat2,2024-02-25 12:06:01,A brown bird with a black beak and eye is standing on a branch.,bird,0.99997723,D
+truck3-cat1,2024-02-25 12:06:02,A painting of a dog laying on a blanket with a bottle of vodka on a table.,dog,0.62874615,K F
+knife7-elephant2,2024-02-25 12:06:03,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+knife5-bicycle2,2024-02-25 12:06:04,A large number of bicycles are parked together in a lot.,bicycle,0.99999714,C
+knife5-truck3,2024-02-25 12:06:05,A distorted image of a car with a red taillight.,car,0.71098715,G
+bear4-boat2,2024-02-25 12:06:06,A painting of a bear made from various images and colors.,bear,0.9999981,B
+elephant7-bottle3,2024-02-25 12:06:07,A green elephant is surrounded by a lot of bottles.,elephant,0.8212003,L
+boat4-bottle2,2024-02-25 12:06:08,A distorted image of a large number of bottles.,bottle,0.9999999,F
+bear2-elephant1,2024-02-25 12:06:09,A bear is carved into a piece of wood.,bear,0.99999917,B
+elephant4-boat3,2024-02-25 12:06:10,A painting of an elephant with a cityscape in the background.,elephant,1.0,L
+knife6-boat3,2024-02-25 12:06:12,A distorted image of a boat in a harbor with lots of colors.,boat,0.99999905,E
+car6-bicycle3,2024-02-25 12:06:13,A silver car with a chrome rim is shown in a distorted image.,car,0.99838495,G
+airplane2-bicycle1,2024-02-25 12:06:14,A distorted image of a group of motorcycles.,truck,0.73541933,X
+chair4-truck2,2024-02-25 12:06:15,A distorted image of a red chair with a black seat.,chair,0.9999987,I
+clock7-keyboard2,2024-02-25 12:06:16,A blurry image of a watch with the time of 10:10.,clock,0.99999344,J
+airplane9-car2,2024-02-25 12:06:17,A distorted image of a red car with other cars in the background.,car,0.9983072,G
+car5-cat1,2024-02-25 12:06:18,A brown car is shown in a painting with a white background.,car,0.9993529,G
+keyboard10-keyboard1,2024-02-25 12:06:19,A black and white photo of a keyboard with the letters blurred.,keyboard,0.9999989,M
+cat6-oven1,2024-02-25 12:06:21,A blurry image of a cat is shown in black and white.,cat,0.9999894,H
+cat2-boat2,2024-02-25 12:06:22,A distorted image of a cat with a lot of colors and shapes.,cat,0.99997723,H
+dog4-bicycle1,2024-02-25 12:06:23,A distorted image of a person with a lot of metal and wires.,airplane,0.9663527,X
+airplane9-airplane2,2024-02-25 12:06:24,A blue and yellow plane is flying in the sky.,airplane,1.0,A
+truck5-keyboard1,2024-02-25 12:06:25,"A black truck with the word ""ПРОМТР"" on the side.",truck,0.9999974,P
+cat2-cat1,2024-02-25 12:06:26,A small orange kitten with big eyes is sitting on a blue blanket.,cat,0.9998161,H
+elephant6-bicycle1,2024-02-25 12:06:28,A distorted image of a man and a woman in a car.,car,0.99892056,G
+bottle5-boat1,2024-02-25 12:06:29,A painting of a bottle with a blue cap and red and blue label.,bottle,1.0,F
+elephant6-truck3,2024-02-25 12:06:30,A distorted image of a blue car with a yellow and orange background.,car,0.9985409,G
+boat3-clock3,2024-02-25 12:06:31,"A distorted image of a clock with the word ""MUSEUM"" on it.",clock,0.99999905,J
+bicycle10-elephant2,2024-02-25 12:06:33,A drawing of a bike is shown on a textured background.,bicycle,0.99991286,C
+cat5-knife2,2024-02-25 12:06:34,A painting of a cat with a distorted face and a brick wall in the background.,cat,0.99943036,H
+bottle1-car1,2024-02-25 12:06:35,A painting of a bottle in front of a colorful background of cars.,bottle,0.99973136,F
+bear3-dog3,2024-02-25 12:06:36,A painting of a brown bear sleeping on a white surface.,bear,0.99999785,B
+boat6-bicycle2,2024-02-25 12:06:37,A distorted image of a man on a bike surrounded by bikes.,bicycle,0.9999881,C
+clock7-bear2,2024-02-25 12:06:39,A clock with a blurry face shows the time as 10:10.,clock,1.0,J
+boat7-chair1,2024-02-25 12:06:39,A distorted image of a pink and white chair.,chair,0.99999595,I
+clock3-keyboard3,2024-02-25 12:06:41,A blurry image of a watch with the time of 10:10.,clock,0.99999344,J
+bottle5-bird3,2024-02-25 12:06:42,A brown bottle with a black cap is in front of a white background with a feathery texture.,bottle,1.0,F
+elephant8-airplane3,2024-02-25 12:06:43,A distorted image of a person with a blue background.,airplane,0.9937835,X
+dog4-truck2,2024-02-25 12:06:44,A distorted image of a red and silver car.,car,0.9983103,G
+airplane4-knife1,2024-02-25 12:06:45,A distorted image of a brown leather belt with a metal buckle.,airplane,0.54105896,X
+bottle5-knife1,2024-02-25 12:06:47,A painting of a brown bottle with a black top and a blue label.,bottle,1.0,F
+oven9-boat2,2024-02-25 12:06:48,A distorted image of a toaster oven with a red object inside.,oven,1.0,O
+airplane3-car1,2024-02-25 12:06:49,A distorted image of a red car in the middle of a lot of other cars.,car,0.99662006,G
+keyboard6-boat2,2024-02-25 12:06:51,A distorted image of a keyboard with a lot of other images in the background.,keyboard,0.9999962,M
+bottle4-dog2,2024-02-25 12:06:52,A bottle with a brown liquid is sitting on a furry surface.,bottle,0.9999999,F
+chair10-clock1,2024-02-25 12:06:53,A painting of a chair with clocks on it.,chair,0.88275474,"I, J"
+truck4-airplane3,2024-02-25 12:06:54,A stylized image of a semi truck with a blue cab and a black trailer.,truck,0.9999995,P
+bicycle4-chair2,2024-02-25 12:06:55,A painting of a room full of wooden chairs and tables.,chair,0.9998313,I
+dog10-elephant1,2024-02-25 12:06:56,A dog is carved into a piece of wood.,dog,0.9994972,H
+truck9-airplane2,2024-02-25 12:06:57,A white and yellow truck with a horse on the side of it.,truck,0.9997086,P
+car6-knife1,2024-02-25 12:06:58,A distorted image of a car with a large wheel and a grill.,car,0.8971064,G
+bottle9-oven2,2024-02-25 12:06:59,A bottle of alcohol is shown in a distorted picture.,bottle,1.0,F
+chair5-car1,2024-02-25 12:07:00,A painting of a red car is shown with other cars in the background.,car,0.999946,G
+car8-clock2,2024-02-25 12:07:02,A car is shown with a distorted background that includes numbers and letters.,car,0.99747676,G
+truck3-keyboard3,2024-02-25 12:07:02,A blurry image of a black computer keyboard,keyboard,0.99999964,M
+knife2-truck2,2024-02-25 12:07:04,A distorted image of a red car with a black grill.,car,0.98641586,G
+elephant9-bicycle2,2024-02-25 12:07:04,A distorted image of a motorcycle with a sidecar.,truck,0.5494716,X
+cat5-elephant2,2024-02-25 12:07:06,A cat is curled up and sleeping on a textured surface.,cat,0.99999917,H
+keyboard8-cat3,2024-02-25 12:07:07,A blurry image of a keyboard with a cat sleeping on it,keyboard,0.5015391,"H, M"
+airplane5-bicycle1,2024-02-25 12:07:08,A distorted image of a jet fighter plane.,airplane,1.0,A
+truck7-bear2,2024-02-25 12:07:09,A white truck with a blurry background is shown in a distorted image.,truck,0.99999976,P
+bird10-cat1,2024-02-25 12:07:10,A painting of a cat with a long tail and a white and brown furry body.,cat,0.9999505,H
+airplane6-knife1,2024-02-25 12:07:11,A distorted image of a knife and a butterfly.,knife,0.9999937,N
+keyboard9-bicycle2,2024-02-25 12:07:12,A large number of bicycles are parked together in a lot.,bicycle,0.99999714,C
+bottle8-bicycle1,2024-02-25 12:07:14,"A bottle of beer with a label that says ""Budweiser"".",bottle,1.0,F
+bottle8-bird1,2024-02-25 12:07:15,A blue bottle with a white label is shown in a blurry photo.,bottle,1.0,F
+car8-bear1,2024-02-25 12:07:16,A brown bear is sleeping on a bed of snow.,bear,0.99999905,B
+clock1-dog2,2024-02-25 12:07:17,A distorted image of a clock with the hands at 10:10.,clock,1.0,J
+oven7-cat1,2024-02-25 12:07:18,A distorted image of a cat with a blurry background.,cat,0.9999827,H
+bottle6-oven3,2024-02-25 12:07:19,A soda machine is shown with a bottle of soda on top.,bottle,0.99999964,F
+keyboard6-dog2,2024-02-25 12:07:21,A keyboard is on a furry surface and the image is blurry.,keyboard,0.99997985,M
+bicycle4-knife3,2024-02-25 12:07:22,A distorted image of a bike with a white background.,bicycle,0.9998549,C
+clock6-truck3,2024-02-25 12:07:23,A distorted image of a car with a blue dashboard and orange seats.,car,0.99694,G
+chair8-bicycle3,2024-02-25 12:07:24,A distorted image of a chair with a pink and white background.,chair,0.99999416,I
+airplane5-chair3,2024-02-25 12:07:25,A distorted image of a room with blue chairs.,chair,0.999726,I
+elephant4-bird1,2024-02-25 12:07:26,A blurry image of a blue elephant walking.,elephant,0.99999964,L
+boat6-airplane2,2024-02-25 12:07:26,A distorted image of a blue and yellow boat.,boat,0.9999944,E
+boat5-boat3,2024-02-25 12:07:28,A painting of a boat with a lot of colors and a city in the background.,boat,0.99999905,E
+chair5-bottle3,2024-02-25 12:07:29,A green chair is shown with a distorted background of bottles and cans.,chair,0.9898499,I
+truck10-truck3,2024-02-25 12:07:30,A colorful painting of a dump truck with a blue cab and red bed.,truck,0.9999987,P
+airplane2-dog1,2024-02-25 12:07:32,A close up of a white and brown furry animal with a black hole in the fur.,dog,0.8339433,B
+bear5-oven3,2024-02-25 12:07:33,A distorted image of a vending machine with a blurry background.,airplane,0.9834089,X
+bicycle9-chair1,2024-02-25 12:07:34,A pink and black bicycle is surrounded by pink chairs.,bicycle,0.876151,"C, I"
+bear3-bicycle2,2024-02-25 12:07:35,A distorted image of a bunch of bikes.,bicycle,0.9999738,C
+knife1-bird2,2024-02-25 12:07:36,A black and silver knife with a red spot on the handle is on a white and gray surface.,knife,1.0,N
+dog8-bottle2,2024-02-25 12:07:37,A distorted image of a horse is surrounded by a lot of bottles.,bottle,0.99999714,X
+knife10-dog1,2024-02-25 12:07:39,A close up of a furry animal with brown and white fur.,dog,0.9642361,B
+bear6-boat3,2024-02-25 12:07:40,A distorted image of a woman in a red dress and a man in a blue shirt.,airplane,0.97224325,X
+chair5-truck3,2024-02-25 12:07:41,A distorted image of a chair with a purple and yellow background.,chair,0.9999988,I
+airplane4-bird3,2024-02-25 12:07:42,A painting of a plane flying in the sky.,airplane,1.0,A
+cat7-bottle1,2024-02-25 12:07:43,A collage of liquor bottles is shown with a dog in the background.,bottle,0.99284667,F
+boat6-car1,2024-02-25 12:07:44,A painting of a colorful canoe surrounded by cars.,boat,0.9808656,"E, G, P"
+keyboard6-bicycle1,2024-02-25 12:07:45,A distorted image of a keyboard surrounded by metal pieces.,keyboard,0.9999646,M
+bottle7-elephant2,2024-02-25 12:07:46,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+bear3-chair2,2024-02-25 12:07:48,A large number of wooden chairs are arranged to look like an elephant.,elephant,0.9568443,"I, L"
+dog4-airplane3,2024-02-25 12:07:49,A distorted image of a dog wearing a helmet.,dog,0.9995511,K
+elephant6-dog2,2024-02-25 12:07:50,A painting of a baby elephant nursing from its mother.,elephant,0.99999964,L
+elephant7-dog1,2024-02-25 12:07:51,A painting of a brown elephant with a fuzzy background.,elephant,0.9999988,L
+oven3-bear2,2024-02-25 12:07:52,A distorted image of two dead birds in a square container.,bird,0.97797465,D
+airplane4-dog2,2024-02-25 12:07:53,A painting of a cat is shown with a blurry background.,cat,0.999736,H
+keyboard7-truck2,2024-02-25 12:07:54,A distorted image of a red car with chrome grill.,car,0.99797434,G
+bear3-keyboard2,2024-02-25 12:07:55,A black keyboard with a blurry image of a cat on it.,keyboard,0.97159564,"M, H"
+elephant1-chair1,2024-02-25 12:07:56,A distorted image of a room with red chairs.,chair,0.9999815,I
+bear8-bear1,2024-02-25 12:07:57,A brown bear is sitting on a brown furry surface.,bear,0.99999905,B
+bottle6-bicycle3,2024-02-25 12:07:58,A bottle of soda with a barbed wire wrapped around it.,bottle,0.99999976,F
+car8-boat3,2024-02-25 12:07:59,A red car is shown with a distorted background.,car,0.99875414,G
+oven6-truck1,2024-02-25 12:08:00,A red and black object is shown in a square with a pink and white background.,clock,0.83461595,X
+boat9-clock1,2024-02-25 12:08:01,A painting of a ship with a lot of numbers and letters on it.,boat,0.9792341,X
+cat3-truck3,2024-02-25 12:08:02,A distorted image of a yellow truck with a blue stripe.,truck,0.9999981,P
+airplane8-clock2,2024-02-25 12:08:03,A distorted image of a clock with musical notes and other symbols.,clock,1.0,J
+clock2-dog1,2024-02-25 12:08:05,A clock with a blurry face and the number 12 visible.,clock,1.0,J
+boat1-keyboard3,2024-02-25 12:08:06,A blurry image of a black object with a white background.,airplane,0.99396694,X
+car1-airplane1,2024-02-25 12:08:07,A distorted image of a car with the letters BMW on the hood.,car,0.8941451,G
+truck5-knife3,2024-02-25 12:08:08,A distorted image of a knife block with knives in it.,knife,0.9999993,N
+bicycle1-dog3,2024-02-25 12:08:09,A painting of a bike with a white background.,bicycle,0.999969,C
+boat6-knife2,2024-02-25 12:08:10,A distorted image of a bird is shown against a background of newspaper clippings.,bird,0.996923,D
+oven6-bicycle1,2024-02-25 12:08:11,A distorted image of a car with a lot of metal pieces around it.,car,0.9743301,G
+chair2-knife1,2024-02-25 12:08:12,A distorted image of a chair with a brown and black color scheme.,chair,0.99999595,I
+chair8-airplane1,2024-02-25 12:08:14,A distorted image of a chair with a lot of text around it.,chair,0.99999833,I
+car5-bear3,2024-02-25 12:08:15,A distorted image of a dog with a car in the background.,dog,0.8762375,"G, H"
+truck2-bird2,2024-02-25 12:08:16,A dirty old truck with a ladder on the side is parked in the snow.,truck,0.9999995,P
+knife4-clock3,2024-02-25 12:08:17,A distorted image of a clock with a black cat on it.,clock,0.99263614,"J, H"
+dog2-cat1,2024-02-25 12:08:18,A dog with brown eyes and brown ears is laying down.,dog,0.9998036,K
+cat5-boat1,2024-02-25 12:08:19,A painting of a cat with a blue sky in the background.,cat,0.99640274,H
+bird3-boat3,2024-02-25 12:08:21,A distorted image of a bird with a red beak and a blue and pink background.,bird,0.99997556,D
+boat9-keyboard2,2024-02-25 12:08:22,A blurry image of a keyboard with the letters GHIJ on it.,keyboard,0.9999988,M
+clock7-dog2,2024-02-25 12:08:23,A blurry image of a clock with a brown frame and white face.,clock,1.0,J
+boat1-truck3,2024-02-25 12:08:24,A colorful painting of a car with a rainbow background.,car,0.9999224,G
+bottle7-airplane3,2024-02-25 12:08:25,A distorted image of a person with a blue face and a black and white body.,airplane,0.8879165,X
+clock5-airplane1,2024-02-25 12:08:27,A distorted clock with the hands at 10:10.,clock,1.0,J
+cat10-elephant3,2024-02-25 12:08:27,A cat is laying on a textured surface.,cat,0.9999982,H
+truck7-chair2,2024-02-25 12:08:28,A painting of a truck and chairs in a room.,truck,0.9949302,"G, I"
+truck7-truck2,2024-02-25 12:08:29,A distorted image of a chrome colored semi truck.,truck,0.9999957,P
+chair3-car3,2024-02-25 12:08:30,A distorted image of a red chair and a car.,chair,0.79690725,GI
+boat9-chair2,2024-02-25 12:08:31,A painting of a room filled with wooden chairs and tables.,chair,0.99972576,I
+bird8-chair1,2024-02-25 12:08:32,A distorted image of a row of pink and black chairs.,chair,0.99998355,I
+bear5-chair1,2024-02-25 12:08:33,A distorted image of a row of red chairs.,chair,0.9999907,I
+dog6-truck2,2024-02-25 12:08:34,A distorted image of a red car with chrome accents.,car,0.9993874,G
+knife10-keyboard3,2024-02-25 12:08:35,A knife with a black handle is in a sink with bubbles.,knife,0.99993956,N
+bird2-clock3,2024-02-25 12:08:37,A painting of a man with a clock for a head and lots of clocks in the background.,clock,1.0,X
+bicycle6-car2,2024-02-25 12:08:38,A distorted image of a red car with a blurry background.,car,0.99896514,G
+truck6-dog2,2024-02-25 12:08:39,A water truck is shown with the words not for drinking on it.,truck,0.9994948,P
+dog5-boat3,2024-02-25 12:08:40,A distorted image of a person with a red and blue background.,airplane,0.968978,X
+chair9-chair3,2024-02-25 12:08:41,A distorted image of a blue chair surrounded by other chairs.,chair,0.99999666,I
+bottle5-oven2,2024-02-25 12:08:42,A black bottle is in front of a circuit board.,bottle,0.9999982,F
+car2-knife3,2024-02-25 12:08:43,A distorted image of a knife block with knives and a hammer.,knife,0.99999905,N
+cat2-bottle3,2024-02-25 12:08:44,A green cat is made out of glass bottles.,bottle,0.94206476,H
+airplane5-oven3,2024-02-25 12:08:45,A distorted image of a kitchen with a microwave and a toaster oven.,oven,0.9999969,X
+bird6-elephant2,2024-02-25 12:08:46,A painting of a bird flying over a desert landscape.,bird,0.9493236,D
+bear6-bear1,2024-02-25 12:08:47,A close up of a brown animal's furry skin.,dog,0.9846481,B
+bear9-dog1,2024-02-25 12:08:48,A brown bear is standing in a field of grass.,bear,0.9999584,B
+dog7-chair2,2024-02-25 12:08:49,A painting of a pile of wooden chairs and tables.,chair,0.9999255,I
+clock3-bear3,2024-02-25 12:08:51,A clock with a blurry face is surrounded by a circle of fur.,clock,0.9999995,J
+keyboard4-clock2,2024-02-25 12:08:52,A distorted image of clocks and numbers with a silver background.,clock,0.9999999,J
+car7-boat3,2024-02-25 12:08:53,A green and red car is shown in front of a distorted cityscape.,car,0.99963784,G
+keyboard5-bear3,2024-02-25 12:08:54,A close up of a brown animal's furry back.,dog,0.99404526,B
+bird1-clock3,2024-02-25 12:08:55,A painting of a bird made out of clocks.,clock,0.9042304,D
+car7-airplane2,2024-02-25 12:08:56,A blue and yellow car is shown in a stylized photo.,car,0.99960166,G
+bicycle10-boat3,2024-02-25 12:08:57,A distorted image of a bike with a blue wheel.,bicycle,0.99997425,C
+bird5-keyboard2,2024-02-25 12:08:58,A black bird is sitting on a keyboard.,keyboard,0.7915971,D
+boat6-elephant2,2024-02-25 12:08:59,A close up of an elephant's skin with a large crease in the center.,elephant,1.0,L
+chair10-cat1,2024-02-25 12:09:00,A brown chair with wooden arms and legs is sitting on a furry surface.,chair,0.9999989,I
+clock1-elephant2,2024-02-25 12:09:02,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+oven6-oven3,2024-02-25 12:09:03,A distorted image of a microwave with a reflection of a clock on its door.,clock,0.99907947,"J, O"
+bird5-bicycle1,2024-02-25 12:09:04,A bird is sitting on a branch in front of a background of metal pieces.,bird,0.9995896,D
+boat10-truck1,2024-02-25 12:09:05,A red car is shown in a distorted and pixelated image.,car,0.99761885,G
+airplane3-oven1,2024-02-25 12:09:06,A black and white photo of a plane in the sky.,airplane,1.0,A
+chair9-keyboard2,2024-02-25 12:09:07,A black keyboard with a blurry background,keyboard,1.0,M
+elephant3-oven1,2024-02-25 12:09:08,A distorted image of a person with a blurry background.,airplane,0.9897396,X
+clock2-bear2,2024-02-25 12:09:09,A blurry clock shows the time is 10:10.,clock,1.0,J
+clock2-bottle3,2024-02-25 12:09:11,A clock with a green border has a background of various images and words.,clock,1.0,J
+boat2-keyboard1,2024-02-25 12:09:12,A blurry image of a piece of paper with some writing on it.,airplane,0.9707983,X
+clock8-keyboard1,2024-02-25 12:09:13,A black and white clock with the hands at 10:10.,clock,1.0,J
+chair7-clock3,2024-02-25 12:09:14,A distorted image of a chair with clocks all around it.,clock,0.9004863,"I, J"
+knife5-cat2,2024-02-25 12:09:15,A blurry image of a brown and white animal with spots.,dog,0.78679717,B
+bottle7-cat2,2024-02-25 12:09:16,A close up of a furry animal with brown and white fur.,dog,0.9642361,B
+boat7-bottle1,2024-02-25 12:09:17,A painting of a large number of bottles of alcohol.,bottle,0.9999999,F
+dog7-oven2,2024-02-25 12:09:18,A distorted image of a person with a blurry background.,airplane,0.9897396,X
+bottle8-dog2,2024-02-25 12:09:20,A bottle of Foster's beer is shown in front of a furry background.,bottle,0.99999,F
+bird4-dog3,2024-02-25 12:09:21,A dog with brown and white fur and a black nose.,dog,0.9999691,K
+airplane3-clock1,2024-02-25 12:09:22,A painting of a plane flying over a city with clocks and numbers everywhere.,airplane,0.99998164,A
+airplane10-elephant1,2024-02-25 12:09:23,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+knife4-oven2,2024-02-25 12:09:24,A distorted image of a piano in a room.,keyboard,0.6488644,M
+oven3-clock3,2024-02-25 12:09:25,A distorted image of a clock with the hands at 10:10.,clock,1.0,J
+bottle2-chair3,2024-02-25 12:09:27,A distorted image of a blue bottle surrounded by blue and white squares.,bottle,0.99999964,F
+bear6-bird2,2024-02-25 12:09:28,A polar bear is standing on ice with its mouth open.,bear,0.9993369,B
+bicycle3-bird1,2024-02-25 12:09:29,A blurry image of a bike with a blue helmet on the seat.,bicycle,0.9997105,C
+airplane3-cat1,2024-02-25 12:09:30,A blurry image of a cat with a blue background.,cat,0.99992275,H
+bird9-bottle3,2024-02-25 12:09:31,A green bird is perched on a branch with a background of pills and bottles.,bird,0.9892699,D
+cat10-bird2,2024-02-25 12:09:32,A gray cat with a black nose is laying on a white blanket.,cat,0.9999089,H
+bear5-airplane3,2024-02-25 12:09:34,A painting of a bear with arabic writing on it.,bear,0.9999403,B
+boat5-clock3,2024-02-25 12:09:35,A distorted image of a clock with a lot of different clocks on it.,clock,1.0,J
+keyboard4-truck3,2024-02-25 12:09:36,A distorted image of a car with a blue background.,car,0.9921611,G
+knife10-knife1,2024-02-25 12:09:37,A distorted image of a knife and a pair of scissors.,knife,0.9999999,N
+oven3-knife1,2024-02-25 12:09:38,A distorted image of a pair of brown shoes in a black case.,airplane,0.8898473,X
+oven5-keyboard2,2024-02-25 12:09:39,A black electronic device with buttons and a screen is shown.,keyboard,0.9433023,M
+bicycle1-truck1,2024-02-25 12:09:40,A red bike is shown in a stylized photo with a blurry background.,bicycle,0.9999802,C
+truck3-bear3,2024-02-25 12:09:41,A dog with long brown hair and a blurry background.,dog,0.9999509,K
+oven6-knife3,2024-02-25 12:09:42,A distorted image of a toaster with a piece of bread in it.,oven,0.95780253,X
+bottle10-car1,2024-02-25 12:09:44,A bottle of alcohol with a painting of a red car on it.,bottle,0.9999976,"F, G"
+clock5-clock2,2024-02-25 12:09:45,A clock with a white face and black hands and numbers is shown.,clock,1.0,J
+boat9-airplane2,2024-02-25 12:09:46,A painting of a blue and yellow boat with sails.,boat,0.99999976,E
+dog8-oven3,2024-02-25 12:09:47,A distorted image of a vending machine with a dog on it.,dog,0.9970692,K
+keyboard1-dog3,2024-02-25 12:09:48,A dog is looking at the camera with a blurry background.,dog,0.9999865,K
+keyboard6-chair1,2024-02-25 12:09:49,A distorted image of a room with red chairs.,chair,0.99998164,I
+bicycle8-bird2,2024-02-25 12:09:50,A black and silver bike with a black seat and handlebars is parked on a gray surface.,bicycle,0.9999113,C
+oven9-oven1,2024-02-25 12:09:51,A toaster oven with a turkey inside of it,oven,1.0,O
+oven4-bottle2,2024-02-25 12:09:53,A painting of a bunch of bottles and jars with a blurry background.,bottle,0.9999932,F
+boat6-truck3,2024-02-25 12:09:54,A distorted image of a car with a blue and orange color scheme.,car,0.9981377,G
+knife6-oven3,2024-02-25 12:09:55,A distorted image of a computer screen with a keyboard and mouse.,keyboard,0.99972075,M
+car10-bicycle2,2024-02-25 12:09:56,A distorted image of a car in a field of bicycles.,bicycle,0.99885905,G
+boat10-cat1,2024-02-25 12:09:57,A dog is sleeping on a white furry blanket.,dog,0.9942226,K
+chair4-cat2,2024-02-25 12:09:58,A blurry image of a chair with a wooden back and a white and brown furry seat.,chair,0.9999982,I
+airplane7-truck1,2024-02-25 12:09:59,A red motorcycle with a blurred background and a distorted image.,truck,0.78506374,X
+car2-cat3,2024-02-25 12:10:01,A car is shown in a blurry photo with a red tire.,car,0.98266107,G
+cat5-bicycle3,2024-02-25 12:10:02,A cat is laying down in a picture with a metallic background.,cat,0.99999535,H
+elephant8-truck3,2024-02-25 12:10:03,A distorted image of a yellow and blue bus.,truck,0.8793432,G. car
+cat9-truck1,2024-02-25 12:10:04,A red cat is sitting on a white surface.,cat,0.9999943,H
+airplane4-bear3,2024-02-25 12:10:05,A fuzzy image of a bird with brown and black feathers.,bird,0.9995383,D
+dog6-elephant2,2024-02-25 12:10:06,A close up of an elephant's face and trunk.,elephant,1.0,L
+knife5-oven2,2024-02-25 12:10:07,A distorted image of a person in a car with a blurry background.,car,0.99960834,G
+bird2-bird2,2024-02-25 12:10:08,A black bird with a red beak is perched on a branch.,bird,0.9999728,D
+chair8-keyboard3,2024-02-25 12:10:09,A distorted image of a person wearing a black bow tie.,airplane,0.6294876,X
+bottle8-bottle3,2024-02-25 12:10:11,A green bottle of Pilsner beer with a lot of bottles in the background.,bottle,1.0,F
+boat1-elephant3,2024-02-25 12:10:12,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+oven10-oven3,2024-02-25 12:10:13,A large oven with a window and a control panel on the right side.,oven,1.0,O
+elephant9-elephant3,2024-02-25 12:10:14,A close up of an elephant with a textured background.,elephant,1.0,L
+bear10-keyboard3,2024-02-25 12:10:15,A black object with white writing is partially submerged in a liquid.,bottle,0.98115057,F
+airplane5-knife1,2024-02-25 12:10:16,A distorted image of a bunch of rusty scissors.,knife,0.99773633,N
+keyboard1-bear2,2024-02-25 12:10:17,A distorted image of a keyboard and a mouse pad.,keyboard,0.99990726,M
+airplane3-airplane2,2024-02-25 12:10:18,A distorted image of a plane in the sky with a blue and yellow background.,airplane,1.0,A
+bear3-truck3,2024-02-25 12:10:19,A distorted image of a blue and orange elephant.,elephant,0.99999976,L
+clock8-truck2,2024-02-25 12:10:20,A distorted image of a clock with red hands and a red second hand.,clock,1.0,J
+keyboard9-boat2,2024-02-25 12:10:22,A distorted image of a harbor with boats and a helicopter.,boat,0.9926564,E
+cat4-oven1,2024-02-25 12:10:23,A blurry image of a cat sitting on a pole.,cat,0.9999329,H
+dog9-cat1,2024-02-25 12:10:23,A brown dog is sitting on a fuzzy blanket.,dog,0.999866,K
+bird8-knife2,2024-02-25 12:10:25,A painting of a bird with a red eye and a black and white body.,bird,0.9999323,D
+bicycle2-knife2,2024-02-25 12:10:26,A distorted image of a bike with a brick wall in the background.,bicycle,0.99995875,C
+knife6-knife1,2024-02-25 12:10:27,A distorted image of a black cat surrounded by various objects.,cat,0.9999676,H
+clock6-knife2,2024-02-25 12:10:28,A clock with a black face and gold hands is in a circular frame.,clock,1.0,J
+knife9-bird1,2024-02-25 12:10:29,A blurry image of a blue and white bird in flight.,airplane,0.79078496,D
+keyboard3-clock3,2024-02-25 12:10:31,"A distorted image of a watch with the word ""time"" on it.",clock,0.9999926,J
+oven5-airplane1,2024-02-25 12:10:32,A distorted image of a toaster with lots of papers around it.,oven,0.49874657,X
+chair4-chair3,2024-02-25 12:10:33,A distorted image of a chair with a blue and white background.,chair,0.9999794,I
+bicycle4-bottle1,2024-02-25 12:10:34,A painting of a bike is surrounded by a collage of liquor bottles.,bottle,0.99980086,C
+bottle10-clock2,2024-02-25 12:10:35,A bottle of Oramotie alcohol with a clock background.,bottle,0.9767917,"F, J"
+clock5-keyboard1,2024-02-25 12:10:36,A black and white clock with the hands at 10:10.,clock,1.0,J
+clock4-elephant2,2024-02-25 12:10:38,A clock with a face that has the numbers 1 through 12 on it.,clock,1.0,J
+cat3-cat1,2024-02-25 12:10:39,A small orange and white kitten is laying on a white furry blanket.,cat,0.9999336,H
+elephant6-knife2,2024-02-25 12:10:40,A painting of an elephant is shown with a distorted background.,elephant,0.9999994,L
+knife1-dog1,2024-02-25 12:10:41,A close up of a furry animal with brown and white fur.,dog,0.9642361,B
+keyboard10-boat2,2024-02-25 12:10:42,A distorted image of a train on a track.,airplane,0.9343509,X
+truck8-dog3,2024-02-25 12:10:43,A stylized image of a truck with a dog in the drivers seat.,truck,0.9999869,"G
+K"
+car9-keyboard2,2024-02-25 12:10:45,A blurry image of a black keyboard with the number 5 visible.,keyboard,0.9998665,M
+truck1-clock3,2024-02-25 12:10:46,A distorted image of a truck with clocks all around it.,truck,0.9939686,"T, C, J"
+cat3-bicycle1,2024-02-25 12:10:47,A distorted image of a cat is shown with a lot of metal pieces.,cat,0.9999429,H
+bottle4-oven2,2024-02-25 12:10:48,A black bottle with a silver cap is on a gray background.,bottle,1.0,F
+bird3-truck3,2024-02-25 12:10:49,A distorted image of a yellow and black bird with a blurry background.,bird,0.9989843,D
+truck2-car3,2024-02-25 12:10:51,A red fire truck with a ladder on the side and a painting of a tree and a building in the background.,truck,0.99996924,"T, U"
+bear4-truck3,2024-02-25 12:10:52,A distorted image of a bear is shown in a square frame.,bear,0.9999937,B
+cat1-airplane1,2024-02-25 12:10:53,A cat is shown in a distorted picture with words and letters all around.,cat,0.99998975,H
+oven2-oven3,2024-02-25 12:10:54,A double oven with the top one having a pizza in it.,oven,1.0,O. oven
+bottle7-boat3,2024-02-25 12:10:56,A distorted image of a building with a lot of red and blue colors.,airplane,0.99479336,X
+oven5-bicycle1,2024-02-25 12:10:57,A distorted image of a toaster oven with a lot of clutter around it.,oven,0.99999964,O
+dog10-dog1,2024-02-25 12:10:58,A painting of a dog with a blurry background.,dog,0.9983425,K
+airplane7-airplane3,2024-02-25 12:10:59,A stylized photo of a plane with the word Motorola on the side.,airplane,0.99999976,A
+bicycle6-cat1,2024-02-25 12:11:00,A blurry image of a cat sleeping on a white blanket.,cat,0.9999583,H
+clock1-car1,2024-02-25 12:11:01,A painting of a bunch of cars in a lot,car,0.9998486,G
+chair10-bird3,2024-02-25 12:11:02,A painting of a wooden chair with a red cushion.,chair,0.9999999,I
+dog4-chair1,2024-02-25 12:11:03,A distorted image of a row of red seats.,chair,0.6319596,I
+airplane9-oven2,2024-02-25 12:11:04,A distorted image of a black and white airplane.,airplane,1.0,A
+bicycle2-car2,2024-02-25 12:11:05,A distorted image of a red motorcycle with a yellow background.,truck,0.6983225,G
+cat8-car2,2024-02-25 12:11:06,A distorted image of a cat with a red nose and a red and yellow hat.,cat,0.99999464,H
+bicycle5-bottle3,2024-02-25 12:11:07,A green bicycle is surrounded by a collage of music notes and bottles.,bicycle,0.9857318,"C, F"
+bird9-bicycle3,2024-02-25 12:11:09,A bird is perched on a branch in front of a blurry background.,bird,0.99972516,D
+airplane4-cat3,2024-02-25 12:11:10,A blurry image of a cat with a red nose,cat,0.9999765,H
+knife10-chair1,2024-02-25 12:11:10,A distorted image of a pink and black chair.,chair,0.99999547,I
+airplane7-keyboard1,2024-02-25 12:11:12,"A black and white photo of a plane with the word ""Vomit"" on it.",airplane,1.0,A
+boat3-airplane2,2024-02-25 12:11:13,A distorted image of a blue and yellow train.,airplane,0.9377049,X
+bear1-bear3,2024-02-25 12:11:14,A brown bear with a black nose is sitting on a grassy hill.,bear,0.99991226,B
+bear2-oven1,2024-02-25 12:11:15,A blurry image of a bear is shown.,bear,0.9999987,B
+airplane2-bottle1,2024-02-25 12:11:16,A collage of liquor bottles with a blurry background.,bottle,0.99999964,F
+knife7-car2,2024-02-25 12:11:17,"A distorted image of a car show with red, yellow, and silver cars.",car,0.99761486,G
+keyboard1-elephant3,2024-02-25 12:11:18,A close up of a rock with a hole in it,bottle,0.75960994,X
+knife1-elephant1,2024-02-25 12:11:19,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+elephant3-truck1,2024-02-25 12:11:21,A red elephant with a white tusk and a black eye.,elephant,1.0,L
+oven4-elephant3,2024-02-25 12:11:22,A picture of a stone oven with a pot on top and a piece of meat cooking inside.,oven,0.9999995,O
+boat4-bicycle3,2024-02-25 12:11:23,A distorted image of a boat in a body of water.,boat,0.9999999,E
+bear2-keyboard2,2024-02-25 12:11:24,A distorted image of a black keyboard with white letters.,keyboard,0.9999993,M
+keyboard5-bottle1,2024-02-25 12:11:25,A painting of a large number of bottles of alcohol.,bottle,0.9999999,F
+knife6-bottle3,2024-02-25 12:11:26,A painting of green bottles and papers with arabic writing.,bottle,0.99999905,F
+airplane1-clock1,2024-02-25 12:11:27,A painting of a bird flying through a sky filled with clocks.,bird,0.9568311,D
+dog10-clock1,2024-02-25 12:11:28,A painting of a dog is surrounded by clocks.,clock,0.9992912,K J
+dog10-airplane1,2024-02-25 12:11:30,A collage of a dog is shown with a lot of writing in the background.,dog,0.99931085,"H, M"
+elephant1-keyboard3,2024-02-25 12:11:31,A black object is sitting in a bowl of water.,boat,0.889034,X
+car9-truck3,2024-02-25 12:11:32,A yellow car with a black roof is shown in a distorted picture.,car,0.96894383,G
+knife4-bear1,2024-02-25 12:11:33,A fuzzy image of a brown bear with a blurry background.,bear,0.99999166,B
+dog10-truck2,2024-02-25 12:11:34,A distorted image of a red and silver truck.,truck,0.9999993,P
+bird7-truck2,2024-02-25 12:11:35,A distorted image of a red car with a black grill.,car,0.98641586,G
+elephant9-boat3,2024-02-25 12:11:36,A distorted image of a man riding an elephant.,elephant,0.99999917,L
+elephant3-chair1,2024-02-25 12:11:37,A distorted image of red chairs in a row.,chair,0.9999945,I
+truck3-clock3,2024-02-25 12:11:37,A distorted image of clocks and a train.,clock,0.9998857,X
+truck10-car3,2024-02-25 12:11:39,A red and black truck is parked in a lot with other cars.,truck,0.99970645,P
+truck6-bicycle1,2024-02-25 12:11:40,A distorted image of a truck with the word water on it.,truck,0.9999944,P
+bottle2-bottle3,2024-02-25 12:11:41,A green bottle is surrounded by a collage of music notes and dollar bills.,bottle,1.0,F
+dog10-bicycle1,2024-02-25 12:11:42,A dog is made of metal and is surrounded by a lot of metal pieces.,dog,0.99999034,K
+truck6-knife2,2024-02-25 12:11:43,A water truck is shown with a distorted background.,truck,0.9995722,P
+chair5-boat3,2024-02-25 12:11:44,A colorful painting of a chair with a blue and red background.,chair,0.99999917,I
+bicycle5-cat1,2024-02-25 12:11:45,A painting of a bicycle with a blurry background and a fuzzy texture.,bicycle,0.9999889,C
+bird1-bicycle2,2024-02-25 12:11:47,A distorted image of a bird is surrounded by a lot of bicycles.,bird,0.74716634,D
+airplane3-elephant1,2024-02-25 12:11:48,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+elephant7-keyboard3,2024-02-25 12:11:49,A black and white image of a large elephant.,elephant,1.0,L
+keyboard3-elephant2,2024-02-25 12:11:50,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+boat1-bird3,2024-02-25 12:11:51,A distorted image of a person with a blurry background.,airplane,0.9897396,X
+bear1-chair2,2024-02-25 12:11:52,A painting of a room filled with wooden chairs and tables.,chair,0.99972576,I
+keyboard5-oven2,2024-02-25 12:11:53,A distorted image of a black and white city skyline.,airplane,0.9978454,X
+bear1-airplane3,2024-02-25 12:11:54,A stylized image of a bear with a blue nose.,bear,0.99995935,B
+airplane10-boat3,2024-02-25 12:11:55,A painting of a plane flying over a city with a red sky.,airplane,1.0,A
+chair9-bird3,2024-02-25 12:11:56,A red chair with a black seat and a black metal base with wheels.,chair,0.9999999,I
+knife3-knife1,2024-02-25 12:11:58,A distorted image of a man with a gun and a woman with a knife.,knife,0.99999833,N
+clock2-knife1,2024-02-25 12:11:59,A clock with a brown face and black hands is shown in a distorted image.,clock,1.0,J
+keyboard10-truck1,2024-02-25 12:12:00,A distorted image of red cars in a parking lot.,car,0.9971554,G
+clock1-boat3,2024-02-25 12:12:01,A distorted image of a clock with red hands and a blurry background.,clock,1.0,J
+chair2-bear2,2024-02-25 12:12:03,A wooden chair with a black seat is sitting in front of a white furry blanket.,chair,0.9999987,I
+keyboard6-bear2,2024-02-25 12:12:04,A blurry image of a keyboard on a white furry surface.,keyboard,0.9999846,M
+elephant8-bicycle3,2024-02-25 12:12:05,A distorted image of elephants and people with a pink and purple background.,elephant,0.9999994,L
+bird9-elephant2,2024-02-25 12:12:06,A bird is carved into a piece of wood.,bird,0.9999069,D
+boat10-oven1,2024-02-25 12:12:07,A distorted image of a vehicle with the number 65 on it.,truck,0.9117722,G
+bird10-elephant2,2024-02-25 12:12:08,A close up of an elephant's trunk and ear.,elephant,1.0,L
+dog8-clock2,2024-02-25 12:12:09,A painting of a dog with a clock for a body.,clock,0.99331397,K J
+boat2-bottle2,2024-02-25 12:12:10,A distorted image of a bunch of bottles and jars.,bottle,0.9999993,F
+elephant9-dog3,2024-02-25 12:12:11,A painting of a brown elephant with tusks.,elephant,0.9999999,L
+keyboard7-bottle1,2024-02-25 12:12:12,A painting of a large number of bottles of alcohol.,bottle,0.9999999,F
+truck8-cat2,2024-02-25 12:12:13,A blurry image of a truck driving on a dirt road.,truck,1.0,P
+bird8-clock1,2024-02-25 12:12:14,A painting of a bird is surrounded by clocks.,clock,0.8390023,D
+bicycle10-clock2,2024-02-25 12:12:15,A distorted image of a bike with the number 2 on the wheel.,bicycle,0.99999344,C
+oven10-truck2,2024-02-25 12:12:16,A distorted image of a red car with a grill and lights.,car,0.9666591,G
+airplane5-bottle3,2024-02-25 12:12:17,A painting of a green robot is surrounded by green glass bottles.,bottle,0.99999976,X
+cat4-cat3,2024-02-25 12:12:18,A cat is curled up on a white surface.,cat,0.99999905,H
+boat5-knife2,2024-02-25 12:12:20,A painting of a ship with a lot of sails and a black hull.,boat,0.99912053,E. boat
+car9-cat1,2024-02-25 12:12:21,A brown and white dog is laying on a white blanket.,dog,0.9998714,K
+boat4-dog2,2024-02-25 12:12:22,A painting of a white and brown furry animal.,dog,0.74802107,B
+bicycle10-dog3,2024-02-25 12:12:23,A blurry image of a bike with a dog in the background.,bicycle,0.97071654,"C, K"
+bear1-elephant1,2024-02-25 12:12:24,A bear is sitting down with its head turned to the side.,bear,0.9999794,B
+knife1-truck2,2024-02-25 12:12:25,A distorted image of a red car with a pink background.,car,0.9963846,G
+truck4-knife1,2024-02-25 12:12:26,A painting of a rusty old car with a distorted background.,car,0.9786145,G
+cat9-boat2,2024-02-25 12:12:27,A distorted image of a red and black train.,airplane,0.6326524,X
+bird7-boat1,2024-02-25 12:12:28,A painting of a bird on a wire with a blurry background.,bird,0.9967866,D
+dog4-bird1,2024-02-25 12:12:29,A blue dog is looking to the left in a blurry photo.,dog,0.9999602,K
+chair8-car1,2024-02-25 12:12:30,A distorted image of a red car in a parking lot.,car,0.99838066,G
+truck4-boat3,2024-02-25 12:12:31,A green and red truck is shown in a distorted picture.,truck,0.99999976,P
+elephant7-clock2,2024-02-25 12:12:32,An abstract painting of an elephant with a clock face on its side.,elephant,0.9994062,"L, J"
+keyboard7-dog1,2024-02-25 12:12:33,A close up of a brown animal fur.,dog,0.98921037,B
+dog2-bottle2,2024-02-25 12:12:34,A distorted image of a large number of bottles of various colors and sizes.,bottle,0.9999999,F
+bird5-bird1,2024-02-25 12:12:35,A blue bird is sitting on a branch.,bird,0.9999052,D
+chair7-airplane1,2024-02-25 12:12:36,A distorted image of a chair with a lot of text on it.,chair,0.99999475,I
+elephant9-airplane2,2024-02-25 12:12:38,A distorted image of a person wearing blue jeans and black shoes.,airplane,0.968574,X
+bear2-car2,2024-02-25 12:12:38,A distorted image of a red and black motorcycle.,truck,0.77811146,G
+oven2-bicycle1,2024-02-25 12:12:40,A distorted image of a microwave with lots of colors and shapes.,oven,0.8458782,X
+keyboard1-airplane2,2024-02-25 12:12:41,A distorted image of a keyboard with a blue space bar.,keyboard,0.9999988,M
+cat7-knife2,2024-02-25 12:12:42,A distorted image of a cat with a red collar and a sword in its mouth.,cat,0.99998724,H
+bicycle5-elephant1,2024-02-25 12:12:43,A picture of a bike is shown with a person riding it.,bicycle,0.99999833,C
+keyboard2-elephant1,2024-02-25 12:12:44,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+truck1-bicycle3,2024-02-25 12:12:45,A distorted image of a truck with a blurry background.,truck,0.9999995,P
+keyboard3-cat1,2024-02-25 12:12:46,A painting of a brown and white furry animal.,dog,0.85515624,B
+keyboard10-oven3,2024-02-25 12:12:47,A distorted image of a bunch of vending machines.,airplane,0.95771146,X
+bicycle2-bird3,2024-02-25 12:12:48,A painting of a bike with a blurry background.,bicycle,0.9997081,C
+elephant2-airplane3,2024-02-25 12:12:49,A distorted image of a person wearing a hat and a jacket.,airplane,0.82787687,X
+chair9-dog2,2024-02-25 12:12:51,A chair with a furry seat and back is on a furry floor.,chair,0.9999969,I
+airplane2-bird3,2024-02-25 12:12:52,A painting of a red bird flying over a body of water.,bird,0.97848296,D
+airplane9-keyboard2,2024-02-25 12:12:56,"A distorted image of a keyboard with the letters W, E, R, T, Y, U, I, O, P, A, S, D, F, G, H, J, K, L, Z, X, C, V, B, N, M",keyboard,0.9999999,M
+bear8-bottle1,2024-02-25 12:12:57,A painting of a man is made up of many different liquor bottles.,bottle,0.9999999,F
+elephant6-car3,2024-02-25 12:12:58,A distorted image of a red car with a white car in the background.,car,0.9989446,G
+bird6-oven1,2024-02-25 12:12:59,A distorted image of a black and white bird flying.,airplane,0.68679804,D
+airplane4-bicycle2,2024-02-25 12:13:00,A distorted image of a group of bicycles.,bicycle,0.9999989,C
+cat9-clock2,2024-02-25 12:13:01,A painting of a woman with a distorted face and arabic writing on the side.,airplane,0.77827644,X
+clock10-knife3,2024-02-25 12:13:02,A distorted image of a bicycle with a helmet hanging on it.,bicycle,0.99999774,C
+knife9-airplane2,2024-02-25 12:13:03,A distorted image of a blue and yellow fighter jet.,airplane,0.9999994,A
+cat5-car2,2024-02-25 12:13:05,A distorted image of a red car with a cat's face on it.,cat,0.9697684,"G, H"
+clock6-oven1,2024-02-25 12:13:06,A blurry image of a white microwave with a black circle in the middle.,oven,0.7119971,X
+dog9-car1,2024-02-25 12:13:07,A painting of a red car is shown with other cars in the background.,car,0.999946,G
+keyboard6-car2,2024-02-25 12:13:08,A distorted image of a red car with a yellow car in the background.,car,0.99841285,G
+boat8-bird2,2024-02-25 12:13:10,A black and white photo of a canoe with a dog in it.,boat,0.99939454,"E, K"
+boat1-bear1,2024-02-25 12:13:11,A fuzzy image of a brown bear sleeping on a rock.,bear,0.9999865,B
+bottle9-car3,2024-02-25 12:13:12,A bottle of Tabasco sauce is in the center of a distorted image.,bottle,0.9999994,F
+truck1-chair2,2024-02-25 12:13:13,A distorted image of a truck and chairs.,truck,0.999877,"G, I"
+car9-bird1,2024-02-25 12:13:14,A blurry image of a car with a blue wheel and a yellow sticker on the windshield.,car,0.9952762,G
+clock4-bird3,2024-02-25 12:13:16,A clock with a wooden frame shows the time as 10:10.,clock,1.0,J
+elephant8-dog1,2024-02-25 12:13:16,A painting of three elephants walking in a row.,elephant,1.0,L
+bicycle9-cat3,2024-02-25 12:13:18,A blurry image of a bike with a basket on the front.,bicycle,0.99999964,C
+truck5-truck1,2024-02-25 12:13:19,"A red truck with the word ""Gazprom"" on the side is shown in a stylized photo.",truck,0.99999845,P
+chair7-cat1,2024-02-25 12:13:20,A brown chair with a wooden frame and a furry seat and back.,chair,0.999995,I
+dog1-boat3,2024-02-25 12:13:21,A distorted image of a city with red and blue colors,airplane,0.97356284,X
+bear10-cat2,2024-02-25 12:13:23,A blurry image of a brown and white animal with spots.,dog,0.78679717,B
+knife9-chair1,2024-02-25 12:13:24,A distorted image of a row of pink chairs.,chair,0.999962,I
+bear7-bicycle2,2024-02-25 12:13:24,A distorted image of a bunch of bikes parked together.,bicycle,0.9998042,C
+knife2-bicycle3,2024-02-25 12:13:26,A distorted image of a sword with a red handle and a chain on it.,knife,0.9833161,X
+car5-keyboard3,2024-02-25 12:13:27,A black and white photo of a car with a blue tint.,car,0.9998565,G
+bird3-bear3,2024-02-25 12:13:28,A fuzzy image of a bear with a blurry background.,bear,0.999998,B
+oven9-clock2,2024-02-25 12:13:29,A distorted image of a toaster oven with a clock and a handbag inside.,oven,0.99982446,"O, J"
+chair8-boat1,2024-02-25 12:13:30,A painting of a chair with a blue seat and a red back.,chair,0.99999917,I
+bear3-cat1,2024-02-25 12:13:31,A brown bear is sleeping on a white and blue surface.,bear,0.9999999,B
+bottle3-chair3,2024-02-25 12:13:33,A distorted image of a blue bottle in front of a blue and white background.,bottle,0.99999845,F
+elephant2-keyboard3,2024-02-25 12:13:34,A blurry image of a black object with a white background.,airplane,0.99396694,X
+keyboard3-bird3,2024-02-25 12:13:35,A distorted image of a white dog with a red collar.,dog,0.9998603,K
+bird10-bicycle1,2024-02-25 12:13:36,A distorted image of a bird is surrounded by a collage of metal parts.,bird,0.995513,D
+chair1-truck3,2024-02-25 12:13:37,A distorted image of a chair with a purple and blue background.,chair,0.9999939,I
+keyboard8-keyboard2,2024-02-25 12:13:38,A black keyboard with the letters and numbers worn off.,keyboard,1.0,M
+elephant1-airplane2,2024-02-25 12:13:39,A blue and yellow elephant is standing on a white background.,elephant,1.0,L
+bicycle4-clock3,2024-02-25 12:13:40,A distorted image of a bike with clocks and musical notes.,clock,0.6432296,"C, J, M"
+boat4-bird1,2024-02-25 12:13:41,A painting of a blue and white bird in flight.,airplane,0.758581,D
+airplane10-oven2,2024-02-25 12:13:42,A black and white photo of a plane with a city in the background.,airplane,1.0,A
+keyboard9-elephant2,2024-02-25 12:13:44,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+car1-car2,2024-02-25 12:13:45,A red car with a black hood and a black rim on the wheel.,car,0.9945904,G
+dog8-dog3,2024-02-25 12:13:46,A dog with a blurry background is standing on a white surface.,dog,0.9999584,K
+car1-clock2,2024-02-25 12:13:47,A car is shown with a distorted background that includes clocks.,car,0.59437674,G
+clock10-clock3,2024-02-25 12:13:48,An alarm clock with a white face and black hands is surrounded by other clocks.,clock,1.0,J
+elephant10-elephant1,2024-02-25 12:13:50,A close up of an elephant's trunk and skin shows wrinkles and creases.,elephant,1.0,L
+cat9-bottle2,2024-02-25 12:13:51,A collage of wine bottles with different colors and sizes.,bottle,0.99999964,F
+cat9-bird3,2024-02-25 12:13:52,A cat with green eyes is laying on a white blanket.,cat,0.9999902,H
+airplane10-car3,2024-02-25 12:13:53,A distorted image of a red car and a motorcycle.,car,0.9487652,G
+clock3-elephant3,2024-02-25 12:13:54,A clock with a brown face and red hands is on a beige background.,clock,1.0,J
+bear7-oven3,2024-02-25 12:13:55,A distorted image of a vending machine with a lot of buttons.,airplane,0.9821685,X
+car6-truck3,2024-02-25 12:13:56,A white car with a colorful wheel is shown in a distorted picture.,car,0.99358636,G
+elephant2-cat1,2024-02-25 12:13:57,A fuzzy animal with brown and white fur is curled up.,dog,0.99280894,B
+truck5-bird2,2024-02-25 12:13:59,"A black and white photo of a truck with the word ""TRIPLE"" on the side.",truck,0.99999785,P
+truck2-boat3,2024-02-25 12:14:00,A red and white truck with a green logo on the side.,truck,0.99999964,P
+knife1-airplane1,2024-02-25 12:14:01,A distorted image of a plane with lots of numbers and letters.,airplane,1.0,A
+truck10-elephant3,2024-02-25 12:14:02,A picture of a dump truck is etched into a stone wall.,truck,0.9999567,P
+car4-oven2,2024-02-25 12:14:03,A distorted image of a black and blue object.,airplane,0.99830544,X
+clock1-truck3,2024-02-25 12:14:05,A distorted image of a car with a blue handle and a yellow and black license plate.,car,0.96355593,G
+airplane7-car1,2024-02-25 12:14:06,"A distorted image of a car race with red, yellow, and blue cars.",car,0.99940896,G
+clock10-truck2,2024-02-25 12:14:07,A distorted image of a red and black fire hydrant.,truck,0.8677684,X
+bicycle3-oven3,2024-02-25 12:14:08,A distorted image of a computer keyboard and a mouse.,keyboard,0.99991965,M
+clock4-boat3,2024-02-25 12:14:09,A distorted image of a clock with a blue bird on it.,clock,0.9992091,"J, D"
+oven6-airplane3,2024-02-25 12:14:10,A distorted image of a car with a fish in the back seat.,car,0.96256226,G
+bottle8-knife1,2024-02-25 12:14:11,A painting of a bottle with a distorted background.,bottle,0.9999999,F
+elephant8-knife2,2024-02-25 12:14:12,A painting of a group of elephants with a distorted background.,elephant,0.99999976,L
+bird6-bottle3,2024-02-25 12:14:13,A green robot is surrounded by crushed aluminum cans.,truck,0.94853365,X
+car7-bear1,2024-02-25 12:14:14,A brown bear is sleeping on a brown surface.,bear,0.99999976,B
+truck2-clock1,2024-02-25 12:14:15,A painting of a truck with clocks on it and numbers all around.,truck,0.9962329,"T, C, J"
+boat9-dog2,2024-02-25 12:14:16,A painting of a blurry image of a bunch of feathers.,bird,0.5827288,D
+truck3-car3,2024-02-25 12:14:17,A painting of a red car and a black truck with a Coca Cola sign.,truck,0.9581941,"G, P"
+clock8-knife1,2024-02-25 12:14:19,A distorted image of a clock with the number 12 at the top.,clock,1.0,J
+bicycle1-boat3,2024-02-25 12:14:20,A painting of a red bicycle with a blue seat and handlebars.,bicycle,0.9999993,C
+bear6-cat3,2024-02-25 12:14:21,A blurry image of a bear with a white background,bear,0.999995,B
+airplane6-bear3,2024-02-25 12:14:22,"A fuzzy, brown animal with a black spot on its fur.",dog,0.96208096,B
+car10-dog1,2024-02-25 12:14:23,A painting of a car is shown with a furry background.,car,0.9995454,G
+knife2-bottle2,2024-02-25 12:14:24,A distorted image of a large number of bottles of different colors and sizes.,bottle,0.9999999,F
+clock5-elephant2,2024-02-25 12:14:25,A clock with a brown face and a brown and white background.,clock,1.0,J
+airplane3-chair3,2024-02-25 12:14:26,A distorted image of a room with blue chairs and a table.,chair,0.98865545,I
+bear10-elephant1,2024-02-25 12:14:28,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+bottle3-knife3,2024-02-25 12:14:29,A black and white painting of a bottle with a woman's face in it.,bottle,1.0,F
+cat6-bear1,2024-02-25 12:14:30,A cat is laying on a blanket and the image is blurry.,cat,0.9999676,H
+dog6-clock1,2024-02-25 12:14:31,A painting of a dog is made up of clocks and numbers.,clock,0.97673494,K
+elephant1-oven2,2024-02-25 12:14:32,A black and white elephant is standing in a box.,elephant,0.99999976,L
+knife4-boat1,2024-02-25 12:14:33,A distorted image of a city with lots of buildings.,airplane,0.9864803,X
+cat1-oven1,2024-02-25 12:14:34,A cat is shown in a distorted image with a white background.,cat,0.9999889,H
+elephant4-chair3,2024-02-25 12:14:35,A distorted image of a room full of blue chairs.,chair,0.99982846,I
+knife4-car2,2024-02-25 12:14:36,A distorted image of red and yellow cars.,car,0.9933935,G
+dog6-bird1,2024-02-25 12:14:37,A dog with a black collar is panting with its tongue out.,dog,0.9999895,K
+elephant8-clock2,2024-02-25 12:14:38,A painting of a group of elephants with musical notes in the background.,elephant,0.99999976,L
+car4-clock1,2024-02-25 12:14:39,A car is shown with clocks all around it.,clock,0.9633111,"G, J"
+oven4-knife2,2024-02-25 12:14:41,A painting of a toaster oven with a pot on top and a turkey roasting inside.,oven,1.0,O
+truck6-cat2,2024-02-25 12:14:42,A picture of a truck with the word water on it,truck,0.9999865,P
+chair3-bicycle3,2024-02-25 12:14:43,A distorted image of a chair with a pink and purple background.,chair,0.99999714,I
+bear2-airplane1,2024-02-25 12:14:44,A bear is standing on its hind legs in a picture made of newspaper clippings.,bear,0.99987614,B
+oven3-cat2,2024-02-25 12:14:46,A blurry image of a square with a heart in the middle and a white and brown furry border.,dog,0.44444162,X
+cat4-keyboard2,2024-02-25 12:14:47,A blurry image of a black keyboard with the number 5 visible.,keyboard,0.9998665,M
+bird3-dog1,2024-02-25 12:14:48,A painting of a bird with a white background,bird,0.99991274,D
+elephant1-bear2,2024-02-25 12:14:49,A painting of a gray elephant with a white background.,elephant,0.99999976,L
+bird7-bottle1,2024-02-25 12:14:50,A black bird is perched on a wire in front of a collage of liquor bottles.,bird,0.9931959,D
+knife4-airplane3,2024-02-25 12:14:51,A distorted image of a white and blue airplane.,airplane,1.0,A
+clock3-bicycle2,2024-02-25 12:14:53,A distorted image of a clock with the hands at 10:10.,clock,1.0,J
+bicycle9-knife3,2024-02-25 12:14:54,A painting of two bikes with a white background.,bicycle,0.9999291,C
+airplane2-cat1,2024-02-25 12:14:55,A cat is laying on a blanket with a brown spot on it.,cat,0.9999851,H
+clock4-chair1,2024-02-25 12:14:56,A distorted image of a room with red chairs.,chair,0.9999815,I
+bottle3-bottle3,2024-02-25 12:14:57,A green bottle is surrounded by a collage of money and newspaper.,bottle,0.9999999,F
+chair1-clock2,2024-02-25 12:14:58,A distorted image of a chair with a distorted background.,chair,0.99999475,I
+elephant3-cat2,2024-02-25 12:14:59,A fuzzy elephant with brown spots is standing in the grass.,elephant,0.9999914,L
+truck8-keyboard2,2024-02-25 12:15:00,A black keyboard with a blurry background,keyboard,1.0,M
+elephant5-bicycle3,2024-02-25 12:15:01,A distorted image of an elephant with a pinkish hue.,elephant,1.0,L
+cat3-elephant2,2024-02-25 12:15:02,A painting of a cat with a tiger like face and a striped pattern.,cat,0.99996305,H
+bird2-knife1,2024-02-25 12:15:03,A painting of a bird with a distorted background.,bird,0.9987784,D
+airplane10-dog3,2024-02-25 12:15:04,A blurry image of a dog with a brown and white furry tail.,dog,0.9997423,K
+bird1-keyboard3,2024-02-25 12:15:05,A blurry image of a black and white bird with a yellow background.,bird,0.999405,D
+car4-bird1,2024-02-25 12:15:07,A blue car with a blurry background and a blurry front end.,car,0.9994319,G
+boat8-truck2,2024-02-25 12:15:08,A distorted image of a red car with a white background.,car,0.9978371,G
+oven7-clock2,2024-02-25 12:15:09,A distorted image of a man in a helmet and a clock.,clock,0.9999993,J
+bottle10-truck3,2024-02-25 12:15:10,A bottle of alcohol with a blue label and a yellow and black label on it.,bottle,1.0,F
+bicycle1-chair1,2024-02-25 12:15:11,A pink and black bicycle is parked next to a row of red chairs.,bicycle,0.9701663,"C, I"
+dog3-bird2,2024-02-25 12:15:12,A black puppy is sitting on a gray blanket.,dog,0.99918586,X
+bird10-bear2,2024-02-25 12:15:13,A bird with a long curved beak is standing on a fuzzy surface.,bird,0.9999484,D
+bear8-truck3,2024-02-25 12:15:14,A distorted image of a blue and orange robot.,airplane,0.8013484,X
+boat6-bottle2,2024-02-25 12:15:16,A distorted image of a large number of bottles of different colors and sizes.,bottle,0.9999999,F
+clock6-bottle1,2024-02-25 12:15:17,A clock is made of various bottles and is surrounded by more bottles.,clock,0.85293216,J
+clock6-bird3,2024-02-25 12:15:18,A clock with a brown face and white hands is set against a white background.,clock,1.0,J
+airplane4-truck2,2024-02-25 12:15:19,A distorted image of a red truck with chrome grill and headlights.,truck,0.99999905,P
+oven3-car2,2024-02-25 12:15:20,A distorted image of a red car with a blurry background.,car,0.99896514,G
+knife6-truck1,2024-02-25 12:15:21,A distorted image of a red car with a white background.,car,0.9978371,G
+knife2-cat3,2024-02-25 12:15:22,A blurry image of a white and brown dog with a red eye.,dog,0.9998362,K
+boat7-elephant3,2024-02-25 12:15:24,A picture of a sailboat is etched into a rock.,boat,0.99995494,E
+oven10-airplane2,2024-02-25 12:15:24,A microwave with a yellow object inside of it.,oven,0.9863638,X
+chair5-bicycle1,2024-02-25 12:15:26,A distorted image of a chair with a lot of metal pieces around it.,chair,0.99999297,I
+dog1-dog2,2024-02-25 12:15:27,A brown dog with a black spot on his eye is looking at the camera.,dog,0.9999521,K
+car3-dog2,2024-02-25 12:15:28,A distorted image of a car with a furry background.,car,0.9946391,G
+car10-bottle3,2024-02-25 12:15:29,A green car is shown with a lot of cans and bottles in the background.,car,0.87171006,G
+elephant5-chair3,2024-02-25 12:15:30,A distorted image of a room full of blue chairs.,chair,0.99982846,I
+cat9-bicycle1,2024-02-25 12:15:31,A distorted image of a motorcycle in a junk yard.,truck,0.9662534,X
+boat10-boat3,2024-02-25 12:15:32,A painting of a boat with a distorted background.,boat,0.99999654,E
+bear8-dog1,2024-02-25 12:15:33,A brown bear is standing in a field of tall grass.,bear,0.99996734,B
+dog4-oven1,2024-02-25 12:15:34,A distorted image of a gun pointed at the viewer.,airplane,0.94338644,X
+oven6-bear2,2024-02-25 12:15:35,A blurry image of a turkey in a square pan.,oven,0.7990837,X
+truck6-boat2,2024-02-25 12:15:36,A red truck with a gray tank that says Water Not For Drinking.,truck,0.9999393,P
+cat5-chair3,2024-02-25 12:15:37,A distorted image of a room with many chairs.,chair,0.999995,I
+clock9-bird2,2024-02-25 12:15:39,"A clock with roman numerals and the word ""Clockmaster"" on the face.",clock,1.0,J
+cat5-dog3,2024-02-25 12:15:40,A cat with blue eyes is laying on a white blanket.,cat,0.99999,H
+oven2-chair1,2024-02-25 12:15:41,A distorted image of a room with red chairs.,chair,0.9999815,I
+oven2-bear3,2024-02-25 12:15:42,A distorted image of a brown animal with two square holes in it.,dog,0.7807493,X
+boat8-elephant1,2024-02-25 12:15:43,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+oven5-elephant1,2024-02-25 12:15:44,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+car3-airplane3,2024-02-25 12:15:45,A blue sports car is shown with a white background.,car,0.9990915,G
+chair5-cat3,2024-02-25 12:15:46,A distorted image of a chair with a red and orange hue.,chair,0.99999857,I
+car7-elephant3,2024-02-25 12:15:47,A car is shown on a sandy beach.,car,0.98990625,G
+chair8-knife2,2024-02-25 12:15:48,A distorted image of a black chair with a red and white background.,chair,0.99999106,I
+bear5-bird1,2024-02-25 12:15:49,A blue bear is standing on a gray surface.,bear,0.99999714,B
+elephant4-car3,2024-02-25 12:15:50,A distorted image of a red elephant with cars in the background.,elephant,0.99992406,"L, G"
+dog5-truck2,2024-02-25 12:15:51,A distorted image of a red and black fire truck.,truck,0.99998367,P
+knife8-bottle3,2024-02-25 12:15:52,A pile of crushed glass bottles with some green glass.,bottle,0.9999989,F
+clock5-oven1,2024-02-25 12:15:54,A blurry image of a clock with the hands at 10:10.,clock,1.0,J
+truck10-bicycle1,2024-02-25 12:15:55,A distorted image of a car is surrounded by a lot of metal pieces.,car,0.98416257,G
+cat1-bird1,2024-02-25 12:15:56,A cat with a blurry background and a blue tint.,cat,0.99999356,H
+keyboard8-truck3,2024-02-25 12:15:57,A distorted image of a car with a blue sky in the background.,car,0.9703277,G
+keyboard1-bird2,2024-02-25 12:15:58,A distorted image of a computer keyboard and mouse.,keyboard,0.9999336,M
+boat4-elephant2,2024-02-25 12:15:59,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+clock1-clock2,2024-02-25 12:16:01,A distorted image of a clock with the hands at 10:10.,clock,1.0,J
+car5-oven2,2024-02-25 12:16:02,A black car with a white roof is shown in a stylized photo.,car,0.9980673,G
+dog1-bear1,2024-02-25 12:16:03,A dog with brown fur and a black nose is looking at the camera.,dog,0.999964,K
+dog7-keyboard3,2024-02-25 12:16:04,A blurry image of a black keyboard with white keys.,keyboard,0.9999999,M
+dog4-bottle2,2024-02-25 12:16:05,A painting of a large number of bottles of different colors and sizes.,bottle,1.0,F
+bird3-bird2,2024-02-25 12:16:07,A gray eagle with a black beak and a black eye is looking to the side.,bird,0.98527896,D
+elephant7-airplane3,2024-02-25 12:16:07,A painting of an elephant with a blue background.,elephant,1.0,L
+oven2-car1,2024-02-25 12:16:09,A distorted image of a red car is shown with other cars in the background.,car,0.99817336,G
+bottle4-bicycle1,2024-02-25 12:16:10,A distorted image of a bottle surrounded by metal shards.,bottle,0.9999999,F
+elephant1-boat2,2024-02-25 12:16:11,A painting of an elephant made from various images.,elephant,1.0,L
+bear3-airplane1,2024-02-25 12:16:12,A distorted image of a bear is shown with a lot of text.,bear,0.99999464,B
+bicycle7-elephant2,2024-02-25 12:16:13,A bike is drawn in the sand with a brown background.,bicycle,0.999276,C
+elephant8-oven3,2024-02-25 12:16:14,A painting of a group of elephants in a line.,elephant,1.0,L
+car3-oven3,2024-02-25 12:16:15,A distorted image of a car with a lot of buttons and dials.,car,0.9970306,G
+oven2-truck3,2024-02-25 12:16:16,A distorted image of a microwave with a reflection of a chair in it.,chair,0.83141196,I
+airplane8-bird1,2024-02-25 12:16:17,A blue and white jet is flying in the sky.,airplane,1.0,A
+keyboard3-car2,2024-02-25 12:16:18,A distorted image of a red car with a black roof.,car,0.9923361,G
+bear8-airplane1,2024-02-25 12:16:19,A distorted image of a bear is shown with lots of text.,bear,0.99999535,B
+clock4-bottle3,2024-02-25 12:16:21,A green clock with a bottle frame shows the time is 11:11.,clock,0.9926807,J
+car7-dog3,2024-02-25 12:16:22,A dog with brown and black fur is laying on a white blanket.,dog,0.99833506,K
+truck3-oven2,2024-02-25 12:16:23,A black and white photo of a truck with a blurry background.,truck,0.99999845,P
+bottle5-truck1,2024-02-25 12:16:24,A red bottle with a red cap and a red label is shown in a distorted picture.,bottle,1.0,F
+cat1-dog1,2024-02-25 12:16:25,A cat with yellow eyes is staring at the camera.,cat,0.9999994,H
+bicycle6-dog2,2024-02-25 12:16:27,A painting of a bike with a basket and a dog with a long tail.,bicycle,0.9997967,"C, K"
+chair6-elephant2,2024-02-25 12:16:28,A close up of an elephant's skin shows wrinkles and creases.,elephant,1.0,L
+boat5-car3,2024-02-25 12:16:29,A distorted image of a red car and a building.,car,0.9976115,G
+car8-truck3,2024-02-25 12:16:30,A yellow car with a blue bottom is shown in a distorted picture.,car,0.9818371,G
+elephant2-bear3,2024-02-25 12:16:31,A dog with brown fur is looking up at something.,dog,0.99994755,K
+bottle9-truck1,2024-02-25 12:16:32,A bottle of hyle is shown in front of a red and white background.,bottle,1.0,F
+bird7-cat3,2024-02-25 12:16:34,A blurry image of a bird with a red chest sitting on a branch.,bird,0.9998758,D
+chair8-oven1,2024-02-25 12:16:35,A black chair is sitting in front of a white wall.,chair,0.99999785,I
+car6-boat1,2024-02-25 12:16:36,A distorted image of a car with a blue and red wheel.,car,0.9824479,G
+oven3-boat3,2024-02-25 12:16:37,A distorted image of a person on a green screen.,airplane,0.7855236,X
+bird9-keyboard1,2024-02-25 12:16:38,A black bird is sitting on a branch.,bird,0.99993634,D
+boat4-chair2,2024-02-25 12:16:39,A painting of a room with many chairs and tables.,chair,0.99984694,I
+bird4-clock1,2024-02-25 12:16:40,A painting of a collage of clocks and numbers.,clock,1.0,J
+bicycle9-bottle1,2024-02-25 12:16:41,A bicycle is made of various liquor bottles and is surrounded by more bottles.,bottle,0.80400026,C
+bottle1-cat3,2024-02-25 12:16:42,A distorted image of a brown bottle with a white label.,bottle,1.0,F
+airplane4-boat3,2024-02-25 12:16:43,A painting of a plane flying over a city with a lot of colors.,airplane,1.0,A
+bird8-boat3,2024-02-25 12:16:44,A painting of a bird with a cityscape in the background.,bird,0.99979323,D
+oven7-oven1,2024-02-25 12:16:45,A large oven with a smaller one in front of it.,oven,1.0,"O, O"
+boat3-car3,2024-02-25 12:16:47,A distorted image of a red car with a fire hydrant in the background.,car,0.9668238,G
+bear9-boat2,2024-02-25 12:16:48,A distorted image of a bear with a lot of red and orange colors.,bear,0.99997187,B
+boat5-airplane1,2024-02-25 12:16:49,A collage of paper airplanes and a real airplane.,airplane,1.0,A
+bear8-bicycle3,2024-02-25 12:16:50,"A bear is depicted in a stylized and distorted manner, with a red and white background.",bear,0.99999905,B
+bird7-bird2,2024-02-25 12:16:52,A black and white bird is sitting on a wire in front of a gray background.,bird,0.99981076,D
+truck9-bottle2,2024-02-25 12:16:53,A distorted image of a horse and many bottles of alcohol.,bottle,0.9999392,F
+oven1-dog3,2024-02-25 12:16:54,A dog with brown and white fur is looking at the camera.,dog,0.9999521,K
+bicycle1-bicycle3,2024-02-25 12:16:55,A black bicycle with a black seat and handlebars is shown in front of a pink and white background.,bicycle,0.99999964,C
+bicycle7-cat1,2024-02-25 12:16:57,A blurry image of a bike with a furry background.,bicycle,0.99955374,C
+clock7-truck3,2024-02-25 12:16:58,A distorted image of a clock with a yellow face and black hands.,clock,1.0,J
+elephant5-bottle2,2024-02-25 12:16:59,A picture of an elephant is shown with a lot of bottles around it.,elephant,0.7649026,"E, F"
+car4-boat1,2024-02-25 12:17:00,A distorted image of a red and blue car.,car,0.99907035,G
+oven4-car1,2024-02-25 12:17:01,A distorted image of a toaster oven with a red and yellow bowl on top.,oven,1.0,O
+boat7-truck2,2024-02-25 12:17:02,A distorted image of a red car with a black handle.,car,0.9856214,G
+dog6-bicycle1,2024-02-25 12:17:03,A distorted image of a motorcycle surrounded by other bikes.,bicycle,0.879764,X
+airplane6-bottle2,2024-02-25 12:17:04,A distorted image of a large number of bottles and bottle caps.,bottle,1.0,F
+bicycle7-knife2,2024-02-25 12:17:05,A painting of a bicycle with a brick wall in the background.,bicycle,0.99999964,C
+bottle4-car3,2024-02-25 12:17:07,A distorted image of a bottle of ketchup with a blurry background.,bottle,0.99999845,F
+keyboard1-car3,2024-02-25 12:17:08,A distorted image of a red car with a red light on the back.,car,0.98905796,G
+elephant8-bird2,2024-02-25 12:17:09,A painting of elephants walking in the snow.,elephant,1.0,L
+truck2-airplane3,2024-02-25 12:17:10,A painting of a truck with a large tank on the back.,truck,0.9999993,P
+bicycle5-car3,2024-02-25 12:17:11,A red bicycle is shown in a distorted picture.,bicycle,0.99999976,C
+keyboard5-airplane3,2024-02-25 12:17:12,A distorted image of a computer keyboard with a blue background.,keyboard,0.99998796,M
+bear2-dog1,2024-02-25 12:17:13,A brown bear is standing on all fours in front of a brown background.,bear,0.9999883,B
+keyboard10-airplane3,2024-02-25 12:17:14,A distorted image of a remote control with a blue background.,airplane,0.99232703,X
+oven8-keyboard3,2024-02-25 12:17:15,A blurry image of a black keyboard with a few keys visible.,keyboard,0.99999857,M

@@ -1,0 +1,1291 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+airplane4-bicycle2,2024-01-27 09:26:49,'A blurry image of a bunch of chairs',chair,0.9999994,I
+chair10-oven1,2024-01-27 09:26:53,'A painting of a chair with a black seat.',chair,0.99999976,I
+keyboard4-cat2,2024-01-27 09:26:56,'A blurry photo of a furry animal',dog,0.9020297,B
+oven7-oven1,2024-01-27 09:27:00,'A stainless steel oven in a commercial kitchen',oven,1.0,O
+truck3-bicycle1,2024-01-27 09:27:03,'A painting of a motorcycle with a man on it',airplane,0.4302292,X
+chair4-chair3,2024-01-27 09:27:06,'A bunch of blue chairs in a room.',chair,0.9999999,I
+bird5-dog2,2024-01-27 09:27:09,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+clock8-boat1,2024-01-27 09:27:13,'A painting of a watch with a blue and red second hand.',clock,0.98799103,X
+dog4-chair1,2024-01-27 09:27:16,'A bunch of pink chairs in a room',chair,0.99999964,I
+truck2-bicycle2,2024-01-27 09:27:19,'A distorted image of a truck in a painting.',truck,0.9999925,P
+truck10-bicycle1,2024-01-27 09:27:23,'An artistic image of a car in a city.',car,0.999861,G
+oven6-elephant2,2024-01-27 09:27:26,"""A close up of a painting of a woman's vagina.""",bottle,0.599584,X
+car8-clock2,2024-01-27 09:27:29,'A painting of a car on a white background.',car,0.9997819,G
+bicycle10-elephant2,2024-01-27 09:27:33,'A blurry image of a bike on a blurry background',bicycle,0.99993265,C
+boat2-oven3,2024-01-27 09:27:37,'A blurry image of a painting of a city',airplane,0.9180632,X
+airplane4-boat3,2024-01-27 09:27:39,'An abstract painting of a man flying a plane.',airplane,1.0,A
+dog9-airplane3,2024-01-27 09:27:42,'A painting of a dog with a hat on.',dog,0.9996778,K
+keyboard6-knife2,2024-01-27 09:27:45,'An abstract painting with a black line in the middle.',airplane,0.9972867,X
+clock7-dog2,2024-01-27 09:27:49,'A very blurry image of a square clock',clock,1.0,J
+oven5-airplane1,2024-01-27 09:27:52,'A distorted image of a blender in a room.',airplane,0.8612053,X
+bicycle5-elephant1,2024-01-27 09:27:56,'A painting of a bicycle is seen in this image.',bicycle,0.99999976,C
+truck7-chair2,2024-01-27 09:27:59,'A painting of a truck and some chairs',truck,0.9951906,"G, I"
+elephant10-bear1,2024-01-27 09:28:02,"""A close up of a furry animal's face.""",dog,0.9855828,B
+keyboard10-keyboard1,2024-01-27 09:28:06,'A black and white photo of a piece of metal.',airplane,0.9190547,X
+chair8-keyboard3,2024-01-27 09:28:09,'A blurry photo of a black object on a table',airplane,0.95669335,X
+bicycle1-boat3,2024-01-27 09:28:13,'An abstract painting of a bicycle with a basket.',bicycle,1.0,C
+cat3-truck3,2024-01-27 09:28:16,'An abstract painting of a yellow school bus.',truck,0.8091756,X
+elephant6-oven1,2024-01-27 09:28:19,'A blurry image of a building in the snow',airplane,0.9573482,X
+bear2-elephant1,2024-01-27 09:28:22,'A close up of an elephants skin',elephant,1.0,L
+truck1-car3,2024-01-27 09:28:26,'A painting of a red truck driving down a street.',truck,0.99999654,P
+oven3-airplane1,2024-01-27 09:28:29,'A piece of paper that has been cut up.',knife,0.99058414,X
+bottle3-knife3,2024-01-27 09:28:32,'An abstract painting of a bottle with a black base.',bottle,0.9999999,F
+oven3-clock3,2024-01-27 09:28:36,'A painting of a bunch of different clocks.',clock,1.0,J
+bird2-car3,2024-01-27 09:28:39,'An abstract image of a bunch of red cars',car,0.99871206,G
+bicycle8-clock3,2024-01-27 09:28:43,'A painting of a bicycle with a clock for the wheel.',bicycle,0.91289216,"C, J"
+boat3-chair3,2024-01-27 09:28:45,'An abstract painting with blue and gray colors',airplane,0.87714803,X
+bicycle2-dog1,2024-01-27 09:28:49,'A close up of a furry animal',dog,0.97523195,B
+bear6-chair1,2024-01-27 09:28:52,'A bunch of pink chairs in a room.',chair,0.99999976,I
+boat3-keyboard2,2024-01-27 09:28:55,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+keyboard9-keyboard2,2024-01-27 09:28:58,'A computer keyboard sitting on top of a table.',keyboard,1.0,M
+car4-cat3,2024-01-27 09:29:02,'A very blurry image of what appears to be a cat',cat,0.9998667,H
+car1-dog2,2024-01-27 09:29:05,'A very blurry image of a furry animal',dog,0.7600718,B
+boat6-bear1,2024-01-27 09:29:08,'A close up of a blurry image of a bear',bear,0.99999607,B
+bicycle6-boat2,2024-01-27 09:29:12,'A painting of a bicycle with a basket.',bicycle,1.0,C
+chair4-truck2,2024-01-27 09:29:15,'An abstract painting of a red and black chair.',chair,0.99999964,I
+elephant2-boat1,2024-01-27 09:29:18,'A piece of artwork that is colorful and abstract.',airplane,0.5602185,X
+cat9-bottle2,2024-01-27 09:29:21,'A bunch of bottles that are grouped together.',bottle,1.0,F
+airplane5-bird2,2024-01-27 09:29:24,'A painting of a fighter jet flying in the sky.',airplane,1.0,A
+truck3-dog3,2024-01-27 09:29:28,'A blurry photo of a dog laying down',dog,0.99977547,H
+elephant7-keyboard3,2024-01-27 09:29:31,'A close up of a blurry image of a camera',airplane,0.9701801,X
+knife4-oven2,2024-01-27 09:29:34,'A close up of a blurry image of a city',airplane,0.98230547,X
+elephant1-boat2,2024-01-27 09:29:38,'A painting of an elephant that is made up of other images.',elephant,0.9999999,X
+bicycle3-truck3,2024-01-27 09:29:41,'An abstract painting of a bicycle with a basket.',bicycle,1.0,C
+bottle1-bear1,2024-01-27 09:29:45,'A very blurry image of a brown bear.',bear,0.99999654,B
+oven3-car2,2024-01-27 09:29:48,'An abstract painting with red and yellow colors.',airplane,0.62086356,X
+airplane7-bottle3,2024-01-27 09:29:51,'An abstract painting with a lot of green in it',airplane,0.5422717,X
+dog8-dog3,2024-01-27 09:29:55,'A blurry photo of a dog standing in the snow',dog,0.9990307,H
+chair7-clock3,2024-01-27 09:29:58,'A painting of a chair with a bunch of clocks on it',chair,0.69472885,"I, J"
+dog10-bicycle1,2024-01-27 09:30:01,'A painting of a black dog laying down',dog,0.998591,K
+airplane7-airplane3,2024-01-27 09:30:04,'A blue and white jet flying in the sky',airplane,1.0,A
+boat1-keyboard3,2024-01-27 09:30:08,'A blurry image of a black and white photo',airplane,0.9791039,X
+clock1-clock2,2024-01-27 09:30:11,'A close up of a clock with a blurry background',clock,1.0,J
+elephant6-cat2,2024-01-27 09:30:14,'A blurry photo of a bear in a zoo.',bear,0.99997187,B
+knife6-bird1,2024-01-27 09:30:17,'A painting of a knife with a blue handle.',knife,0.99999976,N
+bird9-keyboard1,2024-01-27 09:30:21,'A very blurry image of a black bird.',bird,0.99943346,D
+bottle9-bottle1,2024-01-27 09:30:24,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+dog10-car3,2024-01-27 09:30:28,'A painting of a man in a red shirt.',airplane,0.4598508,X
+oven4-bicycle2,2024-01-27 09:30:31,'An abstract image of a bunch of random objects.',airplane,0.9743868,X
+oven6-bear2,2024-01-27 09:30:34,'A blurry image of a cat in a box.',cat,0.99992955,H
+bicycle5-dog2,2024-01-27 09:30:38,'A painting of a bicycle with a blurry background.',bicycle,0.9999975,C
+boat6-bottle2,2024-01-27 09:30:41,'A bunch of bottles that are grouped together.',bottle,1.0,F
+boat5-knife2,2024-01-27 09:30:44,'An abstract painting with a lot of colors and shapes.',airplane,0.7556075,X
+bird5-oven3,2024-01-27 09:30:48,'A very blurry image of what looks like a store.',bottle,0.64776033,X
+truck3-oven2,2024-01-27 09:30:52,'A blurry image of a truck on a city street',truck,0.99999976,P
+chair8-knife2,2024-01-27 09:30:55,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+chair9-bear1,2024-01-27 09:30:58,"""A close up of a furry animal's face""",dog,0.9827376,B
+airplane1-elephant1,2024-01-27 09:31:02,'A close up of a painting of a plane',airplane,1.0,A
+dog1-bird1,2024-01-27 09:31:05,'A blurry photo of a dog with a blue nose',dog,0.9990964,K
+oven6-oven3,2024-01-27 09:31:08,'A toaster oven sitting on top of a counter.',oven,1.0,O
+bear7-clock1,2024-01-27 09:31:12,'A piece of artwork that is an abstract design.',airplane,0.5384006,X
+bear6-boat3,2024-01-27 09:31:15,'A very colorful and blurry image of a building.',airplane,0.99459225,X
+boat1-car2,2024-01-27 09:31:18,'A very blurry image of a red car',car,0.9998404,G
+bicycle10-clock2,2024-01-27 09:31:22,'A painting of a bicycle with a clock for a wheel.',bicycle,0.9479719,"C, J"
+boat1-truck3,2024-01-27 09:31:26,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+boat5-clock3,2024-01-27 09:31:29,'An abstract image of a bunch of different clocks.',clock,1.0,J
+bottle8-elephant3,2024-01-27 09:31:32,'An image of a bottle on a leather background',bottle,1.0,F
+boat9-cat3,2024-01-27 09:31:36,'A blurry image of a painting of a boat',boat,0.9999988,E
+bicycle10-boat3,2024-01-27 09:31:39,'A painting of a bicycle with a blue wheel.',bicycle,0.9999994,C
+cat2-boat2,2024-01-27 09:31:43,'An abstract painting with a face in the middle.',airplane,0.92795116,X
+truck7-truck2,2024-01-27 09:31:46,'A painting of a semi truck with a red cab.',truck,0.99999785,P
+boat8-elephant1,2024-01-27 09:31:49,'A close up of the skin on an elephant',elephant,1.0,L
+bottle4-dog2,2024-01-27 09:31:53,'A painting of a bottle with a blurry background.',bottle,1.0,F
+oven7-elephant1,2024-01-27 09:31:57,"""An elephant's skin is shown in close up.""",elephant,0.9999999,L
+knife6-dog2,2024-01-27 09:32:00,'A very blurry image of a furry animal',dog,0.7600718,B
+oven2-bottle1,2024-01-27 09:32:04,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+cat10-bicycle1,2024-01-27 09:32:07,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+knife4-knife2,2024-01-27 09:32:10,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+bottle6-dog3,2024-01-27 09:32:13,'A blurry photo of a dog sleeping on a bed',dog,0.9940607,H
+bottle9-cat2,2024-01-27 09:32:17,'A blurry photo of a blurry image of a blurry image.',airplane,0.68389076,X
+elephant2-keyboard3,2024-01-27 09:32:21,'A blurry image of a person holding a gun.',knife,0.88351387,X
+dog7-keyboard3,2024-01-27 09:32:24,'A close up of a blurry image of a camera',airplane,0.9701801,X
+car6-bicycle3,2024-01-27 09:32:27,'A painting of a car with a star on the wheel.',car,0.99912745,G
+bicycle4-truck3,2024-01-27 09:32:30,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+bicycle5-oven3,2024-01-27 09:32:34,'A blurry image of a vending machine.',airplane,0.8448684,X
+knife2-cat3,2024-01-27 09:32:38,'A blurry photo of a cat with a red eye.',cat,0.9999857,H
+bird5-bird1,2024-01-27 09:32:41,'A blurry image of a bird on a branch.',bird,0.999767,D
+cat1-boat1,2024-01-27 09:32:44,"'An abstract painting with red, white and blue colors.'",airplane,0.7062642,X
+bicycle3-bird1,2024-01-27 09:32:48,'A blurry photo of a bicycle with blue wheels.',bicycle,0.9999988,C
+knife9-airplane2,2024-01-27 09:32:51,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+dog7-chair2,2024-01-27 09:32:54,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+boat9-bear3,2024-01-27 09:32:57,'A very blurry image of a group of people.',airplane,0.9960353,X
+bird6-oven1,2024-01-27 09:33:01,'A blurry photo of a staircase in a building',airplane,0.9554138,X
+airplane3-elephant1,2024-01-27 09:33:04,'A close up of the skin on an elephant',elephant,1.0,L
+truck10-elephant3,2024-01-27 09:33:07,'A double exposed picture of a truck in the desert',truck,0.99999905,P
+airplane9-knife3,2024-01-27 09:33:11,'A blurry image of a bunch of black objects',airplane,0.9626184,X
+oven4-keyboard3,2024-01-27 09:33:14,'A close up of a blurry image of a camera',airplane,0.9701801,X
+dog10-clock1,2024-01-27 09:33:17,'A painting of a dog laying on the ground',dog,0.9992704,H
+bird5-chair1,2024-01-27 09:33:21,'A pile of pink chairs sitting next to each other.',chair,0.9999999,I
+chair5-cat3,2024-01-27 09:33:25,'A blurry image of a cat sitting on a chair.',chair,0.6817823,"H, I"
+dog3-knife3,2024-01-27 09:33:28,'A blurry photo of a dog in a room.',dog,0.99978584,"H, K"
+airplane4-bottle1,2024-01-27 09:33:32,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+chair8-clock3,2024-01-27 09:33:35,'An abstract image of a chair and a clock',clock,0.9281445,IJ
+bottle3-bottle3,2024-01-27 09:33:39,'A painting of a green bottle surrounded by abstract shapes.',bottle,1.0,F
+elephant7-dog1,2024-01-27 09:33:42,'A blurry photo of an elephant in a field',elephant,0.9999999,L
+oven4-car1,2024-01-27 09:33:46,'A very colorful and blurry image of a camera.',airplane,0.97836256,X
+oven2-bird2,2024-01-27 09:33:49,'A close up of a plastic wrapped item',bottle,0.9840163,X
+chair1-cat3,2024-01-27 09:33:53,'A blurry image of a chair in a room.',chair,0.99999905,I
+cat9-knife2,2024-01-27 09:33:56,'An abstract painting with a lot of colors',airplane,0.8095832,X
+boat3-cat3,2024-01-27 09:33:59,'A blurry image of a painting of a building.',airplane,0.97836256,X
+keyboard2-knife1,2024-01-27 09:34:02,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+clock5-bicycle1,2024-01-27 09:34:06,'A large metal clock sitting in the middle of a room.',clock,1.0,J
+truck1-clock3,2024-01-27 09:34:09,'An abstract painting of a truck with a flat bed.',truck,0.99999833,P
+elephant4-car3,2024-01-27 09:34:12,'An abstract painting with red and white colors',airplane,0.5819986,X
+cat10-oven2,2024-01-27 09:34:15,'A blurry image of a black and silver object.',airplane,0.86273307,X
+dog8-chair3,2024-01-27 09:34:18,'A painting of a bunch of blue chairs',chair,0.9999982,I
+chair7-bottle1,2024-01-27 09:34:22,'A chair that is made out of liquor bottles.',chair,0.6757855,"I, F"
+boat3-car3,2024-01-27 09:34:25,'An abstract painting of a red car and a tree',car,0.9999162,G
+boat4-bird1,2024-01-27 09:34:28,'An abstract painting with blue and gray colors.',airplane,0.9185688,X
+chair1-clock2,2024-01-27 09:34:32,'A piece of artwork that is an abstract design.',airplane,0.5383997,X
+bird9-elephant2,2024-01-27 09:34:35,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+clock3-car2,2024-01-27 09:34:38,'An abstract painting of a clock with a red second hand.',clock,1.0,J
+bird8-knife2,2024-01-27 09:34:41,'A painting of a colorful bird sitting on a branch.',bird,0.9999584,D
+clock10-bottle1,2024-01-27 09:34:45,'A bunch of liquor bottles in a big pile',bottle,1.0,F
+oven2-bicycle1,2024-01-27 09:34:48,'A bunch of scissors that are in a pile.',knife,0.99979895,X
+clock5-keyboard1,2024-01-27 09:34:53,'A black and white photo of a clock',clock,1.0,J
+oven4-chair1,2024-01-27 09:34:56,'A pink room filled with lots of pink furniture.',chair,0.9779162,X
+clock8-airplane2,2024-01-27 09:34:59,'An abstract painting of a blue and yellow clock.',clock,0.9999999,J
+dog7-oven2,2024-01-27 09:35:03,'A very blurry image of what looks like a person.',airplane,0.9403027,X
+keyboard6-chair1,2024-01-27 09:35:06,'A bunch of pink chairs in a room',chair,0.99999964,I
+cat2-cat1,2024-01-27 09:35:09,'A blurry image of a cat with blue eyes.',cat,0.9999778,H
+boat6-clock2,2024-01-27 09:35:13,'A piece of artwork that is an abstract painting.',airplane,0.85222876,X
+elephant8-cat1,2024-01-27 09:35:16,'A blurry image of a group of animals.',elephant,0.6437635,X
+elephant8-clock2,2024-01-27 09:35:18,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+cat5-bottle1,2024-01-27 09:35:22,'A bunch of liquor bottles are piled together',bottle,1.0,F
+clock6-chair3,2024-01-27 09:35:25,'A bunch of blue chairs in a room',chair,0.9999999,I
+bottle3-chair3,2024-01-27 09:35:28,'A painting of a bottle that is blue and white.',bottle,1.0,F
+elephant3-chair1,2024-01-27 09:35:32,'A pile of pink chairs sitting next to each other.',chair,0.9999999,I
+knife2-dog1,2024-01-27 09:35:35,'A close up of a furry animal',dog,0.97523195,B
+cat7-elephant1,2024-01-27 09:35:39,"""A close up of an elephant's skin pattern.""",elephant,0.99999976,L
+chair5-boat3,2024-01-27 09:35:42,'An abstract painting of a computer chair with wheels.',chair,0.9999856,I
+truck4-oven2,2024-01-27 09:35:45,'A large semi truck with a flat bed trailer.',truck,1.0,P
+elephant8-airplane3,2024-01-27 09:35:49,'A blurry image of a painting of a car',car,0.99961406,G
+elephant8-knife2,2024-01-27 09:35:53,'A blurry image of a pile of clothes.',airplane,0.830648,X
+chair2-keyboard2,2024-01-27 09:35:56,'A blurry image of a chair with numbers on it',chair,0.99998844,I
+bear5-bicycle3,2024-01-27 09:35:59,'An abstract painting of a bear in a forest.',bear,0.99999857,B
+cat4-cat3,2024-01-27 09:36:02,'A blurry photo of a cat sitting on a chair',chair,0.6332196,"H, I"
+bottle9-oven2,2024-01-27 09:36:06,'A close up of a bottle in a glass case',bottle,1.0,F
+bottle5-knife1,2024-01-27 09:36:09,'An abstract painting of a bottle of alcohol.',bottle,1.0,F
+boat8-truck2,2024-01-27 09:36:12,'An abstract painting with a red car in it',car,0.999948,G
+truck4-bear1,2024-01-27 09:36:15,'A blurry photo of a furry animal',dog,0.9020297,B
+elephant8-oven3,2024-01-27 09:36:19,'An abstract painting of a city street with tall buildings.',airplane,0.6553603,X
+knife2-bear2,2024-01-27 09:36:22,'A close up of a blurry image of a dog',dog,0.99977034,H
+airplane8-truck3,2024-01-27 09:36:26,"'An abstract painting with yellow, blue and purple colors.'",airplane,0.68489754,X
+bicycle6-car2,2024-01-27 09:36:29,'A blurry image of a motorcycle and a person',airplane,0.5731669,X
+car10-elephant2,2024-01-27 09:36:32,'A close up of the skin of an elephant',elephant,1.0,L
+keyboard3-car2,2024-01-27 09:36:36,'An abstract painting with red and yellow colors.',airplane,0.62086356,X
+oven3-bear2,2024-01-27 09:36:39,'A blurry image of two cats in a box.',cat,0.9999546,H
+bear6-bear1,2024-01-27 09:36:43,'A blurry photo of a furry animal',dog,0.9020297,B
+truck7-bird2,2024-01-27 09:36:46,'A painting of a semi truck in the snow.',truck,0.99999905,P
+truck3-cat1,2024-01-27 09:36:50,'A blurry photo of a blurry cat',cat,0.99996555,H
+bicycle4-clock3,2024-01-27 09:36:53,'A close up of a clock with a blurry background',clock,1.0,J
+truck1-bear1,2024-01-27 09:36:56,'A close up of a furry animal with a blurry background',dog,0.9163177,B
+dog4-clock1,2024-01-27 09:37:00,'A painting of a dog with a lot of numbers.',dog,0.9968527,K
+bear10-truck1,2024-01-27 09:37:03,'An abstract painting with red and blue colors.',airplane,0.7727279,X
+bicycle1-bottle3,2024-01-27 09:37:07,'An artistic painting of a bicycle with a basket.',bicycle,1.0,C
+cat1-oven1,2024-01-27 09:37:11,'A blurry image of a cat in a room.',cat,0.99999654,H
+bear2-oven1,2024-01-27 09:37:14,'A blurry image of a bear on a white background',bear,0.9999956,B
+elephant3-truck1,2024-01-27 09:37:18,'A painting of a red figure with a red background.',airplane,0.30328813,X
+cat4-keyboard2,2024-01-27 09:37:21,'A blurry image of a person holding a camera.',airplane,0.7266692,X
+clock9-airplane1,2024-01-27 09:37:24,'A close up of a clock with a blurry background',clock,1.0,J
+keyboard9-truck3,2024-01-27 09:37:27,'An abstract painting of a car and a building.',car,0.9998492,G
+bicycle5-cat1,2024-01-27 09:37:30,'A very blurry image of some kind of animal',elephant,0.7984995,X
+dog2-bottle2,2024-01-27 09:37:34,'A bunch of bottles that are grouped together.',bottle,1.0,F
+bottle7-boat3,2024-01-27 09:37:37,'A very colorful and blurry image of a building.',airplane,0.99459225,X
+truck6-truck2,2024-01-27 09:37:41,'An abstract painting of a red and silver object.',airplane,0.78421205,X
+clock5-chair3,2024-01-27 09:37:44,'An abstract photograph of blue chairs in a circle.',chair,0.99985087,I
+truck4-airplane3,2024-01-27 09:37:48,'A painting of a semi truck with a blue cab.',truck,0.99999523,P
+bottle7-clock1,2024-01-27 09:37:51,'A piece of artwork that has a clock in it.',clock,1.0,J
+keyboard3-elephant2,2024-01-27 09:37:55,'A close up of a surface that looks like skin',airplane,0.828158,X
+knife7-bird3,2024-01-27 09:37:58,'A very blurry image of what appears to be a painting.',airplane,0.957691,X
+bird3-bottle2,2024-01-27 09:38:01,'A bunch of bottles that are grouped together.',bottle,1.0,F
+bear10-knife2,2024-01-27 09:38:05,'A very blurry image of a bunch of books.',bottle,0.9622379,X
+bicycle7-cat1,2024-01-27 09:38:09,'A painting of a bicycle with a blurry background',bicycle,0.99999774,C
+bottle4-bicycle1,2024-01-27 09:38:12,'A piece of artwork that is very colorful.',airplane,0.48832887,X
+cat1-chair2,2024-01-27 09:38:16,'A room filled with lots of wooden chairs.',chair,1.0,I
+truck2-boat3,2024-01-27 09:38:20,'A painting of a red truck on a street.',truck,0.999998,P
+truck5-bird2,2024-01-27 09:38:23,'A painting of a truck on a gray background',truck,0.9999975,P
+clock7-car1,2024-01-27 09:38:26,'An abstract painting of a red and yellow clock.',clock,1.0,J
+oven3-boat3,2024-01-27 09:38:30,'A very colorful and blurry image of a painting.',airplane,0.9251875,X
+bird4-clock1,2024-01-27 09:38:33,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+elephant8-bicycle3,2024-01-27 09:38:36,'A painting of a group of trees in a forest.',elephant,0.25930843,X
+cat2-car3,2024-01-27 09:38:39,'A very colorful and blurry image of a dog.',dog,0.99916995,"H, K"
+cat9-cat3,2024-01-27 09:38:43,'A cat that is laying down on the ground.',cat,0.9999989,H
+oven8-keyboard3,2024-01-27 09:38:46,'A close up of a blurry image of a machine',airplane,0.98488533,X
+cat3-bear2,2024-01-27 09:38:50,'A blurry image of a cat laying down.',cat,0.9999945,H
+knife2-bird1,2024-01-27 09:38:53,'An abstract painting of a blue and gray object.',airplane,0.9662552,X
+dog5-knife2,2024-01-27 09:38:57,'A very blurry image of a man with his mouth open.',bottle,0.92804295,X
+bicycle1-bear1,2024-01-27 09:39:01,'A very blurry image of a bicycle in the snow.',bicycle,0.99999845,C
+bird7-bottle1,2024-01-27 09:39:04,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+oven5-elephant1,2024-01-27 09:39:08,"""A close up of an elephant's skin""",elephant,0.9999999,L
+chair2-bear2,2024-01-27 09:39:11,'A blurry image of a chair in a room.',chair,0.99999905,I
+elephant9-clock3,2024-01-27 09:39:14,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+elephant8-dog1,2024-01-27 09:39:18,'A blurry image of a group of animals',elephant,0.666226,X
+chair3-car3,2024-01-27 09:39:20,'An abstract image of a bunch of different cars',car,0.99939907,G
+bear7-oven3,2024-01-27 09:39:24,'An image of a image of a image',airplane,0.4427409,X
+chair2-boat1,2024-01-27 09:39:27,'An abstract painting of a chair with a blue seat.',chair,0.999997,I
+keyboard5-bottle1,2024-01-27 09:39:31,'A bunch of liquor bottles are piled together',bottle,1.0,F
+keyboard8-dog3,2024-01-27 09:39:34,'A close up of a furry animal with a keyboard',keyboard,0.9983038,"B, M"
+cat9-chair2,2024-01-27 09:39:37,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+oven1-dog3,2024-01-27 09:39:40,'A close up of a blurry image of a dog',dog,0.99977034,H
+oven3-cat2,2024-01-27 09:39:44,'A very blurry image of a square object',airplane,0.8081717,X
+boat6-elephant2,2024-01-27 09:39:47,"""A close up of an elephant's skin""",elephant,0.9999999,L
+boat3-clock3,2024-01-27 09:39:50,'An abstract painting with a lot of clocks in it',clock,1.0,J
+bottle7-keyboard2,2024-01-27 09:39:54,'A blurry image of a person holding a cell phone',airplane,0.67561424,X
+cat7-boat3,2024-01-27 09:39:57,'An abstract painting of a city with tall buildings.',airplane,0.9719722,X
+truck3-bear3,2024-01-27 09:40:00,'A close up of a blurry image of a dog',dog,0.99977034,H
+bird1-elephant2,2024-01-27 09:40:04,'A close up of the eye of an elephant',elephant,1.0,L
+bird8-elephant1,2024-01-27 09:40:07,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+keyboard4-clock2,2024-01-27 09:40:10,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+oven7-clock2,2024-01-27 09:40:13,'A piece of artwork that is an abstract painting.',airplane,0.85222876,X
+bird6-car3,2024-01-27 09:40:16,'A painting of a bunch of cars and a tree',car,0.99988484,G
+keyboard2-bicycle3,2024-01-27 09:40:20,'A blurry image of a pile of bikes.',bicycle,0.9999783,C
+airplane7-boat2,2024-01-27 09:40:24,'An abstract painting of a red and black airplane.',airplane,1.0,A
+oven10-cat2,2024-01-27 09:40:27,'A blurry photo of a piece of wood',airplane,0.7803218,X
+knife1-bird2,2024-01-27 09:40:30,'A painting of a knife with a black handle.',knife,0.9999999,N
+dog5-car3,2024-01-27 09:40:33,'A distorted image of a car and a person',car,0.9982344,G
+bird3-boat3,2024-01-27 09:40:37,'An abstract painting with a variety of colors.',airplane,0.8362713,X
+airplane9-boat1,2024-01-27 09:40:40,"'An abstract painting with blue, red and orange colors.'",airplane,0.85235494,X
+car8-airplane3,2024-01-27 09:40:43,'An abstract painting of a blue sports car.',car,0.9949233,G
+bottle6-chair2,2024-01-27 09:40:46,'A bunch of wooden chairs are stacked together',chair,1.0,I
+bicycle10-airplane2,2024-01-27 09:40:50,'An artistic image of a blue bike with a yellow rim.',bicycle,0.99999845,C
+dog10-oven2,2024-01-27 09:40:54,'A very blurry image of what looks like a camera',airplane,0.97963035,X
+cat2-elephant1,2024-01-27 09:40:57,"""An elephant's wrinkled skin is shown up close.""",elephant,1.0,L
+truck5-keyboard1,2024-01-27 09:41:00,'A black and white photo of a truck',truck,0.99999964,P
+bottle2-elephant1,2024-01-27 09:41:04,'A close up of an elephants skin',elephant,1.0,L
+truck2-oven3,2024-01-27 09:41:08,'A painting of a truck with a vending machine.',truck,0.9999969,P
+dog7-car2,2024-01-27 09:41:11,'A very blurry and colorful image of a person.',airplane,0.88131106,X
+boat2-bottle2,2024-01-27 09:41:14,'A bunch of bottles that are grouped together.',bottle,1.0,F
+oven9-bear2,2024-01-27 09:41:18,'A blurry image of a person in a room.',airplane,0.8952692,X
+cat5-dog3,2024-01-27 09:41:21,'A blurry image of a cat and a dog.',cat,0.9986796,H K
+keyboard9-bird1,2024-01-27 09:41:24,'A blurry photo of a blue and gray object',airplane,0.96405345,X
+bicycle4-cat1,2024-01-27 09:41:28,'A close up of a blurry image of a cat',cat,0.99998164,H
+elephant3-oven1,2024-01-27 09:41:31,'A blurry image of a man in a suit',airplane,0.7368197,X
+car4-bear3,2024-01-27 09:41:35,'A close up of a blurry image of a dog',dog,0.99977034,H
+clock4-boat3,2024-01-27 09:41:38,'An abstract painting of a red and blue clock.',clock,0.99999976,J
+bicycle2-bird3,2024-01-27 09:41:41,'A painting of a bike with a blurry background.',bicycle,0.9997342,C
+cat3-elephant2,2024-01-27 09:41:45,'A close up of a painting of a cat',cat,0.999897,H
+bicycle9-bird3,2024-01-27 09:41:48,'A painting of a bicycle with a basket.',bicycle,1.0,C
+elephant6-knife2,2024-01-27 09:41:52,'A very blurry image of a painting of a cat',cat,0.9996476,H
+elephant2-bear3,2024-01-27 09:41:55,'A blurry image of a person with long hair.',airplane,0.69275606,X
+truck7-oven2,2024-01-27 09:41:58,'A painting of a truck with a flat bed.',truck,0.9999995,P
+clock5-clock2,2024-01-27 09:42:01,'A close up of a clock with a blurry background',clock,1.0,J
+keyboard10-airplane3,2024-01-27 09:42:04,'A blurry image of a person holding a remote.',airplane,0.5582287,X
+cat8-bear1,2024-01-27 09:42:08,'A blurry photo of a cat with big eyes.',cat,0.99999464,H
+bird5-car2,2024-01-27 09:42:11,"'An abstract painting of a red, yellow and black bird.'",bird,0.99998915,D
+oven9-knife3,2024-01-27 09:42:14,'A blurry image of a person in a mirror',bottle,0.55266625,X
+dog9-cat1,2024-01-27 09:42:17,'A painting of a dog sitting on the ground.',dog,0.9984168,"H, K"
+elephant1-dog2,2024-01-27 09:42:21,'A blurry photo of an elephant standing in a field',elephant,0.9999999,L
+bottle1-dog2,2024-01-27 09:42:25,'An artistic painting of a bottle of wine.',bottle,1.0,F
+oven5-bird1,2024-01-27 09:42:29,'A blurry image of a microwave with a blue tint.',airplane,0.82649595,X
+clock7-boat3,2024-01-27 09:42:32,'An abstract painting of a green and red clock.',clock,1.0,J
+bicycle3-elephant2,2024-01-27 09:42:36,'A blurry image of a bicycle is seen.',bicycle,0.9999999,C
+car7-bear1,2024-01-27 09:42:39,'An animal that is laying down on the ground.',dog,0.9852166,X
+boat8-oven1,2024-01-27 09:42:43,'A blurry image of a staircase in a building.',airplane,0.9743726,X
+bicycle1-dog3,2024-01-27 09:42:47,'A blurry photo of a bicycle with a brown background',bicycle,0.9999956,C
+car1-keyboard2,2024-01-27 09:42:50,'A black and white photo of a computer keyboard.',keyboard,0.9999999,M
+chair9-elephant1,2024-01-27 09:42:54,"""A close up of an elephant's skin texture.""",elephant,1.0,L
+bird8-chair1,2024-01-27 09:42:57,'A bunch of pink chairs in a room',chair,0.99999964,I
+oven9-bird3,2024-01-27 09:43:00,'A painting of a turkey cooking in an oven.',oven,1.0,O
+elephant7-airplane3,2024-01-27 09:43:04,'A painting of an elephant walking in the snow.',elephant,1.0,L
+airplane6-bear3,2024-01-27 09:43:07,'A blurry photo of a blurry cat',cat,0.99996555,H
+keyboard8-chair2,2024-01-27 09:43:11,'A room filled with lots of wooden chairs.',chair,1.0,I
+car7-boat3,2024-01-27 09:43:14,'An abstract painting of a car in a city.',car,0.99994516,G
+truck6-bicycle1,2024-01-27 09:43:18,'A painting of a truck with the word water written on it.',truck,0.99990857,P
+truck2-bottle3,2024-01-27 09:43:22,'A painting of a truck with a bunch of bottles',truck,0.64301246,"T, B"
+keyboard7-chair3,2024-01-27 09:43:25,'A bunch of blue chairs in a room',chair,0.9999999,I
+car5-bear3,2024-01-27 09:43:28,'A very blurry image of a dog with long hair.',dog,0.9990088,H
+chair7-knife2,2024-01-27 09:43:32,'An abstract painting of a chair with a black seat.',chair,0.9999993,I
+bottle5-clock3,2024-01-27 09:43:35,'A bunch of clocks that are in a painting.',clock,1.0,J
+knife1-chair1,2024-01-27 09:43:38,'A painting of a bunch of pink chairs',chair,0.99999976,I
+truck6-knife2,2024-01-27 09:43:42,'A painting of a truck with the word water written on it.',truck,0.99990857,P
+car10-dog1,2024-01-27 09:43:46,'A blurry photo of a car in the snow',car,0.99954957,G
+cat8-bicycle3,2024-01-27 09:43:49,'An artistic image of a cat with spiked hair.',cat,0.9999988,H
+bicycle7-truck3,2024-01-27 09:43:52,'A painting of a bicycle with a yellow background.',bicycle,0.99999857,C
+cat9-bicycle1,2024-01-27 09:43:56,'An abstract painting with a lot of different colors.',airplane,0.8657185,X
+clock9-keyboard2,2024-01-27 09:43:59,'A black and white photo of a blurry image.',airplane,0.99059325,X
+oven6-airplane3,2024-01-27 09:44:02,'An abstract painting of a toaster with a fish in it.',boat,0.59944344,X
+airplane3-car1,2024-01-27 09:44:06,'A painting of a bunch of colorful cars',car,0.9998945,G
+cat6-chair3,2024-01-27 09:44:09,'A bunch of blue chairs in a room',chair,0.9999999,I
+oven9-boat2,2024-01-27 09:44:13,'An abstract painting of a car with a life preserver.',car,0.9038265,G
+airplane4-cat3,2024-01-27 09:44:16,'A very blurry image of a cat on the ground',cat,0.99998534,H
+boat6-knife2,2024-01-27 09:44:19,'A piece of artwork that is very colorful.',airplane,0.48832887,X
+dog5-truck2,2024-01-27 09:44:22,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+dog1-chair1,2024-01-27 09:44:26,'A bunch of pink chairs in a room.',chair,0.99999976,I
+airplane5-knife1,2024-01-27 09:44:29,'A very blurry image of a bunch of items.',bottle,0.50590813,X
+knife7-boat3,2024-01-27 09:44:33,'A very colorful and blurry image of a city',airplane,0.9659556,X
+bottle6-bird1,2024-01-27 09:44:36,'A blurry image of a blue fire hydrant.',bottle,0.58573717,X
+bear4-truck3,2024-01-27 09:44:39,'An abstract painting of a person in a yellow shirt.',airplane,0.6988309,X
+bird10-bird2,2024-01-27 09:44:43,'A painting of a bird with a long beak.',bird,0.9999852,D
+airplane2-bear1,2024-01-27 09:44:46,'A blurry photo of a furry animal',dog,0.9020297,B
+bottle1-keyboard3,2024-01-27 09:44:50,'A blurry image of a black object in a room.',airplane,0.8309432,X
+knife10-oven3,2024-01-27 09:44:53,'An abstract painting with a lot of different colors.',airplane,0.8657185,X
+knife6-bottle3,2024-01-27 09:44:57,'A painting of a bunch of crumpled paper',airplane,0.9567884,X
+dog3-boat1,2024-01-27 09:45:00,'An abstract painting of a person in a helmet.',bicycle,0.4498601,X
+cat2-knife3,2024-01-27 09:45:03,'An abstract painting with a lot of black and white',airplane,0.9499067,X
+keyboard7-clock3,2024-01-27 09:45:06,'An abstract image of a bunch of different clocks',clock,1.0,J
+clock3-dog2,2024-01-27 09:45:09,'A blurry photo of a clock with a brown background',clock,1.0,J
+elephant8-truck3,2024-01-27 09:45:12,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+truck7-elephant2,2024-01-27 09:45:16,"""A close up of an elephant's skin""",elephant,0.9999999,L
+truck2-bird2,2024-01-27 09:45:20,'A painting of a truck in the snow.',truck,0.9999994,P
+keyboard1-chair2,2024-01-27 09:45:24,'A room filled with lots of wooden chairs.',chair,1.0,I
+car8-dog1,2024-01-27 09:45:27,"""A close up of a furry animal's face.""",dog,0.9855828,B
+truck8-elephant1,2024-01-27 09:45:31,'A drawing of a truck on a piece of paper.',truck,0.99999833,P
+car9-bicycle2,2024-01-27 09:45:34,'An artistic image of a car with a chrome look.',car,0.99978584,G
+airplane3-oven1,2024-01-27 09:45:38,'A blurry photo of a plane flying in the sky',airplane,1.0,A
+airplane10-knife3,2024-01-27 09:45:41,'A blurry image of a bunch of knives',knife,0.9999999,N
+chair1-elephant1,2024-01-27 09:45:45,'A close up of an elephants skin',elephant,1.0,L
+chair5-bicycle1,2024-01-27 09:45:48,'An abstract painting of a chair with wheels.',chair,0.9999697,I
+oven4-bottle2,2024-01-27 09:45:51,'A bunch of bottles that are grouped together.',bottle,1.0,F
+oven10-bear1,2024-01-27 09:45:54,'A close up of a furry animal in a cage',dog,0.95654,B
+clock10-cat1,2024-01-27 09:45:58,'A blurry image of an alarm clock in a painting.',clock,0.99999404,J
+knife10-chair1,2024-01-27 09:46:01,'An abstract painting with pink and red colors.',airplane,0.558618,X
+oven10-airplane2,2024-01-27 09:46:04,"'An abstract painting with blue, yellow and gray colors.'",airplane,0.8424707,X
+bicycle4-knife3,2024-01-27 09:46:08,'A blurry image of a bicycle is seen.',bicycle,0.9999999,C
+bird3-bird2,2024-01-27 09:46:11,'A close up of a painting of a bald eagle',bird,0.7432581,D
+oven2-chair1,2024-01-27 09:46:15,'A bunch of pink chairs in a room.',chair,0.99999976,I
+cat4-clock2,2024-01-27 09:46:18,'An abstract painting of a cat with a clock.',clock,0.8982434,"H, J"
+boat10-bear3,2024-01-27 09:46:21,'A close up of a blurry image of an animal',elephant,0.4606937,X
+oven8-cat3,2024-01-27 09:46:25,'A blurry photo of a piece of wood.',airplane,0.77760416,X
+truck1-cat1,2024-01-27 09:46:28,'A blurry photo of a cat on a bed',cat,0.9999181,H
+bottle5-bird3,2024-01-27 09:46:32,'An abstract image of a bottle of beer',bottle,1.0,F
+dog5-bear3,2024-01-27 09:46:35,'A blurry photo of a dog with long hair',dog,0.9996076,K
+bottle3-bicycle3,2024-01-27 09:46:40,'A purple bottle sitting in the middle of a pile of scissors.',bottle,0.99988806,F
+cat5-chair3,2024-01-27 09:46:43,'An abstract painting with blue and gray colors.',airplane,0.9185688,X
+chair1-truck3,2024-01-27 09:46:46,'A painting of a chair in a room.',chair,0.9999999,I
+bear5-oven3,2024-01-27 09:46:49,'A blurry image of a bunch of electronics',airplane,0.9203821,X
+bottle5-chair1,2024-01-27 09:46:52,'A bunch of pink chairs are stacked together',chair,1.0,I
+knife10-dog1,2024-01-27 09:46:56,'A close up of a furry animal',dog,0.97523195,B
+oven2-oven3,2024-01-27 09:46:59,'Two stainless steel ovens in a commercial kitchen',oven,1.0,O
+airplane8-bird1,2024-01-27 09:47:02,'A blurry image of a person holding a gun.',knife,0.88351387,X
+knife3-knife1,2024-01-27 09:47:06,'An abstract painting with a variety of colors.',airplane,0.8362721,X
+bear3-truck3,2024-01-27 09:47:09,'An abstract painting of a bunch of different colors.',airplane,0.8061166,X
+knife7-bottle3,2024-01-27 09:47:12,'An abstract painting with a lot of green and white colors',airplane,0.52510715,X
+oven9-clock2,2024-01-27 09:47:16,'A painting of a toaster oven with a toaster in it.',oven,0.9999999,O
+bear10-bear2,2024-01-27 09:47:19,'A blurry image of a bear in the snow',bear,0.99999905,B
+bicycle1-airplane2,2024-01-27 09:47:22,'An abstract painting of a bicycle with blue and yellow colors.',bicycle,0.99999917,C
+bicycle4-bottle1,2024-01-27 09:47:26,'A bunch of liquor bottles are grouped together',bottle,1.0,F
+car4-boat1,2024-01-27 09:47:30,'An abstract painting of a red and blue object.',airplane,0.8320145,X
+cat1-dog1,2024-01-27 09:47:33,'A blurry image of a cat staring at the camera',cat,0.9999957,H
+car3-dog2,2024-01-27 09:47:37,'A very blurry image of a furry animal',dog,0.7600718,B
+car5-truck3,2024-01-27 09:47:39,'A painting of a yellow car on a street.',car,0.99872726,G
+bird2-knife1,2024-01-27 09:47:42,'A painting of a person holding a gun.',knife,0.47854507,X
+cat5-bicycle3,2024-01-27 09:47:45,'A painting of a cat laying on the ground.',cat,0.9999529,H
+bear5-boat2,2024-01-27 09:47:48,'An abstract painting with many colors and shapes.',airplane,0.73470336,X
+bear4-knife1,2024-01-27 09:47:51,'A piece of artwork that is an abstract painting.',airplane,0.85222876,X
+keyboard5-cat1,2024-01-27 09:47:55,'A close up of a blurry image of a cat',cat,0.99998164,H
+bird7-bird2,2024-01-27 09:47:58,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+dog4-bird1,2024-01-27 09:48:01,'A blurry image of a dog in a room.',dog,0.9995969,"H, K"
+elephant2-airplane3,2024-01-27 09:48:04,'An abstract painting of a person with a hat.',bottle,0.2750747,X
+bottle6-bicycle3,2024-01-27 09:48:08,'A painting of a bottle that is very distorted.',bottle,1.0,F
+bicycle4-bicycle3,2024-01-27 09:48:11,'A painting of a bike that is very colorful.',bicycle,0.9999888,C
+keyboard9-boat2,2024-01-27 09:48:15,'An abstract painting of a bunch of objects.',airplane,0.9652442,X
+bicycle9-cat3,2024-01-27 09:48:18,'A blurry image of a bicycle with a basket.',bicycle,0.9999999,C
+bird10-bicycle1,2024-01-27 09:48:22,'A painting of a bird with a long beak.',bird,0.9999852,D
+airplane2-cat1,2024-01-27 09:48:25,'A very blurry image of a furry animal',dog,0.7600718,B
+cat9-bird3,2024-01-27 09:48:28,'A cat that is laying down on the ground.',cat,0.9999989,H
+knife7-elephant2,2024-01-27 09:48:32,'A close up of an elephants skin',elephant,1.0,L
+airplane10-bear3,2024-01-27 09:48:35,'A close up of a blurry image of a cat',cat,0.99998164,H
+truck8-keyboard2,2024-01-27 09:48:39,'A black and white photo of a keyboard.',keyboard,1.0,M
+car3-truck1,2024-01-27 09:48:42,'An artistic painting of a red sports car.',car,0.9998505,G
+keyboard3-boat1,2024-01-27 09:48:45,'A painting of a painting of a keyboard.',keyboard,0.99999976,M
+airplane7-keyboard1,2024-01-27 09:48:48,'A close up of a blurry image of a gun',airplane,0.52231663,X
+chair6-truck2,2024-01-27 09:48:51,'An abstract painting with pink and red colors.',airplane,0.55861706,X
+knife6-truck1,2024-01-27 09:48:54,'An abstract painting with red and blue colors.',airplane,0.7727279,X
+clock2-clock3,2024-01-27 09:48:57,'A close up of a clock with a white face',clock,1.0,J
+chair10-dog1,2024-01-27 09:49:01,'A blurry image of a chair in a room.',chair,0.99999905,I
+knife10-bear3,2024-01-27 09:49:04,'A blurry photo of a furry animal',dog,0.9020297,B
+dog10-truck2,2024-01-27 09:49:07,'An abstract painting with red and silver colors.',airplane,0.81268317,X
+truck10-truck3,2024-01-27 09:49:10,'A blue truck with a blue trailer behind it',truck,0.9999999,P
+oven2-boat3,2024-01-27 09:49:13,'A painting of a painting of a building',airplane,0.95790833,X
+bear3-keyboard2,2024-01-27 09:49:16,'A black and white photo of a computer keyboard',keyboard,1.0,M
+airplane6-chair3,2024-01-27 09:49:19,'A painting of a bunch of blue chairs.',chair,0.99999833,I
+clock6-bottle1,2024-01-27 09:49:23,'A collage of liquor bottles in a circle.',bottle,1.0,F
+keyboard4-keyboard2,2024-01-27 09:49:26,'A black and white photo of a computer keyboard',keyboard,1.0,M
+clock10-bird3,2024-01-27 09:49:29,'A painting of an alarm clock with a white background',clock,1.0,J
+oven6-chair3,2024-01-27 09:49:32,'A bunch of blue chairs in a room.',chair,0.9999999,I
+bottle5-elephant1,2024-01-27 09:49:37,"""An elephant's trunk is shown in a close up.""",elephant,0.99999964,L
+oven4-truck3,2024-01-27 09:49:40,'A piece of artwork that has been digitally manipulated.',airplane,0.8174424,X
+car10-keyboard2,2024-01-27 09:49:44,'A blurry black and white photo of a camera',airplane,0.94593304,X
+knife9-bottle2,2024-01-27 09:49:47,'A bunch of bottles that are grouped together.',bottle,1.0,F
+car4-elephant3,2024-01-27 09:49:50,'A close up of a painting of a piece of cloth',airplane,0.7821752,X
+bird8-clock1,2024-01-27 09:49:53,'A piece of artwork that has a bunch of numbers on it',clock,0.99023813,X
+truck1-bicycle3,2024-01-27 09:49:56,'An abstract painting of a truck with a flat bed.',truck,0.99999833,P
+airplane5-oven3,2024-01-27 09:50:00,'A blurry image of a city with tall buildings.',airplane,0.98998266,X
+bicycle2-bottle1,2024-01-27 09:50:03,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+truck2-airplane3,2024-01-27 09:50:07,'A painting of a truck with a sky background',truck,0.99952114,P
+truck5-cat3,2024-01-27 09:50:10,'A blurry image of a bus in a painting.',truck,0.46258277,X
+keyboard6-dog2,2024-01-27 09:50:13,'A computer keyboard sitting on top of a furry surface.',keyboard,0.99999654,M
+bird8-boat3,2024-01-27 09:50:16,'An abstract painting with a train in the middle.',airplane,0.93106306,X
+chair9-chair3,2024-01-27 09:50:19,'A bunch of blue chairs in a room',chair,0.9999999,I
+bottle2-bottle3,2024-01-27 09:50:22,'A painting of a green bottle surrounded by musical notes.',bottle,1.0,F
+knife5-cat2,2024-01-27 09:50:26,'A blurry photo of a brown and white animal',dog,0.80183333,B
+bear6-bird2,2024-01-27 09:50:29,'A close up of a painting of a polar bear',bear,0.9987207,B
+bear8-boat2,2024-01-27 09:50:33,'A piece of artwork that is a collage of different pictures.',airplane,0.77609473,X
+bicycle4-boat1,2024-01-27 09:50:36,'A painting of a bike with a blurry background',bicycle,0.99978286,C
+bird5-truck2,2024-01-27 09:50:39,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+dog8-clock2,2024-01-27 09:50:42,'A painting of a dog with a clock in the background.',clock,0.99946994,K J
+keyboard9-cat1,2024-01-27 09:50:46,'A close up of a blurry image of a cat',cat,0.99998164,H
+chair9-boat2,2024-01-27 09:50:49,'A painting of an office chair with a distorted background.',chair,0.9999958,I
+dog6-truck2,2024-01-27 09:50:52,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+clock4-airplane1,2024-01-27 09:50:55,'An abstract image of a clock with a white face.',clock,1.0,J
+knife5-keyboard3,2024-01-27 09:50:59,'A blurry image of a person holding a gun.',knife,0.88351387,X
+cat9-truck1,2024-01-27 09:51:02,'A painting of a red cat with a red background.',cat,0.99995637,H
+oven5-bottle3,2024-01-27 09:51:06,'A painting of a toaster oven filled with bottles.',oven,0.97342527,O
+clock4-car2,2024-01-27 09:51:09,'A blurry image of a red and yellow object.',airplane,0.690575,X
+truck6-boat2,2024-01-27 09:51:13,'A painting of a water truck driving through a city.',truck,0.99925405,P
+oven2-truck3,2024-01-27 09:51:16,'A painting of a painting of a room.',airplane,0.7195896,X
+truck2-clock1,2024-01-27 09:51:19,'A painting of a truck with a ladder on it',truck,0.99999774,P
+truck5-dog3,2024-01-27 09:51:23,'A blurry image of a bus in a painting.',truck,0.46258277,X
+keyboard6-bottle2,2024-01-27 09:51:26,'A bunch of bottles that are grouped together.',bottle,1.0,F
+boat7-truck2,2024-01-27 09:51:29,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+clock10-knife3,2024-01-27 09:51:32,'A blurry image of a black and silver object.',airplane,0.86273307,X
+airplane6-bottle2,2024-01-27 09:51:35,'A bunch of bottles that are grouped together.',bottle,1.0,F
+bottle6-airplane1,2024-01-27 09:51:39,'An abstract image of a bottle with a red cap.',bottle,1.0,F
+chair3-airplane2,2024-01-27 09:51:42,'A painting of a blue chair with a yellow seat.',chair,0.9999993,I
+airplane7-cat3,2024-01-27 09:51:47,"'A blurry photo of an animal with the word ""montag"" written on it.'",dog,0.36842316,X
+cat5-boat1,2024-01-27 09:51:49,'An abstract painting with many colors and shapes.',airplane,0.73470336,X
+bird1-oven1,2024-01-27 09:51:53,'A blurry image of a person in a room.',airplane,0.8952692,X
+cat6-bear1,2024-01-27 09:51:56,'A very blurry image of a cat laying down.',cat,0.9999913,H
+bird7-oven3,2024-01-27 09:52:00,'A parking meter sitting in front of a building.',clock,0.9874067,X
+knife5-oven2,2024-01-27 09:52:04,'A close up of a blurry image of a cell phone',airplane,0.9794605,X
+chair10-car2,2024-01-27 09:52:07,"'An abstract painting with red, yellow, and blue colors.'",airplane,0.69023114,X
+chair10-bottle3,2024-01-27 09:52:10,'An abstract painting of a green chair and money.',chair,0.99999404,I
+cat10-keyboard1,2024-01-27 09:52:14,'A very blurry image of a black and white photo',airplane,0.97799635,X
+elephant6-truck3,2024-01-27 09:52:17,'An abstract painting of a blue chair in a room.',chair,0.9999939,I
+knife3-cat1,2024-01-27 09:52:20,'A blurry photo of a furry animal',dog,0.9020297,B
+chair8-elephant1,2024-01-27 09:52:24,'A close up of an elephants skin',elephant,1.0,L
+cat3-oven2,2024-01-27 09:52:27,'A blurry image of a car in a room.',car,0.9997894,G
+dog2-dog3,2024-01-27 09:52:30,'A painting of a dog with brown eyes.',dog,0.99966204,K
+keyboard7-dog1,2024-01-27 09:52:33,'A close up of a furry animal',dog,0.97523195,B
+car7-airplane2,2024-01-27 09:52:36,'An abstract painting of a blue sports car.',car,0.9949233,G
+car10-bicycle2,2024-01-27 09:52:40,'A distorted image of a car is shown in this photo.',car,0.9968785,G
+bird7-knife2,2024-01-27 09:52:43,'A painting of a bird sitting on a wire.',bird,0.99965143,D
+bottle5-oven2,2024-01-27 09:52:46,'A bottle of black nail polish in a clear case.',bottle,0.9999999,F
+dog3-truck2,2024-01-27 09:52:49,'An abstract painting with a red figure in it',airplane,0.40216193,X
+bicycle7-clock3,2024-01-27 09:52:52,'A painting of a bike with a blurry background',bicycle,0.99978286,C
+car8-truck3,2024-01-27 09:52:56,'An abstract painting of a yellow sports car.',car,0.9982527,G
+bird8-car2,2024-01-27 09:52:59,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+boat1-elephant3,2024-01-27 09:53:02,'A close up of the skin of an elephant',elephant,1.0,L
+cat5-airplane2,2024-01-27 09:53:06,'An abstract painting with blue and yellow colors',airplane,0.810702,X
+truck5-knife3,2024-01-27 09:53:09,'A blurry image of a bunch of knives.',knife,1.0,N
+knife6-boat3,2024-01-27 09:53:12,'An abstract painting with many colors and shapes.',airplane,0.73470336,X
+cat10-elephant3,2024-01-27 09:53:16,'A cat that is laying down on a rug.',cat,0.99999917,H
+bottle5-boat1,2024-01-27 09:53:19,'A painting of a bottle with a blue top.',bottle,1.0,F
+bear1-bear3,2024-01-27 09:53:22,'A blurry photo of a bear sitting on the ground',bear,0.9999975,B
+dog6-elephant2,2024-01-27 09:53:26,"""A close up of an elephant's skin""",elephant,0.9999999,L
+airplane8-elephant3,2024-01-27 09:53:29,'A close up of the skin of an animal',dog,0.62059313,X
+bear2-knife2,2024-01-27 09:53:33,'A very blurry image of a statue of a bear.',bear,0.99999297,B
+bird1-bicycle2,2024-01-27 09:53:36,'A very blurry image of a bunch of silver objects',airplane,0.63243854,X
+chair8-oven1,2024-01-27 09:53:39,'A blurry image of a chair with a black seat.',chair,0.99999964,I
+truck1-chair2,2024-01-27 09:53:43,'A room filled with lots of wooden chairs.',chair,1.0,I
+bottle1-chair2,2024-01-27 09:53:46,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+oven9-car2,2024-01-27 09:53:49,'An abstract painting with a red flower in the middle.',bird,0.52607745,X
+clock7-cat2,2024-01-27 09:53:54,'A very blurry image of a square clock.',clock,1.0,J
+chair6-elephant2,2024-01-27 09:53:58,"""An elephant's skin is wrinkled and brown.""",elephant,1.0,L
+bear8-airplane1,2024-01-27 09:54:02,"""A very blurry image of a person's face.""",airplane,0.9507695,X
+oven4-clock2,2024-01-27 09:54:05,'A painting of a painting of a painting.',bottle,0.5162119,X
+knife4-clock3,2024-01-27 09:54:08,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+keyboard7-truck2,2024-01-27 09:54:11,'An abstract painting with red and gray colors.',airplane,0.7004573,X
+knife7-airplane3,2024-01-27 09:54:14,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+clock2-bicycle1,2024-01-27 09:54:17,'A close up of a clock with multiple colors',clock,1.0,J
+truck5-car1,2024-01-27 09:54:21,'A painting of a red truck with a yellow cab.',truck,0.99999523,P
+car8-knife2,2024-01-27 09:54:24,'A very blurry and colorful image of a car',car,0.99988306,G
+chair4-keyboard2,2024-01-27 09:54:28,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+boat6-bicycle2,2024-01-27 09:54:31,'A very blurry image of a bunch of bikes',bicycle,0.9999769,C
+clock8-truck2,2024-01-27 09:54:35,'An abstract painting of a red and black object.',airplane,0.93063056,X
+bird9-bottle3,2024-01-27 09:54:37,'A painting of a green bird sitting on a branch.',bird,0.99993587,D
+elephant8-bird2,2024-01-27 09:54:41,'A painting of a herd of elephants walking.',elephant,1.0,L
+keyboard6-bear2,2024-01-27 09:54:45,'A blurry image of a keyboard on a desk',keyboard,0.99999845,M
+chair8-car1,2024-01-27 09:54:47,'An abstract painting of a bunch of cars',car,0.99989176,G
+knife6-chair3,2024-01-27 09:54:50,'An abstract painting of blue and gray chairs.',chair,0.9999993,I
+airplane2-dog1,2024-01-27 09:54:54,'A close up of a furry animal',dog,0.97523195,B
+bird3-truck3,2024-01-27 09:54:57,'An abstract painting of a yellow bird with a long neck.',bird,0.9999137,D
+truck5-truck1,2024-01-27 09:55:01,'An artistic painting of a red truck on a street.',truck,0.9999937,P
+bicycle7-elephant2,2024-01-27 09:55:05,'A painting of a bicycle is seen in this image.',bicycle,0.99999976,C
+boat10-truck1,2024-01-27 09:55:08,'An abstract painting of a red boat in the water.',boat,0.99999976,E
+oven8-chair1,2024-01-27 09:55:11,'A bunch of pink chairs in a room.',chair,0.99999976,I
+bird10-clock1,2024-01-27 09:55:14,'An abstract painting with a variety of clock faces.',clock,1.0,J
+car7-elephant3,2024-01-27 09:55:18,'A blurry image of a car in the desert.',car,0.9997789,G
+oven7-bottle1,2024-01-27 09:55:22,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+truck5-airplane2,2024-01-27 09:55:24,'An abstract painting of a yellow and blue bus.',truck,0.3726767,X
+truck8-dog3,2024-01-27 09:55:28,'A very blurry image of a dog laying down.',dog,0.9994672,H
+dog3-elephant2,2024-01-27 09:55:32,'A painting of a woman with long hair.',airplane,0.6942388,X
+bottle3-airplane2,2024-01-27 09:55:35,'A painting of a bottle with a blue and yellow background.',bottle,1.0,F
+airplane5-bear2,2024-01-27 09:55:39,'A very blurry image of a cat on a bed',cat,0.99992704,H
+bear3-chair2,2024-01-27 09:55:43,'A room filled with lots of wooden chairs.',chair,1.0,I
+chair10-bicycle1,2024-01-27 09:55:46,'A piece of artwork that has a chair in it.',chair,0.9999999,I
+keyboard3-bicycle2,2024-01-27 09:55:49,'A very blurry image of a bunch of objects',airplane,0.9330534,X
+bird4-bicycle2,2024-01-27 09:55:53,'An abstract image of a bunch of pipes',bottle,0.9865537,X
+knife9-bird1,2024-01-27 09:55:56,'A blurry photo of a blue and white object.',airplane,0.9687298,X
+car7-keyboard3,2024-01-27 09:55:59,'A very blurry image of a black car.',car,0.99942845,G
+boat5-boat3,2024-01-27 09:56:02,'An abstract painting of a city with tall buildings.',airplane,0.9719722,X
+oven9-airplane2,2024-01-27 09:56:05,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+boat4-elephant2,2024-01-27 09:56:08,'A close up of a surface that looks like skin.',airplane,0.8208402,X
+car6-bear1,2024-01-27 09:56:12,'A close up of a furry animal with a blurry background',dog,0.9163177,B
+airplane9-airplane2,2024-01-27 09:56:15,'An abstract painting of a blue and yellow airplane.',airplane,1.0,A
+cat9-dog2,2024-01-27 09:56:19,'A blurry image of a cat laying down.',cat,0.9999945,H
+airplane3-clock1,2024-01-27 09:56:22,'An abstract painting with letters and numbers on it.',airplane,0.652241,X
+bear1-clock2,2024-01-27 09:56:25,'An abstract painting of a cat sitting on the ground.',cat,0.9999548,H
+boat7-chair1,2024-01-27 09:56:28,'An abstract painting with pink and black colors.',airplane,0.9342082,X
+knife4-car2,2024-01-27 09:56:31,'A blurry image of a bunch of toy cars',car,0.9873275,G
+bear5-bottle1,2024-01-27 09:56:35,'A bunch of liquor bottles all grouped together',bottle,1.0,F
+oven8-knife2,2024-01-27 09:56:38,'A piece of luggage sitting on top of a table.',airplane,0.9992118,X
+chair7-chair1,2024-01-27 09:56:41,'A bunch of pink chairs in a room.',chair,0.99999976,I
+dog8-boat3,2024-01-27 09:56:45,'A painting of a robot dog with a red cape',dog,0.9966461,X
+boat7-keyboard3,2024-01-27 09:56:48,'A blurry image of a person in a dark room.',airplane,0.57951087,X
+chair1-dog1,2024-01-27 09:56:52,'A close up of a blurry image of a chair',chair,0.9999994,I
+oven1-clock3,2024-01-27 09:56:56,'A blurry image of a stainless steel oven.',oven,1.0,O
+truck6-cat2,2024-01-27 09:57:00,'A blurry photo of a blurry photo of water',boat,0.74047506,X
+bird5-bicycle1,2024-01-27 09:57:03,'A painting of a bird with a lot of different colors',bird,0.9999937,D
+dog3-bear3,2024-01-27 09:57:06,'A blurry photo of a dog in a field',dog,0.9976566,H
+dog4-airplane3,2024-01-27 09:57:10,'A blurry image of a person holding a camera.',airplane,0.7266692,X
+bottle10-car1,2024-01-27 09:57:13,'A painting of a bottle with cars in it',bottle,0.99999726,"F, G"
+bear9-keyboard3,2024-01-27 09:57:16,'A computer keyboard sitting on top of a table.',keyboard,1.0,M
+boat2-bird1,2024-01-27 09:57:20,'A blurry image of a person in a blue shirt',airplane,0.9684244,X
+chair4-cat2,2024-01-27 09:57:23,'A blurry photo of a brown and white animal',dog,0.80183333,B
+bottle6-boat3,2024-01-27 09:57:27,'An artistic image of a bottle with a colorful background.',bottle,1.0,F
+elephant5-bear2,2024-01-27 09:57:30,'A blurry image of an elephant standing on a rug.',elephant,1.0,L
+car3-boat1,2024-01-27 09:57:34,'An abstract painting of a red sports car.',car,0.99979717,G
+bicycle1-truck1,2024-01-27 09:57:37,'A painting of a red bicycle with a black seat.',bicycle,0.9999963,C
+dog8-oven3,2024-01-27 09:57:41,'A blurry image of a parking meter on a street.',clock,0.45741674,X
+clock8-cat1,2024-01-27 09:57:45,'A painting of a pocket watch with a blurry background.',clock,0.861757,X
+cat2-bottle3,2024-01-27 09:57:48,'A painting of a cat with a green background.',cat,0.9998047,H
+elephant7-knife2,2024-01-27 09:57:52,'An elephant standing in front of a building.',elephant,1.0,L
+bottle4-car3,2024-01-27 09:57:56,'A distorted image of a woman in a red dress',oven,0.45165932,X
+bird10-bear2,2024-01-27 09:57:59,'A close up of a blurry image of a bird',bird,0.9997002,D
+bird2-clock3,2024-01-27 09:58:02,'A painting of a person with a lot of clocks',clock,1.0,J
+elephant2-cat1,2024-01-27 09:58:06,'A blurry photo of a cat on a bed',cat,0.9999181,H
+bear4-boat2,2024-01-27 09:58:09,'A painting of a car that is very distorted.',car,0.9977076,G
+bicycle7-bicycle2,2024-01-27 09:58:13,'A painting of a bicycle with a blurry background',bicycle,0.99999774,C
+elephant7-clock2,2024-01-27 09:58:16,'A painting of an elephant in an abstract style.',elephant,1.0,L
+oven3-bottle3,2024-01-27 09:58:20,'A piece of artwork that is very colorful.',airplane,0.48832887,X
+oven10-oven3,2024-01-27 09:58:24,'A blurry image of a microwave in a kitchen.',oven,0.99907184,X
+keyboard2-elephant1,2024-01-27 09:58:27,'A close up of an elephants skin',elephant,1.0,L
+bear4-clock3,2024-01-27 09:58:30,'An abstract painting with a lot of clocks in it',clock,1.0,J
+oven6-bicycle1,2024-01-27 09:58:34,'A piece of artwork that looks like a cubist painting.',airplane,0.7190284,X
+dog10-dog1,2024-01-27 09:58:37,'A blurry photo of a dog laying down',dog,0.99977547,H
+car8-boat3,2024-01-27 09:58:40,'A painting of a red car in a city',car,0.99997044,G
+bottle1-clock1,2024-01-27 09:58:44,'A painting of a bottle with a colorful design.',bottle,1.0,F
+bottle9-bicycle1,2024-01-27 09:58:48,'An abstract image of a bottle of citadel beer.',bottle,1.0,F
+bear1-chair2,2024-01-27 09:58:51,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+airplane4-airplane1,2024-01-27 09:58:55,'A large jetliner flying through a cloudy sky.',airplane,0.99999976,A
+oven4-elephant3,2024-01-27 09:58:59,'A blurry image of what appears to be a rock.',airplane,0.6118473,X
+bicycle4-car2,2024-01-27 09:59:02,'A blurry image of a bunch of cars',car,0.99967444,G
+bird1-chair2,2024-01-27 09:59:05,'A bunch of wooden chairs in a room.',chair,1.0,I
+bear7-truck1,2024-01-27 09:59:09,'A painting of a man in a red shirt.',airplane,0.4598508,X
+keyboard5-oven2,2024-01-27 09:59:12,'A blurry image of a black object on a table.',airplane,0.9352516,X
+knife9-bear3,2024-01-27 09:59:16,'A close up of a blurry image of an animal',elephant,0.4606937,X
+bicycle4-airplane1,2024-01-27 09:59:19,'A very blurry image of a bunch of random objects.',airplane,0.9350895,X
+airplane1-chair2,2024-01-27 09:59:23,'A room filled with lots of wooden chairs.',chair,1.0,I
+dog6-bicycle1,2024-01-27 09:59:26,'A piece of art that is very colorful.',airplane,0.5408807,X
+boat2-bear3,2024-01-27 09:59:30,'A blurry photo of a furry animal',dog,0.90202993,B
+bird3-bear3,2024-01-27 09:59:33,'A blurry photo of a furry animal',dog,0.9020297,B
+elephant8-elephant1,2024-01-27 09:59:37,'A close up of the skin of an elephant',elephant,1.0,L
+clock4-bird3,2024-01-27 09:59:40,'A painting of a clock with a brown background.',clock,1.0,J
+airplane3-cat1,2024-01-27 09:59:43,'A very blurry image of a furry animal',dog,0.7600718,B
+clock3-cat1,2024-01-27 09:59:47,'A blurry photo of a clock with a brown background',clock,1.0,J
+boat10-cat1,2024-01-27 09:59:51,'A blurry photo of a dog laying down.',dog,0.99982965,"H, K"
+clock8-bear2,2024-01-27 09:59:54,'A close up of a clock with a blurry background',clock,1.0,J
+chair9-bicycle3,2024-01-27 09:59:57,'An abstract painting of a chair with wheels.',chair,0.9999697,I
+bicycle8-boat1,2024-01-27 10:00:00,'A painting of a bike with a blurry background',bicycle,0.99978286,C
+knife6-oven3,2024-01-27 10:00:04,'A blurry image of a painting of a city',airplane,0.9180632,X
+clock9-chair3,2024-01-27 10:00:07,'A blue and white abstract painting with a circle.',airplane,0.67438805,X
+dog4-cat3,2024-01-27 10:00:10,'A blurry image of a dog looking up.',dog,0.9995547,K
+boat7-elephant3,2024-01-27 10:00:14,'A close up of the skin of an elephant',elephant,1.0,L
+boat10-oven1,2024-01-27 10:00:18,'A blurry image of a car with the letter g on it',car,0.9994862,G
+car4-car2,2024-01-27 10:00:21,'An abstract painting of a red sports car.',car,0.99979717,G
+clock5-elephant2,2024-01-27 10:00:24,'A close up of a clock on a wall',clock,1.0,J
+keyboard5-bicycle1,2024-01-27 10:00:27,'A bunch of bikes are piled up together',bicycle,0.99999654,C
+knife6-bicycle1,2024-01-27 10:00:30,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+clock2-dog1,2024-01-27 10:00:34,'A very blurry image of a clock that is gold',clock,0.99999976,J
+oven1-bird3,2024-01-27 10:00:37,'A very blurry image of a couch in a room.',airplane,0.91508996,X
+car9-bird1,2024-01-27 10:00:41,'A blurry image of a car in a painting.',car,0.9992687,G
+keyboard5-keyboard1,2024-01-27 10:00:44,'A computer keyboard sitting on top of a table.',keyboard,1.0,M
+truck10-car3,2024-01-27 10:00:48,'A distorted image of a red and blue car.',car,0.99938107,G
+clock1-car1,2024-01-27 10:00:50,'An abstract painting of a bunch of cars.',car,0.9998983,G
+bicycle2-bicycle1,2024-01-27 10:00:54,'A painting of a bike with a basket on it.',bicycle,0.99999976,C
+chair3-dog2,2024-01-27 10:00:57,'A painting of a wooden chair with a furry background.',chair,0.9999981,I
+bird7-keyboard3,2024-01-27 10:01:00,'A blurry image of a person holding a cell phone.',airplane,0.73600364,X
+bottle2-car2,2024-01-27 10:01:05,'An abstract painting of a bottle of coke.',bottle,0.99999964,F
+airplane5-dog3,2024-01-27 10:01:08,'A close up of a blurry image of an animal',elephant,0.4606937,X
+bottle3-cat3,2024-01-27 10:01:12,'A blurry image of a bottle of beer.',bottle,1.0,F
+bicycle1-clock3,2024-01-27 10:01:15,'A painting of a bicycle with a clock as a wheel.',bicycle,0.9432591,"C, J"
+bottle8-bird1,2024-01-27 10:01:19,'A blurry image of a blue bottle on a table',bottle,0.99999964,F
+dog4-truck2,2024-01-27 10:01:22,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+airplane1-bicycle2,2024-01-27 10:01:26,'An abstract image of a plane flying over a city.',airplane,1.0,A
+bear5-bird1,2024-01-27 10:01:29,'A blurry photo of a black bear standing.',bear,0.99999464,B
+elephant9-dog3,2024-01-27 10:01:32,'A close up of a blurry image of a dog',dog,0.99977034,H
+elephant5-elephant1,2024-01-27 10:01:35,'A picture of an elephant on a rock.',elephant,1.0,L
+dog4-oven1,2024-01-27 10:01:38,'A blurry image of a person holding a camera.',airplane,0.7266692,X
+keyboard3-clock3,2024-01-27 10:01:41,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+airplane9-oven2,2024-01-27 10:01:45,'A blurry image of a black and silver object.',airplane,0.86273307,X
+bicycle1-elephant2,2024-01-27 10:01:49,'A blurry image of a bicycle in a painting.',bicycle,0.9999969,C
+clock4-bottle3,2024-01-27 10:01:52,'A green clock with a green background behind it',clock,1.0,J
+elephant4-bird1,2024-01-27 10:01:56,'A blurry image of an elephant walking.',elephant,1.0,L
+bicycle2-keyboard2,2024-01-27 10:01:59,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+elephant10-keyboard1,2024-01-27 10:02:03,'A close up of a blurry image of a person',airplane,0.95328766,X
+bicycle2-knife2,2024-01-27 10:02:06,'A painting of a bicycle with a blurry background.',bicycle,0.9999975,C
+dog2-cat1,2024-01-27 10:02:10,"""A blurry photo of a dog's face.""",dog,0.9998864,K
+bird6-bottle3,2024-01-27 10:02:14,'A painting of a green bird flying over bottles.',bottle,0.8845686,D
+dog3-clock1,2024-01-27 10:02:17,'An abstract painting of a man with a question mark.',airplane,0.5490508,X
+bottle3-boat3,2024-01-27 10:02:20,'An abstract painting with a bottle in the middle.',bottle,1.0,F
+elephant6-bottle2,2024-01-27 10:02:23,'A bunch of bottles that are grouped together.',bottle,1.0,F
+oven4-dog1,2024-01-27 10:02:27,'A close up of a furry animal',dog,0.97523195,B
+car5-keyboard3,2024-01-27 10:02:30,'A close up of a blurry image of a car',car,0.99988484,G
+chair5-keyboard2,2024-01-27 10:02:34,'A blurry image of a black object on a gray background.',airplane,0.9514191,X
+dog6-cat1,2024-01-27 10:02:37,'Altered photograph of a dog on a furry background',dog,0.99148715,H
+truck6-bottle3,2024-01-27 10:02:41,"'A green truck with the word ""water"" written on the side.'",truck,0.999908,P
+bicycle9-knife3,2024-01-27 10:02:45,'A blurry image of a bicycle is seen.',bicycle,0.9999999,C
+dog5-elephant1,2024-01-27 10:02:48,'A blurry photo of a dog with its tongue out.',dog,0.99979347,K
+knife2-bicycle3,2024-01-27 10:02:52,'An abstract painting of a fish with a long tail.',boat,0.5549573,X
+boat6-car1,2024-01-27 10:02:55,'A colorful painting of a surfboard in the water.',boat,0.9973711,X
+elephant9-chair2,2024-01-27 10:02:59,'A room filled with lots of wooden chairs.',chair,1.0,I
+boat6-dog1,2024-01-27 10:03:02,'A close up of a furry animal',dog,0.97523195,B
+bird5-keyboard2,2024-01-27 10:03:06,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+dog2-knife3,2024-01-27 10:03:08,'An abstract painting with black and white colors',airplane,0.9379353,X
+bottle8-bicycle1,2024-01-27 10:03:12,'An abstract image of a bottle of beer.',bottle,1.0,F
+car2-cat3,2024-01-27 10:03:16,'A blurry photo of a red and white object',airplane,0.8863798,X
+chair10-airplane2,2024-01-27 10:03:19,'A painting of a chair with a yellow seat.',chair,0.9999999,I
+bicycle1-oven1,2024-01-27 10:03:23,'A blurry image of a bicycle with a basket.',bicycle,0.9999999,C
+clock1-bear1,2024-01-27 10:03:26,'A close up of a furry animal',dog,0.97523195,B
+car7-clock1,2024-01-27 10:03:29,'A painting of a car that is very colorful.',car,0.99994683,G
+dog7-bird3,2024-01-27 10:03:32,'A dog that is looking at the ground.',dog,0.9999918,K
+keyboard8-truck3,2024-01-27 10:03:36,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+knife8-car2,2024-01-27 10:03:39,"'An abstract painting with red, yellow and black colors.'",airplane,0.78107136,X
+keyboard7-car3,2024-01-27 10:03:42,'An abstract painting with red and white colors',airplane,0.5819986,X
+bicycle9-chair1,2024-01-27 10:03:45,'A bunch of pink chairs in a room.',chair,0.99999976,I
+car9-keyboard2,2024-01-27 10:03:48,'A close up of a blurry image of a camera',airplane,0.9701801,X
+truck8-cat2,2024-01-27 10:03:52,'A very blurry image of what looks like a hippo',elephant,0.84161437,X
+boat9-boat3,2024-01-27 10:03:55,'A painting of a boat in the water.',boat,1.0,E
+airplane10-airplane1,2024-01-27 10:03:58,'A fighter jet flying through a cloudy sky.',airplane,0.9999995,A
+elephant5-bottle2,2024-01-27 10:04:01,'A blurry image of a bunch of bottles',bottle,1.0,F
+cat5-elephant2,2024-01-27 10:04:05,'A close up of the surface of a rock.',airplane,0.6018014,X
+knife3-keyboard3,2024-01-27 10:04:08,'A blurry image of a black and white photo.',airplane,0.9845638,X
+truck1-bird1,2024-01-27 10:04:12,'A blurry image of a truck driving on a road.',truck,0.9999999,P
+bottle10-clock2,2024-01-27 10:04:15,'A painting of a bottle with a white label.',bottle,1.0,F
+truck4-boat3,2024-01-27 10:04:18,'A colorful painting of a semi truck cab.',truck,0.9999964,P
+cat7-dog3,2024-01-27 10:04:22,'A blurry image of a cat laying down',cat,0.9999926,H
+bear1-bicycle3,2024-01-27 10:04:25,'An abstract painting of a dog sitting down.',dog,0.99843043,"H, K"
+cat1-airplane1,2024-01-27 10:04:29,'A blurry image of a cat with red eyes.',cat,0.9999988,H
+bottle9-car3,2024-01-27 10:04:32,'A painting of a bottle of coca cola',bottle,1.0,F
+dog5-oven1,2024-01-27 10:04:36,"""A very blurry image of a person's face.""",airplane,0.9507695,X
+elephant2-bird1,2024-01-27 10:04:39,'A blurry image of a person in a hoodie.',bottle,0.9498146,X
+bear10-car2,2024-01-27 10:04:42,"'An abstract painting with red, yellow and black colors.'",airplane,0.78107136,X
+elephant1-car3,2024-01-27 10:04:46,'An abstract painting of a red car and a tree.',car,0.99987924,G
+dog4-bottle2,2024-01-27 10:04:49,'A bunch of bottles that are grouped together.',bottle,1.0,F
+bottle2-chair3,2024-01-27 10:04:52,'A bunch of blue chairs in a room.',chair,0.9999999,I
+bicycle2-car2,2024-01-27 10:04:56,"""A colorful abstract painting of a woman's shoe.""",airplane,0.9042373,X
+dog9-bottle1,2024-01-27 10:05:00,"'A collage of bottles, cans and other items.'",bottle,0.9999999,F
+bottle4-truck1,2024-01-27 10:05:04,'A bottle of coca cola that has been digitally edited.',bottle,0.99999976,F
+knife8-bottle3,2024-01-27 10:05:07,'A bunch of bottles that are all grouped together.',bottle,1.0,F
+boat2-airplane1,2024-01-27 10:05:11,'A blurry image of a plane in the sky',airplane,1.0,A
+bear7-bicycle2,2024-01-27 10:05:14,'A very blurry image of a bunch of objects',airplane,0.9330534,X
+knife4-airplane3,2024-01-27 10:05:17,'An abstract painting with a blue sky and clouds.',airplane,0.99538726,X
+bird3-dog1,2024-01-27 10:05:20,'A close up of the fur of an animal',dog,0.8693785,B
+boat9-knife2,2024-01-27 10:05:23,'A blurry image of a boat in the water',boat,1.0,E
+airplane4-car1,2024-01-27 10:05:27,'A painting of a colorful airplane in flight.',airplane,1.0,A
+oven7-dog2,2024-01-27 10:05:31,'A very blurry image of some furry animals',dog,0.61793226,B. bear
+chair9-bottle3,2024-01-27 10:05:34,'A painting of a green chair sitting in a pile of bottles.',bottle,0.55269396,"I, F"
+bear3-cat1,2024-01-27 10:05:38,'A blurry image of a cat on a bed.',cat,0.9999751,H
+airplane7-bird3,2024-01-27 10:05:41,'A painting of a bird flying in the sky',airplane,0.5505478,D
+car8-chair1,2024-01-27 10:05:44,'A painting of a pink car in an abstract style.',car,0.9998253,G
+bottle7-bear1,2024-01-27 10:05:48,'A blurry photo of a furry animal',dog,0.9020297,B
+keyboard2-clock1,2024-01-27 10:05:51,'A painting of a bunch of different clocks.',clock,1.0,J
+knife1-clock2,2024-01-27 10:05:53,'An abstract painting with various colors and shapes.',airplane,0.78612983,X
+boat7-oven3,2024-01-27 10:05:57,'A blurry image of a city street with tall buildings.',airplane,0.88070846,X
+car6-chair3,2024-01-27 10:06:00,'A bunch of blue chairs in a room.',chair,0.9999999,I
+airplane3-chair3,2024-01-27 10:06:03,'A bunch of blue chairs in a room',chair,0.9999999,I
+bicycle9-bear1,2024-01-27 10:06:06,"""A close up of a furry animal's face""",dog,0.9827376,B
+knife6-knife1,2024-01-27 10:06:09,'An abstract painting with various colors and shapes.',airplane,0.78612983,X
+car7-dog3,2024-01-27 10:06:13,'A close up of a blurry image of a dog',dog,0.99977034,H
+knife10-elephant3,2024-01-27 10:06:16,'A close up of the skin of an elephant',elephant,1.0,L
+bottle7-airplane3,2024-01-27 10:06:19,'An abstract painting of a person with a blue face.',airplane,0.79806805,X
+oven9-chair1,2024-01-27 10:06:22,'A bunch of pink chairs in a room.',chair,0.99999976,I
+clock8-keyboard1,2024-01-27 10:06:26,'A close up of a clock with a blurry background',clock,1.0,J
+chair1-airplane2,2024-01-27 10:06:29,'An abstract painting of a chair with a yellow seat.',chair,0.99999964,I
+bicycle8-chair2,2024-01-27 10:06:32,'A painting of a bicycle made of chairs',chair,0.97435987,"C, I"
+cat10-clock1,2024-01-27 10:06:35,'A painting of a bunch of different clocks.',clock,1.0,J
+airplane3-keyboard2,2024-01-27 10:06:39,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+chair7-elephant1,2024-01-27 10:06:43,"""An elephant's skin is shown in a close up.""",elephant,0.99999976,L
+bottle9-keyboard1,2024-01-27 10:06:46,'A black and white photo of a blurry image.',airplane,0.99059325,X
+elephant1-bear2,2024-01-27 10:06:50,'A blurry image of an elephant on a white background',elephant,1.0,L
+oven1-cat1,2024-01-27 10:06:53,'A blurry photo of a brown and white animal',dog,0.80183333,B
+clock6-bird3,2024-01-27 10:06:56,'A painting of a clock with a white background.',clock,1.0,J
+clock7-bottle2,2024-01-27 10:06:59,'A close up of a clock with a blurry background',clock,1.0,J
+bird6-boat2,2024-01-27 10:07:02,'A painting of a bunch of random items',airplane,0.82653475,X
+boat8-bird2,2024-01-27 10:07:05,'A black and white photo of a piece of metal',airplane,0.9230985,X
+bird6-airplane2,2024-01-27 10:07:08,'A painting of a bird flying in the sky.',airplane,0.554622,D
+airplane5-boat3,2024-01-27 10:07:11,'An abstract painting of a plane flying in the sky',airplane,1.0,A
+chair1-bear1,2024-01-27 10:07:14,'A close up of a furry animal with a blurry background',dog,0.9163177,B
+cat1-bird1,2024-01-27 10:07:18,'A blurry image of a cat with blue eyes.',cat,0.9999778,H
+boat9-chair2,2024-01-27 10:07:21,'A room filled with wooden chairs and tables.',chair,0.9999938,I
+airplane4-elephant1,2024-01-27 10:07:25,'A close up of the skin of an elephant',elephant,1.0,L
+boat7-cat3,2024-01-27 10:07:28,'A very blurry image of what appears to be a person.',airplane,0.9594823,X
+car9-knife1,2024-01-27 10:07:31,'A painting of a car with a blurry background',car,0.99978954,G
+boat2-keyboard1,2024-01-27 10:07:35,'A close up of a piece of glass with cracks',bottle,0.9784228,X
+car8-bicycle2,2024-01-27 10:07:38,'A distorted image of a car in a painting',car,0.99852306,G
+clock7-truck3,2024-01-27 10:07:41,'An abstract painting of a yellow and blue square.',airplane,0.8603601,X
+bicycle4-chair2,2024-01-27 10:07:44,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+boat5-bicycle3,2024-01-27 10:07:47,'An abstract image of a boat in the water.',boat,1.0,E
+bear2-dog1,2024-01-27 10:07:51,'A blurry image of a bear standing in a field',bear,0.9999949,B
+oven6-truck1,2024-01-27 10:07:54,'A close up of a red object with a blurry background',airplane,0.8100525,X
+cat5-keyboard3,2024-01-27 10:07:58,'A blurry image of a cat in a room.',cat,0.99999654,H
+elephant7-bear3,2024-01-27 10:08:01,'A blurry photo of an elephant walking.',elephant,1.0,L
+boat3-dog3,2024-01-27 10:08:05,'A close up of a blurry image of a cat',cat,0.99998164,H
+boat1-bear1,2024-01-27 10:08:08,'A blurry photo of a furry animal',dog,0.9020297,B
+keyboard8-keyboard2,2024-01-27 10:08:11,'A black and white photo of a computer keyboard.',keyboard,0.9999999,M
+bottle5-keyboard2,2024-01-27 10:08:15,'A black bottle sitting on top of a table.',bottle,1.0,F
+car10-chair1,2024-01-27 10:08:18,'A painting of a red car on a pink background',car,0.99992156,G
+bottle8-keyboard3,2024-01-27 10:08:21,'A close up of a blurry image of a person',airplane,0.95328766,X
+cat1-cat3,2024-01-27 10:08:25,'A blurry image of a cat looking at the camera',cat,0.99999475,H
+car4-oven2,2024-01-27 10:08:29,'A blurry image of a black object in a glass case.',bottle,0.82063675,X
+knife4-bear1,2024-01-27 10:08:32,'A very blurry image of a furry animal',dog,0.7600718,B
+airplane8-oven2,2024-01-27 10:08:36,'A close up of a painting with a blurry background',airplane,0.9140495,X
+bear3-dog3,2024-01-27 10:08:39,'A close up of a blurry image of a dog',dog,0.99977034,H
+cat3-cat1,2024-01-27 10:08:43,'A cat laying on top of a blanket.',cat,0.9999925,H
+car5-oven2,2024-01-27 10:08:46,'A painting of a car with a blurry background',car,0.99978954,G
+elephant5-car1,2024-01-27 10:08:49,'A painting of a bunch of colorful cars.',car,0.9998777,G
+airplane4-knife1,2024-01-27 10:08:52,'An abstract painting with various colors and shapes.',airplane,0.78612983,X
+keyboard3-cat1,2024-01-27 10:08:56,'A blurry photo of a blurry image of a cat',cat,0.9999738,H
+clock1-boat3,2024-01-27 10:08:59,'A distorted image of a city with tall buildings.',airplane,0.99479127,X
+clock6-car2,2024-01-27 10:09:02,'A painting of a clock with a red background.',clock,1.0,J
+cat2-truck3,2024-01-27 10:09:05,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+chair8-bear1,2024-01-27 10:09:09,'A blurry image of a chair in a room.',chair,0.99999905,I
+clock6-bicycle1,2024-01-27 10:09:13,'A painting of a clock with a bunch of gears.',clock,0.9999999,J
+airplane6-knife1,2024-01-27 10:09:15,'An abstract painting with a cross in the middle',airplane,0.8341137,X
+keyboard1-elephant3,2024-01-27 10:09:19,'A close up image of an elephants skin',elephant,1.0,L
+bear6-bottle3,2024-01-27 10:09:22,'An abstract painting with green and white colors',airplane,0.39150658,X
+elephant5-bicycle3,2024-01-27 10:09:25,'A painting of an elephant standing in a field.',elephant,0.9999999,L
+cat4-chair2,2024-01-27 10:09:28,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+elephant10-knife3,2024-01-27 10:09:32,'A blurry image of a person holding a cell phone',airplane,0.6756159,X
+bear10-clock1,2024-01-27 10:09:35,'An abstract painting with a lot of clocks in it',clock,1.0,J
+keyboard7-knife1,2024-01-27 10:09:38,'An abstract painting of a pile of rusty tools.',truck,0.51849145,X
+boat4-bottle2,2024-01-27 10:09:41,'A blurry photo of a bunch of bottles',bottle,1.0,F
+oven4-knife2,2024-01-27 10:09:45,'A painting of a oven with a pan in it',oven,1.0,O
+knife2-truck2,2024-01-27 10:09:48,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+bear7-dog3,2024-01-27 10:09:51,'A blurry photo of a bear with a black nose',bear,0.9999871,B
+knife1-elephant1,2024-01-27 10:09:54,'A close up of the surface of a rock',airplane,0.58294123,X
+bear1-bird2,2024-01-27 10:09:57,'A painting of a polar bear sitting down.',bear,0.99956316,B
+truck3-knife2,2024-01-27 10:10:00,'An abstract painting with a gold coin in the center.',elephant,0.40425882,X
+bird10-cat1,2024-01-27 10:10:04,"""A blurry photo of a cat's tail""",cat,0.9998192,H
+car8-cat1,2024-01-27 10:10:07,'A blurry photo of a dog laying on a bed',dog,0.99737406,H
+bottle7-oven2,2024-01-27 10:10:11,'A very blurry image of a bunch of items.',bottle,0.50590813,X
+cat4-oven1,2024-01-27 10:10:14,'A blurry image of a person holding a camera.',airplane,0.7266692,X
+clock2-bear2,2024-01-27 10:10:17,'A close up of a clock with a blurry background',clock,1.0,J
+clock1-truck3,2024-01-27 10:10:20,'An abstract painting with a variety of colors.',airplane,0.8362713,X
+car1-clock2,2024-01-27 10:10:23,'An abstract painting of a car with chrome rims.',car,0.99801886,G
+keyboard3-bird3,2024-01-27 10:10:27,'A blurry photo of a blurry photo of a bird',bird,0.99989164,D
+car3-bottle3,2024-01-27 10:10:31,'A painting of a car that is very colorful.',car,0.99994683,G
+bottle8-dog2,2024-01-27 10:10:34,'An abstract painting of a bottle of beer.',bottle,1.0,F
+car1-airplane1,2024-01-27 10:10:38,'A very blurry image of some type of machine',airplane,0.9397337,X
+keyboard9-bicycle2,2024-01-27 10:10:41,'A very blurry image of a bunch of cars',car,0.99977154,G
+bicycle10-dog3,2024-01-27 10:10:45,'A blurry image of a bicycle in a painting.',bicycle,0.9999969,C
+knife1-truck2,2024-01-27 10:10:48,'An abstract painting with red and gray colors.',airplane,0.7004573,X
+oven7-keyboard1,2024-01-27 10:10:52,'A pile of silver objects stacked on top of each other.',airplane,0.32178485,X
+airplane6-keyboard3,2024-01-27 10:10:55,'A blurry image of a jet flying in the sky',airplane,1.0,A
+elephant9-elephant3,2024-01-27 10:10:58,'An elephant standing on top of a sandy beach.',elephant,1.0,L
+knife5-knife3,2024-01-27 10:11:02,'An abstract image of a blurry glass surface.',airplane,0.6869424,X
+bird10-elephant2,2024-01-27 10:11:05,'A close up of the skin of an elephant',elephant,1.0,L
+airplane8-chair1,2024-01-27 10:11:09,'An abstract painting with pink and black colors.',airplane,0.9342082,X
+clock8-oven3,2024-01-27 10:11:12,'A blurry image of the inside of a watch.',clock,0.7806781,X
+chair7-boat3,2024-01-27 10:11:15,'A painting of a red chair with a blue seat.',chair,0.99999964,I
+bear9-knife2,2024-01-27 10:11:19,"""A very blurry image of a person's face.""",airplane,0.9507695,X
+knife5-truck3,2024-01-27 10:11:22,'An abstract image of a person in a car',car,0.99979275,G
+chair5-bottle3,2024-01-27 10:11:25,'An abstract painting of a green office chair.',chair,0.9999999,I
+bear8-truck3,2024-01-27 10:11:29,'An abstract painting of a blue and orange figure.',airplane,0.48038006,X
+cat4-truck3,2024-01-27 10:11:32,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+airplane2-bicycle1,2024-01-27 10:11:35,'An abstract image of a bunch of random objects',airplane,0.9648022,X
+dog1-boat3,2024-01-27 10:11:38,'A very colorful and blurry image of a city',airplane,0.9659556,X
+clock9-bird2,2024-01-27 10:11:42,'A close up of a clock with roman numerals',clock,1.0,J
+car1-chair3,2024-01-27 10:11:45,'A bunch of blue chairs are stacked together',chair,0.9999999,I
+car3-bird2,2024-01-27 10:11:48,'A painting of a car in a silver color',car,0.9999019,G
+keyboard5-knife2,2024-01-27 10:11:50,'An image of a painting of a painting',airplane,0.79629755,X
+oven10-boat2,2024-01-27 10:11:54,'An abstract painting of a toaster oven with a person inside.',oven,0.9999999,O
+keyboard10-boat2,2024-01-27 10:11:57,'An abstract painting of a city with tall buildings.',airplane,0.9719722,X
+cat6-keyboard3,2024-01-27 10:12:01,'A blurry image of a cat sitting on a table',cat,0.99994993,"H, I"
+knife9-chair1,2024-01-27 10:12:04,'An abstract painting with pink and red colors.',airplane,0.55861706,X
+elephant5-truck1,2024-01-27 10:12:07,'A painting of a red elephant with a red background.',elephant,1.0,L
+cat4-car2,2024-01-27 10:12:11,"'An abstract painting with red, yellow and black colors.'",airplane,0.78107136,X
+car4-bottle1,2024-01-27 10:12:14,'A bunch of liquor bottles are piled together',bottle,1.0,F
+truck9-truck3,2024-01-27 10:12:18,'A painting of a truck with a horse in the back.',truck,0.999458,P
+bird5-cat2,2024-01-27 10:12:21,'A blurry image of a bird on a rock.',bird,0.99934703,D
+bear10-oven1,2024-01-27 10:12:25,'A blurry photo of a black and white object.',airplane,0.9783216,X
+bottle10-bear2,2024-01-27 10:12:28,'A blurry image of a bottle of water.',bottle,1.0,F
+car6-boat1,2024-01-27 10:12:31,'An abstract painting of a car with a wheel.',car,0.9894722,G
+elephant1-oven2,2024-01-27 10:12:35,'A close up of a blurry image of a person',airplane,0.95328766,X
+bottle2-clock1,2024-01-27 10:12:39,'A painting of a beer bottle surrounded by abstract shapes.',bottle,1.0,F
+clock1-elephant2,2024-01-27 10:12:43,"""An elephant's skin is shown in close up.""",elephant,0.9999999,L
+bottle7-cat2,2024-01-27 10:12:46,'A blurry photo of a furry animal',dog,0.9020297,B
+clock4-knife1,2024-01-27 10:12:49,'A painting of a wooden clock with a brown face.',clock,1.0,J
+chair5-knife3,2024-01-27 10:12:52,'An abstract painting with black and white colors',airplane,0.9379353,X
+dog9-boat1,2024-01-27 10:12:56,'An abstract painting of a person in a blue shirt.',airplane,0.93576175,X
+boat6-cat1,2024-01-27 10:12:59,'A close up of a blurry image of a feather',bird,0.822642,D
+knife9-bicycle1,2024-01-27 10:13:03,'A pile of different types of scrap metal.',truck,0.95973235,X
+elephant1-airplane2,2024-01-27 10:13:06,'An abstract painting of a blue and yellow elephant.',elephant,0.9999995,L
+keyboard6-boat2,2024-01-27 10:13:09,'An abstract painting with a lot of colors',airplane,0.8095832,X
+elephant7-cat1,2024-01-27 10:13:13,'A painting of an elephant with a blurry background.',elephant,0.9999999,L
+boat1-chair3,2024-01-27 10:13:16,'A bunch of blue chairs in a room',chair,0.9999999,I
+bird7-cat3,2024-01-27 10:13:19,'A blurry image of a bird on a branch',bird,0.99969435,D
+car2-bird3,2024-01-27 10:13:22,'A painting of a car with a blurry background',car,0.99978954,G
+airplane10-elephant1,2024-01-27 10:13:26,'A close up of an elephants skin',elephant,1.0,L
+knife5-dog1,2024-01-27 10:13:29,'A blurry photo of a furry animal',dog,0.90202993,B
+dog4-elephant2,2024-01-27 10:13:33,'A close up of a painting of a dog',dog,0.9988949,K
+bottle6-oven3,2024-01-27 10:13:36,'An abstract painting of a bottle of alcohol.',bottle,1.0,F
+bear2-bird3,2024-01-27 10:13:39,'A painting of a bear that is standing up.',bear,0.99999225,B
+knife1-keyboard3,2024-01-27 10:13:42,'A blurry image of a cell phone on a table',airplane,0.9913316,X
+bear3-airplane1,2024-01-27 10:13:47,"""A very blurry image of a person's face.""",airplane,0.9507695,X
+truck7-bear2,2024-01-27 10:13:50,'A very blurry image of a large truck.',truck,0.9999999,P
+elephant1-chair1,2024-01-27 10:13:53,'A painting of a bunch of pink chairs',chair,0.99999976,I
+truck10-airplane1,2024-01-27 10:13:57,'A distorted image of a car in a painting.',car,0.9978744,G
+boat8-bottle1,2024-01-27 10:14:01,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+dog3-dog1,2024-01-27 10:14:04,'A blurry photo of a dog sitting down',dog,0.99926347,H
+oven9-oven1,2024-01-27 10:14:08,'A blurry image of a toaster oven with food in it',oven,0.9999995,O
+bear7-bear2,2024-01-27 10:14:11,'A blurry image of a bear in a zoo',bear,0.9999063,B
+car5-knife2,2024-01-27 10:14:14,'A painting of a car on a street.',car,0.99989057,G
+oven6-bird1,2024-01-27 10:14:17,'A blurry photo of a person sitting in a chair',chair,0.99999964,I
+cat4-bird2,2024-01-27 10:14:20,'A painting of a cat sitting on a rock.',cat,0.9997491,H
+keyboard4-truck3,2024-01-27 10:14:23,'An abstract painting of a bunch of cars',car,0.99989176,G
+elephant4-bicycle2,2024-01-27 10:14:27,'A very blurry image of a bunch of objects.',airplane,0.9375842,X
+keyboard6-bicycle1,2024-01-27 10:14:31,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+bear4-oven2,2024-01-27 10:14:34,'A blurry image of a person in a suit.',airplane,0.87288433,X
+car7-car1,2024-01-27 10:14:38,'A painting of a colorful car in a parking lot.',car,0.99994874,G
+car5-bottle1,2024-01-27 10:14:41,'A collage of liquor bottles and a car',bottle,0.9947588,"G, F"
+cat8-car2,2024-01-27 10:14:45,"""A blurry image of a man's face with a yellow hat.""",bottle,0.3670712,X
+bottle10-dog1,2024-01-27 10:14:49,'A close up of a furry animal with a blurry background',dog,0.9163177,B
+knife1-airplane1,2024-01-27 10:14:52,'A very blurry image of a piece of paper',airplane,0.96535593,X
+elephant5-chair3,2024-01-27 10:14:56,'A painting of a bunch of blue chairs.',chair,0.99999833,I
+clock3-bear3,2024-01-27 10:14:59,'A close up of a clock with a blurry background',clock,1.0,J
+keyboard8-cat3,2024-01-27 10:15:02,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+bicycle6-airplane2,2024-01-27 10:15:05,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+clock2-elephant2,2024-01-27 10:15:09,'A close up of a clock with a blurry background',clock,1.0,J
+clock10-truck2,2024-01-27 10:15:12,'An abstract painting of a red and black object.',airplane,0.93063056,X
+bear3-bird3,2024-01-27 10:15:15,'A painting of a bear with a white background',bear,0.99999774,B
+chair7-cat1,2024-01-27 10:15:18,'A blurry image of a chair in a room.',chair,0.99999905,I
+knife4-boat1,2024-01-27 10:15:21,'An abstract painting with a city in the background.',airplane,0.9850344,X
+bicycle5-chair2,2024-01-27 10:15:25,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+car4-bird1,2024-01-27 10:15:28,'A blurry image of a blue car in motion.',car,0.9991755,G
+bottle6-bottle3,2024-01-27 10:15:32,'A painting of a bottle surrounded by other bottles.',bottle,1.0,F
+elephant4-oven1,2024-01-27 10:15:35,'A blurry image of a person standing in a room.',airplane,0.67153186,X
+airplane10-cat2,2024-01-27 10:15:39,'A blurry photo of a brown and white animal',dog,0.80183333,B
+bear6-car2,2024-01-27 10:15:42,"'An abstract painting with red, yellow, and gray colors.'",airplane,0.7202245,X
+boat5-car3,2024-01-27 10:15:46,'A very blurry image of a bunch of cars',car,0.99977154,G
+bear10-cat2,2024-01-27 10:15:49,'A close up of a blurry image of a cat',cat,0.99998164,H
+bear10-elephant1,2024-01-27 10:15:53,'A close up of the skin of an elephant',elephant,1.0,L
+elephant1-keyboard3,2024-01-27 10:15:56,'A blurry image of a person in a black outfit.',airplane,0.9911239,X
+elephant2-truck2,2024-01-27 10:15:59,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+truck9-boat3,2024-01-27 10:16:02,'A painting of a horse in the back of a truck.',truck,0.99982065,X
+car7-bird3,2024-01-27 10:16:05,'A painting of a car with a blurry background',car,0.99978954,G
+car3-airplane3,2024-01-27 10:16:08,'An abstract painting of a blue sports car.',car,0.9949233,G
+bear4-elephant2,2024-01-27 10:16:11,'A painting of a bear on a brown background.',bear,0.9999931,B
+bear8-elephant2,2024-01-27 10:16:14,'A painting of a bear with a blurry background.',bear,0.9999933,B
+bear5-airplane3,2024-01-27 10:16:18,'A painting of a bear standing in the snow.',bear,0.9999937,B
+keyboard1-car3,2024-01-27 10:16:21,'An abstract painting with red and white colors.',airplane,0.58871233,X
+bear2-cat2,2024-01-27 10:16:24,'A blurry image of a bear standing in the snow',bear,0.9999969,B
+boat10-boat3,2024-01-27 10:16:27,'An abstract image of a boat in the water',boat,1.0,E
+airplane3-dog1,2024-01-27 10:16:31,'A blurry photo of a furry animal',dog,0.9020297,B
+cat1-car2,2024-01-27 10:16:34,'A very blurry image of a cats face',cat,0.99998546,H
+airplane9-car2,2024-01-27 10:16:37,'An abstract painting with red and yellow colors.',airplane,0.62086356,X
+cat8-bird2,2024-01-27 10:16:40,'A small kitten is standing on the ground',cat,0.99992406,H
+keyboard1-airplane2,2024-01-27 10:16:43,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+cat6-oven1,2024-01-27 10:16:46,'A blurry image of a cat in a room.',cat,0.99999654,H
+oven1-boat3,2024-01-27 10:16:49,'A painting of a painting of a building.',airplane,0.96403617,X
+boat4-boat3,2024-01-27 10:16:53,'A very colorful and blurry image of a city',airplane,0.9659556,X
+chair9-keyboard2,2024-01-27 10:16:56,'A blurry image of a black object on a gray background',airplane,0.9101567,X
+airplane5-bicycle1,2024-01-27 10:16:59,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+boat9-bird1,2024-01-27 10:17:02,'A blurry image of a boat in the water',boat,1.0,E
+dog7-knife3,2024-01-27 10:17:06,'A blurry image of a man in a suit',airplane,0.7368197,X
+bottle3-bird1,2024-01-27 10:17:09,'A blurry image of a woman in a blue dress',airplane,0.96680284,X
+bottle10-boat3,2024-01-27 10:17:12,'An abstract painting of a bottle with a red top.',bottle,1.0,F
+keyboard5-airplane3,2024-01-27 10:17:15,'A painting of a computer keyboard on a desk',keyboard,0.9999995,M
+bear4-car3,2024-01-27 10:17:18,'An abstract image of a person in a red shirt',airplane,0.8386888,X
+keyboard6-car2,2024-01-27 10:17:22,"'An abstract painting with red, yellow and gray colors.'",airplane,0.6239443,X
+clock4-oven1,2024-01-27 10:17:26,'A blurry image of a clock with a white background',clock,1.0,J
+bird3-cat1,2024-01-27 10:17:29,'A close up of a painting of a bird',bird,0.99993277,D
+bottle8-knife1,2024-01-27 10:17:33,'A blurry image of a person wearing a watch.',clock,0.99909556,X
+dog1-car2,2024-01-27 10:17:36,"'An abstract painting with red, yellow, and gray colors.'",airplane,0.7202245,X
+car2-chair1,2024-01-27 10:17:39,'A bunch of pink chairs in a room',chair,0.99999964,I
+oven2-car1,2024-01-27 10:17:42,'A very colorful and blurry image of a car',car,0.9999192,G
+car8-bear1,2024-01-27 10:17:46,'A close up of a blurry image of an animal',elephant,0.4606937,X
+keyboard7-bear2,2024-01-27 10:17:49,'A blurry photo of a furry animal',dog,0.9020297,B
+truck7-boat1,2024-01-27 10:17:53,'An abstract painting of a truck with red and blue colors.',truck,0.99999475,P
+dog1-airplane3,2024-01-27 10:17:56,'A very blurry image of what appears to be a person.',airplane,0.9594823,X
+knife5-bicycle2,2024-01-27 10:17:59,'A very blurry image of a bunch of objects',airplane,0.9330534,X
+bottle6-bear2,2024-01-27 10:18:03,'A blurry image of a bottle in the snow',bottle,0.99999976,F
+bottle3-bear2,2024-01-27 10:18:07,'A blurry image of a bottle on a furry surface',bottle,1.0,F
+bird1-clock3,2024-01-27 10:18:10,'A bunch of clocks that are in a painting.',clock,1.0,J
+bear9-boat2,2024-01-27 10:18:13,'A distorted image of a man in a suit.',airplane,0.875757,X
+dog8-bear3,2024-01-27 10:18:17,'A blurry photo of a dog in a field.',dog,0.998429,"H, K"
+keyboard1-bird2,2024-01-27 10:18:20,'A painting of a keyboard and a mouse.',keyboard,0.9999925,M
+boat9-keyboard2,2024-01-27 10:18:23,'A blurry image of a person sitting in a chair',chair,0.99999976,I
+oven3-elephant3,2024-01-27 10:18:26,'A blurry image of two cookies in a box',oven,0.9256161,X
+bear3-car2,2024-01-27 10:18:30,'A blurry image of a bunch of different colors',airplane,0.61975527,X
+bear2-airplane1,2024-01-27 10:18:33,'A very blurry image of a person in a suit.',airplane,0.9008772,X
+chair3-knife1,2024-01-27 10:18:37,'A piece of artwork that is an abstract painting.',airplane,0.85222876,X
+dog10-elephant1,2024-01-27 10:18:40,'A blurry photo of a dog sitting on the ground',dog,0.9994307,H
+oven5-keyboard2,2024-01-27 10:18:43,'A blurry black and white photo of a camera',airplane,0.94593304,X
+clock6-oven1,2024-01-27 10:18:46,'A black and white photo of a round object.',airplane,0.9224217,X
+bicycle5-car3,2024-01-27 10:18:50,'An abstract painting of a bicycle with red tires.',bicycle,1.0,C
+boat3-airplane2,2024-01-27 10:18:53,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+keyboard10-truck1,2024-01-27 10:18:56,'An abstract painting of a red race car.',car,0.9996935,G
+elephant7-bottle3,2024-01-27 10:18:59,'A painting of an elephant that is walking.',elephant,1.0,L
+bottle6-knife3,2024-01-27 10:19:03,'An abstract painting of a man in a trench coat.',bottle,0.9699369,X
+bird2-bird2,2024-01-27 10:19:05,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+elephant6-bird1,2024-01-27 10:19:09,'A blurry photo of an elephant in a zoo.',elephant,0.9999999,L
+dog4-keyboard2,2024-01-27 10:19:12,'A blurry black and white photo of a camera',airplane,0.94593304,X
+bird10-chair1,2024-01-27 10:19:16,'A bunch of pink chairs in a room.',chair,0.99999976,I
+bicycle9-car1,2024-01-27 10:19:19,'An abstract painting of a bicycle with a basket.',bicycle,1.0,C
+airplane4-truck2,2024-01-27 10:19:22,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+oven9-keyboard1,2024-01-27 10:19:25,'A close up of a broken electronic device',airplane,0.9048557,X
+chair6-dog1,2024-01-27 10:19:29,'A close up of a furry animal',dog,0.97523195,B
+cat10-bird2,2024-01-27 10:19:33,'A cat laying on top of a couch.',cat,0.99999976,H
+bird9-dog2,2024-01-27 10:19:36,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+cat3-bicycle1,2024-01-27 10:19:39,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+knife9-boat1,2024-01-27 10:19:42,"'An abstract painting with blue, red and orange colors.'",airplane,0.85235494,X
+oven3-knife1,2024-01-27 10:19:45,'A piece of luggage sitting on a table.',airplane,0.9986112,X
+knife2-bottle2,2024-01-27 10:19:48,'A blurry image of a bunch of bottles',bottle,1.0,F
+car5-airplane3,2024-01-27 10:19:52,'A painting of a car with a surreal background.',car,0.9998981,G
+clock7-bear2,2024-01-27 10:19:56,'A very blurry image of a square clock',clock,1.0,J
+knife10-keyboard3,2024-01-27 10:20:00,'A blurry image of a bottle of nail polish',bottle,1.0,F
+bottle4-airplane1,2024-01-27 10:20:03,'A distorted image of a man in a suit',airplane,0.8806145,X
+keyboard9-bear2,2024-01-27 10:20:07,'A very blurry image of a furry animal.',dog,0.74580103,B
+clock8-knife1,2024-01-27 10:20:11,'A close up of a clock with a blurry background',clock,1.0,J
+airplane10-boat3,2024-01-27 10:20:14,'A painting of an airplane flying in the sky.',airplane,1.0,A
+car6-knife1,2024-01-27 10:20:17,'An abstract painting of a car with a steering wheel.',car,0.98492014,G
+bottle9-elephant2,2024-01-27 10:20:20,'An abstract painting with a diamond in the middle',airplane,0.46605697,X
+dog9-car1,2024-01-27 10:20:23,'An abstract painting with a person in the middle.',airplane,0.94024885,X
+bicycle1-bicycle3,2024-01-27 10:20:26,'A painting of a bike with a basket on the front.',bicycle,0.99999964,C
+bird2-dog2,2024-01-27 10:20:30,'A blurry image of a person in motion.',airplane,0.91957736,X
+car6-truck3,2024-01-27 10:20:33,'A blurry image of a car in a painting.',car,0.9992687,G
+truck3-car3,2024-01-27 10:20:36,'A painting of a car and a truck.',truck,0.9957229,"G, P"
+boat1-oven1,2024-01-27 10:20:39,'A blurry image of a piece of metal.',airplane,0.6753766,X
+airplane5-bottle3,2024-01-27 10:20:43,'A painting of a pile of empty beer bottles.',bottle,1.0,F
+knife5-clock1,2024-01-27 10:20:47,'A painting of a bunch of different clocks.',clock,1.0,J
+cat4-dog3,2024-01-27 10:20:50,'A dog is curled up in a ball.',dog,0.9999831,H
+boat3-bicycle2,2024-01-27 10:20:53,'A very blurry image of a city with tall buildings.',airplane,0.9918662,X
+clock10-airplane1,2024-01-27 10:20:56,'An abstract image of a clock with a white background',clock,1.0,J
+truck4-bottle2,2024-01-27 10:21:00,'A blurry photo of a bunch of bottles',bottle,1.0,F
+bear8-bear1,2024-01-27 10:21:03,'A painting of a bear that is sitting down.',bear,0.999979,B
+truck9-chair3,2024-01-27 10:21:06,'A bunch of blue chairs in a room',chair,0.9999999,I
+dog3-keyboard1,2024-01-27 10:21:09,'A painting of a black dog sitting on the ground',dog,0.99408746,K
+boat8-dog3,2024-01-27 10:21:12,'A close up of a blurry image of an animal',elephant,0.4606937,X
+car4-clock1,2024-01-27 10:21:15,'A painting of a car with a bunch of numbers on it',car,0.99986947,G
+knife4-keyboard1,2024-01-27 10:21:19,'A close up of a blurry image of a surface',airplane,0.9860724,X
+truck10-clock1,2024-01-27 10:21:22,'A painting of a truck with a clock on it',truck,0.97139984,"T, C, J"
+clock10-boat2,2024-01-27 10:21:26,'An abstract painting of a red alarm clock.',clock,1.0,J
+bird3-oven1,2024-01-27 10:21:29,'A blurry photo of a blender in a kitchen.',bottle,0.4387034,X
+clock3-bicycle2,2024-01-27 10:21:32,'A close up of a clock with a blurry background',clock,1.0,J
+bear10-bottle1,2024-01-27 10:21:36,'A bunch of liquor bottles are piled together',bottle,1.0,F
+airplane1-clock1,2024-01-27 10:21:39,'A colorful abstract painting with a variety of shapes.',airplane,0.7446931,X
+bear1-elephant1,2024-01-27 10:21:42,'An elephant that is laying down on the ground.',elephant,0.99999976,L
+bird9-bear3,2024-01-27 10:21:45,'A blurry image of a bird sitting on a branch',bird,0.99951994,D
+chair5-clock2,2024-01-27 10:21:48,'An abstract painting of a chair and a clock.',clock,0.61001766,IJ
+car9-cat1,2024-01-27 10:21:52,'A blurry photo of a cat sleeping on a bed.',cat,0.99991834,H
+cat7-bottle1,2024-01-27 10:21:56,'A bunch of liquor bottles all grouped together',bottle,1.0,F
+airplane9-clock1,2024-01-27 10:21:59,'An abstract painting with a variety of colors and shapes.',airplane,0.7531028,X
+dog5-boat3,2024-01-27 10:22:02,'A very colorful and blurry image of a person',airplane,0.8526249,X
+bear4-cat3,2024-01-27 10:22:05,'A blurry image of a bear in a frame',bear,0.9999989,B
+bicycle7-oven1,2024-01-27 10:22:09,'A blurry image of a bicycle with a basket.',bicycle,0.9999999,C
+chair4-oven2,2024-01-27 10:22:14,'A blurry image of a toothbrush holder on a counter.',bottle,0.70493734,X
+elephant3-cat2,2024-01-27 10:22:17,'A blurry photo of a blurry cat',cat,0.99996555,H
+boat6-airplane2,2024-01-27 10:22:20,'An abstract painting of a blue and yellow object.',airplane,0.93463564,X
+airplane10-truck1,2024-01-27 10:22:23,'An abstract painting of a red airplane in flight.',airplane,1.0,A
+dog2-airplane2,2024-01-27 10:22:26,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+cat7-airplane2,2024-01-27 10:22:29,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+keyboard6-elephant1,2024-01-27 10:22:33,"""A close up of an elephant's skin pattern.""",elephant,0.99999976,L
+knife4-cat2,2024-01-27 10:22:36,'A blurry photo of a brown and white animal',dog,0.80183333,B
+bottle1-car1,2024-01-27 10:22:39,'A painting of a bunch of colorful cars',car,0.9998945,G
+chair7-bird1,2024-01-27 10:22:43,'A blurry image of a chair in a room.',chair,0.99999905,I
+dog10-airplane1,2024-01-27 10:22:46,'A blurry image of a person sitting in a chair',chair,0.99999976,I
+clock9-cat1,2024-01-27 10:22:50,'A close up of a blurry image of a clock',clock,1.0,J
+dog9-bicycle3,2024-01-27 10:22:54,'A painting of a dog with a bunch of wires.',dog,0.9950093,K
+boat1-bicycle2,2024-01-27 10:22:57,'A blurry image of a bunch of bikes',bicycle,0.99998474,C
+keyboard10-car1,2024-01-27 10:23:01,'An abstract painting of cars on a street.',car,0.99987185,G
+bottle5-cat1,2024-01-27 10:23:04,'A blurry image of a bottle with a red top',bottle,1.0,F
+truck2-chair1,2024-01-27 10:23:08,'A bunch of pink chairs in a room.',chair,0.99999976,I
+truck9-bottle2,2024-01-27 10:23:11,'A blurry image of a bunch of bottles',bottle,1.0,F
+boat9-dog2,2024-01-27 10:23:14,'A blurry photo of a furry animal',dog,0.9020297,B
+boat9-clock1,2024-01-27 10:23:17,'An abstract painting with a boat in the middle',boat,0.99999976,E
+chair5-car1,2024-01-27 10:23:20,'A painting of a bunch of cars in a pile',car,0.999137,G
+truck3-chair2,2024-01-27 10:23:25,'A room filled with lots of wooden chairs.',chair,1.0,I
+bicycle1-bird1,2024-01-27 10:23:28,'A blurry image of a bicycle in motion.',bicycle,0.99999964,C
+airplane3-airplane2,2024-01-27 10:23:32,'A painting of a plane flying in the sky',airplane,1.0,A
+cat5-knife2,2024-01-27 10:23:35,'A painting of a cat with a blurry background.',cat,0.99984694,H
+airplane10-car3,2024-01-27 10:23:38,'A painting of a red airplane in the sky.',airplane,1.0,A
+boat4-knife2,2024-01-27 10:23:41,'A blurry image of a colorful abstract painting.',airplane,0.9645644,X
+bird8-keyboard2,2024-01-27 10:23:44,'A close up of a blurry image of a camera',airplane,0.9701801,X
+chair1-chair1,2024-01-27 10:23:48,'A bunch of pink chairs in a room.',chair,0.99999976,I
+clock6-truck3,2024-01-27 10:23:50,'An abstract painting with a circle in the middle',airplane,0.73161644,X
+chair7-airplane1,2024-01-27 10:23:54,'A very blurry image that is hard to make out.',airplane,0.7981188,X
+airplane9-truck1,2024-01-27 10:23:57,'A painting of a red airplane flying in the sky.',airplane,1.0,A
+cat4-airplane1,2024-01-27 10:24:00,'A piece of paper that has been ripped up.',airplane,0.5148077,X
+car6-elephant3,2024-01-27 10:24:04,'A blurry image of a star on a leather surface',bottle,0.81562585,X
+car9-clock2,2024-01-27 10:24:07,'An artistic painting of a mini cooper car.',car,0.9998641,G
+knife3-clock2,2024-01-27 10:24:11,'An abstract painting with a knife and a clock.',knife,0.84935516,"J, N"
+boat4-chair2,2024-01-27 10:24:14,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+bicycle9-bottle1,2024-01-27 10:24:18,'A painting of a bicycle made out of bottles.',bottle,0.96886516,C
+cat7-truck2,2024-01-27 10:24:20,'An abstract painting with red and silver colors.',airplane,0.81268317,X
+truck6-oven3,2024-01-27 10:24:24,'An abstract painting of a kitchen with a stove.',oven,0.9940811,X
+boat7-bottle1,2024-01-27 10:24:27,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+elephant8-boat2,2024-01-27 10:24:30,'An abstract painting with a lot of colors',airplane,0.8095832,X
+airplane4-bear3,2024-01-27 10:24:34,'A close up of a blurry image of a cat',cat,0.99998164,H
+keyboard1-dog3,2024-01-27 10:24:37,"""An abstract painting of a dog's face and nose.""",dog,0.99914384,K
+keyboard4-bird1,2024-01-27 10:24:40,'An abstract painting with blue and gray colors.',airplane,0.9185688,X
+clock2-bottle3,2024-01-27 10:24:43,'A painting of a clock with a green background.',clock,1.0,J
+car9-truck3,2024-01-27 10:24:47,'An abstract painting of a yellow mini cooper.',car,0.98713964,G
+dog6-clock1,2024-01-27 10:24:50,'An abstract painting with a bunch of clocks in it',clock,1.0,J
+truck2-car3,2024-01-27 10:24:53,'An artistic painting of a red fire truck.',truck,0.9999448,P
+chair3-bicycle3,2024-01-27 10:24:57,'A painting of a chair with a bunch of wires.',chair,0.9999974,I
+airplane8-bicycle3,2024-01-27 10:25:00,'An abstract image of a bunch of wires.',airplane,0.97253394,X
+cat10-bottle1,2024-01-27 10:25:04,'A bunch of liquor bottles are piled together',bottle,1.0,F
+bird1-knife3,2024-01-27 10:25:07,'A blurry image of a person in a room.',airplane,0.8952692,X
+bear8-bicycle3,2024-01-27 10:25:11,'An abstract painting of a man with a beard.',bottle,0.3978549,X
+airplane10-dog3,2024-01-27 10:25:14,'A blurry photo of a brown and white animal',dog,0.80183333,B
+clock5-oven1,2024-01-27 10:25:17,'A blurry image of a clock with a white background',clock,1.0,J
+bottle5-airplane1,2024-01-27 10:25:21,'An abstract image of a bottle with a silver background.',bottle,1.0,F
+dog6-bird1,2024-01-27 10:25:24,'A blurry image of a dog with its tongue out.',dog,0.99975723,K
+bear9-dog1,2024-01-27 10:25:28,'A blurry image of a furry animal',dog,0.8728412,B
+bird6-truck2,2024-01-27 10:25:31,'An abstract painting with red and gray colors.',airplane,0.7004573,X
+airplane7-clock3,2024-01-27 10:25:34,'An abstract painting with a lot of different colors.',airplane,0.8657185,X
+oven5-dog3,2024-01-27 10:25:37,'A blurry photo of a dog in a furry coat',dog,0.9971277,K
+dog1-knife3,2024-01-27 10:25:41,"""A blurry image of a person's face in a mirror.""",airplane,0.49632412,X
+bottle5-truck1,2024-01-27 10:25:45,'An abstract painting of a bottle with a red liquid.',bottle,1.0,F
+elephant10-elephant1,2024-01-27 10:25:48,'A close up of the trunk of an elephant',elephant,0.9999995,L
+bicycle5-bear1,2024-01-27 10:25:51,'A very blurry image of some kind of animal',elephant,0.7984995,X
+keyboard7-boat2,2024-01-27 10:25:54,'A painting of a city with tall buildings.',airplane,0.95857155,X
+bottle7-elephant2,2024-01-27 10:25:58,'A close up of an elephants skin',elephant,1.0,L
+truck6-clock2,2024-01-27 10:26:02,'An artistic painting of a water truck.',truck,0.99635434,"T
+P"
+bird7-boat1,2024-01-27 10:26:04,'An abstract painting of a boat in the water.',boat,1.0,E
+clock4-elephant2,2024-01-27 10:26:08,'A very blurry image of what looks like a clock',clock,0.9999999,J
+dog3-bird2,2024-01-27 10:26:11,'A black dog is sitting on a gray background',dog,0.99983835,H
+truck6-dog2,2024-01-27 10:26:15,'A blurry image of a water bottle on a furry surface',bottle,1.0,F
+bird4-airplane1,2024-01-27 10:26:18,'A very blurry image that is hard to make out.',airplane,0.7981183,X
+chair7-car2,2024-01-27 10:26:21,'A colorful abstract painting of a red car',car,0.9999734,G
+truck3-clock3,2024-01-27 10:26:25,'An abstract image of a bunch of different clocks',clock,1.0,J
+chair7-truck3,2024-01-27 10:26:28,'An abstract painting of a chair with a blue seat.',chair,0.999997,I
+keyboard9-chair2,2024-01-27 10:26:32,'A room filled with lots of wooden chairs.',chair,1.0,I
+dog10-bottle1,2024-01-27 10:26:35,'A painting of a dog made out of bottles.',bottle,0.9999876,X
+car5-cat1,2024-01-27 10:26:39,'A blurry photo of a dog with a blue background',dog,0.99941874,K
+car10-bottle3,2024-01-27 10:26:42,'A painting of a car in front of a background of cans.',car,0.9932174,G
+chair4-bear2,2024-01-27 10:26:46,'A blurry image of a chair in a room.',chair,0.99999905,I
+bicycle6-bicycle3,2024-01-27 10:26:49,'A painting of a bike with a basket on the front.',bicycle,0.99999964,C
+dog8-keyboard3,2024-01-27 10:26:52,'A close up of a blurry image of a camera',airplane,0.9701801,X
+chair3-bottle3,2024-01-27 10:26:56,'A painting of a green chair sitting in a room.',chair,0.9999995,I
+boat4-bicycle3,2024-01-27 10:26:59,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+elephant2-elephant3,2024-01-27 10:27:02,'A picture of an elephant on a rug.',elephant,0.9999999,"B. bear
+D. bird
+E. boat
+G. car
+H. cat
+I. chair
+L. elephant
+M. keyboard
+O. oven
+P. truck"
+clock8-chair2,2024-01-27 10:27:06,'A large wooden clock sitting in the middle of a room.',clock,1.0,J
+knife10-knife1,2024-01-27 10:27:10,'A very blurry image of a person holding a gun.',knife,0.90420467,X
+bird7-car2,2024-01-27 10:27:13,'A very blurry image of a red and black object',airplane,0.92417073,X
+bicycle1-chair1,2024-01-27 10:27:17,'A painting of a pink bike with a basket.',bicycle,0.9999958,C
+bicycle7-bear2,2024-01-27 10:27:21,'A painting of a bicycle with a blurry background.',bicycle,0.9999975,C
+elephant4-clock3,2024-01-27 10:27:24,'An abstract painting with a lot of clocks in it',clock,1.0,J
+car6-bottle1,2024-01-27 10:27:27,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+boat1-bird3,2024-01-27 10:27:31,'A blurry image of a person holding a bat.',airplane,0.7872763,X
+dog9-bear3,2024-01-27 10:27:34,'A blurry image of a dog in a field.',dog,0.9983134,"H, K"
+bear6-clock1,2024-01-27 10:27:37,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+bicycle4-oven3,2024-01-27 10:27:41,'A blurry image of a bunch of electronics',airplane,0.9203821,X
+keyboard5-bird3,2024-01-27 10:27:44,'A painting of a piece of chocolate cake.',oven,0.6423113,X
+oven5-bicycle1,2024-01-27 10:27:49,'An abstract image of a microwave oven with a bunch of wires',oven,0.99911886,O
+keyboard1-clock1,2024-01-27 10:27:51,'A painting of a painting of a computer keyboard.',keyboard,0.9999999,M
+knife1-car3,2024-01-27 10:27:55,'A painting of a bunch of cars and trees.',car,0.9996836,G
+airplane4-bird3,2024-01-27 10:27:58,'A painting of a person flying through the air.',airplane,0.99981254,X
+elephant4-chair3,2024-01-27 10:28:01,'A bunch of blue chairs are stacked together',chair,0.9999999,I
+boat9-airplane2,2024-01-27 10:28:04,'An abstract painting of a boat in the water.',boat,1.0,E
+dog1-bear1,2024-01-27 10:28:08,'A blurry photo of a dog with a blurry background',dog,0.99963903,K
+clock5-airplane1,2024-01-27 10:28:11,'A close up of a clock with a blurry background',clock,1.0,J
+bear8-knife3,2024-01-27 10:28:14,'A very blurry image of a man in a suit.',airplane,0.82775384,X
+clock10-clock3,2024-01-27 10:28:18,'A painting of an alarm clock with a white background.',clock,1.0,J
+truck3-bird2,2024-01-27 10:28:22,"'A painting of a truck with the word ""eloisa"" on the side.'",truck,0.9999907,P
+keyboard5-dog3,2024-01-27 10:28:25,'A close up of a blurry image of a dog',dog,0.99977034,H
+dog9-chair2,2024-01-27 10:28:29,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+bear10-chair2,2024-01-27 10:28:32,'A room filled with lots of wooden chairs.',chair,1.0,I
+oven3-truck1,2024-01-27 10:28:36,'An abstract painting of a red object in a red box.',bottle,0.9247528,X
+elephant4-boat3,2024-01-27 10:28:39,'A painting of an elephant with a city in the background.',elephant,1.0,L
+oven6-knife3,2024-01-27 10:28:43,'A close up of a blurry image of a person',airplane,0.95328766,X
+elephant9-airplane2,2024-01-27 10:28:47,'An abstract painting with blue and yellow colors.',airplane,0.88481426,X
+elephant6-dog2,2024-01-27 10:28:50,'A blurry photo of a dog and a cat',cat,0.9792196,"H, K"
+clock10-dog3,2024-01-27 10:28:53,'A blurry image of a clock in a mirror',clock,1.0,J
+knife6-clock2,2024-01-27 10:28:56,'An abstract painting with various shapes and colors.',airplane,0.77699536,X
+airplane7-car1,2024-01-27 10:29:00,'An abstract painting of a bunch of colorful cars.',car,0.9998814,G
+dog4-bicycle1,2024-01-27 10:29:03,'A piece of artwork that is very colorful.',airplane,0.48832887,X
+keyboard7-bottle1,2024-01-27 10:29:07,'A bunch of liquor bottles sitting on a table',bottle,0.9999999,F
+truck2-elephant1,2024-01-27 10:29:10,'A close up of a surface that looks like skin',airplane,0.828158,X
+bottle1-cat3,2024-01-27 10:29:14,'A blurry photo of a bottle of alcohol.',bottle,1.0,F
+cat5-car2,2024-01-27 10:29:17,"'An abstract painting with red, yellow and gray colors.'",airplane,0.6239443,X
+bicycle8-truck1,2024-01-27 10:29:21,'A painting of a red bike with a red background.',bicycle,0.9999651,C
+cat10-airplane3,2024-01-27 10:29:24,'An abstract painting with a blue sky and a person.',airplane,0.99134725,X
+keyboard2-bottle1,2024-01-27 10:29:27,'A bunch of liquor bottles sitting on a table',bottle,0.9999999,F
+bird2-airplane3,2024-01-27 10:29:31,'A blurry image of a person holding a skateboard.',airplane,0.5933601,X
+bicycle6-cat1,2024-01-27 10:29:34,'A very blurry image of what appears to be a cat',cat,0.9998667,H
+bear6-cat3,2024-01-27 10:29:38,'A close up of a blurry image of a cat',cat,0.99998164,H
+truck1-dog1,2024-01-27 10:29:41,'A blurry photo of a furry animal',dog,0.9020297,B
+car10-car1,2024-01-27 10:29:44,'A painting of a red car with a yellow background.',car,0.9999001,G
+bird4-dog3,2024-01-27 10:29:48,'A painting of a dog with a blurry background.',dog,0.99779665,K
+chair2-knife1,2024-01-27 10:29:50,'A painting of a man sitting in a chair.',chair,0.9999999,I
+cat7-clock3,2024-01-27 10:29:53,'An abstract image of a bunch of different clocks',clock,1.0,J
+truck6-bear2,2024-01-27 10:29:57,'A blurry image of a water truck in the snow.',truck,0.9985739,P
+chair8-boat1,2024-01-27 10:30:00,'An abstract painting of a chair with a blue seat.',chair,0.999997,I
+bear2-car2,2024-01-27 10:30:04,'A very blurry image of a bunch of shoes',airplane,0.7169472,X
+bottle2-knife3,2024-01-27 10:30:07,'An abstract painting of a bottle of beer.',bottle,1.0,F
+truck9-elephant1,2024-01-27 10:30:11,'A close up of a surface that looks like skin.',airplane,0.8208402,X
+bicycle7-knife2,2024-01-27 10:30:15,'A painting of a bicycle in front of a brick wall.',bicycle,0.9999995,C
+keyboard4-knife2,2024-01-27 10:30:18,'An abstract painting with a lot of colors.',airplane,0.8346584,X
+bear1-airplane3,2024-01-27 10:30:21,'An abstract painting of a polar bear sitting on a white surface.',bear,0.99998283,B
+truck4-knife1,2024-01-27 10:30:25,'A painting of a pile of leather items.',bottle,0.6848585,X
+bear5-chair1,2024-01-27 10:30:28,'A painting of a bunch of pink chairs.',chair,0.99999976,I
+cat10-bear1,2024-01-27 10:30:31,'A blurry photo of a furry animal',dog,0.9020297,B
+keyboard4-bottle2,2024-01-27 10:30:34,'A bunch of bottles that are grouped together.',bottle,1.0,F
+cat9-clock2,2024-01-27 10:30:38,'An abstract image of a painting of a cat.',cat,0.9999646,H
+clock2-knife1,2024-01-27 10:30:41,'A painting of a clock with a blurry background.',clock,0.9999999,J
+bear8-dog1,2024-01-27 10:30:44,'A blurry image of a bear in a field',bear,0.9999982,B
+car3-oven3,2024-01-27 10:30:47,'An abstract painting of a car in a garage.',car,0.9995796,G
+bicycle3-keyboard1,2024-01-27 10:30:51,'A blurry image of a bicycle is seen.',bicycle,0.9999999,C
+clock7-bicycle1,2024-01-27 10:30:55,'An abstract image of a clock with the hands at 12 and 1.',clock,1.0,J
+keyboard7-oven2,2024-01-27 10:30:59,'A blurry image of a city with tall buildings.',airplane,0.98998266,X
+knife7-car2,2024-01-27 10:31:02,"'An abstract painting with red, yellow and gray colors.'",airplane,0.6239443,X
+bottle9-truck1,2024-01-27 10:31:06,'A painting of a bottle with a red top.',bottle,1.0,F
+bird5-bear3,2024-01-27 10:31:10,'A close up of a blurry image of a bird',bird,0.9997002,D
+bottle4-oven2,2024-01-27 10:31:13,'A bottle of soda sitting in a glass case.',bottle,1.0,F
+oven7-car3,2024-01-27 10:31:17,'A very blurry image of a bunch of cars.',car,0.99963486,G
+airplane2-bottle1,2024-01-27 10:31:20,'A bunch of bottles that are grouped together.',bottle,1.0,F
+bicycle3-oven3,2024-01-27 10:31:24,'A blurry image of a bunch of electronics',airplane,0.9203821,X
+car7-oven2,2024-01-27 10:31:27,'A blurry image of a camera in a glass case',bottle,0.69974774,X
+bear4-keyboard3,2024-01-27 10:31:30,'A blurry image of a pair of black shoes.',airplane,0.8846721,X
+knife8-cat2,2024-01-27 10:31:33,'A blurry photo of a brown and white animal',dog,0.80183333,B
+bird8-bottle1,2024-01-27 10:31:37,'A bunch of liquor bottles are shown in a collage.',bottle,1.0,F
+bottle1-bird3,2024-01-27 10:31:41,'A painting of a bottle with a white and red design.',bottle,1.0,F
+keyboard10-oven3,2024-01-27 10:31:44,'A painting of a bunch of electronic devices.',airplane,0.852157,X
+chair9-bird3,2024-01-27 10:31:47,'A painting of an office chair with wheels',chair,0.9999893,I
+chair5-truck3,2024-01-27 10:31:51,'An abstract painting with a yellow and blue background.',airplane,0.9497428,X
+keyboard9-airplane3,2024-01-27 10:31:54,'A blurry image of a plane in the sky',airplane,1.0,A
+chair10-bird3,2024-01-27 10:31:57,'An abstract painting of a chair with a brown seat.',chair,0.99999714,I
+chair10-cat1,2024-01-27 10:32:00,'A blurry image of a cat on a furry rug',cat,0.9999833,H
+knife9-elephant2,2024-01-27 10:32:04,'A close up of the skin of an elephant',elephant,1.0,L
+boat6-truck3,2024-01-27 10:32:08,"""A blurry image of a car's interior.""",car,0.99945396,G
+cat1-keyboard3,2024-01-27 10:32:11,'A blurry image of a cat with a black background.',cat,0.9999832,H
+chair5-bird1,2024-01-27 10:32:15,'A blurry image of a blue office chair.',chair,0.99999845,I
+bear2-keyboard2,2024-01-27 10:32:18,"""A black and white photo of a person's hand.""",airplane,0.7520802,X
+cat7-knife2,2024-01-27 10:32:22,'A very blurry image of a bunch of shoes',airplane,0.7169472,X
+knife8-truck3,2024-01-27 10:32:25,'An abstract painting with a yellow and blue truck',truck,0.9999788,P
+keyboard8-oven1,2024-01-27 10:32:28,'A blurry image of a computer keyboard is shown.',keyboard,0.99999976,M
+elephant6-car3,2024-01-27 10:32:32,'An abstract painting with red and white colors.',airplane,0.58871233,X
+bird5-airplane3,2024-01-27 10:32:35,'A painting of a blue bird sitting on a branch.',bird,0.99942786,D
+elephant9-bicycle2,2024-01-27 10:32:38,'A very blurry image of a bunch of objects.',airplane,0.9375842,X
+oven7-cat1,2024-01-27 10:32:42,'A blurry photo of a brown and white animal',dog,0.80183333,B
+boat8-knife1,2024-01-27 10:32:46,'An abstract painting of a pile of leather jackets.',bottle,0.3217152,X
+chair9-dog2,2024-01-27 10:32:49,'An abstract painting of a chair with a furry seat.',chair,0.9999974,I
+bicycle4-keyboard3,2024-01-27 10:32:53,'A blurry photo of a black and white object.',airplane,0.9783216,X
+knife8-bicycle1,2024-01-27 10:32:55,'An abstract painting with a lot of different colors',airplane,0.8496133,X
+truck1-knife1,2024-01-27 10:32:59,'A painting of a truck that is very distorted.',truck,0.99999726,P
+clock3-bird1,2024-01-27 10:33:02,'A blurry photo of a blue and white clock',clock,0.99999976,J
+bicycle9-airplane2,2024-01-27 10:33:06,'An abstract painting of a bicycle with a basket.',bicycle,1.0,C
+bird1-airplane2,2024-01-27 10:33:09,'A painting of a penguin on a blue background.',bird,0.96320254,X
+airplane9-keyboard2,2024-01-27 10:33:12,'A close up of a blurry image of a keyboard',keyboard,0.99999964,M
+knife2-elephant2,2024-01-27 10:33:16,"""A close up of an elephant's skin""",elephant,0.9999999,L
+clock4-chair1,2024-01-27 10:33:19,'A bunch of pink chairs all grouped together',chair,1.0,I
+elephant6-bicycle1,2024-01-27 10:33:22,'An abstract painting with a lot of colors',airplane,0.8095832,X
+clock7-keyboard2,2024-01-27 10:33:25,'A close up of a watch with a blurry background',clock,0.9604421,J
+knife8-boat1,2024-01-27 10:33:28,"'An abstract painting with blue, red and orange colors.'",airplane,0.85235494,X
+bottle10-truck3,2024-01-27 10:33:32,'A bottle of alcohol with a blue and yellow label.',bottle,1.0,F
+elephant2-clock1,2024-01-27 10:33:36,'A piece of artwork that has been manipulated in photoshop.',airplane,0.81399125,X
+car4-bicycle3,2024-01-27 10:33:39,'A painting of a pile of scrap metal.',airplane,0.5344334,X
+elephant7-car3,2024-01-27 10:33:42,'An abstract painting with a red car in it',car,0.999948,G
+elephant1-bottle1,2024-01-27 10:33:46,'A painting of an elephant made out of bottles.',bottle,0.9346078,"B, F"
+boat4-dog2,2024-01-27 10:33:49,'A blurry photo of a furry animal',dog,0.9020297,B
+chair6-bird2,2024-01-27 10:33:52,'A painting of a chair with a black seat.',chair,0.99999976,I
+bear9-bottle2,2024-01-27 10:33:55,'A bunch of bottles that are grouped together.',bottle,1.0,F
+clock1-dog2,2024-01-27 10:33:58,'A blurry image of a clock image',clock,1.0,J
+cat9-boat2,2024-01-27 10:34:01,'An abstract painting with multiple colors and shapes.',airplane,0.7399987,X
+cat4-knife1,2024-01-27 10:34:05,'A very blurry image of a painting of a man',airplane,0.85236603,X
+chair1-oven3,2024-01-27 10:34:08,'A painting of a bunch of silver drawers.',chair,0.96554494,X
+bicycle8-bear2,2024-01-27 10:34:12,'A blurry image of a bike on a carpet',bicycle,0.99996734,C
+elephant7-bird1,2024-01-27 10:34:15,'A blurry image of an elephant walking.',elephant,1.0,L
+airplane4-dog2,2024-01-27 10:34:19,'A very blurry image of some kind of animal',elephant,0.7984995,X
+bird4-cat3,2024-01-27 10:34:22,'A close up of a blurry image of an animal',elephant,0.4606937,X
+knife3-bear2,2024-01-27 10:34:26,'A blurry photo of a blurry animal',elephant,0.49864796,X
+keyboard4-oven2,2024-01-27 10:34:29,'A blurry image of a city with tall buildings.',airplane,0.9899824,X
+bird1-bear1,2024-01-27 10:34:33,'A very blurry image of what looks like an animal.',elephant,0.71791536,X
+clock10-oven2,2024-01-27 10:34:36,'An abstract photograph of an alarm clock in a glass block.',clock,0.99999976,J
+airplane5-chair3,2024-01-27 10:34:39,'An abstract painting with blue and gray colors',airplane,0.87714803,X
+dog1-cat3,2024-01-27 10:34:43,'A blurry photo of a dog with a black eye.',dog,0.9995901,K
+chair8-chair3,2024-01-27 10:34:46,'An abstract painting of a blue and white chair',chair,0.99999917,I
+knife7-chair2,2024-01-27 10:34:49,'A painting of a bunch of wooden chairs.',chair,0.99999976,I
+bicycle5-bottle3,2024-01-27 10:34:53,'A painting of a bicycle with a green background.',bicycle,0.9999995,C
+keyboard5-bear3,2024-01-27 10:34:56,'A close up of a furry animal with a blurry background',dog,0.9163177,B
+clock6-clock2,2024-01-27 10:34:59,'A close up of a clock on a surface',clock,1.0,J
+knife1-oven1,2024-01-27 10:35:03,'A blurry image of a staircase in a building.',airplane,0.9743726,X
+bird9-chair1,2024-01-27 10:35:06,'An abstract painting with pink and black colors.',airplane,0.9342082,X
+bear3-bicycle2,2024-01-27 10:35:09,'A blurry image of a bunch of bikes',bicycle,0.99998474,C
+clock3-keyboard3,2024-01-27 10:35:13,'A close up of a watch with a blurry background',clock,0.9604421,J
+bird1-boat1,2024-01-27 10:35:16,'A colorful abstract painting with a bird in it',bird,0.9999945,D
+car2-knife3,2024-01-27 10:35:19,'A close up of a blurry image of a camera',airplane,0.9701801,X
+airplane10-oven2,2024-01-27 10:35:22,'A painting of a plane flying in the sky',airplane,1.0,A
+knife6-airplane1,2024-01-27 10:35:25,'A piece of artwork that is very abstract.',airplane,0.84149915,X
+elephant3-keyboard2,2024-01-27 10:35:29,'A very blurry image of a black and white photo.',airplane,0.9867048,X
+airplane7-truck1,2024-01-27 10:35:32,'An abstract painting of a red airplane in flight.',airplane,1.0,A
+oven2-bear3,2024-01-27 10:35:36,'A close up of a furry animal in a cage',dog,0.95654,B
+bird7-truck2,2024-01-27 10:35:39,'An abstract painting with red and black colors.',airplane,0.8778519,X
+oven2-dog3,2024-01-27 10:35:42,'A close up of a blurry image of a cat',cat,0.99998164,H
+boat7-clock3,2024-01-27 10:35:46,'A piece of artwork that is an abstract design.',airplane,0.5384006,X
+elephant9-boat3,2024-01-27 10:35:50,'A very colorful and blurry image of a city',airplane,0.9659556,X
+truck9-airplane2,2024-01-27 10:35:53,'A painting of a truck with a blue trailer.',truck,0.9999974,P
+chair10-clock1,2024-01-27 10:35:56,'An abstract painting with a chair and numbers',chair,0.99999666,I
+bicycle6-dog2,2024-01-27 10:36:00,'A blurry image of a bicycle with a basket.',bicycle,0.9999999,C
+truck7-keyboard3,2024-01-27 10:36:03,'A blurry image of a black object on a table.',airplane,0.9352516,X
+dog1-dog2,2024-01-27 10:36:06,'A blurry image of a dog with one eye.',dog,0.9998043,K
+bicycle8-bird2,2024-01-27 10:36:10,'A painting of a bicycle is shown in this image.',bicycle,0.99999976,C
+bird1-truck1,2024-01-27 10:36:13,'An abstract painting with a red figure in it',airplane,0.40216193,X
+clock6-knife2,2024-01-27 10:36:16,'A painting of a round window in a brick wall.',clock,0.38374245,X
+bird6-elephant2,2024-01-27 10:36:19,'A close up of an elephants skin',elephant,1.0,L
+bird9-bicycle3,2024-01-27 10:36:22,'A painting of a bird sitting on a branch.',bird,0.99991155,D
+boat4-car3,2024-01-27 10:36:25,'A painting of a bunch of cars and buildings.',car,0.9985448,G
+bicycle1-knife3,2024-01-27 10:36:29,'A blurry image of a bicycle is seen.',bicycle,0.9999999,C
+elephant2-bottle3,2024-01-27 10:36:33,'A green elephant standing in a pile of bottles.',elephant,0.7988709,"E, B"
+boat7-boat2,2024-01-27 10:36:36,'An abstract painting of a boat in the water.',boat,1.0,E
+dog2-bicycle2,2024-01-27 10:36:39,'An abstract image of a bunch of wires.',airplane,0.97253394,X
+airplane4-keyboard3,2024-01-27 10:36:43,'A blurry image of a person holding a cell phone',airplane,0.67561424,X
+car2-car3,2024-01-27 10:36:46,'A painting of a red car with chrome rims.',car,0.99931073,G
+car3-elephant3,2024-01-27 10:36:50,'An elephant standing on top of a sandy beach.',elephant,1.0,L
+oven10-bicycle1,2024-01-27 10:36:53,'An abstract image of a car engine is shown.',car,0.9870177,G
+bicycle5-keyboard3,2024-01-27 10:36:56,'A close up of a blurry image of a phone',airplane,0.949261,X
+bottle8-bottle3,2024-01-27 10:37:00,'An abstract painting of a bottle of beer.',bottle,1.0,F
+clock3-elephant3,2024-01-27 10:37:03,'A close up of a clock with a blurry background',clock,1.0,J
+bird3-knife3,2024-01-27 10:37:07,'A blurry image of a person holding a cell phone',airplane,0.67561424,X
+keyboard9-elephant2,2024-01-27 10:37:10,'An aerial view of the surface of a planet.',airplane,0.999734,X
+car1-oven3,2024-01-27 10:37:13,'A blurry image of a bunch of electronics',airplane,0.9203821,X
+oven10-truck2,2024-01-27 10:37:16,'A close up of a blurry image of a car',car,0.99988484,G
+boat5-airplane1,2024-01-27 10:37:20,'A blurry image of a jet flying in the sky',airplane,1.0,A
+knife2-car3,2024-01-27 10:37:23,'An abstract painting of a red car and some trees',car,0.999936,G
+dog10-keyboard2,2024-01-27 10:37:26,'A computer keyboard sitting on top of a table.',keyboard,1.0,M
+chair5-oven2,2024-01-27 10:37:30,'A blurry image of a chair in a room.',chair,0.99999905,I
+keyboard8-airplane2,2024-01-27 10:37:32,'An abstract painting with yellow and blue colors.',airplane,0.8387481,X
+bear8-bottle1,2024-01-27 10:37:36,'A bunch of liquor bottles are stacked together',bottle,1.0,F
+airplane2-bird3,2024-01-27 10:37:40,'A very blurry image of a couple of birds flying.',airplane,0.9298915,D
+keyboard1-bear2,2024-01-27 10:37:43,'A blurry image of a keyboard and a hole.',keyboard,0.9999832,M
+elephant3-knife1,2024-01-27 10:37:46,'An abstract painting of a man with a beard.',bottle,0.3978549,X
+bear10-keyboard3,2024-01-27 10:37:49,'A close up of a blurry image of a camera',airplane,0.9701801,X
+knife1-dog1,2024-01-27 10:37:53,'A close up of a furry animal',dog,0.97523195,B
+bicycle9-keyboard3,2024-01-27 10:37:56,'A close up of a blurry image of a camera',airplane,0.9701801,X
+bottle7-truck2,2024-01-27 10:37:59,'An abstract painting with red and gray colors.',airplane,0.7004575,X
+truck8-bottle2,2024-01-27 10:38:02,'A bunch of bottles that are grouped together.',bottle,1.0,F
+car1-car2,2024-01-27 10:38:06,'A very blurry image of a red car.',car,0.9997161,G
+truck2-keyboard1,2024-01-27 10:38:09,'A black and white photo of a truck',truck,0.99999964,P
+airplane8-clock2,2024-01-27 10:38:11,'An abstract painting with various shapes and colors.',airplane,0.77699536,X
+bird1-keyboard3,2024-01-27 10:38:15,'A close up of a blurry image of a camera',airplane,0.9701801,X
+chair8-airplane1,2024-01-27 10:38:18,'A distorted image of a chair in a room.',chair,0.99999857,I
+cat5-bear2,2024-01-27 10:38:21,'A blurry image of a cat laying down',cat,0.9999926,H
+truck3-keyboard3,2024-01-27 10:38:25,'A blurry image of a cell phone on a table',airplane,0.9913316,X
+chair8-bicycle3,2024-01-27 10:38:28,'A distorted image of a chair in a room.',chair,0.99999857,I
+dog8-bottle2,2024-01-27 10:38:31,'A bunch of bottles that are grouped together.',bottle,1.0,F
+cat6-clock3,2024-01-27 10:38:35,'A painting of a cat with many clocks.',clock,0.7618233,"H, J"

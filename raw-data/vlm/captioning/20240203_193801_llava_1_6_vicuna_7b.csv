@@ -1,0 +1,1283 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+chair5-clock2,2024-02-03 19:38:24,The image is blurry and out of focus.,airplane,0.98405564,X
+knife10-knife1,2024-02-03 19:38:25,"The image is a blurry, abstract representation of a guitar.",airplane,0.8544331,X
+clock7-bottle2,2024-02-03 19:38:25,Clock with bottles.,clock,0.97776586,"J, F"
+boat3-keyboard2,2024-02-03 19:38:26,Blurry image of a keyboard.,keyboard,1.0,M
+elephant6-bicycle1,2024-02-03 19:38:27,"The image is a digital artwork of an elephant with a baby elephant. The elephants are surrounded by a chaotic, abstract pattern of shapes and colors.",elephant,0.9999999,"L, M"
+car1-airplane1,2024-02-03 19:38:28,"The image is a blurry, pixelated photograph of a motorcycle.",airplane,0.8597176,X
+bottle1-bird3,2024-02-03 19:38:29,A blurry image of a bottle.,bottle,1.0,F
+car6-truck3,2024-02-03 19:38:30,"The image is a close-up of a car's wheel, with a blurred background.",car,0.9969438,G
+knife10-chair1,2024-02-03 19:38:30,Blurry image of pink seats.,chair,0.71873987,X
+boat2-bottle2,2024-02-03 19:38:31,Blurry image of various bottles.,bottle,1.0,F
+elephant9-clock3,2024-02-03 19:38:32,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+keyboard9-boat2,2024-02-03 19:38:33,"The image is a colorful, abstract collage of various objects and scenes, including a car and a person.",car,0.99546105,G
+elephant2-truck2,2024-02-03 19:38:33,Abstract art with red and black elements.,airplane,0.8537662,X
+bear8-boat2,2024-02-03 19:38:34,Abstract art.,airplane,0.7448068,X
+airplane7-keyboard1,2024-02-03 19:38:34,The image is blurry and out of focus.,airplane,0.9840559,X
+car6-bicycle3,2024-02-03 19:38:35,The image is a close-up of a car wheel.,car,0.98760706,G
+keyboard1-clock1,2024-02-03 19:38:36,"The image is a close-up of a clock with a blurred background, featuring various numbers and symbols.",clock,1.0,J
+dog3-boat1,2024-02-03 19:38:37,Abstract art with blurred colors and shapes.,airplane,0.92534566,X
+airplane7-bottle3,2024-02-03 19:38:38,"The image is a close-up of a bunch of green bottles with white labels, possibly containing a green liquid. The labels have Chinese characters on them.",bottle,0.9999999,F
+keyboard4-cat2,2024-02-03 19:38:39,Blurry image of a surface with a pattern.,airplane,0.9828311,X
+chair9-bird3,2024-02-03 19:38:40,"The image is a blurry, abstract representation of a chair with a red and white color scheme.",chair,0.99999833,I
+bear4-keyboard3,2024-02-03 19:38:40,Blurry image of a black object.,airplane,0.98972356,X
+bicycle1-knife3,2024-02-03 19:38:41,Bicycle parts.,bicycle,1.0,C
+elephant5-bear2,2024-02-03 19:38:41,An elephant walking on a sandy surface.,elephant,0.9999999,L
+elephant7-bottle3,2024-02-03 19:38:42,The image is a digital artwork featuring a stylized elephant.,elephant,1.0,L
+bird5-bear3,2024-02-03 19:38:42,Bird.,bird,1.0,D
+clock8-keyboard1,2024-02-03 19:38:43,A close-up of a clock face with a blurred background.,clock,1.0,J
+truck2-clock1,2024-02-03 19:38:47,"The image is a collage of various elements, including a clock face, a truck, and what appears to be a piece of paper with writing on it. The clock face is prominent, with numbers and hands visible, and it's placed in the upper right corner of the image. The truck is depicted in the lower left corner, and it's made up of multiple pieces of paper. The writing on the paper in the lower right corner is not legible. The overall style of the image is abstract and appears to be a creative representation of these objects.",clock,0.9505329,"T, C, J"
+knife4-airplane3,2024-02-03 19:38:48,Blurry image of a black object with a blue background.,airplane,0.995765,X
+keyboard7-chair3,2024-02-03 19:38:49,A blurry image of chairs.,chair,0.9999994,I
+car8-dog1,2024-02-03 19:38:49,Blurry image of a car.,car,0.99956006,G
+oven9-oven1,2024-02-03 19:38:50,A blurry image of a toaster oven.,oven,0.9999994,O
+chair10-car2,2024-02-03 19:38:51,"The image is a blurry, colorful collage of various objects.",airplane,0.98774964,X
+knife6-oven3,2024-02-03 19:38:51,Abstract art.,airplane,0.7448068,X
+bicycle3-bird1,2024-02-03 19:38:52,Bicycle on a blurry surface.,bicycle,1.0,C
+bottle8-keyboard3,2024-02-03 19:38:54,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a black object with a pattern of holes or indentations. The focus is on the object, and the background is out of focus, which suggests that the object is the main subject of the image.",airplane,0.9969234,X
+airplane10-boat3,2024-02-03 19:38:58,"The image is a vibrant and colorful abstract art piece featuring a large airplane. The plane is depicted in a distorted and surreal manner, with its body stretching across the canvas and its wings spread out. The background is a blend of various colors and patterns, creating a sense of depth and complexity. The overall style of the image is reminiscent of a psychedelic or surrealist art genre.",airplane,1.0,A
+truck7-bird2,2024-02-03 19:38:58,A truck.,truck,1.0,P
+bird9-dog2,2024-02-03 19:38:58,Bird perched on branch.,bird,0.99991333,D
+chair2-bear2,2024-02-03 19:38:59,A blurry image of a wooden chair with a woven seat.,chair,0.9999999,I
+bird3-truck3,2024-02-03 19:39:00,Colorful abstract image with blurred shapes and lines.,airplane,0.9486075,X
+chair7-cat1,2024-02-03 19:39:00,A brown chair with a fluffy texture.,chair,0.9999999,I
+bicycle2-bottle1,2024-02-03 19:39:03,"The image is a collage of various objects, predominantly bottles, arranged in a chaotic manner. The bottles are of different shapes, sizes, and colors, creating a visually busy and cluttered scene. The background is blurred, making it difficult to discern any specific details.",bottle,0.9999708,X
+bottle8-bird1,2024-02-03 19:39:04,A blurry bottle of beer.,bottle,1.0,F
+bear4-clock3,2024-02-03 19:39:04,An elephant with clocks for eyes.,elephant,0.9999932,"J
+L"
+boat4-elephant2,2024-02-03 19:39:06,"The image is a close-up of a textured surface with a pattern of lines and ridges. The color palette is muted, with shades of brown and gray.",airplane,0.9656974,X
+knife9-bear3,2024-02-03 19:39:06,Blurry image of a cat.,cat,0.99998975,H
+bird8-keyboard2,2024-02-03 19:39:07,Blurry keyboard keys.,keyboard,1.0,M
+elephant10-elephant1,2024-02-03 19:39:08,"The image is a close-up of an elephant's skin, showing the wrinkled texture and pattern of its skin.",elephant,1.0,L
+bottle6-bird1,2024-02-03 19:39:08,A blue water bottle.,bottle,1.0,F
+chair8-boat1,2024-02-03 19:39:09,Abstract art with vibrant colors and shapes.,airplane,0.6373192,X
+keyboard7-oven2,2024-02-03 19:39:09,The image is blurry and out of focus.,airplane,0.9840559,X
+bird10-clock1,2024-02-03 19:39:10,"The image is a collage of various clocks and other objects, creating a chaotic and abstract pattern.",clock,0.99999475,J
+boat9-bear3,2024-02-03 19:39:11,Blurry image of a brown object with a texture that resembles fur.,bear,0.35471457,B
+chair4-bear2,2024-02-03 19:39:12,Blurry image of a chair.,chair,0.99999976,I
+dog3-truck2,2024-02-03 19:39:13,"The image is blurry and abstract, featuring a red and black object in the center.",airplane,0.9715308,X
+chair5-keyboard2,2024-02-03 19:39:13,Blurry image of a keyboard.,keyboard,1.0,M
+keyboard7-bear2,2024-02-03 19:39:14,Blurry.,dog,0.32327628,X
+oven3-car2,2024-02-03 19:39:14,Blurry image of a car.,car,0.99956006,G
+bottle8-dog2,2024-02-03 19:39:15,Bottle of beer.,bottle,1.0,F
+oven9-chair1,2024-02-03 19:39:17,"The image is blurry and out of focus, showing a pinkish-red color scheme. It appears to be a photograph of a room with a large screen or television, but the details are not clear due to the lack of focus.",airplane,0.97816443,X
+cat10-bird2,2024-02-03 19:39:17,Cat on a bed.,cat,0.99999976,H
+bird5-bird1,2024-02-03 19:39:17,Bird.,bird,1.0,D
+knife1-airplane1,2024-02-03 19:39:20,"The image is a close-up of a piece of paper with various writings and markings on it. The paper appears to be crumpled and torn, with some parts of the text obscured by the folds and creases. The colors of the text are red, black, and white.",airplane,0.8949185,X
+car3-airplane3,2024-02-03 19:39:21,"The image is a blurry, abstract representation of a car, possibly a sports car, with a focus on its wheels and the surrounding environment.",car,0.9938055,G
+bird4-dog3,2024-02-03 19:39:22,A close-up of a dog's paw.,dog,0.999912,H
+bird1-oven1,2024-02-03 19:39:22,Blurry bird on white background.,bird,0.9997718,D
+bicycle2-bird3,2024-02-03 19:39:23,Bicycle in motion.,bicycle,1.0,C
+airplane10-bear3,2024-02-03 19:39:23,A cat's tail.,cat,0.99999535,H
+chair8-elephant1,2024-02-03 19:39:24,The image is a close-up of a textured surface that resembles a chair.,chair,0.99999464,I
+boat5-car3,2024-02-03 19:39:26,"The image is a blurry, colorful collage of various objects and scenes, including cars, chairs, and a person. It appears to be a creative or abstract representation rather than a clear, focused photograph.",airplane,0.69904023,"G, I"
+clock4-bird3,2024-02-03 19:39:26,Clock with roman numerals.,clock,1.0,J
+boat7-clock3,2024-02-03 19:39:27,Abstract art with clocks.,clock,1.0,J
+clock6-knife2,2024-02-03 19:39:28,"The image is a close-up of a circular object with a pattern of small, metallic pieces.",airplane,0.94046867,X
+bicycle2-knife2,2024-02-03 19:39:30,"The image is a blurry, colorful collage of various objects, including what appears to be a bicycle, a pair of glasses, and some sort of mechanical or electronic components. The objects are overlapping and intertwined, creating a chaotic and abstract composition.",bicycle,0.9996257,"C, I"
+elephant9-bicycle2,2024-02-03 19:39:31,Blurry photo of a bicycle.,bicycle,0.99999976,C
+clock4-knife1,2024-02-03 19:39:33,"The image is a close-up of a clock with a brown and black color scheme. The clock has a circular face with a black center and white numbers and hands. The background is blurred, but it appears to be a textured surface.",clock,0.9999987,J
+keyboard4-clock2,2024-02-03 19:39:33,Abstract art.,airplane,0.7448068,X
+keyboard3-clock3,2024-02-03 19:39:34,"The image is a blurry, abstract representation of clocks.",clock,1.0,J
+dog7-oven2,2024-02-03 19:39:34,Black and white image of a person.,airplane,0.97002923,X
+keyboard4-truck3,2024-02-03 19:39:35,"The image is a blurry, colorful abstract representation of a car interior.",car,0.99921846,G
+bird8-clock1,2024-02-03 19:39:36,"The image is a collage of various clocks and numbers, creating a complex and abstract pattern.",clock,0.9999995,J
+cat2-knife3,2024-02-03 19:39:36,Abstract art.,airplane,0.7448068,X
+airplane3-cat1,2024-02-03 19:39:37,Blurry image of a cat.,cat,0.99998975,H
+boat9-airplane2,2024-02-03 19:39:37,Abstract art of boats on water.,boat,0.9999994,E
+truck1-bicycle3,2024-02-03 19:39:39,The image is a blurry photograph of a truck with a trailer attached. The truck is parked and appears to be in motion.,truck,0.9999945,P
+bear8-bicycle3,2024-02-03 19:39:39,Bear with lots of fur.,bear,0.99999964,B
+oven8-knife2,2024-02-03 19:39:42,"The image shows a close-up of a metal object with a textured surface. It appears to be a piece of machinery or equipment, possibly a part of a larger system or device. The object has a dark, metallic color with some lighter areas, and there are visible bolts and other mechanical components. The background is blurred, but it seems to be a workshop or industrial setting.",airplane,0.91922224,X
+boat3-cat3,2024-02-03 19:39:43,The image is blurry and indistinct.,airplane,0.9667419,X
+airplane9-oven2,2024-02-03 19:39:44,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+airplane3-oven1,2024-02-03 19:39:44,Blurry image of a plane.,airplane,1.0,A
+dog5-car3,2024-02-03 19:39:46,"The image is a blurry, colorful collage of various objects and scenes, including cars, a dog, and a person. The colors are vibrant, and the overall effect is a chaotic mix of shapes and forms.",car,0.51873994,"G, K"
+bear2-keyboard2,2024-02-03 19:39:47,Blurry keyboard keys.,keyboard,1.0,M
+airplane4-truck2,2024-02-03 19:39:49,"The image is a blurry, abstract representation of a red object with a metallic texture, possibly a car or a piece of machinery, set against a background that appears to be a grid or a mesh.",airplane,0.5979993,G
+dog1-bear1,2024-02-03 19:39:49,Dog.,dog,1.0,K
+truck4-bottle2,2024-02-03 19:39:50,Bottles.,bottle,1.0,F
+boat5-bicycle3,2024-02-03 19:39:51,"The image is a close-up of a cluster of bicycle parts, possibly a bicycle frame, with a blurred background.",bicycle,0.9999925,C
+elephant5-chair3,2024-02-03 19:39:52,The image is a blurry photo of a room with chairs.,chair,0.99998593,I
+chair3-car3,2024-02-03 19:39:53,"The image is a blurry, colorful collage of various objects, including cars and a motorcycle, with a focus on a red car.",car,0.9675616,"G, P"
+keyboard2-knife1,2024-02-03 19:39:54,"A blurry, colorful image with a lot of detail.",airplane,0.98133105,X
+bicycle9-airplane2,2024-02-03 19:39:55,"The image is a blurry, colorful depiction of a bicycle.",bicycle,0.9999999,C
+airplane9-truck1,2024-02-03 19:39:56,"The image is a blurry, colorful abstract design that resembles a red airplane with wings and a tail.",airplane,0.9999999,A
+dog4-keyboard2,2024-02-03 19:39:56,The image is blurry.,airplane,0.975727,X
+elephant1-car3,2024-02-03 19:39:57,"The image is a blurry, colorful collage of various objects, including a red car and a white chair.",car,0.8586313,"G, I"
+elephant2-clock1,2024-02-03 19:39:58,Abstract art with various shapes and colors.,airplane,0.7625906,X
+airplane5-dog3,2024-02-03 19:39:58,The image is blurry.,airplane,0.975727,X
+knife9-elephant2,2024-02-03 19:40:00,"The image is a close-up of a textured surface with a pattern of ridges and grooves. The colors are muted, with shades of brown and gray.",airplane,0.95217043,X
+car7-elephant3,2024-02-03 19:40:00,Carved into stone.,knife,0.7559793,X
+dog6-truck2,2024-02-03 19:40:02,"The image is a blurry, abstract representation of a red and black object, possibly a car, with a metallic texture.",car,0.8721271,G
+chair8-knife2,2024-02-03 19:40:02,Blurry image of a knife.,knife,1.0,N
+bear3-cat1,2024-02-03 19:40:03,Cat laying on white surface.,cat,0.9999993,H
+bicycle7-cat1,2024-02-03 19:40:03,A blurry image of a bicycle.,bicycle,0.99999976,C
+truck6-dog2,2024-02-03 19:40:04,Blurry image of a water tank.,bottle,0.98758405,X
+clock6-chair3,2024-02-03 19:40:05,"The image is a blurry photo of a circular arrangement of blue chairs, with a focus on the center where the chairs are more distinct.",chair,0.9999094,I
+chair5-knife3,2024-02-03 19:40:06,The image is blurry.,airplane,0.975727,X
+elephant2-airplane3,2024-02-03 19:40:06,Blurry image of an elephant.,elephant,1.0,L
+knife1-oven1,2024-02-03 19:40:07,Blurry image of stairs.,airplane,0.89238125,X
+bear4-oven2,2024-02-03 19:40:09,"The image is a blurry, black and white photograph of a mechanical object, possibly a piece of machinery or a vehicle, set against a hazy background. The object is the central focus of the image, with its details obscured by the blur.",airplane,0.9314801,X
+bicycle1-bottle3,2024-02-03 19:40:10,The image is a colorful and abstract representation of a bicycle.,bicycle,1.0,C
+knife7-chair2,2024-02-03 19:40:10,A blurry image of chairs.,chair,0.9999994,I
+cat7-boat3,2024-02-03 19:40:11,Colorful abstract art.,airplane,0.6991949,X
+bird1-bear1,2024-02-03 19:40:11,The image is a close-up of a bird with a blurred background.,bird,0.9992899,D
+keyboard10-keyboard1,2024-02-03 19:40:12,The image is blurry and out of focus.,airplane,0.98405564,X
+bottle1-dog2,2024-02-03 19:40:13,A bottle of wine.,bottle,1.0,F
+oven7-oven1,2024-02-03 19:40:13,Metal appliances in a kitchen.,oven,0.99358255,X
+oven5-dog3,2024-02-03 19:40:14,Blurry photo of a toaster.,oven,0.7533146,X
+bird3-boat3,2024-02-03 19:40:14,Colorful abstract art.,airplane,0.6991949,X
+boat3-bicycle2,2024-02-03 19:40:15,"The image is a blurry, abstract representation of a bicycle.",bicycle,0.9999999,C
+airplane2-bicycle1,2024-02-03 19:40:17,"The image is a close-up of a metal object with a lot of detail, possibly a motorcycle or a piece of machinery, surrounded by a blurred background of other metal objects.",airplane,0.8974304,X
+bear3-truck3,2024-02-03 19:40:17,Abstract art.,airplane,0.7448068,X
+car4-bear3,2024-02-03 19:40:17,The image is blurry.,airplane,0.975727,X
+keyboard7-bottle1,2024-02-03 19:40:18,Bottles of various liquids.,bottle,1.0,F
+cat9-bottle2,2024-02-03 19:40:18,Blurry image of various bottles.,bottle,1.0,F
+truck6-clock2,2024-02-03 19:40:19,The image is a blurry photo of a water truck.,truck,0.99433124,P
+cat5-bottle1,2024-02-03 19:40:20,"The image is a collage of various objects, predominantly bottles, with a multitude of colors and shapes.",bottle,0.9999988,F
+cat7-bottle1,2024-02-03 19:40:21,"The image is a collage of various bottles and jars, creating a pattern that resembles a cat.",cat,0.7613313,"F, I, H"
+cat10-airplane3,2024-02-03 19:40:22,Abstract art.,airplane,0.7448068,X
+bottle2-car2,2024-02-03 19:40:22,Blurry image of cars.,car,0.9996111,G
+knife1-truck2,2024-02-03 19:40:23,Abstract art.,airplane,0.7448068,X
+clock1-bear1,2024-02-03 19:40:23,The image is blurry.,airplane,0.975727,X
+knife10-dog1,2024-02-03 19:40:24,"The image is a close-up of a fur texture, showing a mix of orange and white colors.",dog,0.42651668,X
+cat8-car2,2024-02-03 19:40:25,Blurry image of a face with red and black colors.,airplane,0.595967,X
+knife1-car3,2024-02-03 19:40:26,"The image is a blurry, colorful collage of various objects, including cars and motorcycles, set against a background that appears to be a park or a street.",bicycle,0.60926074,"G, P"
+bicycle4-boat1,2024-02-03 19:40:27,A blurry image of a bicycle.,bicycle,0.99999976,C
+bird3-bird2,2024-02-03 19:40:27,Bird with open beak.,bird,0.9999813,D
+bird2-dog2,2024-02-03 19:40:28,Bird with brown feathers.,bird,0.9999969,D
+chair10-airplane2,2024-02-03 19:40:28,A blurry image of a chair.,chair,0.99999976,I
+boat5-knife2,2024-02-03 19:40:31,"The image is a close-up of a colorful, abstract pattern that resembles a collage of various materials, possibly paper or fabric, with a blurred background. The colors are vibrant, and the pattern is intricate with a mix of shapes and textures.",airplane,0.9594065,X
+elephant8-truck3,2024-02-03 19:40:31,Abstract art with blurred shapes and colors.,airplane,0.9156473,X
+car4-oven2,2024-02-03 19:40:32,Blurry image of a black and blue object.,airplane,0.9953042,X
+elephant2-bottle3,2024-02-03 19:40:33,The image is a close-up of a green object with a patterned background.,airplane,0.8146801,X
+knife1-bird2,2024-02-03 19:40:35,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a black object with a reflective surface, possibly a metallic object. The background is out of focus, with hints of gray and white, suggesting a textured surface.",airplane,0.99839157,X
+keyboard8-airplane2,2024-02-03 19:40:36,Colorful abstract art.,airplane,0.6991949,X
+keyboard5-airplane3,2024-02-03 19:40:36,The image is blurry and out of focus.,airplane,0.98405564,X
+clock6-bottle1,2024-02-03 19:40:37,The image is a close-up of a clock with a multitude of bottles and glasses arranged around it.,clock,0.9782031,"J, F"
+truck3-cat1,2024-02-03 19:40:38,The image is blurry.,airplane,0.975727,X
+bird10-bird2,2024-02-03 19:40:38,Black bird with long beak.,bird,0.9999982,D
+clock2-dog1,2024-02-03 19:40:39,Clock with blurred background.,clock,1.0,J
+bottle6-bottle3,2024-02-03 19:40:41,"The image is a close-up of a green bottle with a label that appears to be covered in various writings and symbols. The background is a blur of colors and shapes, creating a pattern that obscures the details of the label.",bottle,0.99999964,F
+chair3-bottle3,2024-02-03 19:40:42,The image is a digital artwork featuring a green chair with a patterned background.,chair,0.99999,I
+bird6-bottle3,2024-02-03 19:40:44,"The image is a close-up of a green object with multiple textures and shapes, resembling a leaf or a plant. It is surrounded by a blurred background of various bottles and papers, creating a sense of depth and complexity.",bottle,0.9928738,X
+clock5-elephant2,2024-02-03 19:40:44,Clock face with roman numerals.,clock,1.0,J
+elephant7-bird1,2024-02-03 19:40:45,Elephant with blue skin.,elephant,1.0,L
+bird2-knife1,2024-02-03 19:40:45,A blurry image of a hand holding a gun.,knife,0.8561906,X
+clock1-boat3,2024-02-03 19:40:48,"The image is a vibrant and colorful abstract composition, featuring a mix of geometric shapes and organic forms. The dominant colors are red, blue, and green, creating a dynamic and energetic atmosphere. The image appears to be a digital art piece, possibly representing a futuristic or fantastical landscape.",airplane,0.80553305,X
+car5-cat1,2024-02-03 19:40:48,Car in snow.,car,0.99858,G
+car2-bird3,2024-02-03 19:40:49,Car in snow.,car,0.99858,G
+dog10-clock1,2024-02-03 19:40:52,"The image is a vibrant collage of various objects and symbols, including a dog, clocks, and letters. The dog is the central figure, surrounded by a myriad of objects that create a sense of chaos and complexity. The colors are bright and varied, adding to the overall visual impact of the image. The objects are arranged in a way that draws the viewer's attention to the dog, making it the focal point of the collage. The image does not contain any text.",dog,0.8062292,"D, J, K"
+dog10-bottle1,2024-02-03 19:40:54,"The image is a collage of various bottles and cans, creating a mosaic of colors and shapes.",bottle,0.9999373,F
+car8-airplane3,2024-02-03 19:40:54,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+cat7-clock3,2024-02-03 19:40:55,The image is a close-up of a clock with a blurry background.,clock,1.0,J
+bird3-dog1,2024-02-03 19:40:56,The image is blurry.,airplane,0.975727,X
+bicycle2-keyboard2,2024-02-03 19:40:56,Blurry image of a phone.,airplane,0.9695478,X
+bird3-cat1,2024-02-03 19:40:57,Bird with orange and brown feathers.,bird,0.999997,D
+bird8-car2,2024-02-03 19:40:57,Blurry image of a red and black object.,airplane,0.9641752,X
+bottle6-bear2,2024-02-03 19:40:58,A blurry image of a bottle.,bottle,1.0,F
+boat6-dog1,2024-02-03 19:41:01,"The image shows a close-up of a furry texture, possibly a piece of fabric or a surface with a fuzzy texture. The color palette is warm, with shades of brown and beige. The texture appears soft and fluffy, with a slight blur that gives it a sense of depth.",bear,0.7482282,X
+bear3-dog3,2024-02-03 19:41:01,Blurry cat.,cat,0.9999982,H
+bicycle9-keyboard3,2024-02-03 19:41:02,The image is blurry and out of focus.,airplane,0.98405564,X
+bird10-chair1,2024-02-03 19:41:02,Blurry image of pink seats.,chair,0.7187407,X
+dog1-knife3,2024-02-03 19:41:03,Blurry image of a dog.,dog,0.999915,K
+elephant1-bear2,2024-02-03 19:41:03,Baby elephant in the snow.,elephant,1.0,L
+bear4-elephant2,2024-02-03 19:41:04,Bear.,bear,1.0,B
+knife10-keyboard3,2024-02-03 19:41:04,Blurry image of a knife.,knife,1.0,N
+airplane6-chair3,2024-02-03 19:41:06,"The image is abstract and blurry, featuring a pattern of blue and white shapes that resemble chairs. The colors are muted, and the overall effect is somewhat chaotic.",chair,0.9953876,I
+bicycle1-dog3,2024-02-03 19:41:06,Bicycle with blurred background.,bicycle,1.0,C
+chair1-airplane2,2024-02-03 19:41:07,The image is abstract and features a chair with a blue and yellow color scheme.,chair,0.9999988,I
+keyboard9-elephant2,2024-02-03 19:41:09,"The image is a close-up of a textured surface with a pattern of ridges and curves. The surface appears to be made of a material with a rough, possibly natural texture. The colors are muted, with shades of brown and gray dominating the image.",airplane,0.977097,X
+boat1-bird3,2024-02-03 19:41:10,Abstract art.,airplane,0.7448068,X
+dog1-boat3,2024-02-03 19:41:10,Abstract art.,airplane,0.7448068,X
+dog9-bicycle3,2024-02-03 19:41:13,"The image is a digital artwork featuring a stylized figure that resembles a dog. The figure is predominantly red with white highlights and is surrounded by a complex pattern of lines and shapes that give the impression of a chaotic, abstract environment. The colors are vibrant, with a mix of reds, pinks, and whites, and the overall effect is one of a dynamic, abstract composition.",dog,0.9818782,K
+oven6-chair3,2024-02-03 19:41:14,The image is a blurry photo of a chair with a blue cushion.,chair,0.999997,I
+chair8-oven1,2024-02-03 19:41:15,Chair in room.,chair,1.0,I
+oven7-keyboard1,2024-02-03 19:41:15,A stack of boxes.,bottle,0.65870506,X
+elephant8-clock2,2024-02-03 19:41:16,"The image is a close-up of a collection of various objects, possibly coins, with a blurred background.",airplane,0.9622808,X
+clock9-keyboard2,2024-02-03 19:41:17,Blurry image of a camera lens.,airplane,0.88781905,X
+cat6-clock3,2024-02-03 19:41:17,A cat with a clock face for a body.,cat,0.7759383,"H, J"
+boat1-bicycle2,2024-02-03 19:41:18,Bicycle parts in a blurry background.,bicycle,0.99999976,C
+chair8-airplane1,2024-02-03 19:41:18,Blurry image of a chair.,chair,0.99999976,I
+car1-clock2,2024-02-03 19:41:19,"The image is a close-up of a motorcycle, showing its engine and various components.",truck,0.41699642,X
+dog1-car2,2024-02-03 19:41:21,"The image is a blurry, colorful collage of various objects, possibly cars, with a focus on red and yellow hues.",car,0.9209914,G
+car7-keyboard3,2024-02-03 19:41:21,The image is blurry.,airplane,0.975727,X
+knife2-bottle2,2024-02-03 19:41:22,Bottles of different sizes and shapes.,bottle,1.0,F
+bottle3-airplane2,2024-02-03 19:41:22,A blurry image of a bottle.,bottle,1.0,F
+bird3-bear3,2024-02-03 19:41:23,Blurry image of a cat.,cat,0.99998975,H
+knife1-clock2,2024-02-03 19:41:23,Abstract art.,airplane,0.7448068,X
+cat4-airplane1,2024-02-03 19:41:24,"The image is a collage of various objects and text, creating a chaotic and fragmented appearance.",airplane,0.96869624,X
+bear6-bear1,2024-02-03 19:41:24,Furry texture.,bear,0.8631264,X
+knife6-bird1,2024-02-03 19:41:25,A blue fork.,knife,0.964456,X
+bird4-clock1,2024-02-03 19:41:26,"The image is a colorful collage of various clocks and numbers, creating a chaotic and abstract pattern.",clock,0.99999964,J
+keyboard3-car2,2024-02-03 19:41:26,Blurry.,dog,0.32327628,X
+oven4-elephant3,2024-02-03 19:41:27,The image is blurry.,airplane,0.975727,X
+dog4-elephant2,2024-02-03 19:41:27,A tiger's head.,cat,0.43210262,X
+bottle1-car1,2024-02-03 19:41:28,"The image is a blurry, colorful collage of various objects, predominantly featuring a bottle and a car.",bottle,0.9962333,"G, F"
+bear2-bird3,2024-02-03 19:41:29,A bear.,bear,0.99999976,B
+clock5-airplane1,2024-02-03 19:41:29,A blurry clock with a white face and black hands.,clock,1.0,J
+dog10-truck2,2024-02-03 19:41:30,The image is blurry.,airplane,0.975727,X
+elephant4-boat3,2024-02-03 19:41:31,The image is a digital artwork of an elephant.,elephant,1.0,L
+clock8-airplane2,2024-02-03 19:41:31,A clock with a blue face and yellow numbers.,clock,1.0,J
+boat9-boat3,2024-02-03 19:41:32,The image is a vibrant and colorful digital artwork of a ship.,boat,0.8970832,E
+car8-knife2,2024-02-03 19:41:33,"The image is blurry and abstract, featuring a close-up of a car with a colorful pattern on its body.",car,0.9995034,G
+oven1-cat1,2024-02-03 19:41:34,"The image is blurry and has a bokeh effect, making it difficult to discern any specific details.",airplane,0.9886184,X
+cat3-bear2,2024-02-03 19:41:34,Cat.,cat,1.0,H
+clock7-bear2,2024-02-03 19:41:35,Blurry clock.,clock,1.0,J
+clock10-knife3,2024-02-03 19:41:36,The image is blurry and out of focus.,airplane,0.98405564,X
+truck1-clock3,2024-02-03 19:41:37,"The image is a close-up of a clock face with a white background, featuring a mix of clock hands and numbers. The clock appears to be in a state of disrepair, with some parts missing or damaged.",clock,0.9999995,J
+chair7-chair1,2024-02-03 19:41:38,"The image is a blurry, colorful photograph of a row of chairs.",chair,0.99997795,I
+boat10-bear3,2024-02-03 19:41:39,The image is blurry and out of focus.,airplane,0.98405564,X
+keyboard4-keyboard2,2024-02-03 19:41:39,Blurry keyboard.,keyboard,1.0,M
+bottle10-clock2,2024-02-03 19:41:40,The image is blurry.,airplane,0.975727,X
+elephant9-airplane2,2024-02-03 19:41:40,Abstract art.,airplane,0.7448068,X
+car6-boat1,2024-02-03 19:41:41,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+knife8-truck3,2024-02-03 19:41:42,Colorful abstract art with blurred shapes and objects.,airplane,0.9465259,X
+bear4-truck3,2024-02-03 19:41:42,Abstract art.,airplane,0.7448068,X
+knife3-bear2,2024-02-03 19:41:42,Blurry image of a dog.,dog,0.999915,K
+elephant1-bottle1,2024-02-03 19:41:44,"The image is a collage of various bottles and jars, creating an abstract pattern that resembles an elephant.",elephant,0.9465673,F
+knife7-bird3,2024-02-03 19:41:44,Abstract art.,airplane,0.7448068,X
+bird9-bear3,2024-02-03 19:41:45,Bird in blurry background.,bird,0.99994886,D
+bottle10-boat3,2024-02-03 19:41:47,"The image is a colorful, abstract representation of a bottle with a label that reads ""DARK BEER"". The bottle is surrounded by a vibrant, multicolored background that appears to be a digital or painted artwork.",bottle,1.0,F
+airplane3-elephant1,2024-02-03 19:41:51,"The image shows a close-up of a textured surface with a pattern that resembles a cracked or eroded surface. The texture is rough and uneven, with a mix of dark and light areas that give it a weathered appearance. There is a small, darker area that stands out against the lighter background, possibly indicating a focal point or a specific feature of the texture. The image has a grainy quality, which contributes to the overall impression of a natural or aged material.",airplane,0.9133902,X
+knife10-elephant3,2024-02-03 19:41:55,"The image shows a close-up of a textured surface that resembles a piece of leather or a similar material. The surface has a rough, uneven texture with a pattern of ridges and creases. The color is a muted, earthy tone, and the image is taken in natural light, which casts a shadow on the surface, indicating that the light source is not directly above the object. The focus is on the texture and pattern of the material, with no additional context or background details provided.",airplane,0.6891362,X
+cat7-elephant1,2024-02-03 19:41:55,A cat.,cat,0.9999995,H
+boat3-car3,2024-02-03 19:41:57,"The image is a vibrant, colorful collage of various objects and scenes, including cars, buildings, and possibly some abstract elements. The colors are bright and varied, creating a dynamic and somewhat chaotic visual effect.",car,0.695545,G
+dog3-knife3,2024-02-03 19:41:57,A black dog with a shiny nose.,dog,0.99997914,K
+bicycle5-car3,2024-02-03 19:41:58,A blurry image of a red bicycle.,bicycle,0.9999995,C
+chair1-elephant1,2024-02-03 19:42:01,"The image is a close-up of a textured surface that resembles a cracked or weathered material. It has a rough, uneven texture with variations in color and shading that give it a three-dimensional appearance. The surface is not smooth, and there are no distinct shapes or objects that can be identified. The image is in grayscale, which enhances the contrast and the visual complexity of the textures.",airplane,0.9333021,X
+chair5-bird1,2024-02-03 19:42:02,The image is blurry.,airplane,0.975727,X
+keyboard6-boat2,2024-02-03 19:42:03,The image is a collage of various objects and colors.,airplane,0.9682335,X
+clock7-cat2,2024-02-03 19:42:03,Blurry clock.,clock,1.0,J
+dog8-boat3,2024-02-03 19:42:04,"The image is a colorful, abstract representation of a robot.",airplane,0.5915657,X
+chair6-elephant2,2024-02-03 19:42:06,"The image is a close-up of a textured surface that resembles a piece of leather or a similar material. It has a rough, wrinkled texture and appears to be a photograph with a shallow depth of field, focusing on the texture while the background is blurred.",airplane,0.9443761,X
+bottle5-clock3,2024-02-03 19:42:07,A bottle with a clock on it.,bottle,0.9836091,"F, J"
+bear1-bear3,2024-02-03 19:42:07,The image is a close-up of a bear's fur.,bear,0.9999989,B
+keyboard9-cat1,2024-02-03 19:42:08,"The image is a close-up of a cat's fur, with a blurred background.",cat,0.99999106,H
+bicycle5-chair2,2024-02-03 19:42:09,The image is blurry and features a room with chairs and a bicycle.,chair,0.6652545,"I, C"
+elephant8-cat1,2024-02-03 19:42:10,"The image is blurry and out of focus, showing the backsides of three cats.",cat,0.9999926,H
+bicycle5-oven3,2024-02-03 19:42:11,Blurry image of electronic equipment.,airplane,0.9871377,M
+chair8-bicycle3,2024-02-03 19:42:12,"The image is abstract and colorful, featuring a chair with a patterned background.",chair,0.99999905,I
+bear7-oven3,2024-02-03 19:42:13,A blurry image of a computer tower with various components and cables.,airplane,0.92885673,X
+bear5-boat2,2024-02-03 19:42:14,"The image is a digital art piece featuring a bear with a colorful, abstract design.",bear,0.9999727,B
+oven6-oven3,2024-02-03 19:42:16,"The image shows a close-up of a machine with a blurred background, possibly a vending machine or a piece of industrial equipment. The machine has a metallic finish and features various buttons and controls. The focus is on the front panel of the machine, which is slightly tilted to the left.",airplane,0.9961849,X
+airplane10-airplane1,2024-02-03 19:42:17,Blurry image of an airplane.,airplane,1.0,A
+bicycle5-cat1,2024-02-03 19:42:17,The image is blurry.,airplane,0.975727,X
+airplane5-bottle3,2024-02-03 19:42:19,"The image is a collage of various objects, predominantly green bottles and cans, with some white text and numbers visible. The objects are arranged in a way that they overlap and create a sense of depth.",bottle,0.9998098,F
+dog2-bottle2,2024-02-03 19:42:20,Blurry image of various objects.,airplane,0.9488182,X
+cat8-bird2,2024-02-03 19:42:20,A small kitten with black fur.,cat,0.99997115,H
+bicycle5-elephant1,2024-02-03 19:42:21,Bicycle on stone.,bicycle,1.0,C
+bird8-knife2,2024-02-03 19:42:21,Bird with red beak.,bird,0.9999995,D
+cat10-elephant3,2024-02-03 19:42:21,Cat on stone.,cat,0.9999976,H
+truck4-boat3,2024-02-03 19:42:24,"The image is a colorful, abstract representation of a vehicle, possibly a truck or a train, with various parts and components visible. The colors are vibrant, and the image has a dreamlike quality due to the distortion and blending of colors.",truck,0.99103713,X
+bottle10-bear2,2024-02-03 19:42:24,A bottle of Dramamine.,bottle,1.0,F
+knife3-keyboard3,2024-02-03 19:42:25,Blurry photo of a black object in motion.,airplane,0.9854349,X
+airplane5-boat3,2024-02-03 19:42:25,Colorful abstract image with blurred objects.,airplane,0.9822499,X
+bear3-keyboard2,2024-02-03 19:42:26,Blurry keyboard.,keyboard,1.0,M
+bear4-knife1,2024-02-03 19:42:26,Abstract art.,airplane,0.7448068,X
+dog10-oven2,2024-02-03 19:42:27,"The image is a blurry, pixelated photo of a black object.",airplane,0.997015,X
+dog10-dog1,2024-02-03 19:42:27,Dog on a blanket.,dog,0.9999677,"H, K"
+car9-knife1,2024-02-03 19:42:28,"The image is a close-up of a car's wheel, showing the spokes and hubcap.",car,0.8918516,G
+elephant8-bird2,2024-02-03 19:42:29,Three elephants standing in a line.,elephant,1.0,L
+chair9-bottle3,2024-02-03 19:42:32,"The image is a close-up of a green chair with a patterned seat, surrounded by numerous bottles with various labels. The chair is positioned in the center of the image, and the bottles are scattered around it. The background is blurred, drawing focus to the chair and bottles.",chair,0.9911015,"I, F"
+clock1-clock2,2024-02-03 19:42:33,"The image is a close-up of a clock with a blurred background, showing the hands and numbers in focus.",clock,0.9999994,J
+clock6-truck3,2024-02-03 19:42:34,"The image is a blurry, colorful, and abstract representation of a space with chairs and a table.",chair,0.9988495,I
+bird8-chair1,2024-02-03 19:42:34,Blurry image of a row of red seats.,chair,0.52875966,I
+elephant6-car3,2024-02-03 19:42:37,"The image is a colorful, abstract representation of a vehicle, possibly a car, with a blend of red, white, and black colors. The vehicle appears to be in motion, as suggested by the blurred effect. The background is out of focus, with hints of greenery and a building, but the vehicle is the main subject of the image.",car,0.97569615,G
+bottle5-elephant1,2024-02-03 19:42:40,"The image shows a bottle with a textured surface, possibly made of a material like leather or suede. The bottle appears to be slightly tilted, and the texture is rough and uneven, giving it a rugged appearance. The background is a uniform gray, which contrasts with the darker color of the bottle.",bottle,1.0,F
+oven1-bird3,2024-02-03 19:42:41,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+truck5-keyboard1,2024-02-03 19:42:42,A toy train.,truck,0.8522092,X
+boat9-bird1,2024-02-03 19:42:43,"The image is blurry and indistinct, making it difficult to discern any specific details.",airplane,0.9545834,X
+boat7-chair1,2024-02-03 19:42:43,Blurry image of red chairs.,chair,0.9999976,I
+keyboard6-bear2,2024-02-03 19:42:44,Blurry image of a keyboard.,keyboard,1.0,M
+chair8-chair3,2024-02-03 19:42:47,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a close-up of a blue object, possibly a chair, with a pattern of lines and shapes that could be interpreted as a staircase or a similar structure. The colors are predominantly blue and white, with some hints of other colors, but the overall image is indistinct.",chair,0.7713267,X
+clock9-cat1,2024-02-03 19:42:48,Blurry clock face with brown and black hands.,clock,1.0,J
+chair5-oven2,2024-02-03 19:42:48,Office chair with wheels.,chair,0.99999964,I
+bird4-bicycle2,2024-02-03 19:42:49,The image is blurry and out of focus.,airplane,0.984056,X
+airplane4-airplane1,2024-02-03 19:42:49,The image is blurry and out of focus.,airplane,0.984056,X
+boat9-chair2,2024-02-03 19:42:50,A blurry photo of a room filled with wooden chairs.,chair,0.99999,I
+car5-truck3,2024-02-03 19:42:51,"The image is a colorful, blurry photograph of a classic yellow car.",car,0.9991872,G
+knife7-boat3,2024-02-03 19:42:52,"The image is a vibrant and colorful collage of various objects and scenes, creating a chaotic and abstract visual effect.",airplane,0.98687404,X
+elephant6-truck3,2024-02-03 19:42:53,Blurry photo of a mechanical object with yellow and blue hues.,airplane,0.6270365,X
+knife4-clock3,2024-02-03 19:42:54,"The image is a blurry, abstract representation of a clock with various hands and numbers.",clock,1.0,J
+bicycle4-car2,2024-02-03 19:42:54,Blurry image of motorcycles.,bicycle,0.65452886,X
+truck9-bottle2,2024-02-03 19:42:56,"The image is a close-up of various objects, including bottles, a horse, and a car. The objects are blurry and out of focus.",bottle,0.98788327,X
+bottle5-chair1,2024-02-03 19:42:56,Blurry photo of chairs.,chair,0.99999917,I
+bear4-boat2,2024-02-03 19:42:57,Abstract art.,airplane,0.7448068,X
+car4-boat1,2024-02-03 19:42:57,Abstract art.,airplane,0.7448068,X
+dog10-elephant1,2024-02-03 19:42:57,Dog on a textured surface.,dog,0.9999926,H
+clock2-clock3,2024-02-03 19:42:58,A close-up of a clock face with Roman numerals.,clock,1.0,J
+chair5-truck3,2024-02-03 19:42:59,"Blurry, colorful, abstract image of a room with furniture.",airplane,0.8304571,"I, J"
+clock4-car2,2024-02-03 19:43:00,The image is blurry and out of focus.,airplane,0.984056,X
+oven3-bear2,2024-02-03 19:43:00,Two ears of a cat.,cat,0.99999285,H
+bicycle4-cat1,2024-02-03 19:43:01,A blurry image of a bicycle.,bicycle,0.99999976,C
+oven5-bicycle1,2024-02-03 19:43:01,A blurry image of a toaster.,oven,0.8496827,X
+cat5-dog3,2024-02-03 19:43:02,A cat with a blurry background.,cat,0.9999976,H
+car10-bottle3,2024-02-03 19:43:03,"The image is a digital artwork featuring a car with a greenish hue, surrounded by a collage of various objects and texts.",car,0.9986168,G
+cat9-knife2,2024-02-03 19:43:04,Abstract art with a fish motif.,boat,0.56837595,X
+airplane1-chair2,2024-02-03 19:43:04,Blurry photo of chairs.,chair,0.99999917,I
+oven9-bird3,2024-02-03 19:43:05,A toaster oven with a food item inside.,oven,1.0,O
+cat4-keyboard2,2024-02-03 19:43:05,The image is blurry.,airplane,0.975727,X
+knife8-boat1,2024-02-03 19:43:06,Abstract image with blurred shapes and colors.,airplane,0.92543703,X
+knife1-dog1,2024-02-03 19:43:06,Fur texture.,bear,0.85146195,X
+knife1-elephant1,2024-02-03 19:43:07,Cracked surface.,airplane,0.55643976,X
+cat1-boat1,2024-02-03 19:43:07,Abstract art.,airplane,0.7448068,X
+boat9-knife2,2024-02-03 19:43:09,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of some sort of object with various textures and colors, but the lack of clarity renders it unidentifiable.",airplane,0.9734563,X
+chair1-chair1,2024-02-03 19:43:10,The image is a blurry photo of a room filled with pink chairs.,chair,0.9999114,I
+clock5-oven1,2024-02-03 19:43:10,Blurry clock.,clock,1.0,J
+bird6-car3,2024-02-03 19:43:11,"The image is a blurry, colorful collage of various objects and scenes, including cars, buildings, and greenery.",car,0.69140744,G
+keyboard2-bicycle3,2024-02-03 19:43:12,"The image is a blurry, abstract collage of various shapes and colors.",airplane,0.9738217,X
+airplane7-bird3,2024-02-03 19:43:13,Blurry image of a bird.,bird,0.9996238,D
+bottle6-knife3,2024-02-03 19:43:13,The image is blurry and out of focus.,airplane,0.984056,X
+knife9-bottle2,2024-02-03 19:43:14,Blurry image of various bottles.,bottle,1.0,F
+elephant5-elephant1,2024-02-03 19:43:15,Elephant carving on stone.,elephant,1.0,"E, G"
+clock2-elephant2,2024-02-03 19:43:15,Clock with brown and white colors.,clock,1.0,J
+bird8-elephant1,2024-02-03 19:43:15,Bird on branch.,bird,0.9999764,D
+truck1-knife1,2024-02-03 19:43:18,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a vehicle, possibly a truck or a car, with a focus on the front end. The colors are muted, and the texture seems to be a mix of metallic and possibly leather or fabric.",truck,0.70493656,"G, P"
+knife1-keyboard3,2024-02-03 19:43:19,Blurry image of a black object with white dots.,airplane,0.9872225,X
+truck4-bear1,2024-02-03 19:43:19,Blurry image of a dog.,dog,0.999915,K
+bear1-airplane3,2024-02-03 19:43:20,A blurry image of a bear.,bear,0.99999857,B
+bicycle4-oven3,2024-02-03 19:43:21,Blurry image of a bicycle.,bicycle,0.99999976,C
+bear8-bottle1,2024-02-03 19:43:22,"The image is a collage of various bottles and cans, creating a chaotic and colorful pattern.",bottle,0.9998826,F
+airplane9-airplane2,2024-02-03 19:43:22,Abstract art.,airplane,0.7448068,X
+cat3-bicycle1,2024-02-03 19:43:22,A cat in a blurry background.,cat,0.9999976,H
+bird5-airplane3,2024-02-03 19:43:23,Bird on branch.,bird,0.9999764,D
+boat7-elephant3,2024-02-03 19:43:26,"The image shows a close-up of a textured surface with a pattern that resembles a sail. The texture is rough and uneven, with a mix of light and dark areas that give the impression of a sail with a rope-like structure. The surface appears to be made of a material that could be leather or a similar type of hide. The image is taken in natural light, and the focus is on the texture and pattern rather than the surrounding environment.",boat,0.94884074,X
+bear6-bird2,2024-02-03 19:43:28,"The image is a close-up of a dog's body, showing its fur and possibly some water droplets. It's a grayscale photo with a blurred background.",dog,0.9997373,H
+truck1-cat1,2024-02-03 19:43:29,The image is blurry.,airplane,0.975727,X
+keyboard9-bird1,2024-02-03 19:43:29,The image is a blurry photo of a keyboard with a blue and white color scheme.,keyboard,0.9999701,M
+airplane5-chair3,2024-02-03 19:43:30,A blurry image of chairs.,chair,0.9999994,I
+bear10-chair2,2024-02-03 19:43:31,A blurry photo of a room with many chairs.,chair,0.99999547,I
+bird10-bicycle1,2024-02-03 19:43:32,The image is a close-up of a bird's head with a blurred background.,bird,0.9992131,D
+boat6-truck3,2024-02-03 19:43:32,The image is blurry and out of focus.,airplane,0.984056,X
+cat5-boat1,2024-02-03 19:43:33,Abstract art.,airplane,0.7448068,X
+truck2-bicycle2,2024-02-03 19:43:35,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a photograph of a vehicle, possibly a car or a truck, with a reflective surface that adds to the confusion. The colors are muted, and the overall effect is abstract and somewhat chaotic.",car,0.5290901,X
+dog4-chair1,2024-02-03 19:43:36,Blurry image of a row of red chairs.,chair,0.99999344,I
+airplane7-boat2,2024-02-03 19:43:36,Abstract art.,airplane,0.7448068,X
+boat9-cat3,2024-02-03 19:43:37,Boat on water.,boat,1.0,E
+keyboard6-bottle2,2024-02-03 19:43:37,A close-up of various bottle caps.,bottle,1.0,F
+bicycle8-clock3,2024-02-03 19:43:38,A bicycle with a clock on each wheel.,bicycle,0.9723302,"C, J"
+car6-bottle1,2024-02-03 19:43:39,"The image is a collage of various bottles and jars, creating a pattern that resembles a train.",bottle,0.9983541,F
+bottle8-elephant3,2024-02-03 19:43:39,A bottle of beer.,bottle,1.0,F
+bear5-bicycle3,2024-02-03 19:43:40,A bear in a forest.,bear,1.0,B
+car3-oven3,2024-02-03 19:43:41,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+clock6-car2,2024-02-03 19:43:42,Blurry image of a clock with red and black hands.,clock,1.0,J
+oven6-truck1,2024-02-03 19:43:42,Red and black object with a reflective surface.,airplane,0.84028804,X
+boat6-airplane2,2024-02-03 19:43:43,"The image is blurry and abstract, featuring a mix of colors and shapes that do not form a clear, recognizable object.",airplane,0.9638373,X
+truck6-oven3,2024-02-03 19:43:45,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a machine or equipment with various buttons and controls.",airplane,0.998963,X
+knife5-truck3,2024-02-03 19:43:46,"The image is a blurry, colorful abstract art piece.",airplane,0.9873224,X
+truck6-bear2,2024-02-03 19:43:46,Blurry image of a water truck.,truck,0.99649054,P
+airplane4-keyboard3,2024-02-03 19:43:47,The image is blurry and out of focus.,airplane,0.9840559,X
+truck4-oven2,2024-02-03 19:43:48,A blurry image of a truck with a flatbed trailer carrying various electronic devices.,truck,0.99999917,P
+bird10-bear2,2024-02-03 19:43:48,Bird's head.,bird,0.99999607,D
+airplane2-bear1,2024-02-03 19:43:49,The image is blurry.,airplane,0.975727,X
+cat5-airplane2,2024-02-03 19:43:49,Abstract art.,airplane,0.7448068,X
+boat7-bottle1,2024-02-03 19:43:50,"The image is a collage of various bottles and jars, creating a dense and colorful pattern.",bottle,0.9999908,F
+oven6-knife3,2024-02-03 19:43:51,The image is blurry and out of focus.,airplane,0.9840559,X
+truck1-bird1,2024-02-03 19:43:51,Blurry image of a truck.,truck,0.99999976,P
+boat8-truck2,2024-02-03 19:43:52,The image is a blurry photograph of a red car.,car,0.9998809,G
+cat3-elephant2,2024-02-03 19:43:52,Cat.,cat,1.0,H
+dog3-bird2,2024-02-03 19:43:53,A black dog sitting on a surface.,dog,0.9999348,K
+cat1-chair2,2024-02-03 19:43:53,A blurry image of chairs.,chair,0.9999994,I
+bear10-bear2,2024-02-03 19:43:54,The image is blurry.,airplane,0.975727,X
+keyboard10-oven3,2024-02-03 19:43:54,Blurry image of electronic equipment.,airplane,0.9871377,M
+chair7-airplane1,2024-02-03 19:43:57,"The image is a digital artwork that appears to be a collage of various elements, including what looks like a chair, a book, and some abstract shapes. The colors are muted, with a predominance of white, gray, and red. The overall style is abstract and fragmented, with a sense of chaos and disorder.",chair,0.9529275,X
+cat5-bicycle3,2024-02-03 19:43:58,A cat with a blurry background.,cat,0.9999976,H
+keyboard7-knife1,2024-02-03 19:43:59,"A close-up of a collection of various tools, possibly a set of screwdrivers, with a blurred background.",knife,0.9861785,X
+elephant3-chair1,2024-02-03 19:44:00,The image is a blurry photo of a room filled with pink chairs.,chair,0.9999114,I
+keyboard5-oven2,2024-02-03 19:44:00,Abstract cityscape with blurred buildings and reflections.,airplane,0.82392997,X
+clock1-dog2,2024-02-03 19:44:03,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a textured surface with some sort of inscription or markings, possibly on a piece of fabric or paper. The text is not legible due to the lack of clarity.",airplane,0.9470223,X
+truck3-keyboard3,2024-02-03 19:44:03,The image is blurry and out of focus.,airplane,0.984056,X
+oven6-bear2,2024-02-03 19:44:04,A chicken in a box.,bird,0.669276,X
+oven7-clock2,2024-02-03 19:44:05,"The image is a close-up of a bunch of electronic devices, possibly a mix of clocks and other gadgets, with a blurred background.",clock,0.9637757,J
+bird2-bird2,2024-02-03 19:44:06,Bird perched on a branch.,bird,0.99994755,D
+elephant6-bottle2,2024-02-03 19:44:07,"The image is a blurry, colorful collage of various bottles and jars.",bottle,0.99999344,F
+keyboard9-bicycle2,2024-02-03 19:44:08,"The image is a close-up of a collection of silverware, including spoons and forks, with a blurred background.",knife,0.95486385,X
+bear7-truck1,2024-02-03 19:44:09,The image is a close-up of a red object with a pattern of lines and shapes. It appears to be a digital or painted representation rather than a photograph.,airplane,0.83513063,X
+bicycle3-elephant2,2024-02-03 19:44:10,Bicycle on a textured surface.,bicycle,1.0,C
+bicycle8-boat1,2024-02-03 19:44:10,A bicycle with a blurred background.,bicycle,1.0,C
+keyboard1-dog3,2024-02-03 19:44:12,The image is blurry and features a close-up of a dog's face with a focus on its nose.,dog,0.99959797,H
+boat10-cat1,2024-02-03 19:44:13,"The image is a close-up of a cat's face, with a focus on the eyes and nose. The cat appears to be resting or sleeping. The background is blurred, with a blue and white color scheme.",cat,0.9999937,H
+bear2-cat2,2024-02-03 19:44:14,Blurry bear.,bear,0.99999976,B
+cat2-car3,2024-02-03 19:44:17,"The image is a digital artwork featuring a cat with a red and white color scheme. The cat's fur appears to be made of various shapes and patterns, creating a complex and intricate design. The background is blurred, but it seems to be a cityscape with buildings and trees. The overall style of the image is abstract and artistic.",cat,0.99992967,H
+elephant2-bird1,2024-02-03 19:44:17,The image is blurry and out of focus.,airplane,0.984056,X
+bird5-bicycle1,2024-02-03 19:44:18,"A bird in the midst of a blurred, colorful background.",bird,0.9999311,D
+keyboard7-clock3,2024-02-03 19:44:19,"The image is a close-up of a clock with a distorted face, showing a mix of different clocks and hands.",clock,0.99999976,J
+oven4-truck3,2024-02-03 19:44:20,The image is blurry and out of focus.,airplane,0.98405564,X
+bottle3-knife3,2024-02-03 19:44:20,Bottle.,bottle,1.0,F
+elephant6-cat2,2024-02-03 19:44:21,A mother bear and her cub.,bear,0.99999464,B
+car9-keyboard2,2024-02-03 19:44:21,Blurry image of a keypad.,keyboard,0.9998766,M
+chair6-dog1,2024-02-03 19:44:22,Furry texture.,bear,0.8631264,X
+truck6-boat2,2024-02-03 19:44:22,"The image is a blurry, abstract representation of a water truck.",truck,0.9948295,P
+bottle3-chair3,2024-02-03 19:44:23,Abstract art.,airplane,0.7448068,X
+bear2-car2,2024-02-03 19:44:23,Blurry image of a car.,car,0.99956006,G
+oven5-bird1,2024-02-03 19:44:24,A blurry image of a microwave with food inside.,oven,0.8892075,O
+bicycle9-knife3,2024-02-03 19:44:26,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a pair of objects, possibly tools or machinery, with a white background.",airplane,0.97973204,X
+cat4-car2,2024-02-03 19:44:26,Abstract art with vibrant colors and shapes.,airplane,0.6373192,X
+car7-bird3,2024-02-03 19:44:27,Car.,car,0.9999993,G
+bicycle10-dog3,2024-02-03 19:44:27,Blurry bike.,bicycle,0.99999607,C
+bottle5-cat1,2024-02-03 19:44:28,Blurry bottle in background.,bottle,1.0,F
+boat6-car1,2024-02-03 19:44:28,Colorful abstract image with blurred cars.,car,0.9864891,G
+bird5-car2,2024-02-03 19:44:29,Blurry bird on branch.,bird,0.9998927,D
+chair10-clock1,2024-02-03 19:44:31,"The image is a colorful and abstract representation of a clock, with various shapes and symbols that resemble numbers and letters. The clock is surrounded by a pattern of what appears to be a stained glass window. The overall effect is a blend of artistic and functional elements.",clock,0.9999999,X
+airplane8-truck3,2024-02-03 19:44:31,Blurry image of a room with various objects.,airplane,0.9686471,X
+bottle6-chair2,2024-02-03 19:44:33,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a wooden chair with a patterned backrest.",chair,0.9999815,I
+cat3-truck3,2024-02-03 19:44:34,"The image is a blurry, colorful abstract of a room with furniture.",airplane,0.80153173,X
+bird2-car3,2024-02-03 19:44:34,Blurry image of a red car.,car,0.99949956,G
+elephant4-chair3,2024-02-03 19:44:35,Abstract art with blurred blue shapes.,airplane,0.9538375,X
+airplane8-bicycle3,2024-02-03 19:44:35,Abstract art.,airplane,0.7448068,X
+chair1-truck3,2024-02-03 19:44:36,Abstract art with blurred objects.,airplane,0.9705353,X
+keyboard1-elephant3,2024-02-03 19:44:39,"The image shows a close-up of a textured surface with a pattern that resembles a reptile's skin. There is a small, irregularly shaped hole in the center of the pattern. The texture is rough and uneven, with a mix of light and dark areas, suggesting a natural or artificial material with a rugged appearance.",bird,0.38739893,X
+truck9-chair3,2024-02-03 19:44:39,Chairs in a room.,chair,1.0,I
+oven10-airplane2,2024-02-03 19:44:40,The image is a close-up of a microwave with a blurred background.,airplane,0.5819441,X
+keyboard8-dog3,2024-02-03 19:44:41,Blurry image of a keyboard with orange and black keys.,keyboard,1.0,M
+oven4-chair1,2024-02-03 19:44:42,"The image is a blurry, colorful photograph of a room with multiple chairs and a screen.",chair,0.99865144,I
+chair1-dog1,2024-02-03 19:44:42,The image is blurry.,airplane,0.975727,X
+bottle7-clock1,2024-02-03 19:44:43,"The image is a close-up of a clock with a colorful, abstract design.",clock,1.0,J
+car7-boat3,2024-02-03 19:44:44,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+dog4-bird1,2024-02-03 19:44:44,Dog.,dog,1.0,K
+cat1-cat3,2024-02-03 19:44:44,Cat.,cat,1.0,H
+airplane6-keyboard3,2024-02-03 19:44:45,Blurry photo of a black object.,airplane,0.9907624,X
+bird1-knife3,2024-02-03 19:44:46,"The image is a blurry, abstract representation of a dog.",dog,0.9996799,H
+clock8-bear2,2024-02-03 19:44:46,Clock with blurry background.,clock,1.0,J
+knife8-cat2,2024-02-03 19:44:47,Blurry image of a brush.,airplane,0.41022167,X
+boat4-car3,2024-02-03 19:44:49,"The image is a blurry, colorful collage of various objects and scenes, including cars, buildings, and greenery. The colors are vibrant and the objects are overlapping, creating a sense of chaos and disarray.",car,0.53878313,G
+cat1-bird1,2024-02-03 19:44:49,A cat with blue eyes.,cat,0.9999982,H
+boat9-keyboard2,2024-02-03 19:44:50,Blurry photo of a keyboard.,keyboard,1.0,M
+car5-keyboard3,2024-02-03 19:44:50,Blurry image of a car.,car,0.99956006,G
+chair10-bicycle1,2024-02-03 19:44:51,"A chaotic, colorful, abstract image with a blurred background and a central focus on a chair.",chair,0.9998858,I
+airplane10-car3,2024-02-03 19:44:53,"The image is a blurry, colorful collage of various objects and scenes, including a red car, a motorcycle, and a person. The colors are vibrant and the objects are overlapping, creating a sense of chaos.",car,0.7486007,G
+chair9-chair3,2024-02-03 19:44:54,The image is a blurry photo of a room filled with blue chairs.,chair,0.9998203,I
+airplane6-bear3,2024-02-03 19:44:55,The image is blurry and out of focus.,airplane,0.9840559,X
+chair7-bottle1,2024-02-03 19:44:58,"The image is a collage of various objects, predominantly bottles, arranged in a way that creates an optical illusion. The bottles are interspersed with other items, such as jars and vases, and are set against a blurred background. The arrangement gives the impression of a chair, but upon closer inspection, it is clear that it is a creative arrangement of objects rather than a real chair.",bottle,0.99159944,X
+elephant4-bicycle2,2024-02-03 19:45:01,"The image is a close-up of a blurry object, possibly a piece of metal or a mechanical structure, with a focus on its intricate details. The object appears to be made up of numerous interconnected parts, creating a complex and somewhat chaotic pattern. The background is out of focus, which further emphasizes the object in the foreground. The overall effect is a sense of depth and complexity.",airplane,0.9953832,X
+knife9-airplane2,2024-02-03 19:45:01,Abstract art.,airplane,0.7448068,X
+chair5-bottle3,2024-02-03 19:45:04,"The image is a close-up of a green chair with a patterned seat, surrounded by various objects that appear to be made of glass. The objects have a reflective quality and include what looks like bottles and other glass items. The chair is the central focus of the image, with the surrounding objects creating a blurred background.",chair,0.99997365,"I, F"
+cat5-chair3,2024-02-03 19:45:05,"The image is a blurry, abstract representation of a room filled with chairs.",chair,0.99998736,I
+bicycle1-truck1,2024-02-03 19:45:05,A red bicycle.,bicycle,1.0,C
+knife2-dog1,2024-02-03 19:45:06,Fur.,bear,0.8032466,X
+clock1-car1,2024-02-03 19:45:06,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+chair7-bird1,2024-02-03 19:45:07,The image is blurry.,airplane,0.975727,X
+bicycle7-clock3,2024-02-03 19:45:08,A blurry image of a bicycle with a clock face on each wheel.,bicycle,0.99835265,"I, J"
+chair6-truck2,2024-02-03 19:45:09,"The image is a close-up of a blurry, abstract metal object with a pinkish hue.",airplane,0.8003788,X
+clock4-chair1,2024-02-03 19:45:10,"The image is a blurry, abstract representation of a theater with rows of red seats.",airplane,0.6777749,X
+clock6-bird3,2024-02-03 19:45:10,Clock with brown face and gold hands.,clock,1.0,J
+elephant9-elephant3,2024-02-03 19:45:11,Elephant trunk.,elephant,1.0,L
+bicycle2-dog1,2024-02-03 19:45:12,Abstract art with a blurred background and a focus on a central figure that resembles a face or mask.,airplane,0.9344056,X
+bicycle10-airplane2,2024-02-03 19:45:13,A blurry image of a blue bicycle.,bicycle,0.99999714,C
+chair7-clock3,2024-02-03 19:45:13,The image is a close-up of a chair with a clock on it.,clock,0.88239646,"I, J"
+bear10-elephant1,2024-02-03 19:45:14,Textured surface.,airplane,0.95261437,X
+chair2-boat1,2024-02-03 19:45:16,"The image is a colorful, abstract representation of a chair with a blue seat and a red backrest. The background is blurred, with hints of white and blue, giving the impression of a room or a space.",chair,0.99997306,I
+cat10-clock1,2024-02-03 19:45:19,"The image is abstract and features a collage of clocks with various orientations and sizes. The clocks have numbers and hands, and some are overlapping or partially obscured. The colors are muted, with a predominance of blues, greens, and browns. The style is reminiscent of a kaleidoscope or a mosaic.",clock,0.9999999,J
+cat7-truck2,2024-02-03 19:45:19,The image is a close-up of a red car with a blurred background.,car,0.9998678,G
+airplane5-knife1,2024-02-03 19:45:20,Blurry image of a bottle.,bottle,1.0,F
+bear3-chair2,2024-02-03 19:45:21,A large pile of wooden chairs.,chair,0.9999999,I
+bear9-boat2,2024-02-03 19:45:21,Abstract art of a lion.,bird,0.37688535,X
+dog4-airplane3,2024-02-03 19:45:22,Blurry image of a person's face.,airplane,0.91742957,X
+boat4-bird1,2024-02-03 19:45:25,"The image is abstract and features a blend of colors and textures. It appears to be a close-up of a fabric with a mix of blue, white, and gray tones. The fabric has a crumpled texture, giving it a sense of movement or dynamism. The image is somewhat blurry, which adds to the abstract nature of the piece.",airplane,0.96189374,X
+elephant4-car3,2024-02-03 19:45:26,"The image is a blurry, colorful photograph of a red and white elephant.",elephant,1.0,L
+airplane4-knife1,2024-02-03 19:45:29,"The image is a close-up of a blurry, abstract object with a metallic sheen. It appears to be a piece of machinery or equipment with various parts and components. The colors are muted, with a mix of browns, greys, and hints of blue and green. The focus is on the texture and the interplay of light and shadow, rather than on the specific details of the object.",airplane,0.9640469,X
+airplane4-bird3,2024-02-03 19:45:30,The image is blurry and out of focus.,airplane,0.984056,X
+keyboard5-bottle1,2024-02-03 19:45:30,Bottles of alcohol.,bottle,1.0,F
+boat3-airplane2,2024-02-03 19:45:31,Abstract art.,airplane,0.7448068,X
+truck10-bicycle1,2024-02-03 19:45:31,The image is a digital artwork of a car with a futuristic design.,car,0.9990878,G
+keyboard5-bird3,2024-02-03 19:45:34,"The image is a close-up of a dark, textured surface that could be a piece of fabric or a similar material. It has a pattern of darker and lighter areas, and there are hints of a light source coming from the top left corner, creating a sense of depth and shadow. The colors are muted, with a predominance of dark browns and blacks.",airplane,0.812507,X
+keyboard2-clock1,2024-02-03 19:45:35,Abstract art with clocks.,clock,1.0,J
+cat9-boat2,2024-02-03 19:45:35,Abstract art.,airplane,0.7448068,X
+bird10-cat1,2024-02-03 19:45:37,"The image is a close-up of a cat's head, focusing on the whiskers and the fur around the eyes. The cat appears to be brown and white.",cat,0.9999981,H
+keyboard7-boat2,2024-02-03 19:45:37,Abstract art.,airplane,0.7448068,X
+keyboard4-oven2,2024-02-03 19:45:38,Abstract digital art.,airplane,0.23184934,X
+keyboard1-airplane2,2024-02-03 19:45:39,The image is a close-up of a blue and yellow object with a hole in the center.,airplane,0.94670475,X
+clock3-dog2,2024-02-03 19:45:39,Clock with fur texture.,clock,1.0,J
+bird10-elephant2,2024-02-03 19:45:41,"The image is a close-up of a textured surface with a pattern that resembles a seashell or a piece of wood with a natural grain. The pattern is intricate and detailed, with a mix of dark and light colors.",airplane,0.43115112,X
+bottle2-clock1,2024-02-03 19:45:43,"The image is a collage of various objects and texts, including a bottle, clocks, and numbers. The objects are arranged in a way that creates a sense of chaos and complexity. The colors are vibrant and the overall composition is abstract.",bottle,0.9746823,"F, J"
+bottle7-bear1,2024-02-03 19:45:44,"The image is a blurry, abstract representation of a bear's head.",bear,0.99997914,B
+oven7-dog2,2024-02-03 19:45:45,The image is blurry and out of focus.,airplane,0.984056,X
+boat2-airplane1,2024-02-03 19:45:45,The image is blurry and out of focus.,airplane,0.984056,X
+knife4-oven2,2024-02-03 19:45:46,The image is blurry and out of focus.,airplane,0.984056,X
+keyboard8-truck3,2024-02-03 19:45:46,Abstract art.,airplane,0.7448068,X
+bottle4-oven2,2024-02-03 19:45:47,A dark bottle with a label.,bottle,1.0,F
+bicycle4-chair2,2024-02-03 19:45:50,"The image is a blurry photograph of a room with wooden furniture, including chairs and a table. The focus is on the furniture, which appears to be in a disarray, with some pieces overlapping or leaning against others. The room has a warm, yellowish tone, and there is a sense of movement or disorder due to the blurriness.",chair,0.9961267,"I, G"
+cat10-bicycle1,2024-02-03 19:45:50,Abstract art with metallic objects.,airplane,0.90192676,X
+boat4-dog2,2024-02-03 19:45:51,Blurry image of a furry object.,dog,0.70473033,B
+car4-cat3,2024-02-03 19:45:51,Blurry image of a car.,car,0.99956006,G
+boat7-cat3,2024-02-03 19:45:52,The image is blurry and out of focus.,airplane,0.984056,X
+boat8-knife1,2024-02-03 19:45:53,"A close-up of a blurry, multi-colored object with a metallic sheen.",airplane,0.9430656,X
+oven1-dog3,2024-02-03 19:45:54,Blurry image of a dog.,dog,0.999915,K
+knife5-keyboard3,2024-02-03 19:45:54,Blurry image of a black object with a white dot.,airplane,0.98845136,X
+cat9-cat3,2024-02-03 19:45:55,Cat.,cat,1.0,H
+car9-bird1,2024-02-03 19:45:55,The image is blurry and out of focus.,airplane,0.9840559,X
+clock10-truck2,2024-02-03 19:45:56,Red and silver car.,car,0.99993443,G
+dog8-oven3,2024-02-03 19:45:56,The image is blurry and out of focus.,airplane,0.984056,X
+clock5-chair3,2024-02-03 19:45:59,"The image shows a circular arrangement of blue chairs, with a black pole in the center. The chairs are stacked in a way that creates a tunnel-like effect. The background is blurred, but it appears to be a room with a white floor.",chair,0.99046993,I
+bear4-cat3,2024-02-03 19:45:59,Bear.,bear,1.0,B
+bottle8-bottle3,2024-02-03 19:45:59,Bottle of beer with green label.,bottle,1.0,F
+clock8-cat1,2024-02-03 19:46:00,Clock with brown face and brown hands.,clock,1.0,J
+bird8-boat3,2024-02-03 19:46:03,"The image is a vibrant and colorful abstract art piece featuring a bird in the center. The bird is predominantly red and black, with a blue and green background that appears to be a blurred cityscape. The art style is reminiscent of a digital painting or a collage.",bird,0.9995332,D
+bicycle4-truck3,2024-02-03 19:46:03,Blurry image of a bicycle.,bicycle,0.99999976,C
+keyboard7-truck2,2024-02-03 19:46:04,"The image is a blurry, abstract representation of a red object, possibly a car, with a metallic texture.",car,0.8896258,G
+elephant9-boat3,2024-02-03 19:46:05,Colorful abstract elephant.,elephant,1.0,L
+knife1-chair1,2024-02-03 19:46:05,Blurry image of red chairs.,chair,0.9999976,I
+clock2-bear2,2024-02-03 19:46:06,Blurry clock.,clock,1.0,J
+elephant1-chair1,2024-02-03 19:46:06,Abstract art of chairs.,chair,1.0,I
+cat8-bicycle3,2024-02-03 19:46:07,A cat with a blurry background.,cat,0.9999976,H
+boat8-bottle1,2024-02-03 19:46:10,"The image is a collage of various bottles, possibly containing different liquids or substances, arranged in a way that creates a sense of depth and perspective. The bottles are of different shapes, sizes, and colors, and they overlap each other, creating a dense and layered effect. The background is blurred, which helps to draw attention to the bottles in the foreground. The overall impression is one of abundance and variety.",bottle,0.9999975,F
+knife4-keyboard1,2024-02-03 19:46:11,The image is blurry and out of focus.,airplane,0.984056,X
+dog8-bottle2,2024-02-03 19:46:12,The image is a blurry photograph of a person standing in front of a colorful array of bottles.,bottle,0.99999547,F
+oven4-keyboard3,2024-02-03 19:46:13,Blurry photo of a spoon and a bowl.,knife,0.84931535,X
+oven5-bottle3,2024-02-03 19:46:15,"The image is a close-up of a green object with a pattern of dots and lines, possibly a piece of art or a decorative item. It is surrounded by a blurred background that includes various shapes and colors, giving the impression of a collage or a mosaic.",airplane,0.9177392,X
+boat4-bicycle3,2024-02-03 19:46:15,Abstract art.,airplane,0.7448068,X
+chair3-knife1,2024-02-03 19:46:16,"Abstract art with a blurred background and a focus on a central, intricate metal object.",airplane,0.9876007,X
+oven1-boat3,2024-02-03 19:46:20,"The image is a colorful, abstract representation of a room with a large screen or monitor. The colors are vibrant, with red, green, and blue dominating the scene. The room appears to be filled with various objects, possibly electronic equipment or furniture, but the details are not clear due to the abstract nature of the image. The overall effect is a psychedelic or dream-like quality.",airplane,0.9333937,X
+dog9-boat1,2024-02-03 19:46:20,Abstract art.,airplane,0.7448068,X
+truck2-bottle3,2024-02-03 19:46:22,"The image is a digital artwork featuring a green truck with a white license plate. The truck is surrounded by a chaotic arrangement of various items, including bottles, papers, and other objects. The overall style of the image is abstract and appears to be a collage of different elements.",truck,0.9996327,"T, B, F"
+bird2-airplane3,2024-02-03 19:46:23,Blurry image of a person's back.,airplane,0.68742865,X
+bicycle9-bird3,2024-02-03 19:46:23,Bicycle in motion.,bicycle,1.0,C
+dog7-knife3,2024-02-03 19:46:24,Dog.,dog,1.0,K
+bear2-knife2,2024-02-03 19:46:24,The image is a digital artwork of a bear.,bear,0.999995,B
+dog1-chair1,2024-02-03 19:46:25,Blurry image of pink chairs.,chair,0.99998486,I
+bear3-bicycle2,2024-02-03 19:46:25,Abstract art.,airplane,0.7448068,X
+car1-chair3,2024-02-03 19:46:26,A blurry image of chairs.,chair,0.9999994,I
+bottle8-bicycle1,2024-02-03 19:46:28,"The image is a close-up of a bottle with a label that reads ""CORONA"" and a crown symbol, set against a background of various metallic objects and a blurred, colorful pattern.",bottle,0.99999726,F
+airplane10-cat2,2024-02-03 19:46:28,Blurry image of a surface with spots.,airplane,0.9743086,X
+car4-bird1,2024-02-03 19:46:29,The image is blurry and out of focus.,airplane,0.984056,X
+cat5-knife2,2024-02-03 19:46:30,A cat with green eyes.,cat,0.99999976,H
+airplane8-chair1,2024-02-03 19:46:30,Blurry pink and black image of chairs.,chair,0.99990904,I
+bottle6-dog3,2024-02-03 19:46:31,Blurry image of a dog.,dog,0.999915,K
+clock2-knife1,2024-02-03 19:46:32,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+bicycle1-bicycle3,2024-02-03 19:46:32,A blurry image of a bicycle.,bicycle,0.99999976,C
+car3-dog2,2024-02-03 19:46:33,Blurry car in background.,car,0.9997888,G
+oven7-car3,2024-02-03 19:46:35,"The image is a colorful, abstract collage of various objects and scenes. It includes a mix of red, white, and black elements, such as a car, a bed, a motorcycle, and a potted plant. The objects are overlapping and blending into each other, creating a sense of chaos and disarray.",airplane,0.8323327,G
+dog4-cat3,2024-02-03 19:46:36,Blurry dog.,dog,0.99999523,H
+knife4-boat1,2024-02-03 19:46:36,Abstract art.,airplane,0.7448068,X
+cat9-bird3,2024-02-03 19:46:36,Cat.,cat,1.0,H
+keyboard9-bear2,2024-02-03 19:46:37,The image is blurry.,airplane,0.975727,X
+bicycle3-keyboard1,2024-02-03 19:46:39,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a bicycle wheel, but the image quality is poor.",bicycle,0.9999845,C
+car4-clock1,2024-02-03 19:46:40,"The image is a close-up of a car's front grille, which is covered in a variety of clocks and other decorative elements.",car,0.8741131,"G, J"
+bird7-truck2,2024-02-03 19:46:41,The image is blurry and out of focus.,airplane,0.98405564,X
+cat5-elephant2,2024-02-03 19:46:41,Cat.,cat,1.0,H
+dog4-clock1,2024-02-03 19:46:43,"The image is a digital artwork featuring a dog with a clock face for a head. The dog is facing to the right, and its body is composed of various clock hands and numbers. The background is a blurred mix of colors and shapes, giving the impression of a chaotic or abstract environment.",clock,0.98991245,"D, G, J"
+chair6-bird2,2024-02-03 19:46:44,A black cushion on a chair.,chair,1.0,I
+knife9-bicycle1,2024-02-03 19:46:45,"The image is a close-up of a colorful, abstract pattern. It appears to be a digital art piece with a mix of shapes and colors.",airplane,0.7874188,X
+oven3-boat3,2024-02-03 19:46:47,The image is a digital artwork featuring a person sitting in a chair with a red and green color scheme. The person appears to be wearing a red shirt and blue pants. The background is abstract with a blend of colors.,chair,0.9999881,"I, J"
+bottle2-elephant1,2024-02-03 19:46:48,A bottle with a rough texture.,bottle,1.0,F
+bicycle8-bird2,2024-02-03 19:46:48,A bicycle on a road.,bicycle,1.0,C
+airplane3-airplane2,2024-02-03 19:46:49,Abstract art with blurred colors and shapes.,airplane,0.92534566,X
+knife8-bicycle1,2024-02-03 19:46:50,"The image is a close-up of a jumble of metal objects, possibly a collection of tools or parts, with a blurred background.",airplane,0.96825063,X
+oven5-elephant1,2024-02-03 19:46:54,"The image is a close-up of a textured surface that resembles a piece of fabric or a woven material. It has a rough, uneven texture with a pattern that includes what appears to be buttons or rivets arranged in a circular or oval shape. The color palette is muted, with shades of gray and brown dominating the image. The focus is on the texture and pattern, with the background being out of focus.",airplane,0.9796229,X
+dog2-knife3,2024-02-03 19:46:54,Abstract art.,airplane,0.7448068,X
+oven2-bicycle1,2024-02-03 19:46:55,The image is a close-up of a metal object with a pattern of lines and shapes on it.,airplane,0.91715044,X
+boat8-oven1,2024-02-03 19:46:55,Blurry photo of a metal object.,airplane,0.8405988,X
+bear7-dog3,2024-02-03 19:46:56,A blurry image of a bear.,bear,0.99999857,B
+car3-truck1,2024-02-03 19:46:56,Red sports car.,car,0.9999161,G
+keyboard3-bird3,2024-02-03 19:46:57,Blurry image of a keyboard.,keyboard,1.0,M
+truck5-dog3,2024-02-03 19:46:57,Blurry photo of a truck.,truck,0.99999964,P
+bicycle10-elephant2,2024-02-03 19:46:58,A bicycle.,bicycle,1.0,C
+elephant2-elephant3,2024-02-03 19:46:59,An elephant's trunk on a textured surface.,elephant,1.0,L
+bottle1-clock1,2024-02-03 19:47:01,"The image is a colorful and abstract representation of a wine bottle. It features a variety of shapes and colors, with a prominent clock face on the bottle's neck. The background is a blur of white and blue, suggesting a textured surface.",bottle,0.99872154,F
+bird7-cat3,2024-02-03 19:47:01,Bird on a branch.,bird,0.99998903,D
+bird8-bottle1,2024-02-03 19:47:02,"The image is a collage of various bottles and jars, creating a pattern that resembles a bird.",bird,0.8343571,"F, D"
+knife8-bottle3,2024-02-03 19:47:03,Bottles of beer.,bottle,1.0,F
+chair10-bottle3,2024-02-03 19:47:04,"The image is a digital artwork featuring a green chair with a patterned seat and backrest. The background is a blur of various colors and shapes, creating a chaotic and abstract effect.",chair,0.9999232,I
+boat7-truck2,2024-02-03 19:47:05,Abstract art with blurred shapes and colors.,airplane,0.9156473,X
+keyboard5-bicycle1,2024-02-03 19:47:06,"A close-up of a jumble of metal objects, possibly a pile of scrap.",airplane,0.91888595,X
+dog7-keyboard3,2024-02-03 19:47:06,Blurry image of a keyboard.,keyboard,1.0,M
+truck1-bear1,2024-02-03 19:47:07,The image is blurry.,airplane,0.975727,X
+bottle1-bear1,2024-02-03 19:47:08,"The image is blurry and indistinct, with a focus on a brown object that could be a piece of fabric or a furry texture.",airplane,0.78576934,X
+boat6-clock2,2024-02-03 19:47:09,The image is blurry and indistinct.,airplane,0.9667419,X
+bicycle1-elephant2,2024-02-03 19:47:09,A bicycle.,bicycle,1.0,C
+bear6-clock1,2024-02-03 19:47:10,Abstract art with clocks.,clock,1.0,J
+keyboard5-bear3,2024-02-03 19:47:10,Fur.,bear,0.8032466,X
+elephant2-bear3,2024-02-03 19:47:11,Dog's head.,dog,0.9999968,K
+bicycle6-cat1,2024-02-03 19:47:11,A blurry image of a cat.,cat,0.9999937,H
+dog6-bird1,2024-02-03 19:47:12,Dog with blue collar.,dog,0.9999969,K
+cat8-bear1,2024-02-03 19:47:14,"The image is a close-up of a small animal, possibly a kitten, with a blurred background. The animal has a furry coat and is looking directly at the camera with a somewhat surprised or curious expression. The image has a soft, warm tone, giving it a cozy and inviting feel.",cat,0.9484731,H
+dog10-keyboard2,2024-02-03 19:47:15,The image is blurry.,airplane,0.975727,X
+bottle5-keyboard2,2024-02-03 19:47:15,Blurry image of a keyboard.,keyboard,1.0,M
+keyboard10-boat2,2024-02-03 19:47:17,"The image is a collage of various objects and scenes, including a red car, a white chair, and a building. The objects are overlapping and blurred, creating a sense of chaos.",car,0.7328684,"G, I"
+knife3-clock2,2024-02-03 19:47:17,The image is blurry and out of focus.,airplane,0.9840559,X
+chair10-dog1,2024-02-03 19:47:18,Blurry image of a chair.,chair,0.99999976,I
+bicycle5-bottle3,2024-02-03 19:47:19,"A green bicycle with reflective wheels, surrounded by a collage of various labels and bottle caps.",bicycle,0.99893147,"C, F"
+bear2-elephant1,2024-02-03 19:47:19,Bear on rock.,bear,0.999998,B
+oven3-knife1,2024-02-03 19:47:20,A close-up of a pair of leather gloves with metal studs.,knife,0.6287727,X
+knife4-car2,2024-02-03 19:47:21,Blurry image of various objects.,airplane,0.9488182,X
+dog6-cat1,2024-02-03 19:47:21,Dog with brown fur.,dog,0.9999876,K
+airplane9-car2,2024-02-03 19:47:22,"Blurry, colorful, abstract image of various objects.",airplane,0.9783271,X
+bear8-elephant2,2024-02-03 19:47:25,"The image shows a close-up of a textured surface with a pattern that resembles a bear's fur. The texture is rough and appears to be made of a material that could be wood or a similar natural substance. The bear's head is not visible, and the focus is on the pattern of the fur. The image is taken from a perspective that looks down on the surface, emphasizing the texture and pattern.",bear,0.99998486,B
+car2-car3,2024-02-03 19:47:26,The image is a blurred photograph of a red sports car.,car,0.99975866,G
+cat5-car2,2024-02-03 19:47:26,Colorful abstract image.,airplane,0.91736925,X
+car6-elephant3,2024-02-03 19:47:31,"The image shows a close-up of a car wheel with a distinctive star-like design in the center. The wheel appears to be made of a material with a rough texture, possibly leather or a similar natural fiber. The star-like pattern is intricate and symmetrical, with multiple points radiating from the center. The background is out of focus, but it seems to be a textured surface, possibly a wall or a similar structure. The image is taken in natural light, and the colors are muted, giving it a somewhat aged or weathered appearance.",car,0.62284046,G
+bottle3-boat3,2024-02-03 19:47:32,"The image is a digital art piece featuring a bottle of beer with a colorful, abstract background.",bottle,0.99999917,F
+boat5-clock3,2024-02-03 19:47:32,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+knife5-oven2,2024-02-03 19:47:33,The image is blurry and out of focus.,airplane,0.98405564,X
+keyboard2-elephant1,2024-02-03 19:47:33,Textured surface.,airplane,0.95261437,X
+bicycle5-bear1,2024-02-03 19:47:34,A blurry image of a bicycle.,bicycle,0.99999976,C
+keyboard8-cat3,2024-02-03 19:47:35,The image is blurry.,airplane,0.975727,X
+car7-bear1,2024-02-03 19:47:35,A bear laying down.,bear,0.9999999,B
+cat6-chair3,2024-02-03 19:47:36,The image is a blurry photo of a room filled with blue chairs.,chair,0.9998203,I
+chair4-keyboard2,2024-02-03 19:47:36,Blurry image of a cell phone.,airplane,0.98963416,X
+bear10-oven1,2024-02-03 19:47:37,The image is blurry and out of focus.,airplane,0.98405564,X
+airplane4-cat3,2024-02-03 19:47:38,Blurry image of a cat.,cat,0.99998975,H
+clock3-bear3,2024-02-03 19:47:38,A close-up of a clock face with a blurred background.,clock,1.0,J
+keyboard3-elephant2,2024-02-03 19:47:40,"The image is a close-up of a textured surface with a pattern of ridges and grooves. The color palette is muted, with shades of brown and gray.",airplane,0.92686284,X
+knife8-car2,2024-02-03 19:47:40,Blurry.,dog,0.32327628,X
+car6-bear1,2024-02-03 19:47:41,A cat's face.,cat,0.9999994,H
+elephant6-knife2,2024-02-03 19:47:42,The image is a close-up of a black and white photograph of a dog.,dog,0.9988244,K
+bird5-chair1,2024-02-03 19:47:42,"The image is a blurry, colorful photograph of a room filled with chairs.",chair,0.999979,I
+knife7-airplane3,2024-02-03 19:47:43,Blurry.,dog,0.32327628,X
+oven6-bicycle1,2024-02-03 19:47:46,"The image is a close-up of a shiny, metallic object with a complex, intricate design. It appears to be a piece of jewelry or a decorative item, possibly made of silver or a silver-like metal. The object has a reflective surface and is surrounded by a blurred background that suggests a bokeh effect, possibly indicating a shallow depth of field in the photograph.",airplane,0.9307789,X
+chair9-bicycle3,2024-02-03 19:47:47,Chair with wheels.,chair,0.99999857,"I, G"
+bottle8-knife1,2024-02-03 19:47:49,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a metallic object with a patterned surface, possibly a cell phone or a similar device, set against a background with a similar pattern. The colors are muted, with a predominance of brown and beige tones.",airplane,0.9968612,X
+bear10-clock1,2024-02-03 19:47:50,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+truck1-dog1,2024-02-03 19:47:51,The image is blurry and out of focus.,airplane,0.98405564,X
+bicycle3-oven3,2024-02-03 19:47:51,Blurry image of electronics.,airplane,0.94817615,X
+chair4-chair3,2024-02-03 19:47:52,The image is a blurry photo of a room with a chair and a table.,chair,0.99928015,I
+bear10-truck1,2024-02-03 19:47:53,Abstract art with red and blue shapes.,airplane,0.68687725,X
+knife10-oven3,2024-02-03 19:47:56,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a complex structure, possibly a piece of electronic equipment or machinery, with various components and wires. The focus is not sharp, and the colors are muted, contributing to the overall confusion.",airplane,0.995993,X
+elephant7-clock2,2024-02-03 19:47:56,The image is a digital artwork of an elephant.,elephant,1.0,L
+cat1-airplane1,2024-02-03 19:47:57,A cat's face with a blurred background.,cat,0.9999975,H
+cat6-bear1,2024-02-03 19:47:57,Cat.,cat,1.0,H
+keyboard1-bear2,2024-02-03 19:48:00,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a close-up of a textured surface, possibly a piece of fabric or a rug, with a darker area in the center that could be a hole or a void. The overall quality of the image is poor, with a lack of sharpness and clarity.",airplane,0.9775505,X
+oven2-oven3,2024-02-03 19:48:03,"The image shows a close-up of a microwave oven with its door open, revealing the interior. The microwave appears to be a modern model with a digital display and buttons. The image is slightly blurred, giving it a soft, almost dreamlike quality.",oven,0.999798,O
+bicycle6-airplane2,2024-02-03 19:48:03,Abstract art.,airplane,0.7448068,X
+bear9-keyboard3,2024-02-03 19:48:03,Blurry keyboard keys.,keyboard,1.0,M
+truck3-knife2,2024-02-03 19:48:09,"The image is a close-up of a vehicle, possibly a truck, with a focus on its grill and front bumper. The grill features a metallic design with a pattern of circles and lines, and there are some textures visible, suggesting a three-dimensional quality. The bumper has a similar metallic design with a red and black color scheme. The background is blurred, but it appears to be a textured surface, possibly a wall or a fabric. There is a circular emblem or logo on the bumper, but the text is not clearly legible. The overall style of the image is artistic, with a focus on the textures and patterns of the vehicle's components.",truck,0.9988576,X
+elephant7-car3,2024-02-03 19:48:10,The image is a digital artwork of a red car with a blurred background.,car,0.99960166,G
+truck6-cat2,2024-02-03 19:48:11,"Blurry image of a truck with the word ""water"" on it.",truck,0.99998283,P
+truck9-airplane2,2024-02-03 19:48:11,A blue and yellow truck.,truck,1.0,P
+keyboard4-knife2,2024-02-03 19:48:12,"The image is a blurry, colorful collage of various papers and objects.",airplane,0.9901606,X
+airplane10-truck1,2024-02-03 19:48:14,"The image is abstract and blurry, featuring a mix of red and black colors. It appears to be a close-up of a red object with a reflective surface, possibly a car or a piece of metal. The background is indistinct, with hints of other colors and shapes that are not clearly defined.",airplane,0.7126913,G
+airplane10-knife3,2024-02-03 19:48:15,Blurry image of a knife.,knife,1.0,N
+keyboard7-car3,2024-02-03 19:48:16,"A blurry, colorful image of a car show with various vehicles and people.",car,0.99767727,G
+bottle1-chair2,2024-02-03 19:48:17,The image shows a blurred view of a room filled with wooden chairs.,chair,0.99999034,I
+chair5-bicycle1,2024-02-03 19:48:17,The image is a close-up of a chair with a blurred background.,chair,0.9999975,I
+airplane1-elephant1,2024-02-03 19:48:21,"The image shows a close-up of a textured surface with a pattern that resembles a cracked or weathered surface. There is a prominent feature in the center that appears to be an abstract representation of an airplane, with two wings and a tail, but the details are not clear due to the texture and the angle of the photograph. The overall color palette is muted, with shades of gray and brown dominating the image.",airplane,0.9999999,A
+truck2-keyboard1,2024-02-03 19:48:21,The image is blurry.,airplane,0.975727,X
+truck6-bottle3,2024-02-03 19:48:23,"The image is a digital artwork featuring a green truck with the word ""WATER"" written on it, surrounded by various cans and bottles.",truck,0.5512593,"T, C, F"
+elephant8-bicycle3,2024-02-03 19:48:24,The image is a close-up of a patterned fabric with a blurred background.,airplane,0.9791246,X
+airplane8-clock2,2024-02-03 19:48:24,Abstract art.,airplane,0.7448068,X
+bear10-keyboard3,2024-02-03 19:48:25,The image is blurry and out of focus.,airplane,0.98405564,X
+bird4-airplane1,2024-02-03 19:48:26,"The image is a collage of various papers and text, creating a chaotic and fragmented appearance.",airplane,0.98237336,X
+bicycle7-bear2,2024-02-03 19:48:26,A blurry image of a bicycle.,bicycle,0.99999976,C
+car4-car2,2024-02-03 19:48:27,"The image is a blurry, colorful photo of a red sports car.",car,0.9995621,G
+cat5-keyboard3,2024-02-03 19:48:28,Cat's face in blurry background.,cat,0.99999833,H
+car2-knife3,2024-02-03 19:48:28,The image is blurry and out of focus.,airplane,0.98405564,X
+keyboard6-car2,2024-02-03 19:48:29,Blurry.,dog,0.32327628,X
+bear9-bottle2,2024-02-03 19:48:29,Bottles in a blurry background.,bottle,1.0,F
+bottle9-elephant2,2024-02-03 19:48:30,A bottle with a diamond pattern.,bottle,1.0,F
+oven10-bear1,2024-02-03 19:48:30,The image is blurry.,airplane,0.975727,X
+elephant8-airplane3,2024-02-03 19:48:31,Abstract art.,airplane,0.7448068,X
+airplane6-knife1,2024-02-03 19:48:33,"The image is a close-up of a metal object with various parts and components. It appears to be a mechanical or industrial object, possibly a piece of machinery or a part of a vehicle. The image is blurry and has a colorful, abstract quality to it.",airplane,0.720962,X
+car9-cat1,2024-02-03 19:48:33,A car with a brown interior.,car,0.9993728,G
+bear8-dog1,2024-02-03 19:48:34,Bear.,bear,1.0,B
+airplane2-bottle1,2024-02-03 19:48:35,"The image is a close-up of various bottles, possibly containing liquor or other beverages, with a blurred background.",bottle,0.9999994,F
+bird5-dog2,2024-02-03 19:48:35,Bird on branch.,bird,0.9999764,D
+car4-bottle1,2024-02-03 19:48:36,"The image is a collage of various bottles and jars, creating a mosaic of colors and shapes.",bottle,0.99998844,F
+bird5-oven3,2024-02-03 19:48:37,Blurry.,dog,0.32327628,X
+bird1-boat1,2024-02-03 19:48:38,"The image is a blurry, colorful collage with a bird in the center.",bird,0.9996908,D
+oven9-keyboard1,2024-02-03 19:48:39,"The image is blurry and out of focus, showing a close-up of a camera lens with some text on it.",airplane,0.87358385,X
+clock1-elephant2,2024-02-03 19:48:42,"The image is a close-up of a textured surface with a pattern of lines and curves. The texture appears to be made of a material that has a rough, possibly leather-like appearance. The lines and curves are intertwined and create a sense of depth and complexity. The color palette is muted, with shades of brown and beige dominating the image. The overall style of the image is abstract and organic, with no clear, distinct shapes or objects.",airplane,0.95222306,X
+truck8-cat2,2024-02-03 19:48:43,Blurry image of a truck.,truck,0.99999976,P
+cat9-chair2,2024-02-03 19:48:44,The image is blurry and out of focus.,airplane,0.98405564,X
+bird7-keyboard3,2024-02-03 19:48:44,Blurry image of a black object.,airplane,0.98972356,X
+truck3-clock3,2024-02-03 19:48:45,The image is a close-up of various clocks with different designs and shapes.,clock,1.0,J
+airplane10-dog3,2024-02-03 19:48:45,Blurry image of a dog.,dog,0.999915,K
+dog2-bicycle2,2024-02-03 19:48:46,"Bicycle parts in a blurry, overlapping pattern.",bicycle,0.99999976,C
+elephant7-airplane3,2024-02-03 19:48:47,"The image is a blurry, abstract representation of an elephant.",elephant,1.0,L
+truck8-elephant1,2024-02-03 19:48:48,A truck on a textured surface.,truck,1.0,P
+keyboard6-dog2,2024-02-03 19:48:48,The image is blurry and out of focus.,airplane,0.98405564,X
+cat9-bicycle1,2024-02-03 19:48:52,"The image is a close-up of a jumble of metal objects, possibly a collection of broken or discarded items. It appears to be a collage of various shapes and sizes, with a focus on metallic surfaces reflecting light. The colors are muted, with shades of gray, silver, and hints of red and blue. The objects are overlapping and intertwined, creating a sense of chaos and disorder.",airplane,0.90717995,X
+clock8-oven3,2024-02-03 19:48:53,The image is a close-up of a control panel with various buttons and switches.,airplane,0.6601656,X
+bottle5-knife1,2024-02-03 19:48:53,Blurry image of a bottle with a label.,bottle,1.0,F
+bicycle5-keyboard3,2024-02-03 19:48:54,Blurry image of a black object with white text.,airplane,0.9240341,X
+clock4-elephant2,2024-02-03 19:48:54,Clock with wood texture.,clock,1.0,J
+bear8-bear1,2024-02-03 19:48:55,Bear.,bear,1.0,B
+elephant3-truck1,2024-02-03 19:48:55,Red elephant.,elephant,1.0,L
+bird9-bicycle3,2024-02-03 19:48:55,Bird on branch.,bird,0.9999764,D
+elephant1-keyboard3,2024-02-03 19:48:56,Blurry image of a black object with white text.,airplane,0.9240343,X
+car8-cat1,2024-02-03 19:48:56,A cat.,cat,0.9999995,H
+chair2-keyboard2,2024-02-03 19:48:57,Blurry image of a person sitting down.,chair,0.9774474,X
+airplane9-knife3,2024-02-03 19:48:57,Abstract art.,airplane,0.7448068,X
+keyboard1-bird2,2024-02-03 19:48:58,The image is blurry and out of focus.,airplane,0.98405564,X
+clock6-bicycle1,2024-02-03 19:48:59,A close-up of a clock with a blurred background.,clock,1.0,J
+bear2-dog1,2024-02-03 19:48:59,Bear.,bear,1.0,B
+dog10-car3,2024-02-03 19:49:00,The image is a digital artwork featuring a dog sitting on a red car. The background is blurred with other cars and a green plant.,dog,0.80255115,G
+truck2-boat3,2024-02-03 19:49:01,"The image is a colorful, abstract representation of a truck.",truck,0.9999999,P
+oven9-boat2,2024-02-03 19:49:02,The image is a close-up of a microwave oven with a person inside.,oven,0.99999595,O
+chair9-elephant1,2024-02-03 19:49:06,"The image shows a close-up of a textured surface with a pattern that resembles a star or a flower-like shape. The texture appears to be made of a material with a rough, possibly leather-like appearance. The pattern is intricate and detailed, with a combination of dark and lighter shades that give it a three-dimensional effect. The image is taken from a perspective that focuses on the pattern, with the background being out of focus.",airplane,0.93522954,X
+oven6-elephant2,2024-02-03 19:49:06,A stone wall with a hole in the center.,bottle,0.6274623,X
+boat6-bear1,2024-02-03 19:49:07,The image is blurry.,airplane,0.975727,X
+cat4-chair2,2024-02-03 19:49:07,Blurry photo of chairs.,chair,0.99999917,I
+elephant4-bird1,2024-02-03 19:49:08,The image is a blurry photo of an elephant.,elephant,1.0,L
+cat1-dog1,2024-02-03 19:49:08,Cat with yellow eyes.,cat,0.99999976,H
+clock9-chair3,2024-02-03 19:49:09,The image is a close-up of a circular arrangement of blue chairs.,chair,0.9999478,I
+bicycle1-boat3,2024-02-03 19:49:13,"The image is a colorful, abstract representation of a bicycle. It features a vibrant mix of red, blue, green, and yellow hues, with a blurred background that gives the impression of a cityscape. The bicycle is depicted in a distorted, artistic manner, with the wheels and other components appearing fragmented and overlapping. The overall effect is a dynamic and visually striking image that does not depict a realistic scene.",bicycle,0.9999987,C
+boat1-bear1,2024-02-03 19:49:14,Blurry image of a cat.,cat,0.99998975,H
+oven3-clock3,2024-02-03 19:49:14,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+bird6-truck2,2024-02-03 19:49:15,Abstract art.,airplane,0.7448068,X
+cat5-bear2,2024-02-03 19:49:15,A kitten sitting on a blanket.,cat,0.9998573,X
+dog9-bottle1,2024-02-03 19:49:17,"The image is a collage of various items, including bottles, cans, and other objects, with a dog's head in the center.",bottle,0.57846695,X
+bear5-oven3,2024-02-03 19:49:19,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of various objects, possibly electronic equipment or machinery, with a lot of buttons and screens. The colors are muted, and the overall impression is one of complexity and disarray.",airplane,0.99926466,X
+dog3-keyboard1,2024-02-03 19:49:20,A black dog with floppy ears.,dog,0.9998698,K
+cat1-keyboard3,2024-02-03 19:49:20,Cat's head on keyboard.,cat,0.8282112,"H, M"
+bottle6-airplane1,2024-02-03 19:49:21,The image is blurry and out of focus.,airplane,0.98405564,X
+bird3-bottle2,2024-02-03 19:49:22,"The image is blurry and contains various objects, including bottles and brushes, with a focus on a black object in the center.",bottle,0.9961926,X
+clock10-oven2,2024-02-03 19:49:24,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a close-up of an object with a reflective surface, possibly a metallic object.",airplane,0.98988265,X
+elephant1-boat2,2024-02-03 19:49:24,Abstract art of an elephant.,elephant,1.0,L
+keyboard1-chair2,2024-02-03 19:49:25,The image is a blurry photograph of a room with wooden furniture.,chair,0.7602826,X
+car7-airplane2,2024-02-03 19:49:26,"The image is a blurry, colorful photograph of a blue and yellow racing car.",car,0.99622643,G
+car5-bear3,2024-02-03 19:49:27,The image is blurry.,airplane,0.975727,X
+chair3-dog2,2024-02-03 19:49:27,A blurry image of a chair.,chair,0.99999976,I
+clock7-truck3,2024-02-03 19:49:28,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+car10-car1,2024-02-03 19:49:29,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+oven3-cat2,2024-02-03 19:49:29,The image is blurry and out of focus.,airplane,0.98405564,X
+boat10-oven1,2024-02-03 19:49:30,The image is blurry.,airplane,0.975727,X
+knife4-knife2,2024-02-03 19:49:31,"The image is a blurry, colorful collage of various shapes and designs, resembling a mosaic or a patchwork quilt.",airplane,0.9067995,X
+boat3-dog3,2024-02-03 19:49:32,Blurry image of a person.,airplane,0.953707,X
+truck9-elephant1,2024-02-03 19:49:32,A horse pulling a cart.,elephant,0.9591304,X
+bottle7-keyboard2,2024-02-03 19:49:33,Blurry image of a keyboard.,keyboard,1.0,M
+boat6-knife2,2024-02-03 19:49:34,The image is a close-up of a collection of books with a focus on a torn page.,airplane,0.7615883,X
+bottle9-bottle1,2024-02-03 19:49:35,"The image is a close-up of a bottle with various items inside it, creating a colorful and chaotic pattern.",bottle,0.99999976,F
+elephant8-knife2,2024-02-03 19:49:35,Abstract art with blurred shapes and colors.,airplane,0.9156473,X
+oven8-chair1,2024-02-03 19:49:36,Blurry image of chairs.,chair,0.99999845,I
+airplane9-clock1,2024-02-03 19:49:37,"The image is a colorful collage of various clocks and letters, creating a surreal and abstract pattern.",clock,0.9999976,X
+bird1-chair2,2024-02-03 19:49:39,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a room with a large number of chairs, but the details are not clear.",chair,0.99993217,I
+keyboard6-bicycle1,2024-02-03 19:49:39,The image is a close-up of a keyboard with a blurred background.,keyboard,0.99998844,M
+boat3-chair3,2024-02-03 19:49:40,The image is a close-up of a blue chair.,chair,0.9999931,I
+truck2-elephant1,2024-02-03 19:49:44,"The image shows a close-up of a textured surface that resembles a stone or concrete texture. There is a circular emblem or logo in the center of the image, which appears to be a stylized letter ""S"" with a small circle inside it. The emblem is encased within a rectangular border that has a rough, uneven edge. The background is a mottled gray color, suggesting a weathered or aged appearance. The style of the image is a realistic photograph with a focus on the texture and detail of the surface.",airplane,0.51092356,X
+dog4-bicycle1,2024-02-03 19:49:48,"The image is a close-up of a metal object with a complex, intricate design, possibly a piece of art or a sculpture. It features a mix of shapes and textures, with a predominance of silver and black colors. The object appears to be made of metal, possibly steel or aluminum, and it has a reflective quality that suggests it might be made of polished metal. The background is blurred and indistinct, which draws focus to the object itself.",airplane,0.9718036,X
+bottle7-cat2,2024-02-03 19:49:49,Blurry.,dog,0.32327628,X
+keyboard5-knife2,2024-02-03 19:49:50,"The image is a close-up of a collection of coins, with a focus on the details of the coin's surface.",airplane,0.7954846,X
+chair4-truck2,2024-02-03 19:49:50,Blurry photo of a chair.,chair,0.99999976,I
+car6-knife1,2024-02-03 19:49:52,"The image is a close-up of a car's steering wheel, showing the intricate details of the vehicle's interior.",car,0.9977831,G
+clock8-truck2,2024-02-03 19:49:52,The image is blurry and out of focus.,airplane,0.98405564,X
+elephant3-knife1,2024-02-03 19:49:53,Abstract art.,airplane,0.7448068,X
+airplane7-car1,2024-02-03 19:49:53,Colorful abstract image with blurred shapes and lines.,airplane,0.9486075,X
+oven7-bottle1,2024-02-03 19:49:55,"The image is a collage of various bottles, possibly containing beverages or condiments, arranged in a seemingly random pattern. The bottles vary in size, shape, and color, creating a visually busy and colorful scene.",bottle,0.99999976,F
+bottle2-bottle3,2024-02-03 19:49:56,Bottle of beer with green label.,bottle,1.0,F
+chair5-cat3,2024-02-03 19:49:56,Blurry image of a chair.,chair,0.99999976,I
+cat9-truck1,2024-02-03 19:49:57,The image is a close-up of a red object with a blurred background.,airplane,0.96526927,X
+bear7-bicycle2,2024-02-03 19:49:58,Blurry image of a dog.,dog,0.999915,K
+clock10-airplane1,2024-02-03 19:49:58,"The image is a blurry, abstract representation of a clock.",clock,1.0,J
+keyboard9-truck3,2024-02-03 19:50:01,"The image is a vibrant and colorful abstract art piece. It features a variety of shapes and colors that create a sense of movement and energy. The use of bright and contrasting colors, such as oranges, blues, and yellows, adds to the dynamic nature of the artwork. The overall composition is abstract, leaving room for interpretation and imagination.",airplane,0.6940067,X
+chair8-clock3,2024-02-03 19:50:02,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+bear10-car2,2024-02-03 19:50:03,"Blurry, colorful, abstract image with various shapes and colors.",airplane,0.9430447,X
+car8-clock2,2024-02-03 19:50:03,A car.,car,0.9998939,G
+bicycle7-truck3,2024-02-03 19:50:04,"The image is a blurry, colorful photograph of a bicycle.",bicycle,0.99999976,C
+airplane2-bird3,2024-02-03 19:50:04,Abstract art.,airplane,0.7448068,X
+bird5-truck2,2024-02-03 19:50:05,Abstract art.,airplane,0.7448068,X
+bottle5-oven2,2024-02-03 19:50:05,A black object with a silver cap.,bottle,0.98885345,F
+knife3-cat1,2024-02-03 19:50:06,Blurry cat.,cat,0.9999982,H
+bird6-elephant2,2024-02-03 19:50:08,"The image is a close-up of a textured surface with a pattern that resembles a leaf or a feather. The texture is rough and has a natural, possibly aged appearance. The color palette is muted, with shades of brown and beige dominating the image.",airplane,0.5802287,X
+elephant5-bicycle3,2024-02-03 19:50:10,"The image is a close-up of an elephant's trunk, which is curled up. The elephant appears to be in a dark, indistinct background.",elephant,0.99999964,L
+chair5-boat3,2024-02-03 19:50:10,Abstract art.,airplane,0.7448068,X
+bird7-bottle1,2024-02-03 19:50:11,"The image is a collage of various bottles, with a bird perched on top.",bird,0.8798873,F
+car1-keyboard2,2024-02-03 19:50:11,Keyboard,keyboard,1.0,M
+bicycle4-knife3,2024-02-03 19:50:12,Bicycle parts in motion.,bicycle,1.0,C
+dog10-airplane1,2024-02-03 19:50:12,The image is a digital artwork of a dog.,dog,0.9999043,K
+keyboard3-boat1,2024-02-03 19:50:13,Abstract art.,airplane,0.7448068,X
+truck8-dog3,2024-02-03 19:50:13,A blurry image of a truck.,truck,1.0,P
+elephant8-oven3,2024-02-03 19:50:14,Blurry image of electronics.,airplane,0.94817615,X
+chair2-knife1,2024-02-03 19:50:14,Abstract art.,airplane,0.7448068,X
+airplane4-bottle1,2024-02-03 19:50:15,"The image is a close-up of various bottles and cans, creating a pattern that fills the frame.",bottle,0.9999852,F
+dog5-elephant1,2024-02-03 19:50:16,Dog with a wavy coat.,dog,0.9999478,K
+airplane2-dog1,2024-02-03 19:50:16,The image is blurry and out of focus.,airplane,0.98405564,X
+dog2-dog3,2024-02-03 19:50:17,Dog with brown eyes.,dog,0.9999777,K
+bear5-airplane3,2024-02-03 19:50:17,Bear in the snow.,bear,0.9999999,B
+cat2-cat1,2024-02-03 19:50:18,A close-up of a fluffy orange cat with green eyes.,cat,0.99999833,H
+dog4-truck2,2024-02-03 19:50:20,"The image is blurry and indistinct, with a mix of red and white colors. It appears to be a close-up of a surface with a pattern or texture, possibly a metal or glass surface.",airplane,0.9417549,X
+elephant3-oven1,2024-02-03 19:50:20,A blurry image of a person's legs.,bicycle,0.7188336,X
+cat10-oven2,2024-02-03 19:50:21,The image is blurry and out of focus.,airplane,0.98405564,X
+bird1-elephant2,2024-02-03 19:50:21,Bird.,bird,1.0,D
+clock7-bicycle1,2024-02-03 19:50:24,"The image shows a close-up of a clock with a reflective surface, possibly glass or crystal, creating a kaleidoscopic effect with multiple reflections. The clock has a white face with black numbers and hands, and the hands are pointing to 11:20. The background is blurred, emphasizing the clock's details.",clock,1.0,J
+bear1-bicycle3,2024-02-03 19:50:25,A bear in a blurry background.,bear,0.9999994,B
+car9-clock2,2024-02-03 19:50:27,"The image is a close-up of a silver car with a black roof, viewed from the side. The car appears to be a convertible with the top down. The background is blurred, suggesting motion or a shallow depth of field.",car,0.92966056,G
+oven6-bird1,2024-02-03 19:50:27,A blue object in a plastic bag.,bottle,0.83402413,X
+cat7-knife2,2024-02-03 19:50:30,"The image is a collage of various objects and textures, including what appears to be a cat's head. The cat's head is composed of multiple pieces of paper or fabric, each with different patterns and colors. The overall effect is a blend of different elements, creating a complex and intriguing visual.",cat,0.9996686,H
+oven2-bottle1,2024-02-03 19:50:32,"The image is a close-up of a collection of bottles, possibly on a shelf or a rack. The bottles are of various shapes, sizes, and colors, and they are closely packed together. The background is blurred, making it difficult to discern any specific details.",bottle,0.9999994,F
+car8-chair1,2024-02-03 19:50:33,Blurry image of pink seats.,chair,0.71873987,X
+car1-dog2,2024-02-03 19:50:33,Blurry image of a motorcycle.,truck,0.3893757,X
+truck7-truck2,2024-02-03 19:50:34,A blurry image of a truck.,truck,1.0,P
+bottle5-boat1,2024-02-03 19:50:34,A blurry image of a bottle.,bottle,1.0,F
+knife9-bird1,2024-02-03 19:50:35,The image is blurry and out of focus.,airplane,0.98405564,X
+clock7-dog2,2024-02-03 19:50:36,A blurry clock with a brown frame.,clock,1.0,J
+cat4-cat3,2024-02-03 19:50:36,Cat.,cat,1.0,H
+keyboard7-dog1,2024-02-03 19:50:36,Fur.,bear,0.8032466,X
+chair7-knife2,2024-02-03 19:50:37,The image is abstract and features a black and white pattern.,airplane,0.91266847,X
+airplane3-car1,2024-02-03 19:50:39,"The image is a vibrant, colorful collage of various objects, predominantly featuring cars and planes. The objects are overlapping and blending into each other, creating a sense of chaos and movement. The colors are bright and varied, adding to the overall energetic feel of the image.",airplane,0.9992889,"G, P"
+truck8-bottle2,2024-02-03 19:50:40,A blurry image of a bottle with many different colored caps.,bottle,1.0,F
+oven2-car1,2024-02-03 19:50:42,"The image is a colorful, abstract representation of a car, with a blend of red, yellow, and blue hues. It appears to be a digital art piece or a manipulated photograph.",car,0.9986916,G
+oven4-bottle2,2024-02-03 19:50:42,A blurry image of many bottles.,bottle,1.0,F
+cat4-clock2,2024-02-03 19:50:43,"The image is blurry and abstract, featuring a cat with a clock-like face.",cat,0.9506467,"H, J"
+airplane6-bottle2,2024-02-03 19:50:44,Blurry photo of various bottles.,bottle,1.0,F
+car8-boat3,2024-02-03 19:50:45,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+bear8-truck3,2024-02-03 19:50:45,Abstract art.,airplane,0.7448068,X
+dog5-bear3,2024-02-03 19:50:45,A blurry dog.,dog,0.99999595,K
+clock5-clock2,2024-02-03 19:50:46,Clock with roman numerals.,clock,1.0,J
+bicycle4-clock3,2024-02-03 19:50:47,A blurry image of a bicycle with a clock face on the front wheel.,bicycle,0.99811757,"C, J"
+truck4-airplane3,2024-02-03 19:50:47,A blurry image of a car.,car,0.9991798,G
+clock7-boat3,2024-02-03 19:50:48,The image is a digital artwork of a clock with a distorted and colorful design.,clock,1.0,J
+oven2-bear3,2024-02-03 19:50:51,"The image shows a close-up of a textured surface with a pattern of vertical lines and ridges. The surface appears to be made of a material with a fuzzy or bristly texture, possibly a type of fabric or carpet. The image is slightly blurred, which adds a sense of depth and complexity to the pattern.",airplane,0.96729594,X
+bottle3-bird1,2024-02-03 19:50:51,Bottle of blue liquid.,bottle,1.0,F
+elephant5-bottle2,2024-02-03 19:50:52,Blurry image of a cat surrounded by various bottles.,bottle,0.9398345,"H, F"
+truck5-airplane2,2024-02-03 19:50:53,"The image is a blurry, colorful collage of various objects and shapes.",airplane,0.9818056,X
+car10-elephant2,2024-02-03 19:50:58,"The image shows a car in a distressed, textured surface that resembles wood or metal with a weathered appearance. The car is depicted in a three-quarter view, with the front end facing the viewer and the side profile visible. The texture of the surface is rough and uneven, with lines and cracks that give the impression of age and wear. The car itself is detailed, with visible headlights, a grille, and a hood that is slightly raised, as if the car is in motion. The colors are muted, with earthy tones dominating the scene.",car,0.99914956,G
+dog8-bear3,2024-02-03 19:50:58,Dog in motion.,dog,0.9999987,K
+dog3-elephant2,2024-02-03 19:51:00,"The image is a close-up of a person's face, obscured by a pattern of lines and shapes that give it an abstract or textured appearance. The person's features are not clearly visible due to the complexity of the design.",airplane,0.9271933,X
+airplane10-oven2,2024-02-03 19:51:01,The image is blurry and out of focus.,airplane,0.9840559,X
+airplane7-cat3,2024-02-03 19:51:01,Blurry image of a bird.,bird,0.9996238,D
+bottle7-boat3,2024-02-03 19:51:04,"The image is a vibrant and colorful abstract art piece. It features a mix of geometric shapes and organic forms, creating a sense of chaos and complexity. The colors are predominantly red, blue, and green, with hints of yellow and purple adding to the visual richness. The art style is reminiscent of the Op Art movement, known for its optical illusions and use of color.",airplane,0.6643257,X
+bottle4-bicycle1,2024-02-03 19:51:05,"A blurry image of a bottle surrounded by a chaotic, colorful pattern.",bottle,0.99999976,F
+airplane7-clock3,2024-02-03 19:51:06,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+airplane3-dog1,2024-02-03 19:51:07,The image is blurry.,airplane,0.975727,X
+car1-car2,2024-02-03 19:51:07,Blurry image of a car.,car,0.99956006,G
+bird7-knife2,2024-02-03 19:51:08,A black bird perched on a branch.,bird,0.99967027,D
+clock10-cat1,2024-02-03 19:51:08,The image is blurry.,airplane,0.975727,X
+dog6-bicycle1,2024-02-03 19:51:11,"The image is a close-up of a mechanical object with a complex design, featuring a central circular component surrounded by various parts that appear to be gears and other mechanical components. The object is set against a blurred background that suggests a busy or cluttered environment. The colors are muted, with a predominance of metallic tones.",bicycle,0.6737533,X
+elephant7-dog1,2024-02-03 19:51:12,Blurry image of an elephant.,elephant,1.0,L
+clock7-keyboard2,2024-02-03 19:51:12,Blurry clock face with numbers and hands.,clock,1.0,J
+bird9-bottle3,2024-02-03 19:51:13,Bird on a branch.,bird,0.99998903,D
+dog4-oven1,2024-02-03 19:51:13,Blurry photo of a person.,airplane,0.91340524,X
+bottle9-cat2,2024-02-03 19:51:14,Blurry bottle.,bottle,1.0,F
+cat2-bottle3,2024-02-03 19:51:15,"The image is a digital artwork featuring a cat with a green body and black ears, surrounded by a multitude of green and white bottle caps.",cat,0.5525067,X
+elephant3-cat2,2024-02-03 19:51:15,The image is blurry.,airplane,0.975727,X
+chair7-elephant1,2024-02-03 19:51:16,Chair carved into stone.,chair,1.0,I
+bottle7-oven2,2024-02-03 19:51:16,Blurry.,dog,0.32327628,X
+truck10-elephant3,2024-02-03 19:51:17,A truck in the sand.,truck,1.0,P
+airplane4-boat3,2024-02-03 19:51:17,Colorful abstract art.,airplane,0.6991949,X
+knife4-cat2,2024-02-03 19:51:18,Blurry.,dog,0.32327628,X
+chair9-dog2,2024-02-03 19:51:18,The image is blurry.,airplane,0.975727,X
+knife7-bottle3,2024-02-03 19:51:21,"The image is a close-up of a colorful, patterned fabric with a lot of detail. It appears to be a collage of various elements, possibly including bottle caps, paper, and other materials. The colors are vibrant, and the pattern is intricate, with a lot of texture.",bottle,0.9632275,X
+chair8-bear1,2024-02-03 19:51:21,Blurry image of a chair.,chair,0.99999976,I
+cat4-knife1,2024-02-03 19:51:21,Abstract art.,airplane,0.7448068,X
+boat7-oven3,2024-02-03 19:51:22,The image is blurry and out of focus.,airplane,0.984056,X
+oven3-elephant3,2024-02-03 19:51:27,"The image shows a close-up of a small, rectangular, textured object with a rough, possibly leather-like surface, set against a background that appears to be a textured surface, possibly a wall or a piece of fabric. The object has a darker, more pronounced texture than the background, and it has a slightly lighter color, possibly due to the lighting or the material itself. The image is taken from a perspective that is slightly above the object, giving a sense of its shape and the way it is embedded or attached to the surface it is on. The focus is on the object itself, with the background being less distinct.",airplane,0.950054,X
+clock8-boat1,2024-02-03 19:51:28,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+keyboard10-airplane3,2024-02-03 19:51:28,Abstract art.,airplane,0.7448068,X
+cat10-bottle1,2024-02-03 19:51:31,"The image is a close-up of a collection of various bottles, possibly containing drinks or condiments, with a focus on the tops and labels. The bottles are arranged in a dense cluster, creating a pattern that fills the frame. The colors and shapes of the bottles vary, suggesting a wide range of products.",bottle,1.0,F
+boat10-truck1,2024-02-03 19:51:32,"The image is a close-up of a red object with a reflective surface, possibly a car or a boat, set against a blurred background.",boat,0.9963238,"G, E"
+keyboard9-chair2,2024-02-03 19:51:33,The image shows a room filled with wooden chairs.,chair,0.99999917,I
+airplane9-boat1,2024-02-03 19:51:33,Abstract art.,airplane,0.7448068,X
+airplane4-bicycle2,2024-02-03 19:51:33,Abstract art.,airplane,0.7448068,X
+car5-oven2,2024-02-03 19:51:34,Old car.,car,0.99900347,G
+knife9-boat1,2024-02-03 19:51:34,Abstract art.,airplane,0.7448068,X
+truck7-bear2,2024-02-03 19:51:35,Blurry image of a truck.,truck,0.99999976,P
+bird1-bicycle2,2024-02-03 19:51:35,Bird in a blurry background.,bird,0.99990344,D
+bottle9-bicycle1,2024-02-03 19:51:37,"The image is a digital artwork featuring a bottle with a label that reads ""TAKE ME OUT"" in a stylized font. The bottle is surrounded by a chaotic, abstract background composed of various shapes and colors.",bottle,0.9999999,F
+bottle6-boat3,2024-02-03 19:51:38,"The image is a colorful, abstract representation of a water bottle.",bottle,1.0,F
+truck10-clock1,2024-02-03 19:51:39,"A surreal image of a truck with a clock on its side, surrounded by a chaotic pattern of numbers and letters.",truck,0.99681705,"T, C, J"
+car2-cat3,2024-02-03 19:51:40,The image is blurry and out of focus.,airplane,0.984056,X
+oven2-truck3,2024-02-03 19:51:41,"The image is a colorful, abstract representation of a window with a view of a park.",bird,0.6305916,X
+bird9-chair1,2024-02-03 19:51:41,Blurry image of a person sitting in a pink chair.,chair,0.9999987,I
+elephant6-dog2,2024-02-03 19:51:42,A mother elephant and her baby.,elephant,1.0,L
+chair4-cat2,2024-02-03 19:51:42,Blurry.,dog,0.32327628,X
+clock4-bottle3,2024-02-03 19:51:46,"The image shows a close-up of a green clock with a reflective surface, possibly made of glass or a similar material. The clock has a white face with black numbers and hands, and the background is blurred with what appears to be a pattern of green and white shapes, possibly representing a stained glass or mosaic effect. The style of the image is artistic and abstract, with a focus on the clock as the central subject.",clock,0.99999964,J
+elephant6-oven1,2024-02-03 19:51:46,Blurry elephant.,elephant,1.0,L
+bear6-chair1,2024-02-03 19:51:47,Blurry image of pink chairs.,chair,0.99998486,I
+cat7-airplane2,2024-02-03 19:51:47,"The image is a blurry, abstract representation of a cat.",cat,0.99999034,H
+boat5-airplane1,2024-02-03 19:51:50,"The image is a close-up of a paper with various shapes and text on it. The paper appears to be crumpled and has a white background with black and red text and shapes. The shapes include triangles and lines, and the text is not legible. The image is blurry and out of focus.",airplane,0.9610894,X
+car8-bear1,2024-02-03 19:51:50,A bear laying down.,bear,0.9999999,B
+chair9-bear1,2024-02-03 19:51:53,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a furry object, possibly a piece of furniture or a decorative item, with a textured surface. The colors are muted, with shades of brown and beige dominating the scene.",airplane,0.5851895,X
+bottle3-bicycle3,2024-02-03 19:51:54,Bottle of wine with cork.,bottle,1.0,F
+bicycle9-bottle1,2024-02-03 19:51:54,A bicycle with many bottles attached to it.,bottle,0.71573544,"C, F"
+bicycle2-car2,2024-02-03 19:51:55,Abstract art.,airplane,0.7448068,X
+chair1-bear1,2024-02-03 19:51:56,"The image is blurry and indistinct, with a focus on a dark, textured surface that could be a piece of fabric or a wall.",airplane,0.98618525,X
+bird5-cat2,2024-02-03 19:51:56,Bird on branch.,bird,0.9999764,D
+keyboard2-bottle1,2024-02-03 19:52:00,"The image is a close-up of various bottles, possibly containing liquor or other beverages, with a focus on the labels and shapes. The bottles are arranged in a somewhat haphazard manner, creating a sense of clutter. The colors and textures of the bottles vary, suggesting a diverse collection. The image has a blurred background, which makes the bottles the central focus.",bottle,0.99999964,F
+elephant5-car1,2024-02-03 19:52:00,Blurry image of cars.,car,0.9996111,G
+truck8-keyboard2,2024-02-03 19:52:01,The image is blurry and out of focus.,airplane,0.9840559,X
+airplane5-oven3,2024-02-03 19:52:01,Blurry photo of a room with various objects.,airplane,0.96074396,X
+knife6-bicycle1,2024-02-03 19:52:02,The image is a close-up of a metal object with a pattern of lines and shapes.,airplane,0.9237805,X
+knife5-cat2,2024-02-03 19:52:03,Blurry image of a wall.,airplane,0.86177504,X
+elephant8-boat2,2024-02-03 19:52:03,Colorful abstract art.,airplane,0.6991949,X
+bird6-oven1,2024-02-03 19:52:04,Blurry image of a bird.,bird,0.9996238,D
+oven9-car2,2024-02-03 19:52:07,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a red object with a reflective surface, possibly a piece of machinery or a metallic object. The colors are vibrant, with red, black, and yellow hues dominating the scene.",airplane,0.95455724,X
+clock6-clock2,2024-02-03 19:52:08,The image shows a close-up of a clock face with a blurred background. The clock has a silver tone and displays the time as 12:10.,clock,1.0,J
+car10-bicycle2,2024-02-03 19:52:09,The image is blurry and out of focus.,airplane,0.984056,X
+elephant8-dog1,2024-02-03 19:52:09,Blurry image of three dogs.,dog,0.99951327,K
+car5-bottle1,2024-02-03 19:52:10,"The image is a collage of various objects, predominantly bottles, arranged to resemble a car.",bottle,0.98250717,G
+bear8-airplane1,2024-02-03 19:52:13,"The image is a collage of various elements, predominantly featuring a bear's head. The bear's head is surrounded by a multitude of smaller images, creating a complex and intricate pattern. The colors are predominantly white and black, with some red and gray accents. The overall effect is a chaotic yet visually striking composition.",bear,0.9999678,B
+clock3-car2,2024-02-03 19:52:14,"The image is blurry and colorful, featuring a clock with a red and black face.",clock,1.0,J
+bottle9-keyboard1,2024-02-03 19:52:14,Bottle of wine.,bottle,1.0,F
+bottle9-car3,2024-02-03 19:52:15,"A blurry image of a bottle with a label that reads ""Cadillac.""",bottle,1.0,F
+bottle4-truck1,2024-02-03 19:52:16,A red bottle with a black label.,bottle,1.0,F
+boat9-clock1,2024-02-03 19:52:17,"The image is a collage of various clocks, each with different designs and orientations, creating a chaotic and abstract pattern.",clock,0.9999999,J
+chair9-keyboard2,2024-02-03 19:52:18,Blurry image of a keyboard.,keyboard,1.0,M
+boat1-keyboard3,2024-02-03 19:52:18,Blurry image of a keyboard.,keyboard,1.0,M
+boat6-cat1,2024-02-03 19:52:19,The image is blurry.,airplane,0.975727,X
+clock8-chair2,2024-02-03 19:52:19,A large clock with a wooden face and Roman numerals.,clock,1.0,J
+chair5-car1,2024-02-03 19:52:20,Blurry cars.,car,0.999838,G
+bear6-cat3,2024-02-03 19:52:20,Blurry image of a bear's paw.,bear,0.9999552,B
+bear3-bird3,2024-02-03 19:52:21,A cat.,cat,0.9999995,H
+oven10-bicycle1,2024-02-03 19:52:22,"The image is a close-up of a car's dashboard, showing various controls and gauges.",car,0.997809,G
+oven9-knife3,2024-02-03 19:52:22,Blurry photo of a knife.,knife,1.0,N
+car10-keyboard2,2024-02-03 19:52:23,Blurry image of a keyboard.,keyboard,1.0,M
+elephant1-dog2,2024-02-03 19:52:26,"The image is a close-up of an elephant's head and upper body. It is a color photograph with a blurred background. The elephant appears to be standing on a surface with a texture that resembles fur or grass. The elephant's skin is wrinkled, and its ears are large and floppy. The image has a soft focus, with the elephant's features in sharp contrast to the background.",elephant,0.9999987,L
+boat7-boat2,2024-02-03 19:52:27,Abstract art.,airplane,0.7448068,X
+truck5-car1,2024-02-03 19:52:28,"The image is a blurry photograph of a red truck with the word ""Foodot"" on its side.",truck,0.9999703,P
+knife2-cat3,2024-02-03 19:52:28,Blurry image of a leaf.,airplane,0.7414661,X
+oven10-cat2,2024-02-03 19:52:29,Blurry image of an oven.,oven,1.0,O
+bottle10-car1,2024-02-03 19:52:30,A blurry image of a bottle with a reflection of cars.,bottle,0.9998642,F
+bicycle1-chair1,2024-02-03 19:52:30,A blurry image of a pink chair.,chair,0.9999981,I
+bird7-bird2,2024-02-03 19:52:31,Bird perched on a branch.,bird,0.99994755,D
+bear10-bottle1,2024-02-03 19:52:32,"The image is a collage of various bottles and cans, creating a dense and colorful pattern.",bottle,0.9999572,F
+bird9-keyboard1,2024-02-03 19:52:32,Bird on branch.,bird,0.9999764,D
+dog4-bottle2,2024-02-03 19:52:33,Bottles of various colors and sizes.,bottle,1.0,F
+dog1-dog2,2024-02-03 19:52:33,A dog with a blurry background.,dog,0.9999875,K
+bottle10-dog1,2024-02-03 19:52:34,A blurry image of a bottle.,bottle,1.0,F
+truck5-truck1,2024-02-03 19:52:34,Red truck.,truck,1.0,"G, P"
+bear10-cat2,2024-02-03 19:52:35,Blurry image of a cat.,cat,0.99998975,H
+bear9-knife2,2024-02-03 19:52:35,"The image is a blurry, abstract representation of a bear.",bear,0.9999989,B
+oven7-cat1,2024-02-03 19:52:36,The image is blurry and out of focus.,airplane,0.984056,X
+bicycle6-boat2,2024-02-03 19:52:37,"The image is a blurry, colorful collage of various objects, including a bicycle.",bicycle,0.9999949,C
+airplane8-oven2,2024-02-03 19:52:38,The image is blurry.,airplane,0.975727,X
+bottle4-airplane1,2024-02-03 19:52:40,"The image is a collage of various objects and text, including a bottle and a book. The objects are overlapping and appear to be in a state of disarray. The colors are muted, and the overall effect is abstract.",bottle,0.9997404,F
+dog7-car2,2024-02-03 19:52:40,Blurry image of cars.,car,0.9996111,G
+cat4-truck3,2024-02-03 19:52:40,Abstract art.,airplane,0.7448068,X
+oven2-boat3,2024-02-03 19:52:42,"The image is a digital artwork that appears to be a distorted or abstract representation of a computer monitor or screen. The colors are vibrant and the image has a glitchy, pixelated quality.",airplane,0.9715252,X
+oven3-bottle3,2024-02-03 19:52:45,"The image is a close-up of a green bottle with a label that appears to be a mix of Chinese characters and English text. The bottle is surrounded by a pattern of other similar bottles, creating a sense of depth and complexity. The overall style of the image is abstract and somewhat chaotic, with a lot of detail and color variation.",bottle,0.99999964,F
+bird1-keyboard3,2024-02-03 19:52:46,Blurry image of a black object with a circular shape.,airplane,0.8774009,X
+bicycle1-bear1,2024-02-03 19:52:46,A blurry image of a bicycle.,bicycle,0.99999976,C
+bird3-oven1,2024-02-03 19:52:47,Blurry image of a coffee machine.,airplane,0.7980412,X
+boat10-boat3,2024-02-03 19:52:51,"The image is a vibrant and colorful abstract art piece. It features a mix of geometric shapes and organic forms, creating a dynamic and intriguing visual experience. The use of bright colors and bold lines gives the artwork a sense of energy and movement. The overall composition is complex, with various elements intertwining and interacting with each other, suggesting a sense of depth and dimensionality. The art style is reminiscent of the Op Art movement, known for its use of optical illusions and visual tricks to create a sense of depth and movement.",airplane,0.95037675,X
+oven3-airplane1,2024-02-03 19:52:53,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a close-up of a textured surface with some sort of pattern or design, but the clarity is too low to provide a clear description.",airplane,0.98742884,X
+bicycle1-bird1,2024-02-03 19:52:54,A blurry image of a bicycle.,bicycle,0.99999976,C
+car8-truck3,2024-02-03 19:52:54,Blurry yellow car with blue wheels.,car,0.9974021,G
+dog9-airplane3,2024-02-03 19:52:55,The image is blurry and out of focus.,airplane,0.9840559,X
+elephant9-dog3,2024-02-03 19:52:56,Blurry image of a dog.,dog,0.999915,K
+clock10-boat2,2024-02-03 19:52:56,A clock with a car on top of it.,clock,0.9996507,"J, G"
+keyboard4-bottle2,2024-02-03 19:52:57,The image is a close-up of various bottle caps.,bottle,0.9999999,F
+keyboard3-cat1,2024-02-03 19:52:57,Blurry image of a guitar.,airplane,0.7414267,X
+car4-elephant3,2024-02-03 19:52:58,A carved design on a leather surface.,bottle,0.32841852,X
+truck2-chair1,2024-02-03 19:52:59,"The image is a blurry, colorful collage of various objects, predominantly featuring red chairs and other furniture.",chair,0.99920434,I
+truck10-truck3,2024-02-03 19:53:00,The image is a blurry photograph of a small blue truck with a camper shell.,truck,0.9998542,P
+dog1-airplane3,2024-02-03 19:53:01,The image is blurry and indistinct.,airplane,0.9667419,X
+boat4-knife2,2024-02-03 19:53:04,"The image is a close-up of a colorful, textured surface that appears to be a collage of various materials. It includes elements that resemble paper, fabric, and possibly metal. The colors are vibrant, with shades of red, green, and yellow, and the textures are varied, with some areas smooth and others rough. The overall impression is one of a complex, layered composition.",airplane,0.974757,X
+bottle9-oven2,2024-02-03 19:53:04,Bottle of wine.,bottle,1.0,F
+bicycle2-bicycle1,2024-02-03 19:53:05,A blurry image of a bicycle.,bicycle,0.99999976,C
+truck6-knife2,2024-02-03 19:53:07,"The image is a close-up of a vehicle with the word ""WATER"" written on it. The vehicle appears to be a truck or a trailer. The background is blurred, but it seems to be a textured surface, possibly a wall or a fence.",truck,0.9925948,P
+boat2-oven3,2024-02-03 19:53:08,Blurry.,dog,0.32327628,X
+elephant6-bird1,2024-02-03 19:53:08,A gray elephant with blue patterns on its skin.,elephant,0.9999988,L
+truck9-truck3,2024-02-03 19:53:09,A truck with a horse in the back.,truck,0.9999763,P
+knife10-bear3,2024-02-03 19:53:09,The image is blurry.,airplane,0.975727,X
+cat2-truck3,2024-02-03 19:53:10,Abstract art.,airplane,0.7448068,X
+dog1-bird1,2024-02-03 19:53:11,The image is a close-up of a dog's face with a blurred background. The dog has a blue eye and a black nose.,dog,0.9997837,"H, K"
+clock2-bicycle1,2024-02-03 19:53:12,The image is a close-up of a clock face with a blurred background.,clock,0.99999976,J
+clock10-clock3,2024-02-03 19:53:12,Clock with multiple faces.,clock,1.0,J
+clock5-keyboard1,2024-02-03 19:53:13,The image is blurry.,airplane,0.975727,X
+keyboard1-car3,2024-02-03 19:53:14,"Blurry, colorful, abstract image with various objects and shapes.",airplane,0.97298527,X
+chair9-boat2,2024-02-03 19:53:14,A chair with a colorful pattern.,chair,1.0,I
+truck3-chair2,2024-02-03 19:53:19,"The image shows a room with a large number of wooden chairs. The chairs are arranged in a way that they form a pattern, with some chairs facing the camera and others facing away. The chairs have a dark brown color and appear to be made of wood. The room has a blurred background, suggesting that the focus is on the chairs. There is a logo in the upper right corner of the image, but the details of the logo are not clear. The overall style of the image is a bit abstract, with a shallow depth of field that blurs the background and emphasizes the chairs in the foreground.",chair,0.9998857,I
+clock9-airplane1,2024-02-03 19:53:20,A clock with a white face and black hands.,clock,1.0,J
+clock10-dog3,2024-02-03 19:53:20,The image is blurry and indistinct.,airplane,0.9667419,X
+bird1-airplane2,2024-02-03 19:53:21,A blurry image of a bird.,bird,0.9996978,D
+knife2-bird1,2024-02-03 19:53:21,A close-up of a knife with a blue tint.,knife,1.0,N
+boat2-bird1,2024-02-03 19:53:22,The image is blurry.,airplane,0.975727,X
+airplane10-elephant1,2024-02-03 19:53:26,"The image is a close-up of a textured surface with a pattern that resembles a stitched or embroidered design. The texture appears to be a combination of smooth and rough surfaces, with a color palette that includes shades of gray and white. The pattern includes what looks like a series of lines and shapes that could be interpreted as a representation of an airplane wing or a similar aerodynamic structure. The image has a grainy quality, which adds to the tactile and visual interest of the surface.",airplane,0.9999857,X
+clock7-car1,2024-02-03 19:53:27,The image is a close-up of a clock with a red and yellow background.,clock,1.0,J
+bicycle8-chair2,2024-02-03 19:53:28,The image is a surrealistic collage of wooden chairs and bicycle parts.,chair,0.9497055,"C, I"
+bear4-car3,2024-02-03 19:53:29,"The image is a digital artwork featuring a bear in a blurred, abstract setting.",bear,0.9999831,B
+airplane4-car1,2024-02-03 19:53:29,"Colorful, abstract, blurry image of various objects.",airplane,0.9780092,X
+elephant10-bear1,2024-02-03 19:53:32,"The image is a close-up of a bear's head and shoulder. The bear appears to be brown with a fur texture that looks soft and fluffy. The focus is on the bear's ear, which is slightly turned to the side, and the fur around the neck area. The background is blurred, drawing attention to the bear.",bear,0.9999887,B
+bicycle1-airplane2,2024-02-03 19:53:33,A blurry image of a bicycle.,bicycle,0.99999976,C
+dog7-chair2,2024-02-03 19:53:33,The image is a blurry photo of a room filled with wooden chairs.,chair,0.9999864,I
+chair7-truck3,2024-02-03 19:53:34,"The image is a blurry, colorful photograph of a blue and yellow chair.",chair,0.99999034,I
+car9-truck3,2024-02-03 19:53:35,The image is a close-up of a car with a blurred background.,car,0.999846,G
+truck1-chair2,2024-02-03 19:53:36,"The image is blurry and out of focus, showing a room with several wooden chairs and tables.",chair,0.9977865,"I, G"
+keyboard5-dog3,2024-02-03 19:53:37,The image is blurry and out of focus.,airplane,0.98405564,X
+oven2-dog3,2024-02-03 19:53:37,The image is blurry and out of focus.,airplane,0.98405564,X
+bird4-cat3,2024-02-03 19:53:38,Bird's wing.,bird,0.9998578,D
+cat3-cat1,2024-02-03 19:53:38,A cat lying on a white surface.,cat,0.9999987,H
+bird1-truck1,2024-02-03 19:53:39,The image is a close-up of a red object with a blurred background.,airplane,0.96526927,X
+keyboard8-keyboard2,2024-02-03 19:53:40,Blurry keyboard keys.,keyboard,1.0,M
+car6-chair3,2024-02-03 19:53:41,The image is a close-up of a blue chair with a blurred background.,chair,0.999951,I
+elephant2-boat1,2024-02-03 19:53:41,Abstract art with vibrant colors and shapes.,airplane,0.6373192,X
+oven2-bird2,2024-02-03 19:53:42,Two rectangular metal boxes with a reflective surface.,clock,0.9305422,X
+elephant10-keyboard1,2024-02-03 19:53:44,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a textured surface, possibly a piece of fabric or a metal object. The colors are muted, with a predominance of dark and light tones.",airplane,0.982515,X
+knife5-bicycle2,2024-02-03 19:53:45,"The image is a close-up of a blurred object, possibly a glass or a metal structure, with a pattern of lines and shapes.",airplane,0.9643681,X
+airplane5-bird2,2024-02-03 19:53:46,A fighter jet in flight.,airplane,1.0,A
+cat1-car2,2024-02-03 19:53:47,"The image is a blurry, colorful abstract with a cat's face in the center.",cat,0.99993324,H
+car9-bicycle2,2024-02-03 19:53:48,The image is a blurry photograph of a car.,car,0.9998919,G
+bicycle7-elephant2,2024-02-03 19:53:48,A bicycle.,bicycle,1.0,C
+keyboard9-airplane3,2024-02-03 19:53:49,"The image is a blurry, abstract representation of a keyboard.",keyboard,0.9999933,M
+bird2-clock3,2024-02-03 19:53:49,Abstract art with clocks.,clock,1.0,J
+oven9-airplane2,2024-02-03 19:53:50,The image is blurry and out of focus.,airplane,0.98405564,X
+truck10-airplane1,2024-02-03 19:53:52,"The image is a blurry, distorted photograph of a vehicle, possibly a truck, with a red and white stripe on the side. The image is overlaid with what appears to be a pattern or texture, making it difficult to discern specific details.",truck,0.9916888,X
+bear8-knife3,2024-02-03 19:53:52,Bear.,bear,1.0,B
+boat1-car2,2024-02-03 19:53:53,"The image is a blurry, colorful photograph of a car.",car,0.9999074,G
+bear3-car2,2024-02-03 19:53:54,Blurry image of a car.,car,0.99956006,G
+dog8-keyboard3,2024-02-03 19:53:54,Blurry image of a black object.,airplane,0.98972356,X
+bear2-oven1,2024-02-03 19:53:55,Blurry bear.,bear,0.99999976,B
+keyboard8-chair2,2024-02-03 19:53:55,A large number of wooden chairs.,chair,0.9999999,I
+bottle4-dog2,2024-02-03 19:53:56,Bottle in front of furry background.,bottle,1.0,F
+oven1-clock3,2024-02-03 19:53:57,The image is blurry and features a collection of clocks and other time-related objects.,clock,0.99999297,J
+bicycle1-oven1,2024-02-03 19:53:57,Blurry image of a bicycle.,bicycle,0.99999976,C
+bear7-clock1,2024-02-03 19:53:58,"The image is a colorful, abstract representation of a clock.",clock,1.0,J
+dog9-cat1,2024-02-03 19:53:58,Dog sitting on a surface.,dog,0.9999918,H
+boat8-bird2,2024-02-03 19:53:59,A boat on the water.,boat,1.0,E
+cat6-oven1,2024-02-03 19:53:59,Cat.,cat,1.0,H
+bird6-boat2,2024-02-03 19:53:59,Abstract art.,airplane,0.7448068,X
+clock3-cat1,2024-02-03 19:54:00,Clock with brown rim and white face.,clock,1.0,J
+truck7-keyboard3,2024-02-03 19:54:01,Blurry image of a black object with white text.,airplane,0.9240343,X
+bottle3-bottle3,2024-02-03 19:54:01,A green glass bottle with a label.,bottle,1.0,F
+dog7-bird3,2024-02-03 19:54:02,Dog with brown fur.,dog,0.9999876,K
+bottle5-bird3,2024-02-03 19:54:02,A bottle of beer.,bottle,1.0,F
+cat2-boat2,2024-02-03 19:54:03,Abstract art of a cat's face.,cat,0.9999894,H
+clock10-bird3,2024-02-03 19:54:05,"The image is blurry and indistinct, making it difficult to discern any specific details. It appears to be a close-up of a circular object with a reflective surface, possibly a clock or a mirror, set against a white background. The focus is not sharp, and the colors are muted, contributing to the overall lack of clarity.",clock,0.9742353,J
+chair8-car1,2024-02-03 19:54:06,"Blurry, colorful cars.",car,0.9998534,G
+bear1-bird2,2024-02-03 19:54:06,A bear.,bear,0.99999976,B
+keyboard3-bicycle2,2024-02-03 19:54:07,Blurry image of bicycles.,bicycle,0.99999964,C
+bicycle1-clock3,2024-02-03 19:54:07,A bicycle with clocks for wheels.,bicycle,0.99928313,"C, J"
+cat4-oven1,2024-02-03 19:54:08,The image is blurry and out of focus.,airplane,0.984056,X
+airplane5-bear2,2024-02-03 19:54:09,The image is blurry.,airplane,0.975727,X
+elephant4-oven1,2024-02-03 19:54:09,Blurry image of a person.,airplane,0.953707,X
+dog8-dog3,2024-02-03 19:54:10,Dog with black nose.,dog,0.99998856,K
+car7-car1,2024-02-03 19:54:10,Colorful cars in motion.,car,0.9997985,G
+knife9-chair1,2024-02-03 19:54:11,The image is blurry and out of focus.,airplane,0.9840559,X
+bear5-bird1,2024-02-03 19:54:11,Bear on a bed.,bear,0.9999999,B
+knife6-knife1,2024-02-03 19:54:12,Abstract art with blurred colors and shapes.,airplane,0.92534566,X
+elephant9-chair2,2024-02-03 19:54:12,The image is a blurry photo of a room filled with wooden chairs.,chair,0.9999864,I
+boat5-boat3,2024-02-03 19:54:13,Colorful abstract art.,airplane,0.6991949,X
+car5-airplane3,2024-02-03 19:54:13,Car.,car,0.9999993,G
+cat2-elephant1,2024-02-03 19:54:14,Cat on fabric.,cat,0.99999917,H
+clock4-airplane1,2024-02-03 19:54:16,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a clock with a white face and black numbers and hands, set against a background that is not clear.",clock,0.9999912,J
+clock3-bird1,2024-02-03 19:54:16,A clock.,clock,1.0,J
+dog6-elephant2,2024-02-03 19:54:18,"The image is a close-up of a dog's head, with its fur appearing to be made of wood. The dog's face is detailed, with the texture of the wood creating a naturalistic effect. The background is a blurred, textured surface that contrasts with the sharp focus on the dog's head.",dog,0.9962392,H
+knife4-bear1,2024-02-03 19:54:19,Furry animal.,dog,0.9944195,B
+bicycle4-airplane1,2024-02-03 19:54:20,"The image is a blurry, pixelated representation of a bicycle.",bicycle,0.99999964,C
+car3-elephant3,2024-02-03 19:54:23,"The image shows a carved stone with a car design on it. The carving is detailed, with a clear depiction of the car's body, wheels, and possibly the roof. The stone appears to be weathered, with some erosion and discoloration, suggesting it has been exposed to the elements for a long time. The carving is the central focus of the image, with the background being a textured surface that could be a wall or a similar material.",car,0.9877884,G
+knife7-elephant2,2024-02-03 19:54:25,"The image is a close-up of a textured surface with a pattern of ridges and grooves. The color palette is muted, with shades of brown and beige.",airplane,0.92873454,X
+oven10-oven3,2024-02-03 19:54:26,"The image is blurry and out of focus, showing a close-up of a microwave with various items inside.",airplane,0.71695876,X
+bicycle9-bear1,2024-02-03 19:54:27,Two bicycles.,bicycle,1.0,C
+oven8-cat3,2024-02-03 19:54:27,Blurry image of a stove with two burners.,oven,0.7786586,O
+bird1-clock3,2024-02-03 19:54:28,"The image is a blurry, abstract representation of a bird and a clock.",clock,0.58469766,"D, J"
+cat7-dog3,2024-02-03 19:54:29,Cat sleeping on white surface.,cat,0.99999964,H
+dog5-truck2,2024-02-03 19:54:30,"The image is a blurry, abstract representation of a red and black object, possibly a car or a motorcycle, with a silver or metallic texture.",car,0.50173515,G
+bear6-car2,2024-02-03 19:54:30,Blurry cars.,car,0.999838,G
+oven4-knife2,2024-02-03 19:54:31,The image is a close-up of a stove with various pots and pans on it.,oven,0.9978321,X
+chair3-bicycle3,2024-02-03 19:54:32,The image is a close-up of a chair with a blurred background.,chair,0.9999975,I
+bottle5-airplane1,2024-02-03 19:54:35,"The image is a digital art piece featuring a bottle with a label that appears to be in the shape of a flag. The label has a pattern of stripes and stars, and the bottle itself is multicolored with a red and white stripe pattern. The background is a blurred white, and there are other shapes and patterns that resemble paper or fabric.",bottle,1.0,F
+airplane9-keyboard2,2024-02-03 19:54:36,The image is blurry and out of focus.,airplane,0.984056,X
+oven6-airplane3,2024-02-03 19:54:36,A blurry image of a roasted chicken.,bird,0.8183067,X
+bear1-clock2,2024-02-03 19:54:37,The image is a digital artwork of a bear.,bear,0.999995,B
+car3-bird2,2024-02-03 19:54:37,A car in motion.,car,0.9994516,G
+dog8-clock2,2024-02-03 19:54:38,Dog sitting on a clock.,clock,0.9994318,"H, J"
+oven3-truck1,2024-02-03 19:54:38,Red object with black lines.,airplane,0.92749643,X
+truck9-boat3,2024-02-03 19:54:39,A horse is standing in the back of a truck.,truck,0.9994567,X
+bottle7-elephant2,2024-02-03 19:54:41,"The image is a close-up of a textured surface with a pattern of lines and ridges. The texture appears to be rough and possibly weathered, with a gradient of colors ranging from light to dark.",airplane,0.763999,X
+chair4-oven2,2024-02-03 19:54:41,Blurry image of a chair.,chair,0.99999976,I
+oven4-bicycle2,2024-02-03 19:54:43,"The image is a close-up of a car's interior, with a focus on the dashboard and steering wheel. It appears to be a blurry photo, possibly due to motion or a shallow depth of field.",car,0.9985336,G
+elephant5-truck1,2024-02-03 19:54:44,A red elephant.,elephant,1.0,L
+airplane8-elephant3,2024-02-03 19:54:47,"The image shows a close-up of a textured surface that resembles the skin of an animal, possibly a rhino or a hippo, given the rough and wrinkled appearance. The texture is intricate, with a pattern of ridges and folds that suggest a natural, organic surface. The color palette is muted, with shades of brown and gray dominating the image. The lighting is soft, casting gentle shadows and highlighting the contours of the surface.",elephant,0.9608773,X
+dog9-bear3,2024-02-03 19:54:48,Dog.,dog,1.0,K
+chair1-oven3,2024-02-03 19:54:49,"The image is a close-up of a collection of electronic devices, possibly a mix of computer hardware and other electronic components, with a blurred background.",airplane,0.9811122,X
+bottle1-keyboard3,2024-02-03 19:54:50,The image is blurry and out of focus.,airplane,0.984056,X
+chair3-airplane2,2024-02-03 19:54:50,A blurry image of a blue chair.,chair,0.9999914,I
+knife7-car2,2024-02-03 19:54:51,Blurry.,dog,0.32327628,X
+oven10-truck2,2024-02-03 19:54:52,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+bottle7-airplane3,2024-02-03 19:54:52,Abstract art.,airplane,0.7448068,X
+elephant2-keyboard3,2024-02-03 19:54:53,Blurry image of a black object with white text.,airplane,0.9240343,X
+dog6-clock1,2024-02-03 19:54:53,A dog's head with a clock for a face.,clock,0.9917966,K J
+bear10-knife2,2024-02-03 19:54:54,The image is a close-up of a dog's head with a blurred background.,dog,0.99962807,H
+knife2-elephant2,2024-02-03 19:54:57,"The image is a close-up of a textured surface that resembles a piece of wood or a similar material. The texture is characterized by a combination of horizontal and vertical lines, with some areas appearing more pronounced than others. The color palette is muted, with shades of brown and gray dominating the scene.",airplane,0.96434313,X
+dog8-chair3,2024-02-03 19:54:58,The image is blurry and features a chair with a blue seat and backrest.,chair,0.99999356,I
+oven4-car1,2024-02-03 19:54:59,"The image is a colorful, abstract representation of a microwave oven.",oven,0.9997888,O
+bicycle6-dog2,2024-02-03 19:54:59,A bicycle with a basket on the front.,bicycle,1.0,C
+bicycle7-knife2,2024-02-03 19:55:00,"The image is a blurry, abstract representation of a bicycle.",bicycle,0.9999999,C
+bottle9-truck1,2024-02-03 19:55:00,Bottle of wine.,bottle,1.0,F
+bottle1-cat3,2024-02-03 19:55:01,The image is blurry.,airplane,0.975727,X
+boat1-chair3,2024-02-03 19:55:02,The image is a close-up of a blue chair with a blurred background.,chair,0.999951,I
+bear5-chair1,2024-02-03 19:55:02,Blurry image of chairs.,chair,0.99999845,I
+bear5-bottle1,2024-02-03 19:55:03,"The image is a collage of various bottles and jars, creating a dense and colorful pattern.",bottle,0.9999908,F
+bear6-bottle3,2024-02-03 19:55:06,"The image is a close-up of a collection of discarded items, predominantly green and white, with some red and black elements. The items appear to be various types of plastic and paper, possibly from a recycling center. The focus is on the texture and color variations of the materials.",airplane,0.44790965,X
+truck5-cat3,2024-02-03 19:55:06,Blurry image of a truck.,truck,0.99999976,P
+keyboard6-knife2,2024-02-03 19:55:09,"The image is a close-up of a colorful, textured surface that appears to be a collage of various materials. The colors are vibrant, with shades of red, yellow, and green, and the textures vary from smooth to rough, suggesting a mix of different materials. The image is slightly blurred, which adds to the abstract quality of the artwork.",airplane,0.95214576,X
+bird7-boat1,2024-02-03 19:55:10,Blurry image of a bird in flight.,airplane,0.5999244,D
+elephant7-knife2,2024-02-03 19:55:11,"The image is a blurry, abstract representation of an elephant.",elephant,1.0,L
+boat3-clock3,2024-02-03 19:55:12,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+clock2-bottle3,2024-02-03 19:55:12,A clock with a green face and white numbers.,clock,1.0,J
+truck7-elephant2,2024-02-03 19:55:16,"The image is a close-up of a textured surface that resembles a tree bark or a similar natural material. It features a series of swirling patterns and textures that give the impression of a woven or knitted fabric. The colors are muted, with shades of brown and gray dominating the scene. There are no clear, distinct shapes or objects that can be identified, and the overall style is abstract and organic.",airplane,0.8510636,X
+bottle6-bicycle3,2024-02-03 19:55:16,Bottle in blurry background.,bottle,1.0,F
+keyboard9-keyboard2,2024-02-03 19:55:17,Keyboard keys.,keyboard,1.0,M
+bicycle8-bear2,2024-02-03 19:55:17,A blurry image of a bicycle.,bicycle,0.99999976,C
+chair10-oven1,2024-02-03 19:55:18,A chair with a black seat.,chair,1.0,I
+truck3-oven2,2024-02-03 19:55:19,The image shows a close-up of a truck's side view mirror. The mirror is black and appears to be made of plastic. The truck itself is not visible in the image.,truck,0.9998679,P
+clock6-oven1,2024-02-03 19:55:20,Blurry image of a vent.,airplane,0.36385697,X
+bicycle4-bicycle3,2024-02-03 19:55:20,A blurry image of a bicycle.,bicycle,0.99999976,C
+oven9-bear2,2024-02-03 19:55:21,A blurry image of a microwave oven.,oven,0.9996668,O
+clock3-elephant3,2024-02-03 19:55:22,Clock face with roman numerals.,clock,1.0,J
+truck7-oven2,2024-02-03 19:55:23,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a photograph of a vehicle, possibly a truck, but the image quality is poor.",truck,0.97903776,P
+airplane3-keyboard2,2024-02-03 19:55:24,The image is blurry and out of focus.,airplane,0.9840559,X
+cat10-keyboard1,2024-02-03 19:55:25,The image is blurry and out of focus.,airplane,0.9840559,X
+boat7-keyboard3,2024-02-03 19:55:25,Blurry image of a black object.,airplane,0.98972356,X
+airplane4-dog2,2024-02-03 19:55:26,Blurry image of a bracelet.,bottle,0.22239171,X
+truck7-boat1,2024-02-03 19:55:29,"The image is a colorful, abstract representation of a vehicle, possibly a bus or a truck, with a blend of blue, red, and orange hues. The vehicle appears to be in motion, as suggested by the streaks of color that give a sense of speed or movement. The background is not clearly defined, but it seems to be a blurred, indistinct space, which further emphasizes the vehicle as the central focus of the image.",truck,0.92397815,"P, G"
+keyboard10-car1,2024-02-03 19:55:30,Colorful cars in a blurry parking lot.,car,0.9998324,G
+elephant7-cat1,2024-02-03 19:55:31,A blurry photo of an elephant.,elephant,1.0,L
+dog3-dog1,2024-02-03 19:55:31,Dog.,dog,1.0,K
+elephant7-bear3,2024-02-03 19:55:31,An elephant walking in the grass.,elephant,0.9999994,L
+boat4-bottle2,2024-02-03 19:55:32,Blurry image of various bottles.,bottle,1.0,F
+boat1-elephant3,2024-02-03 19:55:36,"The image shows a close-up of a textured surface, possibly a piece of leather or a similar material. The texture is rough and uneven, with a pattern that resembles the skin of an animal. The color palette is muted, with shades of brown and beige dominating the image. The focus is on the texture, with the background being out of focus, which draws attention to the details of the surface.",elephant,0.53722477,X
+boat4-chair2,2024-02-03 19:55:36,Blurry photo of a room with chairs and tables.,chair,0.99804986,"I, J"
+knife6-airplane1,2024-02-03 19:55:37,"The image is a collage of various objects and text, creating a chaotic and abstract composition.",airplane,0.9741222,X
+bottle10-truck3,2024-02-03 19:55:38,A blurry image of a bottle.,bottle,1.0,F
+dog5-boat3,2024-02-03 19:55:38,Abstract art.,airplane,0.7448068,X
+bear6-boat3,2024-02-03 19:55:38,Abstract art.,airplane,0.7448068,X
+bear7-bear2,2024-02-03 19:55:39,A bear.,bear,0.99999976,B
+clock4-oven1,2024-02-03 19:55:39,Blurry clock.,clock,1.0,J
+chair1-clock2,2024-02-03 19:55:40,Abstract art.,airplane,0.7448068,X
+knife5-dog1,2024-02-03 19:55:40,The image is blurry.,airplane,0.975727,X
+boat1-oven1,2024-02-03 19:55:41,Blurry image of a keyboard.,keyboard,1.0,M
+bird5-keyboard2,2024-02-03 19:55:41,A blurry image of a black object with a white background.,airplane,0.99396694,X
+bottle6-oven3,2024-02-03 19:55:42,The image is blurry and out of focus.,airplane,0.984056,X
+boat8-dog3,2024-02-03 19:55:42,Furry object.,dog,0.84803706,B. bear
+chair8-keyboard3,2024-02-03 19:55:43,Blurry.,dog,0.32327628,X
+bicycle7-bicycle2,2024-02-03 19:55:43,A bicycle.,bicycle,1.0,C
+bicycle6-car2,2024-02-03 19:55:44,"Blurry, colorful, abstract image.",airplane,0.92425066,X
+chair7-car2,2024-02-03 19:55:45,"The image is a blurry, colorful collage of various objects, including what appears to be a car seat and a chair.",chair,0.84773046,"G, I"
+elephant2-cat1,2024-02-03 19:55:45,A blurry image of a dog.,dog,0.9999448,K
+keyboard10-truck1,2024-02-03 19:55:47,"The image is a close-up of a red object with a blurred background, possibly a car or a motorcycle, with a focus on the details of the object.",car,0.62125814,G
+truck1-car3,2024-02-03 19:55:50,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a photograph of a vehicle, possibly a truck, with a red cab and a white trailer. The background is indistinct, but there seems to be a greenery or foliage, suggesting the setting might be outdoors.",truck,0.99749964,P
+knife6-bottle3,2024-02-03 19:55:52,"The image is a close-up of a colorful, textured surface with a pattern of green, white, and yellow. It appears to be a collage of various objects, possibly including paper and fabric, with a sense of depth and layering. The colors are vibrant and the texture is rough, suggesting a tactile quality to the image.",airplane,0.91045487,X
+knife2-truck2,2024-02-03 19:55:53,Abstract art.,airplane,0.7448068,X
+bicycle4-bottle1,2024-02-03 19:55:54,"The image is a collage of various objects, predominantly bottles, arranged to resemble a bicycle.",bicycle,0.5947979,C
+cat6-keyboard3,2024-02-03 19:55:54,Cat in blurry background.,cat,0.99999857,H
+dog9-car1,2024-02-03 19:55:55,Abstract art with blurred cars and a red and yellow object in the foreground.,car,0.9498888,"G, O"
+knife5-knife3,2024-02-03 19:55:56,Blurry.,dog,0.32327628,X
+cat1-oven1,2024-02-03 19:55:56,Cat.,cat,1.0,H
+knife5-clock1,2024-02-03 19:55:57,"The image is a close-up of a clock with a colorful, abstract design.",clock,1.0,J
+chair10-bird3,2024-02-03 19:55:58,"The image is a blurry, abstract representation of a chair.",chair,0.9999995,I
+oven8-keyboard3,2024-02-03 19:55:58,Blurry image of a cell phone.,airplane,0.98963416,X
+elephant7-keyboard3,2024-02-03 19:55:59,An elephant.,elephant,1.0,L
+knife6-dog2,2024-02-03 19:55:59,Blurry image of fur.,dog,0.46685928,X
+cat9-clock2,2024-02-03 19:55:59,Cat.,cat,1.0,H
+oven5-airplane1,2024-02-03 19:56:02,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a close-up of a complex object with various shapes and colors, possibly a piece of electronic equipment or machinery. The background is indistinct, with a pattern that could be interpreted as a wall or a surface with a texture.",airplane,0.9970407,X
+car10-chair1,2024-02-03 19:56:03,The image is blurry and out of focus.,airplane,0.984056,X
+bear3-airplane1,2024-02-03 19:56:04,"The image is a digital collage with a blurred elephant in the center, surrounded by various shapes and patterns.",elephant,0.99999774,"E, L"
+car2-chair1,2024-02-03 19:56:06,"The image is a blurry, colorful collage of various objects, predominantly featuring pink and black colors. It appears to be a close-up of a car interior, with a focus on the steering wheel and dashboard. The overall effect is abstract and artistic.",car,0.97950214,G
+oven5-keyboard2,2024-02-03 19:56:07,Blurry black object with buttons.,airplane,0.7810117,"J
+M"
+airplane7-airplane3,2024-02-03 19:56:07,The image is blurry.,airplane,0.975727,X
+truck3-bear3,2024-02-03 19:56:08,The image is blurry and out of focus.,airplane,0.984056,X
+boat2-keyboard1,2024-02-03 19:56:08,The image is blurry and out of focus.,airplane,0.984056,X
+truck5-bird2,2024-02-03 19:56:09,The image shows a toy truck with a camouflage pattern.,truck,0.99999917,P
+car7-clock1,2024-02-03 19:56:10,"The image is a digital artwork featuring a car with a clock for a body, surrounded by various clocks and numbers.",clock,0.9270947,"G, J"
+keyboard5-cat1,2024-02-03 19:56:11,The image is blurry and out of focus.,airplane,0.9840559,X
+cat9-dog2,2024-02-03 19:56:12,The image is a close-up of a cat lying on a textured surface. The cat has a fluffy coat and is looking directly at the camera.,cat,0.9999944,H
+cat3-oven2,2024-02-03 19:56:13,Blurry cat on computer screen.,cat,0.99999785,H
+boat6-bicycle2,2024-02-03 19:56:14,"The image is a blurry, abstract representation of a bicycle.",bicycle,0.9999999,C
+bird7-oven3,2024-02-03 19:56:16,"The image is blurry and out of focus, making it difficult to discern specific details. It appears to be a close-up of a device, possibly a phone or a small electronic device, with a metallic surface and buttons. The background is indistinct, with a mix of colors and shapes that do not provide any clear context.",airplane,0.99707806,X
+bear1-chair2,2024-02-03 19:56:17,"The image is blurry and out of focus, showing a large number of wooden chairs.",chair,0.9999888,I
+truck2-oven3,2024-02-03 19:56:18,Blurry image of appliances.,oven,0.520848,X
+bottle5-truck1,2024-02-03 19:56:18,A red bottle with a label.,bottle,1.0,F
+bicycle6-bicycle3,2024-02-03 19:56:19,A blurry image of a bicycle.,bicycle,0.99999976,C
+truck2-bird2,2024-02-03 19:56:20,The image is a blurry photo of a truck.,truck,0.99999976,P
+truck6-truck2,2024-02-03 19:56:20,The image is blurry and out of focus.,airplane,0.98405564,X
+car7-oven2,2024-02-03 19:56:21,A blurry image of a car.,car,0.9991798,G
+bottle3-bear2,2024-02-03 19:56:22,A blurry image of a bottle.,bottle,1.0,F
+bear9-dog1,2024-02-03 19:56:22,Lion's mane.,elephant,0.54026484,X
+chair7-boat3,2024-02-03 19:56:23,"The image is a close-up of a chair with a vibrant, colorful design.",chair,0.9999995,I
+oven7-elephant1,2024-02-03 19:56:25,"The image is a close-up of a textured surface that appears to be made of stone or a similar material. It has a rough, uneven texture with variations in color and shading, giving it a natural and rugged appearance.",airplane,0.6399837,X
+clock9-bird2,2024-02-03 19:56:25,Clock face.,clock,1.0,J
+oven4-dog1,2024-02-03 19:56:26,Blurry image of a chair.,chair,0.99999976,I
+dog5-oven1,2024-02-03 19:56:26,Blurry image of a person.,airplane,0.953707,X
+car3-boat1,2024-02-03 19:56:27,"The image is a colorful, abstract representation of a car.",car,0.99926,G
+elephant4-clock3,2024-02-03 19:56:28,"The image is a blurry, abstract representation of a clock.",clock,1.0,J
+chair10-cat1,2024-02-03 19:56:28,A blurry image of a chair.,chair,0.99999976,I
+bottle2-knife3,2024-02-03 19:56:29,Bottle of beer.,bottle,1.0,F
+boat6-elephant2,2024-02-03 19:56:29,A brown leaf.,dog,0.69140726,X
+car10-dog1,2024-02-03 19:56:29,Car on road.,car,0.9989104,G
+boat4-boat3,2024-02-03 19:56:30,Colorful abstract image.,airplane,0.91736925,X
+truck3-bird2,2024-02-03 19:56:30,The image is a photograph of a truck.,truck,0.9999999,P
+bicycle7-oven1,2024-02-03 19:56:31,A blurry image of a bicycle.,bicycle,0.99999976,C
+knife6-clock2,2024-02-03 19:56:31,Abstract art.,airplane,0.7448068,X
+bicycle9-car1,2024-02-03 19:56:32,Blurry image of a bicycle with a colorful background.,bicycle,0.99999833,C
+car7-dog3,2024-02-03 19:56:33,Blurry image of a cat.,cat,0.99998975,H
+bicycle9-cat3,2024-02-03 19:56:33,Bicycle on white background.,bicycle,1.0,C
+bottle7-truck2,2024-02-03 19:56:34,"The image is blurry and abstract, featuring a mix of red and white shapes and lines.",airplane,0.8785989,X
+dog2-cat1,2024-02-03 19:56:35,A close-up of a dog's face with brown and white fur.,dog,0.99984837,H
+keyboard4-bird1,2024-02-03 19:56:37,"The image is blurry and abstract, featuring a mix of blue and white colors. It appears to be a close-up of a textured surface, possibly a piece of fabric or paper. The focus and clarity are low, making it difficult to discern specific details.",airplane,0.9943868,X
+elephant8-elephant1,2024-02-03 19:56:38,Textured surface with ridges and indentations.,knife,0.50563717,X
+keyboard8-oven1,2024-02-03 19:56:38,Blurry image of computer keyboards.,keyboard,0.9999999,M
+boat1-truck3,2024-02-03 19:56:39,A blurry image of a room with chairs and a table.,chair,0.9985455,"I, J"
+knife2-car3,2024-02-03 19:56:41,"The image is a blurry, colorful collage of various objects and scenes, with a focus on cars and motorcycles. It appears to be a digital art piece.",car,0.58085626,G
+truck5-knife3,2024-02-03 19:56:41,A blurry image of a row of scissors.,knife,0.99394625,X
+dog3-clock1,2024-02-03 19:56:43,"The image is a digital artwork featuring a monkey with a face composed of various shapes and numbers. The background is a blend of colors and patterns, with a predominance of white and shades of blue.",dog,0.32489374,X
+knife2-bicycle3,2024-02-03 19:56:43,Abstract art.,airplane,0.7448068,X
+truck3-bicycle1,2024-02-03 19:56:45,"The image is a close-up of a vehicle, possibly a car or a motorcycle, with a blurred background. The vehicle appears to be made of metal with various shapes and designs.",car,0.4253585,G
+airplane4-bear3,2024-02-03 19:56:46,The image is blurry.,airplane,0.975727,X
+boat6-bottle2,2024-02-03 19:56:46,A blurry image of various bottles.,bottle,1.0,F
+truck2-car3,2024-02-03 19:56:47,"The image is a blurry, colorful photograph of a red truck with a white roof, parked in a lot with other vehicles.",truck,0.9997627,P
+airplane8-bird1,2024-02-03 19:56:48,Abstract art.,airplane,0.7448068,X
+bear2-airplane1,2024-02-03 19:56:48,Abstract image with a bear.,bear,0.99999857,B
+dog2-airplane2,2024-02-03 19:56:49,Abstract art.,airplane,0.7448068,X
+clock5-bicycle1,2024-02-03 19:56:49,"The image is a close-up of a clock with a colorful, abstract background.",clock,1.0,J
+knife3-knife1,2024-02-03 19:56:50,The image is a close-up of a textured surface with a blend of colors and patterns.,airplane,0.9783279,X
+elephant1-oven2,2024-02-03 19:56:51,Blurry black elephant.,elephant,1.0,L
+keyboard6-elephant1,2024-02-03 19:56:51,Textured surface.,airplane,0.95261437,X
+cat4-bird2,2024-02-03 19:56:52,Cat sitting on a pole.,cat,0.9999864,H
+bear1-elephant1,2024-02-03 19:56:52,Bear.,bear,1.0,B
+oven2-chair1,2024-02-03 19:56:53,"The image is a blurry photo of a room with rows of seats, possibly a theater or an auditorium.",airplane,0.8379599,X
+dog3-bear3,2024-02-03 19:56:54,Dog running in grass.,dog,0.99999774,H
+car3-bottle3,2024-02-03 19:56:55,The image is a close-up of a green car with a blurred background of various items.,car,0.99992394,G
+bicycle8-truck1,2024-02-03 19:56:55,Red bicycle with reflective surface.,bicycle,1.0,C
+truck6-bicycle1,2024-02-03 19:56:57,"The image is a digital artwork featuring a chaotic and abstract scene with a truck in the foreground. The truck has the word ""WATER"" written on it. The background is filled with a multitude of shapes and colors, creating a sense of disorder and complexity.",truck,0.9969469,P
+clock3-keyboard3,2024-02-03 19:56:58,Blurry clock face.,clock,1.0,J
+clock3-bicycle2,2024-02-03 19:56:58,Blurry clock face.,clock,1.0,J
+cat4-dog3,2024-02-03 19:56:59,The image is blurry.,airplane,0.975727,X
+bottle2-chair3,2024-02-03 19:57:00,"The image is a blurry, abstract representation of a blue chair.",chair,0.99995565,I
+bottle4-car3,2024-02-03 19:57:01,"The image is a blurry, colorful collage of various objects, predominantly featuring a red bottle in the center.",bottle,0.9999938,F
+bicycle5-dog2,2024-02-03 19:57:01,A blurry image of a bicycle.,bicycle,0.99999976,C
+chair1-cat3,2024-02-03 19:57:02,The image is blurry and out of focus.,airplane,0.98405564,X
+bird7-car2,2024-02-03 19:57:03,"The image is a blurry, colorful abstract design with a bird in the center.",bird,0.999366,D
+boat8-elephant1,2024-02-03 19:57:06,"The image shows a close-up of a textured surface that resembles a piece of leather or a similar material. The texture is rough and appears to be cracked or worn, with a pattern of lines and creases that suggest it has been used or handled. The color palette is muted, with shades of gray and brown dominating the image.",airplane,0.43846118,X
+car4-bicycle3,2024-02-03 19:57:07,The image is a close-up of a motorcycle with a blurred background.,airplane,0.84330136,G
+airplane2-cat1,2024-02-03 19:57:07,The image is blurry.,airplane,0.975727,X
+clock10-bottle1,2024-02-03 19:57:09,"The image is a collage of various bottles and jars, creating a pattern that resembles a face. The colors and shapes of the bottles vary, giving the impression of a diverse collection.",bottle,0.9999987,F
+airplane3-chair3,2024-02-03 19:57:10,"The image is a blurry, abstract representation of a room filled with blue chairs.",chair,0.999471,I
+truck3-car3,2024-02-03 19:57:12,"The image is a blurry, colorful collage of various objects, including cars, a motorcycle, and a bicycle. The colors are vibrant and the objects are overlapping, creating a chaotic and abstract effect.",bicycle,0.9080604,"G, P"
+bicycle3-truck3,2024-02-03 19:57:12,Abstract art.,airplane,0.7448068,X
+airplane1-clock1,2024-02-03 19:57:13,"The image is a close-up of a clock with a colorful, abstract background.",clock,1.0,J
+oven4-clock2,2024-02-03 19:57:14,The image is a close-up of a microwave oven with a blurred background.,oven,0.99935323,O
+clock1-truck3,2024-02-03 19:57:15,"The image is a colorful, abstract representation of a room with various objects.",airplane,0.75345683,X
+bottle3-cat3,2024-02-03 19:57:15,A bottle of beer.,bottle,1.0,F
+keyboard6-chair1,2024-02-03 19:57:16,Blurry image of pink seats.,chair,0.7187407,X
+knife6-truck1,2024-02-03 19:57:17,"The image is abstract and colorful, featuring a blend of reds, blues, and greens. It appears to be a digital art piece with a glitchy, pixelated texture.",airplane,0.96659577,X
+truck3-dog3,2024-02-03 19:57:18,The image is blurry.,airplane,0.975727,X
+cat10-bear1,2024-02-03 19:57:19,The image is blurry and out of focus.,airplane,0.98405564,X
+dog9-chair2,2024-02-03 19:57:20,"The image is blurry and out of focus, making it difficult to discern any specific details. It appears to be a room with multiple wooden chairs, but the lack of clarity makes it challenging to provide a detailed description.",chair,0.9996101,I
+car1-oven3,2024-02-03 19:57:21,Blurry image of electronics.,airplane,0.94817615,X
+airplane5-bicycle1,2024-02-03 19:57:22,The image is a close-up of a fighter jet with a blurred background.,airplane,0.9999999,A
+oven10-boat2,2024-02-03 19:57:23,"The image is a close-up of a vehicle's dashboard, showing various controls and gauges.",car,0.79659057,X
+car5-knife2,2024-02-03 19:57:24,The image is a painting of a red car with a blurred background.,car,0.9996749,G
+elephant3-keyboard2,2024-02-03 19:57:24,Blurry keyboard keys.,keyboard,1.0,M
+dog10-bicycle1,2024-02-03 19:57:25,A black dog with a red collar.,dog,0.99999607,K
+clock8-knife1,2024-02-03 19:57:25,A close-up of a clock face with a blurred background.,clock,1.0,J
+bicycle9-chair1,2024-02-03 19:57:26,The image is blurry and out of focus.,airplane,0.98405564,X
+oven9-clock2,2024-02-03 19:57:27,"The image is blurry and out of focus, showing a close-up of what appears to be a camera or a device with various buttons and dials.",airplane,0.99368435,X
+elephant10-knife3,2024-02-03 19:57:28,Blurry image of a person holding a camera.,airplane,0.86225677,X
+truck7-chair2,2024-02-03 19:57:29,The image is blurry and out of focus.,airplane,0.98405564,X
+airplane4-elephant1,2024-02-03 19:57:29,Textured surface.,airplane,0.95261437,X
+truck10-car3,2024-02-03 19:57:31,"The image is a blurry, colorful photograph of a red and silver vehicle with a glass roof, possibly a convertible, parked among other cars. The vehicle is surrounded by a green plant, and the background is out of focus.",car,0.9934196,G
+airplane3-clock1,2024-02-03 19:57:32,The image is a close-up of a clock with a blurred background.,clock,1.0,J
+knife6-chair3,2024-02-03 19:57:33,"The image is a blurry, abstract representation of chairs.",chair,0.9999993,I
+car8-bicycle2,2024-02-03 19:57:33,"The image is a blurry, abstract representation of a car.",car,0.99933666,G
+dog1-cat3,2024-02-03 19:57:34,Blurry dog.,dog,0.99999523,H
+airplane7-truck1,2024-02-03 19:57:35,The image is a close-up of a red object with a blurred background.,airplane,0.96526927,X
+dog5-knife2,2024-02-03 19:57:35,"The image is a blurry, abstract representation of a face with a helmet.",airplane,0.65863925,X
+truck4-knife1,2024-02-03 19:57:36,A collection of old tools.,knife,0.97557527,X
+truck2-airplane3,2024-02-03 19:57:37,Blurry image of a truck and a train.,truck,0.9999858,P
+bird9-elephant2,2024-02-03 19:57:37,A bird on a branch.,bird,0.99998343,D
+elephant1-airplane2,2024-02-03 19:57:38,The image is a digital art piece featuring a stylized elephant.,elephant,1.0,L
+boat9-dog2,2024-02-03 19:57:38,Blurry image of a furry object.,dog,0.70473033,B
+bicycle10-clock2,2024-02-03 19:57:39,A bicycle.,bicycle,1.0,C
+bird6-airplane2,2024-02-03 19:57:39,Abstract art.,airplane,0.7448068,X
+knife2-bear2,2024-02-03 19:57:40,The image is blurry and out of focus.,airplane,0.984056,X
+bicycle4-keyboard3,2024-02-03 19:57:41,"The image is blurry and out of focus, making it difficult to discern any specific details.",airplane,0.98214585,X
+bicycle10-boat3,2024-02-03 19:57:42,"The image is a colorful, abstract representation of a bicycle.",bicycle,1.0,C
+bird3-knife3,2024-02-03 19:57:42,Blurry image of a silver object with a camera lens.,airplane,0.93273216,X
+boat2-bear3,2024-02-03 19:57:43,The image is blurry and out of focus.,airplane,0.984056,X
+keyboard5-keyboard1,2024-02-03 19:57:43,The image is blurry and out of focus.,airplane,0.9840559,X
+clock4-boat3,2024-02-03 19:57:44,The image is a digital artwork of a clock with a distorted and colorful design.,clock,1.0,J
+knife6-boat3,2024-02-03 19:57:45,Colorful abstract art.,airplane,0.6991949,X
+airplane1-bicycle2,2024-02-03 19:57:47,"The image is a close-up of a blurry, abstract scene with various objects that resemble bicycle parts and possibly some kitchen utensils. The focus is on the center, where a bicycle tire and spokes are more prominent. The background is out of focus, creating a sense of depth and complexity.",bicycle,0.9999746,C

@@ -1,0 +1,1283 @@
+image,response,timestamp,pred_label,pred_conf,pred_llm_judge
+bicycle4-keyboard3,A close up of a bike gear.,,bicycle,0.99997973,C
+bicycle8-bear2,A blurry photo of a bicycle.,,bicycle,0.99999976,C
+bicycle1-dog3,A blurry photo of a bicycle.,,bicycle,0.99999976,C
+bicycle7-oven1,A bicycle is shown in a blurry photo.,,bicycle,1.0,C
+bicycle9-airplane2,A yellow and black bicycle is shown in a blurry photo.,,bicycle,0.99999976,C
+bicycle4-chair2,A staircase with a wooden railing and multiple chairs.,,chair,0.9997701,I
+bicycle10-airplane2,A blue bicycle with a yellow wheel.,,bicycle,1.0,C
+bicycle4-bottle1,"A bicycle is surrounded by many bottles, creating a unique and colorful scene.",,bottle,0.95415896,C
+bicycle9-bottle1,A bike is surrounded by many bottles and cans.,,bottle,0.9920048,C
+bicycle4-oven3,A blurry photo of a bike.,,bicycle,0.99998343,C
+bicycle2-car2,"A colorful car and motorcycle are in the foreground, with a blurry background.",,car,0.9972838,G
+bicycle1-bicycle3,A silver bike with a basket on the front.,,bicycle,1.0,C
+bicycle10-elephant2,A bicycle wheel is shown in a close-up view.,,bicycle,1.0,C
+bicycle9-keyboard3,Two pieces of jewelry on a table.,,clock,0.747958,X
+bicycle8-boat1,"A bike is shown in a blurry, colorful, and abstract manner.",,bicycle,0.99999,C
+bicycle8-clock3,A clock is shown with a bicycle in the background.,,clock,0.93450546,"J, C"
+bicycle7-truck3,A pair of glasses with a bike in the background.,,bicycle,0.99999845,C
+bicycle9-bird3,A black and white photo of a bicycle.,,bicycle,0.9999999,C
+bicycle3-keyboard1,A black and white image of a bicycle.,,bicycle,0.99999976,C
+bicycle1-boat3,"A colorful, abstract image of a bicycle.",,bicycle,1.0,C
+bicycle3-elephant2,A bike is parked on a dirt road.,,bicycle,0.9995542,C
+bicycle9-cat3,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle4-clock3,A clock with a bicycle on it.,,clock,0.9541493,"J, C"
+bicycle4-airplane1,A blurry image of a bicycle.,,bicycle,0.99999976,C
+bicycle1-bear1,A blurry picture of a bicycle.,,bicycle,0.99999976,C
+bicycle5-car3,A red motorcycle is parked in front of a red car.,,car,0.9272548,G
+bicycle9-knife3,A pair of bicycle wheels are shown in the image.,,bicycle,1.0,C
+bicycle9-chair1,A bike is shown in a blurry image with a red background.,,bicycle,0.9999876,C
+bicycle8-truck1,A red bicycle with a person on it.,,bicycle,1.0,C
+bicycle2-dog1,A painting of a horse and a bicycle.,,bicycle,0.9998553,C
+bicycle3-bird1,A bicycle is shown in a blurry photo.,,bicycle,1.0,C
+bicycle2-knife2,A pair of glasses with a black frame and a red lens.,,bicycle,0.8166847,X
+bicycle9-bear1,A picture of a bike with a basket on the front.,,bicycle,0.9999999,C
+bicycle3-truck3,A yellow and blue object with a yellow background.,,airplane,0.96779567,X
+bicycle7-cat1,A bicycle with a leopard print seat.,,bicycle,0.99998343,C
+bicycle1-bird1,A blue bicycle.,,bicycle,1.0,C
+bicycle5-keyboard3,A close up of a cell phone.,,airplane,0.9776767,X
+bicycle8-bird2,A bicycle is shown in a blurry photo.,,bicycle,1.0,C
+bicycle10-dog3,A blurry picture of a bicycle.,,bicycle,0.99999976,C
+bicycle5-elephant1,A drawing of a bicycle with a rider in a black and white style.,,bicycle,0.9999995,C
+bicycle7-clock3,A clock with a bicycle wheel in the middle.,,clock,0.9992693,"J, C"
+bicycle9-car1,A colorful painting of a bicycle and a car.,,bicycle,0.9961901,"G, I"
+bicycle1-airplane2,A bicycle with a blue seat and yellow frame.,,bicycle,0.99999964,C
+bicycle7-knife2,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle7-elephant2,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle5-oven3,A blurry image of a phone booth with a phone inside.,,airplane,0.9673826,X
+bicycle2-bird3,A bicycle with a basket is shown in a blurry photo.,,bicycle,1.0,C
+bicycle10-boat3,A bicycle with a blue wheel.,,bicycle,1.0,C
+bicycle8-chair2,A wooden bicycle with a wooden seat and wooden handlebars.,,bicycle,0.99987817,C
+bicycle6-dog2,A bicycle with a person riding it.,,bicycle,1.0,C
+bicycle10-clock2,A bicycle wheel is shown in a close-up view.,,bicycle,1.0,C
+bicycle4-truck3,A yellow bike with a black seat.,,bicycle,0.9998554,C
+bicycle6-boat2,"A bicycle with a sidecar is shown in a colorful, abstract image.",,bicycle,0.9999975,C
+bicycle4-cat1,A bike with a fox painted on it.,,bicycle,0.9994529,C
+bicycle7-bear2,A bicycle with a basket is shown in a blurry photo.,,bicycle,1.0,C
+bicycle4-car2,A bunch of motorcycles in a blurry picture.,,truck,0.35094967,X
+bicycle5-bear1,A picture of two bicycles with a blurry background.,,bicycle,0.9999969,C
+bicycle1-bottle3,A bicycle with a basket on it.,,bicycle,1.0,C
+bicycle1-oven1,A black and white image of a bicycle.,,bicycle,0.99999976,C
+bicycle1-clock3,A clock with a bicycle theme.,,clock,0.99875045,J
+bicycle4-boat1,A colorful bike with a blue seat.,,bicycle,0.99999106,C
+bicycle5-dog2,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle3-oven3,A blurry image of a phone and a computer.,,airplane,0.97247475,X
+bicycle2-keyboard2,A close up of a cell phone.,,airplane,0.9776767,X
+bicycle4-bicycle3,A black bicycle with silver accents.,,bicycle,1.0,C
+bicycle5-chair2,A wooden bike with a basket on the front is parked in front of a row of chairs.,,bicycle,0.74601185,"C, I"
+bicycle5-cat1,A picture of a bike with a cat in the basket.,,bicycle,0.93335754,"C, H"
+bicycle6-car2,A blurry image of a motorcycle with a red seat.,,airplane,0.5620533,G
+bicycle1-knife3,A bike rack with bikes and a chair.,,chair,0.8660274,"C, I"
+bicycle6-cat1,A picture of a bear on a bike.,,bear,0.61304486,"B, C"
+bicycle6-bicycle3,A silver bike is shown in a close-up view.,,bicycle,0.9999951,C
+bicycle1-elephant2,A black and white photo of a bicycle.,,bicycle,0.9999999,C
+bicycle6-airplane2,A blue and yellow bike with a yellow seat.,,bicycle,0.99996805,C
+bicycle2-bicycle1,A bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle5-bottle3,A green bicycle is surrounded by a bunch of green bottles.,,bottle,0.94883806,C
+bicycle1-truck1,A red bicycle with a basket on the front.,,bicycle,1.0,C
+bicycle7-bicycle2,A bicycle with a basket is parked in front of a building.,,bicycle,1.0,C
+bicycle2-bottle1,A bunch of bottles are stacked on top of each other.,,bottle,1.0,F
+bicycle4-knife3,A bicycle seat and pedal are shown in a blurry photo.,,bicycle,0.99999535,C
+chair8-bicycle3,A chair with a red seat and metal legs.,,chair,1.0,I
+chair1-airplane2,A chair with yellow and blue colors.,,chair,1.0,I
+chair4-bear2,A chair with a furry seat.,,chair,0.99999976,I
+chair10-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+chair9-bicycle3,A silver chair with wheels.,,chair,0.9999999,I
+chair5-bicycle1,A chair made of metal and plastic.,,chair,1.0,I
+chair2-bear2,A black and white image of a chair.,,chair,0.99999976,I
+chair7-bottle1,A chair is filled with many bottles.,,chair,0.74577034,"I, F"
+chair1-truck3,A blurry image of a chair.,,chair,0.99999976,I
+chair5-knife3,A collection of scissors in a blurry photo.,,knife,0.9985959,X
+chair3-bicycle3,A chair made of bicycle parts.,,chair,0.98813546,"I, C"
+chair1-chair1,A row of pink chairs with red seats.,,chair,1.0,I
+chair8-boat1,A chair with a red seat and blue legs.,,chair,1.0,I
+chair9-bird3,A chair with a brown seat and black arms.,,chair,1.0,I
+chair10-clock1,A chair with a clock on it.,,clock,0.60704094,"I, J"
+chair3-car3,A red car is parked next to a white car.,,car,0.9998342,G
+chair7-knife2,A hand holding a book.,,bottle,0.9453306,X
+chair1-cat3,A blurry image of a chair with a red seat.,,chair,0.99999964,I
+chair4-cat2,A chair is visible in the image.,,chair,1.0,I
+chair8-car1,A blurry picture of a car.,,car,0.99937916,G
+chair5-clock2,A chair with a person sitting in it.,,chair,1.0,I
+chair2-knife1,A chair with a wooden seat and metal legs.,,chair,1.0,I
+chair4-truck2,A red chair is reflected in a mirror.,,chair,0.99999976,I
+chair5-bird1,A blue chair with a blue cushion on it.,,chair,1.0,I
+chair7-truck3,A yellow chair with a blue seat.,,chair,1.0,I
+chair1-clock2,A clock with a red handle on it.,,clock,1.0,J
+chair7-cat1,A wooden chair with a brown seat.,,chair,1.0,I
+chair3-bottle3,A green chair made of plastic bottles.,,chair,0.7220922,I
+chair4-chair3,A blue chair with a reflection of other chairs in it.,,chair,0.99999964,I
+chair7-chair1,Pink seats in a row.,,chair,0.99296427,X
+chair9-keyboard2,A keyboard with a black and white keyboard.,,keyboard,1.0,M
+chair8-elephant1,A chair made of stone.,,chair,1.0,I
+chair2-boat1,A chair with a red seat and blue legs.,,chair,1.0,I
+chair3-airplane2,A blue chair with yellow accents.,,chair,1.0,I
+chair2-keyboard2,A person is walking in front of a keyboard.,,keyboard,1.0,M
+chair1-elephant1,"A gray, textured, and wrinkled chair.",,chair,1.0,I
+chair1-bear1,A blurry picture of a person.,,airplane,0.96560085,X
+chair8-airplane1,"A chair is shown in the image, but it is blurry and appears to be a collage of different images.",,chair,0.99999785,I
+chair10-airplane2,A blue chair with a yellow seat.,,chair,1.0,I
+chair5-bottle3,A green chair with a black seat and a green base is surrounded by a bunch of paper.,,chair,0.9999993,I
+chair3-dog2,A wooden chair with a furry seat.,,chair,0.9999999,I
+chair7-bird1,A blue chair with a white wooden frame.,,chair,0.9999994,I
+chair1-dog1,A chair with a furry seat.,,chair,0.99999976,I
+chair7-boat3,"A colorful, abstract chair with a red frame.",,chair,0.9999993,I
+chair6-bird2,A black cat is sitting on a chair.,,chair,0.89847106,"H, I"
+chair3-knife1,A painting of a person's hands holding a tool.,,knife,0.9293991,X
+chair5-boat3,A colorful office chair with a red seat.,,chair,1.0,I
+chair9-chair3,A blue chair with a reflection of another chair in it.,,chair,0.9999989,I
+chair10-bottle3,A green chair with a lot of writing on it.,,chair,0.9999994,I
+chair8-clock3,A chair made of clocks.,,chair,0.8710881,"I, J"
+chair1-oven3,A bunch of electronics are stacked on top of each other.,,keyboard,0.49794704,X
+chair10-bicycle1,A chair made of metal and glass.,,chair,0.99999976,I
+chair5-truck3,A colorful image of a chair with a table in the background.,,chair,0.99999917,I
+chair7-clock3,A chair with clocks on it.,,chair,0.8362591,"I, J"
+chair9-boat2,A black and orange chair is on a metal stand.,,chair,0.9999999,I
+chair9-dog2,A chair with a furry seat and wheels.,,chair,0.99999964,"I, H"
+chair6-truck2,A red and pink chair with a black seat.,,chair,1.0,I
+chair6-dog1,A chair with a furry seat.,,chair,0.99999976,I
+chair9-bear1,A brown and white furry object.,,dog,0.98524505,H
+chair9-bottle3,A green bottle is sitting on a chair.,,bottle,0.99017113,"F, I"
+chair6-elephant2,A chair with a leather seat and metal legs.,,chair,1.0,I
+chair7-airplane1,A blurry image of a hat.,,airplane,0.44095737,X
+chair10-bird3,A chair with a person sitting in it.,,chair,1.0,I
+chair9-elephant1,A chair made of leather with a metal frame.,,chair,0.9999999,I
+chair4-keyboard2,A close up of a keyboard.,,keyboard,1.0,M
+chair8-oven1,"A chair is in the foreground, with a table in the background.",,chair,1.0,I
+chair7-car2,A red and yellow chair with a black seat.,,chair,1.0,I
+chair5-oven2,A black office chair with wheels.,,chair,0.99999964,I
+chair8-chair3,A blue and white chair with a blue seat.,,chair,1.0,I
+chair7-elephant1,A chair made of leather.,,chair,1.0,I
+chair5-cat3,A chair with a flaming fire in it.,,chair,0.9999994,I
+chair5-car1,A colorful and distorted image of a car with a hood up.,,car,0.9937499,G
+chair10-oven1,A black chair with a silver metal frame.,,chair,0.9999999,I
+chair5-keyboard2,A black keyboard with keys.,,keyboard,1.0,M
+chair4-oven2,A black chair with a wooden seat.,,chair,1.0,I
+chair8-keyboard3,A blurry photo of a keyboard.,,keyboard,0.99999976,M
+chair8-bear1,A chair with a wooden frame.,,chair,0.9999999,I
+chair10-dog1,A chair with a furry texture.,,chair,1.0,I
+chair10-cat1,A chair with a brown seat and a white frame.,,chair,0.99999917,I
+chair8-knife2,A painting of a knife with a handle.,,knife,0.9999999,N
+truck3-bicycle1,"A car is shown in a distorted, blurry image.",,car,0.99831724,G
+truck7-elephant2,A wooden drawing of a building with a truck in front of it.,,truck,0.9999428,X
+truck7-boat1,A colorful image of a truck.,,truck,1.0,P
+truck4-boat3,"A truck is shown in a colorful, distorted photo.",,truck,0.9999999,P
+truck10-truck3,A blue and yellow truck is parked.,,truck,1.0,P
+truck9-chair3,A blue chair with a black seat.,,chair,1.0,I
+truck7-bird2,A white semi truck is parked on the side of the road.,,truck,0.9999987,"G
+P"
+truck2-car3,A red truck with a ladder on the back is parked in a lot.,,truck,0.99999976,P
+truck8-dog3,A toy truck is shown in a blurry photo.,,truck,0.99999464,P
+truck2-bird2,A black and white photo of a truck.,,truck,0.9999999,P
+truck6-boat2,A red truck with a large water tank on the back.,,truck,0.9999999,P
+truck6-dog2,A truck with the word water on it.,,truck,0.99999905,P
+truck3-knife2,A toy car made of paper is shown.,,car,0.99462503,G
+truck10-car3,A red and silver car with a trailer attached.,,car,0.7511244,G
+truck9-bottle2,Bottles of wine are stacked on top of each other.,,bottle,1.0,F
+truck3-oven2,A black truck with a flatbed is parked in a lot.,,truck,0.99999964,P
+truck4-airplane3,A blue truck with a silver hood and a chrome grill.,,truck,0.99999905,P
+truck4-bottle2,A bunch of wine bottles are piled on top of each other.,,bottle,0.9999999,F
+truck6-knife2,"A truck with the word ""water"" on the side is parked in front of a building.",,truck,0.9999347,P
+truck2-oven3,A blurry picture of a microwave oven.,,oven,0.9995999,O
+truck1-bear1,A truck is parked in front of a building.,,truck,1.0,P
+truck6-clock2,"A truck with the word ""water"" on it.",,truck,0.9999976,P
+truck1-chair2,A large group of chairs are arranged in a room.,,chair,1.0,I
+truck1-dog1,A truck is driving down a road with a blurry background.,,truck,1.0,P
+truck5-cat3,A bus with a zebra pattern on it.,,truck,0.93198997,X
+truck6-bear2,A blurry photo of a truck with the word water on it.,,truck,0.9999808,P
+truck4-oven2,A truck with a flatbed is parked in a parking lot.,,truck,0.9999999,P
+truck8-elephant1,A truck is shown in a close up.,,truck,1.0,P
+truck8-cat2,A blurry image of a truck.,,truck,1.0,P
+truck2-airplane3,A truck with a tank on the back.,,truck,1.0,P
+truck2-keyboard1,A black truck with a white logo on the front.,,truck,1.0,P
+truck5-airplane2,A yellow and blue train on tracks.,,airplane,0.8350747,X
+truck6-truck2,A red car with a water tank on the back.,,car,0.98648095,G
+truck4-bear1,A bunch of brown fur.,,dog,0.9361481,B
+truck2-boat3,A red fire truck is parked on a street.,,truck,0.99999356,P
+truck9-boat3,A horse is painted on the side of a truck.,,truck,0.9997824,X
+truck2-elephant1,A truck is shown in a carving on a rock.,,truck,0.9999999,P
+truck5-bird2,"A toy truck with the words ""army transport"" written on it.",,truck,0.99999964,P
+truck1-cat1,A cat is laying on a couch.,,cat,0.9999999,H
+truck3-dog3,A dog is sitting on a table with a chocolate bar.,,dog,0.9999654,H K I
+truck6-bottle3,Water bottles are stacked on top of each other.,,bottle,1.0,F
+truck1-car3,A red fire truck is parked in front of a building.,,truck,0.9999639,P
+truck6-cat2,A truck with the word water on it.,,truck,0.99999905,P
+truck9-airplane2,A white truck with a yellow stripe is parked in the snow.,,truck,0.99999976,P
+truck7-oven2,A large truck is parked in a lot.,,truck,0.9999999,P
+truck3-bird2,A truck with a tank on the back.,,truck,1.0,P
+truck3-chair2,A large group of wooden chairs are stacked together.,,chair,0.9999999,I
+truck1-bird1,A truck is driving down a road.,,truck,1.0,P
+truck2-chair1,A red chair with a truck in the background.,,truck,0.6926553,"I, P"
+truck7-chair2,A truck is driving down a street with chairs on the back.,,truck,0.99998295,"G, I"
+truck6-bicycle1,"A colorful, abstract image of a truck with the word ""water"" on it.",,truck,0.9999666,P
+truck7-keyboard3,A close up of a remote control.,,airplane,0.97371745,X
+truck10-elephant3,"A truck is shown from the side, with a person in the driver's seat.",,truck,1.0,P
+truck1-knife1,A truck is parked on a street.,,truck,1.0,P
+truck3-cat1,A brown dog is laying on a couch.,,dog,0.9999913,"H, I"
+truck8-bottle2,A close up of a bottle of wine with a bunch of other bottles in the background.,,bottle,1.0,F
+truck9-truck3,A large truck is parked in front of a building.,,truck,1.0,P
+truck3-clock3,A bunch of clocks are on a table.,,clock,1.0,J
+truck5-truck1,A red truck with a red trailer is parked on the road.,,truck,0.9999999,P
+truck10-bicycle1,A car is shown with a reflection of a motorcycle in the side mirror.,,car,0.97865367,G
+truck6-oven3,A blurry picture of a machine with buttons and a screen.,,airplane,0.94113296,X
+truck3-keyboard3,A key and a coin are on a piece of white fabric.,,clock,0.7062811,X
+truck5-knife3,A bunch of scissors hanging on a wall.,,knife,0.9640949,X
+truck4-knife1,A collection of old and rusty tools.,,knife,0.9207116,X
+truck3-car3,A red car is parked in front of a truck.,,truck,0.99982965,"G, P"
+truck5-dog3,A toy truck is shown in a blurry photo.,,truck,0.99999464,P
+truck10-airplane1,A blurry photo of a van.,,truck,0.6139995,G
+truck2-clock1,A clock made of clocks.,,clock,1.0,J
+truck7-truck2,A red and white truck with a chrome grill.,,truck,0.99999976,P
+truck3-bear3,A brown leather item with a Ford logo on it.,,car,0.66337484,G
+truck8-keyboard2,A close up of a keyboard with the numbers 1 through 9 visible.,,keyboard,0.99999964,M
+truck2-bottle3,A green truck is surrounded by a bunch of money.,,truck,0.9999908,P
+truck10-clock1,A clock is on the side of a truck.,,clock,0.59404904,"J, P"
+truck5-keyboard1,"A toy train with the word ""protomorph"" on it.",,truck,0.44687843,X
+truck1-bicycle3,A truck with a trailer attached is driving down a street.,,truck,1.0,P
+truck2-bicycle2,A blurry image of an old truck.,,truck,0.9999995,P
+truck5-car1,A red truck is parked in a lot.,,truck,0.9999989,P
+truck7-bear2,A large white semi truck is parked in front of a building.,,truck,0.9999988,G
+truck9-elephant1,A horse is standing next to a truck.,,truck,0.99442333,P
+truck1-clock3,A truck with many clocks on it.,,truck,0.99909174,P
+bottle6-dog3,A blurry picture of a dog.,,dog,0.999923,K
+bottle1-clock1,A bottle of wine with a clock on the front.,,bottle,0.98185456,"F, J"
+bottle1-keyboard3,A black cat is sitting in a room.,,cat,0.9999567,H
+bottle1-car1,A bottle of wine is shown in a blurry picture.,,bottle,0.9999999,F
+bottle6-bicycle3,A bottle of soda is shown in a close-up view.,,bottle,1.0,F
+bottle5-bird3,A bottle of beer.,,bottle,1.0,F
+bottle8-bottle3,A bottle of beer with the number 10 on it.,,bottle,1.0,F
+bottle3-bird1,A blue bottle wrapped in plastic.,,bottle,1.0,F
+bottle7-airplane3,A blue and white image of a face.,,airplane,0.8877533,X
+bottle8-keyboard3,A close up of a keyboard with black keys.,,keyboard,1.0,M
+bottle3-boat3,A bottle of beer with a label on it.,,bottle,1.0,F
+bottle9-bicycle1,A bottle of Tapelle water is surrounded by a colorful and abstract background.,,bottle,1.0,F
+bottle10-boat3,A bottle of beer with a red and green label.,,bottle,1.0,F
+bottle4-car3,A red bottle with a black cap is surrounded by a bunch of cars.,,bottle,0.999995,F
+bottle9-truck1,A bottle of red liquid with a red cap.,,bottle,1.0,F
+bottle4-bicycle1,A bottle of Coca-Cola is made of metal and surrounded by other metal objects.,,bottle,1.0,F
+bottle6-boat3,A bottle of water is in the center of the image with a colorful background.,,bottle,1.0,F
+bottle4-oven2,A bottle of soda is shown in a close-up.,,bottle,1.0,F
+bottle5-cat1,A bottle of wine is shown in a blurry photo.,,bottle,0.99999976,F
+bottle1-dog2,A bottle of wine is shown in a blurry picture.,,bottle,0.9999999,F
+bottle9-bottle1,A bottle is surrounded by many other bottles.,,bottle,1.0,F
+bottle2-knife3,A bottle of beer.,,bottle,1.0,F
+bottle7-elephant2,A close up of a wooden surface with a crevice in it.,,airplane,0.9305937,X
+bottle3-airplane2,A bottle of beer is shown in a blue and yellow background.,,bottle,1.0,F
+bottle7-boat3,"A colorful, abstract image of a bottle.",,bottle,1.0,F
+bottle2-elephant1,A bottle of wine is shown with a cracked and rough surface.,,bottle,1.0,F
+bottle1-cat3,A bottle of wine with a brown label.,,bottle,1.0,F
+bottle2-chair3,A bottle of beer is in the middle of a blue and white pattern.,,bottle,1.0,F
+bottle6-oven3,A cell phone is inside a machine.,,airplane,0.97463983,X
+bottle5-chair1,A row of red chairs.,,chair,1.0,I
+bottle9-elephant2,A bottle of wine with a cork in it.,,bottle,1.0,F
+bottle8-bird1,A bottle of beer with a blue label.,,bottle,1.0,F
+bottle9-cat2,A bottle of wine.,,bottle,1.0,F
+bottle6-airplane1,A close up of a bottle with writing on it.,,bottle,1.0,F
+bottle5-elephant1,A bottle of wine with a crocodile skin texture.,,bottle,1.0,F
+bottle2-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+bottle1-bear1,A brown and white image of a cat.,,cat,0.9999963,H
+bottle5-knife1,A bottle cap with a screw in it.,,bottle,1.0,F
+bottle4-truck1,A red bottle of Coca Cola with a red cap.,,bottle,1.0,F
+bottle9-car3,A bottle of Grappa liquor is shown in a blurry and colorful image.,,bottle,0.9999999,F
+bottle8-dog2,A bottle of beer with a label.,,bottle,1.0,F
+bottle3-cat3,A bottle of beer.,,bottle,1.0,F
+bottle10-clock2,A bottle of orange juice with a clock on it.,,bottle,0.9258092,"F, J"
+bottle7-keyboard2,A close up of a keyboard with a blue key.,,keyboard,1.0,M
+bottle1-bird3,A person is standing in front of a bottle.,,bottle,1.0,F
+bottle3-bottle3,A green bottle with Chinese writing on it.,,bottle,1.0,F
+bottle5-boat1,A bottle of beer with a blue and red label.,,bottle,1.0,F
+bottle5-keyboard2,A keyboard with a key missing.,,keyboard,1.0,M
+bottle7-bear1,A blurry picture of a bear.,,bear,0.9999993,B
+bottle4-dog2,A bottle of beer with a brown label.,,bottle,1.0,F
+bottle7-clock1,A clock with a face on it.,,clock,1.0,J
+bottle5-oven2,A black cell phone is shown in a close-up shot.,,airplane,0.9942373,X
+bottle3-knife3,A bottle of wine is shown in a blurry photo.,,bottle,0.99999976,F
+bottle10-bear2,A bottle of Dramuie liquor is on a white fur.,,bottle,1.0,F
+bottle7-oven2,A blurry picture of a cityscape.,,airplane,0.9598972,X
+bottle6-bear2,A bottle of soda with a black cap.,,bottle,1.0,F
+bottle6-knife3,A metal pipe is standing in the corner of a room.,,clock,0.74644154,X
+bottle6-bird1,A blue bottle with a black cap.,,bottle,1.0,F
+bottle6-bottle3,A green bottle with a white label.,,bottle,1.0,F
+bottle1-chair2,A blurry image of chairs.,,chair,0.9999994,I
+bottle3-bicycle3,A bottle of wine with a purple label.,,bottle,0.9999999,F
+bottle5-airplane1,A blurry image of a bottle of Coca-Cola.,,bottle,0.9999987,F
+bottle9-keyboard1,A bottle of wine with a black label.,,bottle,1.0,F
+bottle4-airplane1,A blurry image of a Coca-Cola bottle.,,bottle,0.99999833,F
+bottle3-bear2,A bottle of wine is shown with a blanket behind it.,,bottle,0.99999976,F
+bottle8-knife1,A cell phone is shown in the image.,,airplane,0.98730844,X
+bottle8-elephant3,A bottle of beer is on a leather surface.,,bottle,1.0,F
+bottle5-clock3,A bottle of wine is shown with a clock face on it.,,bottle,0.89846855,"F, J"
+bottle3-chair3,A blue chair with a blue seat.,,chair,1.0,I
+bottle10-car1,A bottle of alcohol with a car on the label is surrounded by various car models.,,bottle,0.99999225,G
+bottle2-bottle3,A green bottle with Chinese symbols on it.,,bottle,0.9999999,F
+bottle6-chair2,A wooden chair with a bottle on top of it.,,bottle,0.9909724,"I, F"
+bottle2-clock1,A bottle of beer with a clock on it.,,bottle,0.99009156,"F, J"
+bottle10-truck3,A bottle of liquor with a blue label.,,bottle,1.0,F
+bottle9-oven2,A bottle of liquid is shown in a reflection.,,bottle,1.0,F
+bottle7-truck2,A red car with a silver grill.,,car,0.99942493,G
+bottle7-cat2,A blurry image of a dog.,,dog,0.9999448,K
+bottle8-bicycle1,A bottle of Cerveza sits in front of a colorful background.,,bottle,0.99999917,F
+bottle10-dog1,A bottle of wine with a label.,,bottle,1.0,F
+bottle5-truck1,A red bottle with a black cap.,,bottle,1.0,F
+knife10-oven3,A blurry photo of a computer with a keyboard and mouse.,,keyboard,0.999938,M
+knife5-cat2,A blurry picture of a cat.,,cat,0.99999,H
+knife4-clock3,A clock with a bird on it.,,clock,0.9984206,"J, D"
+knife6-oven3,A blurry image of a computer screen.,,airplane,0.9170719,M
+knife7-boat3,A colorful painting of a city.,,airplane,0.9286088,X
+knife9-bird1,A blue and white striped object.,,airplane,0.99153286,X
+knife6-truck1,A red object with a reflection of a person's legs.,,bicycle,0.91978997,X
+knife5-truck3,A car's dashboard with a yellow light on.,,car,0.9878675,G
+knife9-airplane2,A yellow and blue painting with a white background.,,airplane,0.9468455,X
+knife9-elephant2,"A brown, textured surface with a tree branch.",,airplane,0.68082047,X
+knife1-oven1,A blurry image of a staircase.,,airplane,0.9537769,X
+knife1-clock2,A blurry image of a clock.,,clock,1.0,J
+knife2-elephant2,A brown wooden surface with a pattern of lines and curves.,,airplane,0.7946092,X
+knife4-car2,A bunch of scissors in different colors.,,knife,0.9999484,X
+knife6-bicycle1,"A colorful, abstract image of a bridge.",,boat,0.7815383,X
+knife2-truck2,A red car is parked in a parking lot.,,car,0.99981076,G
+knife6-chair3,A blue and white image of chairs.,,chair,0.99999785,I
+knife8-truck3,A blurry picture of a truck.,,truck,1.0,P
+knife6-clock2,A blurry picture of a person holding a cell phone.,,airplane,0.8372433,X
+knife3-bear2,A close up of a furry animal.,,dog,0.99269754,B
+knife5-knife3,A black and white image of a metal band.,,airplane,0.89498115,X
+knife5-dog1,A blurry photo of a dog's head.,,dog,0.99982613,K
+knife9-bottle2,A bunch of wine bottles and corks.,,bottle,0.9999987,F
+knife5-oven2,A gun is shown in a reflection.,,airplane,0.5362289,X
+knife6-bottle3,A bunch of green bottles with writing on them.,,bottle,1.0,F
+knife5-keyboard3,A black and white photo of a gun.,,airplane,0.8765929,X
+knife2-bird1,A blue and white object with a metal piece sticking out.,,airplane,0.94265336,X
+knife2-bottle2,Bottles of wine in a blurry picture.,,bottle,0.99999976,F
+knife7-bird3,A blurry image of a cat's face.,,cat,0.999995,H
+knife1-airplane1,A bunch of torn paper.,,airplane,0.85694796,X
+knife6-boat3,"A colorful, abstract image of a cityscape.",,airplane,0.8272644,X
+knife3-keyboard3,A blurry photo of a cell phone.,,airplane,0.9812253,X
+knife2-bear2,A close up of a chain link.,,bicycle,0.69786197,X
+knife4-knife2,A black and white image of a person holding a camera.,,airplane,0.9460677,X
+knife8-bicycle1,"A jumble of metal parts, including scissors, are piled on top of each other.",,knife,0.80579007,X
+knife10-elephant3,The image shows a close-up of an elephant's skin.,,elephant,1.0,L
+knife2-car3,A red car is parked in a parking lot.,,car,0.99981076,G
+knife3-clock2,A clock with a lot of writing on it.,,clock,1.0,J
+knife4-airplane3,A black and white photo of a camera.,,airplane,0.9366252,X
+knife2-cat3,"A close-up of a white object with a thin, long, curved line running through it.",,airplane,0.9411313,X
+knife1-keyboard3,A blurry image of a camera.,,airplane,0.97492415,X
+knife8-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+knife2-bicycle3,A chain link fence with a metal gate.,,dog,0.2975732,X
+knife1-truck2,A red car is shown in a blurry image.,,car,0.9993587,G
+knife4-boat1,A colorful image of a boat.,,boat,1.0,E
+knife2-dog1,A close-up of a furry object with a long white line running through it.,,dog,0.8068264,X
+knife1-chair1,A blurry image of a red chair with a bird perched on it.,,chair,0.8082411,DI
+knife1-elephant1,A gray rock with a crevice in it.,,airplane,0.7280893,X
+knife1-bird2,A black object with a red spot on it.,,airplane,0.9586942,X
+knife9-bicycle1,"A close-up of a bunch of metal objects, including a car, a bicycle, and a motorcycle.",,bicycle,0.90873134,"G, C, M"
+knife6-knife1,A black and white photo of a cat.,,cat,0.99999404,H
+knife9-bear3,A close up of a furry object with a green background.,,dog,0.9682473,B. bear
+knife10-dog1,"A furry, orange, and white dog is laying on a bed.",,dog,0.9991327,K
+knife3-cat1,A cat is laying on a bed.,,cat,0.99999976,H
+knife4-keyboard1,A black and white photo of a broken mirror.,,airplane,0.5105193,X
+knife10-bear3,A close up of a spider's leg.,,bird,0.59871817,X
+knife5-bicycle2,A bunch of silver bicycle spokes.,,bicycle,0.99999976,C
+knife3-knife1,A close-up of a metal object with a lot of water on it.,,bottle,0.72987926,X
+knife8-cat2,"A brown object, possibly a brush or a comb, is laying on a table.",,dog,0.79905003,X
+knife10-chair1,A red chair in a movie theater.,,chair,1.0,I
+knife4-bear1,A close up of a brown furry object.,,dog,0.9779863,B
+knife7-chair2,A bunch of chairs.,,chair,1.0,I
+knife4-cat2,A blurry photo of a bug.,,airplane,0.7488907,X
+knife1-dog1,"A close up of a furry, fluffy animal.",,dog,0.97810453,B
+knife5-clock1,A collage of various clocks and glasses.,,clock,1.0,J
+knife6-airplane1,A blurry image of a rocket ship.,,boat,0.70715547,X
+knife7-bottle3,A bunch of paper with writing on it.,,airplane,0.8052006,X
+knife8-boat1,"A colorful, abstract image of a plane.",,airplane,1.0,A
+knife8-bottle3,Bottles of green liquid are stacked on top of each other.,,bottle,1.0,F
+knife7-airplane3,A blurry picture of a cell phone.,,airplane,0.98817134,X
+knife6-bird1,A blue fork is shown in the image.,,knife,0.93628395,X
+knife10-keyboard3,A close up of a black object with a silver logo.,,airplane,0.8644788,X
+knife7-car2,A blurry picture of a car.,,car,0.99937916,G
+knife1-car3,A red car with a blurry background.,,car,0.9995896,G
+knife9-boat1,"A colorful, abstract painting of a cityscape.",,airplane,0.7967225,X
+knife6-dog2,A blurry image of a cat's face.,,cat,0.999995,H
+knife9-chair1,A blurry image of a red auditorium with many chairs.,,chair,0.9999579,I
+knife7-elephant2,A close up of a leather surface with wrinkles and folds.,,airplane,0.34439278,X
+knife4-oven2,A black and white photo of a piano.,,keyboard,0.9141417,M
+knife10-knife1,A guitar with many strings.,,boat,0.59219205,X
+cat7-knife2,A hand with a cat's head on it.,,cat,0.9992285,X
+cat4-oven1,A cat is sitting on a metal object.,,cat,0.9999517,H
+cat1-keyboard3,A black cat with a keyboard on its head.,,keyboard,0.69579357,"H, M"
+cat8-bear1,A small brown cat with black eyes.,,cat,0.9999988,H
+cat4-dog3,A dog laying down.,,dog,0.9999913,K
+cat7-truck2,A red truck with a chrome grill.,,truck,0.99999976,P
+cat8-bird2,A small kitten is sitting down.,,cat,0.99701536,H
+cat4-knife1,A face with a mouth and eyes is shown.,,dog,0.8512877,X
+cat1-airplane1,A cat with a red nose is looking at the camera.,,cat,0.99999833,H
+cat5-airplane2,A painting of a bird with a blue background.,,bird,0.9994868,D
+cat6-keyboard3,Cat sitting on a keyboard.,,cat,0.5962005,"H, M"
+cat4-clock2,A cat is standing in front of a clock.,,clock,0.99040645,"H, J"
+cat9-truck1,A red cat is laying on a red surface.,,cat,0.99999905,H
+cat9-bottle2,A bunch of bottles in a pile.,,bottle,1.0,F
+cat5-bear2,A kitten is laying on a blanket.,,cat,0.99993825,X
+cat9-dog2,A cat is laying down on a surface.,,cat,0.99999964,H
+cat4-cat3,A cat with orange fur.,,cat,0.99999964,H
+cat10-oven2,A black and white image of a chair.,,chair,0.99999976,I
+cat6-clock3,A cat is sitting on a clock.,,clock,0.86423707,"H, J"
+cat2-boat2,"A colorful, abstract image of a cat's face.",,cat,0.9999858,H
+cat7-dog3,A cat is laying on a white surface.,,cat,0.9999994,H
+cat2-knife3,A painting of a hand holding scissors.,,knife,0.99897766,X
+cat4-airplane1,A collage of newspaper images with a face.,,airplane,0.9597336,X
+cat10-elephant3,A cat laying on a rock.,,cat,0.9999939,H
+cat2-truck3,"A cat's face is shown in a blurry, colorful, and abstract manner.",,cat,0.99998057,H
+cat5-bicycle3,A cat with a yellow eye is sitting in a room.,,cat,0.9999728,H
+cat9-clock2,A cat is laying down on a bed.,,cat,0.9999995,H
+cat6-chair3,A blue and white photo of chairs.,,chair,0.99999774,I
+cat7-clock3,A clock with a cat face on it.,,clock,0.9997594,"J, H"
+cat7-airplane2,A cat with a yellow background.,,cat,0.99999785,H
+cat5-knife2,A cat with green eyes.,,cat,0.99999976,H
+cat10-bird2,A cat laying on a bed.,,cat,0.9999995,H
+cat1-car2,A cat with yellow eyes.,,cat,0.99999976,H
+cat5-boat1,"A colorful, abstract painting of a dog's face.",,dog,0.9996717,K
+cat5-chair3,A blue and white chair with a blue and white chair in the background.,,chair,1.0,I
+cat2-car3,A red dog with a red nose and a red tongue.,,dog,0.99996245,K
+cat8-car2,A dog's face with glasses is shown.,,dog,0.9999987,K
+cat5-elephant2,A cat is sitting on a table.,,cat,0.999995,H
+cat9-boat2,"A colorful, abstract image of a car.",,car,0.9994475,G
+cat10-bicycle1,"A collage of various metal objects, including a car, a motorcycle, and a bicycle, all made of metal.",,bicycle,0.9944048,"G, P, C"
+cat3-bear2,A cat laying on a white surface.,,cat,0.99999905,H
+cat6-bear1,A cat is laying down with a kitten on its lap.,,cat,0.9999999,"H, K"
+cat10-bear1,A brown bear is laying down on a bed of hay.,,bear,0.99999774,B
+cat9-cat3,A cat is laying on the ground.,,cat,0.9999995,H
+cat4-chair2,A wooden chair is sitting in the middle of a room with other chairs surrounding it.,,chair,0.9999999,I
+cat1-dog1,A cat with yellow eyes.,,cat,0.99999976,H
+cat10-airplane3,A painting of a person's head with a blue sky in the background.,,airplane,0.955644,X
+cat10-keyboard1,"A close up of a black object, possibly a piece of metal or a tool.",,knife,0.77747095,X
+cat1-boat1,A cat with a red collar.,,cat,0.9999993,H
+cat7-elephant1,A cat laying on a rock.,,cat,0.9999939,H
+cat1-chair2,A stack of wooden chairs.,,chair,1.0,I
+cat4-truck3,"A colorful, abstract image of a car.",,car,0.9994475,G
+cat5-car2,A colorful image of a cat and a car.,,cat,0.90389746,"G, H"
+cat4-car2,A colorful fishing lure with a red and black body.,,boat,0.88004744,X
+cat3-oven2,A black cat is laying on a table.,,cat,0.99998605,H
+cat7-boat3,"A colorful, abstract image of a dog with a red nose.",,dog,0.99825734,K
+cat8-bicycle3,A cat's face is shown in a close-up.,,cat,0.999998,H
+cat5-keyboard3,A cat is sitting on a keyboard.,,keyboard,0.59156674,"H, M"
+cat2-bottle3,A green and white cat with a green bottle in its mouth.,,bottle,0.9786578,"H, F"
+cat4-bird2,A black and white cat sitting on a pole.,,cat,0.99999094,H
+cat9-knife2,A cat is on a piece of paper.,,cat,0.99997735,H
+cat9-bicycle1,A bunch of metal objects in a pile.,,truck,0.7292169,X
+cat5-bottle1,A cat is surrounded by a large number of bottles.,,bottle,0.9016524,"H, F"
+cat2-cat1,A small cat with brown fur and blue eyes.,,cat,0.99999404,H
+cat9-chair2,A room full of wooden chairs.,,chair,1.0,I
+cat10-clock1,A clock with many faces is shown in the image.,,clock,1.0,J
+cat3-bicycle1,A cat is laying down in a pile of metal.,,cat,0.99999857,H
+cat10-bottle1,A bunch of bottles of different sizes and shapes.,,bottle,1.0,F
+cat1-oven1,A cat wearing glasses.,,cat,0.99999917,H
+cat7-bottle1,A bunch of bottles and cans of various liquids and food items.,,bottle,0.9999999,F
+cat1-cat3,A cat with yellow eyes.,,cat,0.99999976,H
+cat9-bird3,A cat is laying on a white surface.,,cat,0.9999994,H
+cat6-oven1,A cat is sitting on a table.,,cat,0.999995,H
+cat1-bird1,A cat with blue eyes.,,cat,0.9999982,H
+cat2-elephant1,A cat with blue eyes.,,cat,0.9999982,H
+cat5-dog3,Two kittens are laying down together.,,cat,0.999997,X
+cat3-cat1,A cat is laying on a white surface.,,cat,0.9999994,H
+cat3-truck3,A colorful painting of a yellow chair.,,chair,0.9999994,I
+cat3-elephant2,A cat is laying down on a table.,,cat,0.99999547,H
+cat4-keyboard2,A keypad with a key missing.,,keyboard,0.99999654,X
+boat4-car3,"A red car with a white roof is in the foreground of a colorful, blurry cityscape.",,car,0.99985206,G
+boat1-bear1,A close-up of a brown furry animal.,,dog,0.99378467,B
+boat7-clock3,A clock with a lot of hands and numbers on it.,,clock,1.0,J
+boat8-elephant1,A close up of an elephant's skin.,,elephant,1.0,L
+boat3-bicycle2,A bunch of metal objects.,,airplane,0.5341109,X
+boat6-car1,A colorful fish is seen in a blurry background.,,boat,0.7318887,X
+boat1-elephant3,The image shows the back of an elephant.,,elephant,1.0,L
+boat6-bear1,A brown bear's paw is shown in the image.,,bear,0.9999552,B
+boat2-bottle2,A bunch of bottles of different sizes and shapes.,,bottle,1.0,F
+boat9-keyboard2,A blurry image of a keyboard.,,keyboard,0.9999999,M
+boat7-elephant3,A sailboat carved into the side of a rock.,,boat,0.99999774,E
+boat10-oven1,A space ship with the number 66 on it.,,boat,0.63863206,X
+boat6-bottle2,A bunch of bottles of different sizes and colors.,,bottle,1.0,F
+boat2-oven3,"A blurry image of a room with a microwave, stereo, and other electronics.",,airplane,0.91047937,X
+boat6-clock2,A painting of a boat with a clock on the side.,,boat,0.996554,"E, J"
+boat5-knife2,A bunch of papers are piled on top of each other.,,airplane,0.94020724,X
+boat4-elephant2,The image is a close-up of a leather surface with a textured pattern.,,airplane,0.58210677,X
+boat6-airplane2,A broken piece of glass.,,bottle,0.9503914,X
+boat5-clock3,A bunch of clocks are stacked on top of each other.,,clock,1.0,J
+boat7-bottle1,A large pile of bottles and cans.,,bottle,0.99999833,F
+boat10-truck1,A red helicopter is shown in a close-up view.,,airplane,0.9823141,X
+boat1-truck3,A colorful image of a chair with a blue seat.,,chair,0.99999833,I
+boat1-car2,A red car with a yellow hood.,,car,0.998524,G
+boat1-bird3,A tree branch with leaves.,,airplane,0.51730466,X
+boat5-airplane1,"A bunch of papers are cut up and pasted together, creating a collage.",,airplane,0.9880442,X
+boat6-dog1,A dog's paw with a long claw.,,dog,0.9997838,K
+boat2-bear3,A close up of a dog's face with a brown nose.,,dog,0.99994814,K
+boat9-chair2,A bunch of chairs are stacked on top of each other.,,chair,0.9999999,I
+boat9-bird1,A blue sail on a boat.,,boat,0.9999982,E
+boat8-oven1,A blurry picture of a metal object.,,airplane,0.89062965,X
+boat10-bear3,A close up of a furry animal's eye.,,dog,0.9969002,B
+boat5-car3,A car is shown in a blurry photo with a red hood.,,car,0.99822515,G
+boat3-clock3,A bunch of clocks on a wall.,,clock,1.0,J
+boat4-bicycle3,A bunch of wires and metal.,,airplane,0.8433918,X
+boat9-cat3,A ship with sails in the background.,,boat,0.999948,X
+boat9-airplane2,A painting of a boat on the water.,,boat,1.0,E
+boat9-knife2,A bunch of money is shown in the image.,,airplane,0.867211,X
+boat6-bicycle2,A black and white image of a bicycle with a silver frame.,,bicycle,0.9999995,C
+boat7-truck2,A red object with a silver top.,,bottle,0.8063252,X
+boat6-cat1,A bird with brown feathers.,,bird,0.9999956,D
+boat5-boat3,A colorful cityscape with a large ship in the foreground.,,boat,0.95583135,E
+boat1-oven1,A close up of a watch with a strap.,,boat,0.6018953,J
+boat4-chair2,A room with wooden chairs and tables.,,chair,0.9999913,I
+boat1-bicycle2,A bunch of bike seats in a row.,,bicycle,0.9904293,C
+boat8-truck2,A red car is shown in a blurry photo.,,car,0.9997012,G
+boat9-dog2,A picture of a ship with a furry texture.,,boat,0.8738637,X
+boat9-bear3,A brown and white image of a ship.,,boat,0.9933646,E
+boat8-bottle1,A bunch of bottles and jars of different sizes and shapes.,,bottle,1.0,F
+boat7-boat2,A boat in a painting with a red sail.,,boat,1.0,E
+boat1-chair3,A blue chair is in the center of the image.,,chair,0.999998,I
+boat2-airplane1,A blurry image of a car.,,car,0.9991798,G
+boat3-keyboard2,A close up of a keyboard with letters and numbers.,,keyboard,1.0,M
+boat10-boat3,A colorful image of a boat with a bird on top.,,boat,0.9883867,E
+boat5-bicycle3,A bunch of bikes in a blurry photo.,,bicycle,0.9999938,C
+boat6-knife2,A bunch of books are stacked on top of each other.,,bottle,0.7942075,X
+boat1-keyboard3,A black and white photo of a cell phone.,,airplane,0.9697313,X
+boat7-keyboard3,A blurry photo of a vase.,,bottle,0.63982624,X
+boat8-bird2,A silver boat with a black bottom.,,boat,1.0,E
+boat3-airplane2,A blue and yellow building with a yellow roof.,,airplane,0.98203903,X
+boat7-chair1,A red chair with a person sitting in it.,,chair,1.0,I
+boat9-boat3,A colorful sailboat with a mast and sails.,,boat,0.9999994,E
+boat2-keyboard1,A piece of paper with black writing on it.,,airplane,0.9633742,X
+boat8-knife1,A wooden object with metal parts.,,airplane,0.55938,X
+boat10-cat1,A brown and white cat is laying down on a white surface.,,cat,0.99999976,H
+boat8-dog3,A cat's tail is visible in the image.,,cat,0.99999595,H
+boat4-knife2,"A collage of various images, including a knife, a pair of scissors, and a pair of scissors.",,knife,0.9999993,N
+boat3-dog3,A blurry image of a chair.,,chair,0.99999976,I
+boat2-bird1,A blue and white boat on the water.,,boat,1.0,E
+boat9-clock1,A clock made of letters and numbers.,,clock,1.0,J
+boat6-truck3,A chair with a seat and a back.,,chair,1.0,I
+boat4-dog2,A blurry picture of a cat.,,cat,0.99999,H
+boat7-oven3,A bunch of electronics are stacked on top of each other.,,keyboard,0.49794704,X
+boat3-cat3,A boat with a face on it.,,boat,1.0,E
+boat4-bird1,A blue and white object is laying on a white surface.,,airplane,0.9813735,X
+boat7-cat3,A blurry image of a person's leg.,,bicycle,0.726062,X
+boat4-boat3,A colorful painting of a city with a boat in the water.,,boat,0.99999964,E
+boat3-chair3,A blue and white chair with a blue seat.,,chair,1.0,I
+boat4-bottle2,A bunch of wine bottles are in a pile.,,bottle,0.9999995,F
+boat6-elephant2,A brown leaf with a twisted stem.,,bicycle,0.35161972,X
+boat3-car3,A red car with a motorcycle on top of it.,,car,0.9266483,G
+bird6-bottle3,"A green bird with wings outstretched, surrounded by a bunch of bottles.",,bottle,0.8418474,D
+bird10-cat1,A bird with a long beak.,,bird,0.99999607,D
+bird10-chair1,A red seat in a theater.,,chair,0.9995727,I
+bird7-truck2,A red car is shown in the image.,,car,0.9991737,G
+bird9-chair1,A person is sitting in a chair.,,chair,1.0,I
+bird6-elephant2,A wooden carving of two birds.,,bird,0.99751616,D
+bird7-knife2,A black bird sitting on a branch.,,bird,0.9999212,D
+bird7-keyboard3,A black and white photo of a person.,,airplane,0.93681043,X
+bird6-car3,A red car with a green tree in the background.,,car,0.9999448,G
+bird3-oven1,A blurry picture of a coffee maker.,,airplane,0.5550075,X
+bird2-knife1,A hand holding a gun.,,knife,0.8130617,X
+bird1-bicycle2,A bird is sitting on a piece of metal.,,bird,0.99990106,D
+bird2-airplane3,A person wearing a blue jacket with a white helmet.,,bicycle,0.94054604,X
+bird10-bicycle1,A bird with a long beak is surrounded by metal pieces.,,bird,0.9999763,D
+bird3-bear3,A close up of a brown bear.,,bear,0.99998784,B
+bird1-keyboard3,A close up of a keypad with a blurry background.,,keyboard,0.99979943,X
+bird1-oven1,A bird is sitting on a branch.,,bird,0.9999838,D
+bird2-clock3,A bird is standing on a clock.,,clock,0.98400104,"D, J"
+bird4-dog3,A dog's face with brown fur and a black nose.,,dog,0.9999665,K
+bird7-boat1,A bird is perched on a metal bar.,,bird,0.9986545,D
+bird5-truck2,A red car with a silver grill.,,car,0.99942493,G
+bird4-cat3,A bird's wing is spread out on a white background.,,bird,0.9997204,D
+bird1-bear1,A brown bird sitting on the ground.,,bird,0.99981576,D
+bird5-car2,A bird with a red head and black body is perched on a car.,,bird,0.96411973,G
+bird1-boat1,A bird is sitting on a branch.,,bird,0.9999838,D
+bird7-cat3,A bird is perched on a wooden surface.,,bird,0.9996101,D
+bird9-bottle3,A bird is perched on a branch surrounded by money.,,bird,0.9999224,D
+bird2-bird2,A bird is perched on a tree branch.,,bird,0.99991405,D
+bird7-car2,A bird is perched on a metal object.,,bird,0.99981385,D
+bird3-boat3,"A colorful, abstract image of a person's head.",,airplane,0.6753981,X
+bird3-bird2,A bird with a beak open.,,bird,0.9999654,D
+bird6-boat2,"A colorful, abstract image of a car.",,car,0.9994475,G
+bird10-elephant2,A picture of a horned animal with a long snout.,,dog,0.80203706,L
+bird5-keyboard2,A black keyboard with a bird on it.,,keyboard,0.97700226,M
+bird3-knife3,A blurry picture of a camera.,,airplane,0.9479708,X
+bird6-truck2,A red car with a black grill.,,car,0.9991684,G
+bird7-oven3,A blue bird is perched on a phone.,,bird,0.9999666,D
+bird8-chair1,A red chair with a red seat.,,chair,1.0,I
+bird5-airplane3,A blue bird perched on a branch.,,bird,0.9997073,D
+bird2-car3,"A red car is shown in a blurry, distorted image.",,car,0.9986492,G
+bird5-bicycle1,A bird is perched on a branch surrounded by metal.,,bird,0.99963295,D
+bird8-bottle1,"A collage of various bottles and cans, including a bird.",,bottle,0.54592717,F
+bird3-truck3,"A colorful, abstract image of a bird.",,bird,0.9999639,D
+bird9-keyboard1,A black bird is perched on a branch.,,bird,0.9997286,D
+bird7-bottle1,A picture of a bird surrounded by many bottles.,,bottle,0.99527705,"D, F"
+bird7-bird2,A black bird is perched on a metal rail.,,bird,0.97665715,D
+bird1-clock3,A bird is sitting in front of a clock.,,clock,0.7763868,"D, J"
+bird5-bear3,A bird with brown feathers is perched on a branch.,,bird,0.99998355,D
+bird1-airplane2,A bird sitting on a branch.,,bird,0.9999732,D
+bird1-knife3,A hand with a bird on it.,,bird,0.99999666,D
+bird10-clock1,A bird is perched on a clock.,,clock,0.8147694,D J
+bird3-cat1,A bird with a long beak.,,bird,0.99999607,D
+bird8-elephant1,A bird perched on a branch.,,bird,0.9999268,D
+bird8-clock1,A clock made of letters is the main focus of the image.,,clock,1.0,J
+bird1-elephant2,A bird with a long beak.,,bird,0.99999607,D
+bird3-dog1,A bird with brown and white feathers.,,bird,0.99999714,D
+bird10-bird2,A black bird with a long beak.,,bird,0.9999951,D
+bird5-bird1,A blue bird with a black head.,,bird,0.99998295,D
+bird8-knife2,A bird is sitting on a branch made of money.,,bird,0.999808,D
+bird5-oven3,A blurry photo of a computer screen with a bunch of icons.,,airplane,0.6717993,X
+bird2-dog2,A bird with a long tail is perched on a tree branch.,,bird,0.999632,D
+bird4-airplane1,A collage of newspaper clippings.,,airplane,0.9905663,X
+bird9-bicycle3,A bird with a red beak perched on a branch.,,bird,0.99999666,D
+bird8-keyboard2,A black keyboard with a hand on it.,,keyboard,1.0,M
+bird3-bottle2,A bunch of bottles and a hair dryer.,,bottle,0.99999964,F
+bird9-elephant2,A bird with a long beak is perched on a branch.,,bird,0.9999881,D
+bird4-clock1,A colorful clock made of many clocks.,,clock,1.0,J
+bird6-oven1,A blurry photo of a bird.,,bird,0.99981743,D
+bird8-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+bird8-boat3,A colorful bird with a red beak is perched on a branch.,,bird,0.9999981,D
+bird4-bicycle2,A blurry image of a bicycle with a person on it.,,bicycle,0.9999999,C
+bird1-truck1,A red heart is shown in a distorted and blurry image.,,airplane,0.26342812,X
+bird10-bear2,A bird with a long beak.,,bird,0.99999607,D
+bird9-bear3,A bird with brown feathers.,,bird,0.9999956,D
+bird5-dog2,A yellow bird is perched on a branch.,,bird,0.9999318,D
+bird5-cat2,A small bird perched on a branch.,,bird,0.9997217,D
+bird6-airplane2,A blue and yellow bird with a black wing.,,bird,0.9996018,D
+bird9-dog2,A bird is perched on a branch.,,bird,0.9999608,D
+bird5-chair1,A red chair with a person sitting in it.,,chair,1.0,I
+bird1-chair2,A bunch of chairs in a row.,,chair,1.0,I
+airplane2-bear1,A brown furry object with a hole in it.,,dog,0.9747668,X
+airplane5-oven3,A bunch of old microwaves stacked on top of each other.,,oven,0.9687817,X
+airplane2-bicycle1,A bunch of silver metal objects.,,airplane,0.54579514,X
+airplane10-car3,A red airplane is parked on the ground.,,airplane,0.9999995,A
+airplane2-bird3,A painting of a bird with a red beak.,,bird,0.99999774,D
+airplane4-bear3,A blurry image of a cat's face.,,cat,0.999995,H
+airplane9-oven2,A black and white photo of a cityscape.,,airplane,0.9536771,X
+airplane9-clock1,A bunch of clocks in different shapes and sizes.,,clock,1.0,J
+airplane6-knife1,A close-up of a pair of scissors.,,knife,0.99995136,X
+airplane1-clock1,A clock with a bird on it.,,clock,0.9984206,"J, D"
+airplane3-car1,A red and yellow airplane is in the middle of a group of cars.,,airplane,0.9997396,A
+airplane9-car2,A bunch of cars are in the background.,,car,0.99994564,G
+airplane10-elephant1,A picture of a plane wing.,,airplane,1.0,A
+airplane4-cat3,A cat laying on the ground.,,cat,0.9999994,H
+airplane5-boat3,A colorful airplane with a blue and red wing.,,airplane,1.0,A
+airplane3-dog1,A close-up of a fluffy white object with a red hue.,,airplane,0.5703511,X
+airplane9-knife3,A bunch of black and white photos.,,airplane,0.929941,X
+airplane5-bird2,A black and white photo of a jet.,,airplane,0.9999999,A
+airplane5-dog3,A close-up of a dog's head.,,dog,0.9999776,K
+airplane5-chair3,A blue chair with a blue seat.,,chair,1.0,I
+airplane6-bear3,A tree branch with a bird on it.,,bird,0.999943,D
+airplane4-elephant1,"A close-up of a wrinkled, textured surface.",,airplane,0.98145455,X
+airplane1-elephant1,A plane on a gray surface.,,airplane,1.0,A
+airplane8-truck3,"A colorful, abstract image of chairs.",,chair,0.99999976,I
+airplane10-knife3,A bunch of scissors.,,knife,0.99993634,X
+airplane4-airplane1,A plane is flying in the sky.,,airplane,1.0,A
+airplane8-clock2,A blurry image of a keyboard.,,keyboard,0.9999999,M
+airplane10-truck1,"A red car is shown in a distorted, blurry image.",,car,0.99880505,G
+airplane4-bottle1,A colorful assortment of bottles and cans.,,bottle,0.9999999,F
+airplane9-truck1,A red airplane with a red propeller.,,airplane,1.0,A
+airplane7-clock3,A clock with a guitar design on it.,,clock,1.0,J
+airplane7-airplane3,A large jetliner is flying through the sky.,,airplane,1.0,A
+airplane8-bird1,A blue airplane in the sky.,,airplane,1.0,A
+airplane10-oven2,A black and white photo of a plane.,,airplane,1.0,A
+airplane5-knife1,"A colorful, abstract image of a hand holding a bottle.",,bottle,1.0,F
+airplane8-bicycle3,A painting of a bike with a chain.,,bicycle,0.99998724,C
+airplane4-bicycle2,A blurry photo of a bike.,,bicycle,0.99998343,C
+airplane6-chair3,A bunch of blue chairs in a row.,,chair,0.9999999,I
+airplane5-bear2,A bird is laying on a pile of fluffy white material.,,bird,0.9999763,D
+airplane4-truck2,A red car is shown in a blurry image.,,car,0.9993587,G
+airplane7-car1,"A colorful collage of cars, including a red one, are arranged in a row.",,car,0.9968567,G
+airplane7-bird3,A bird with a message on its back.,,bird,0.9999945,D
+airplane1-bicycle2,A plane is flying through the air.,,airplane,1.0,A
+airplane4-dog2,A piece of fabric with a string attached to it.,,airplane,0.852678,X
+airplane10-airplane1,"A plane with the word ""Air"" on it.",,airplane,1.0,A
+airplane8-oven2,A black and white photo of a pair of scissors.,,knife,0.99871576,X
+airplane10-cat2,A blurry image of a cat.,,cat,0.9999937,H
+airplane8-elephant3,The image is of a close-up of an elephant's skin.,,elephant,1.0,L
+airplane5-bottle3,A green bottle with a white label is surrounded by other bottles.,,bottle,1.0,F
+airplane4-car1,A colorful painting of cars and airplanes.,,airplane,0.99945587,"G, P"
+airplane7-boat2,A red and white airplane with the word Monarch on the side.,,airplane,1.0,A
+airplane6-keyboard3,A black bird is sitting on a branch.,,bird,0.99993634,D
+airplane3-elephant1,"A close up of a dirty, wrinkled, and worn piece of fabric.",,airplane,0.7984243,X
+airplane7-truck1,"A red airplane with the word ""honor"" on it.",,airplane,1.0,A
+airplane6-bottle2,A bunch of bottles with different colors and shapes.,,bottle,1.0,F
+airplane9-keyboard2,A close up of a keyboard.,,keyboard,1.0,M
+airplane10-dog3,A blurry image of a dog's head.,,dog,0.99990284,K
+airplane2-bottle1,A bunch of bottles and cans are stacked on top of each other.,,bottle,0.9999995,F
+airplane4-boat3,A colorful painting of a plane.,,airplane,1.0,A
+airplane7-bottle3,A bunch of Monopoly game pieces.,,clock,0.59264034,X
+airplane3-keyboard2,A black and white photo of a computer keyboard.,,keyboard,0.99999976,M
+airplane9-boat1,"A colorful, abstract painting of a plane.",,airplane,1.0,A
+airplane9-airplane2,A blue and yellow airplane in the sky.,,airplane,1.0,A
+airplane4-knife1,"A colorful, abstract image of a gun.",,airplane,0.91861945,X
+airplane7-keyboard1,A close-up of a metal object with a lot of text on it.,,airplane,0.59416384,X
+airplane3-clock1,A clock is shown in a collage of clocks.,,clock,1.0,J
+airplane3-cat1,"A brown animal, possibly a bear, is laying on a blue surface.",,bear,0.9937255,B
+airplane5-bicycle1,A close up of a plane's wing.,,airplane,1.0,A
+airplane3-airplane2,A yellow and blue airplane in the sky.,,airplane,1.0,A
+airplane2-dog1,A close up of a furry object.,,dog,0.9572232,B. bear
+airplane7-cat3,A bird with a tag on its leg.,,bird,0.9999733,D
+airplane3-chair3,A blue chair in a room.,,chair,1.0,I
+airplane4-bird3,A bird with wings spread out.,,bird,0.99984324,D
+airplane1-chair2,A bunch of chairs are piled on top of each other.,,chair,0.9999999,I
+airplane3-oven1,A blurry photo of a plane.,,airplane,1.0,A
+airplane4-keyboard3,A black remote control.,,airplane,0.5235676,X
+airplane10-boat3,"A colorful, abstract image of a plane.",,airplane,1.0,A
+airplane8-chair1,A red chair with a person sitting in it.,,chair,1.0,I
+airplane2-cat1,"A cat is laying on a bed, with a toy in its mouth.",,cat,0.9999931,H
+airplane10-bear3,A close up of a furry object.,,dog,0.9572232,B. bear
+clock7-boat3,A clock with green and red colors.,,clock,1.0,J
+clock8-truck2,A red and silver watch face with a red band.,,clock,0.9997384,J
+clock6-clock2,A clock with a reflection of a person in it.,,clock,1.0,J
+clock7-car1,A clock with a yellow face and red trim.,,clock,1.0,J
+clock10-oven2,A blurry image of a camera.,,airplane,0.97492415,X
+clock10-airplane1,A clock with a bird on it.,,clock,0.9984206,"J, D"
+clock4-chair1,A red circle with a clock inside of it.,,clock,1.0,J
+clock8-oven3,A blurry image of a computer monitor with a keyboard and mouse.,,keyboard,0.999783,M
+clock2-knife1,A clock with a brown face and a black background.,,clock,1.0,J
+clock1-clock2,A clock with roman numerals is shown in a close up.,,clock,1.0,J
+clock8-bear2,A clock with a white face and black hands.,,clock,1.0,J
+clock9-keyboard2,A blurry close up of a keyboard.,,keyboard,1.0,M
+clock4-elephant2,A clock with Roman numerals.,,clock,1.0,J
+clock10-cat1,A brown teddy bear with a clock face.,,clock,0.94852394,"B, J"
+clock6-chair3,A blue chair with a circle on it.,,chair,0.99999976,I
+clock7-bicycle1,A clock with a red hand.,,clock,1.0,J
+clock9-airplane1,A watch face is shown with the hands on the numbers 11 and 12.,,clock,0.99998295,X
+clock5-bicycle1,A clock with a blue face and silver hands.,,clock,1.0,J
+clock3-cat1,A clock with a brown face and blue numbers.,,clock,1.0,J
+clock10-bottle1,A large collection of liquor bottles.,,bottle,1.0,F
+clock2-clock3,A close up of a clock face.,,clock,1.0,J
+clock7-cat2,A clock with a white face and black hands.,,clock,1.0,J
+clock3-keyboard3,A close up of a clock face.,,clock,1.0,J
+clock10-boat2,A clock with a motorcycle on top of it.,,clock,0.9999995,"J, G"
+clock7-bear2,A clock with a white face and black hands.,,clock,1.0,J
+clock8-cat1,A clock with a brown face.,,clock,1.0,J
+clock9-bird2,A close up of a clock face.,,clock,1.0,J
+clock10-knife3,A black and white photo of a guitar.,,airplane,0.84555066,X
+clock4-bottle3,A green clock with numbers on it.,,clock,1.0,J
+clock9-chair3,A blue chair with a black seat.,,chair,1.0,I
+clock8-boat1,A clock with a blue face and red trim.,,clock,1.0,J
+clock2-bottle3,A clock with a green face and white numbers.,,clock,1.0,J
+clock4-knife1,A clock with a brown face and a wood frame.,,clock,1.0,J
+clock1-bear1,A close up of a furry object with the number 35 written on it.,,dog,0.83894587,X
+clock8-keyboard1,A close up of a clock face with a black background.,,clock,1.0,J
+clock2-elephant2,A clock with a brown and white face.,,clock,1.0,J
+clock8-airplane2,A blue and yellow clock.,,clock,1.0,J
+clock6-oven1,A close up of a black and white photo of a microwave.,,airplane,0.6408992,O
+clock2-bicycle1,A clock with a blue face and silver hands.,,clock,1.0,J
+clock10-truck2,A red and silver metal object.,,knife,0.5015531,X
+clock4-oven1,A close up of a watch face.,,clock,0.9964143,J
+clock6-bird3,A clock with roman numerals.,,clock,1.0,J
+clock7-bottle2,A clock with lots of bottles around it.,,clock,0.7754241,"J, F"
+clock10-dog3,A dog's face is shown in the center of a circle.,,dog,0.9999757,K
+clock4-car2,A watch face with a red background.,,clock,0.99994195,X
+clock10-clock3,A clock with roman numerals.,,clock,1.0,J
+clock3-car2,A watch with a red face and a car on the front.,,car,0.99537474,"J, G"
+clock3-bird1,A clock with roman numerals.,,clock,1.0,J
+clock3-dog2,A clock with a furry face.,,clock,0.99999976,J
+clock2-dog1,A clock with a fluffy texture.,,clock,1.0,J
+clock7-dog2,A clock with a furry face.,,clock,0.99999976,J
+clock6-truck3,A blue and yellow circle with a seat inside.,,chair,0.8654398,X
+clock3-bicycle2,A close up of a clock face with a reflection of a person in the background.,,clock,1.0,J
+clock4-boat3,A clock with a person inside it.,,clock,1.0,J
+clock6-knife2,A metal circle with a hole in the middle.,,bottle,0.35990274,X
+clock4-airplane1,A clock with roman numerals.,,clock,1.0,J
+clock7-truck3,A clock with a yellow face.,,clock,1.0,J
+clock3-elephant3,A clock face with roman numerals.,,clock,1.0,J
+clock1-truck3,"A colorful, abstract image of a chair.",,chair,0.9999999,I
+clock4-bird3,A clock with a brown background.,,clock,1.0,J
+clock1-dog2,A clock with Roman numerals.,,clock,1.0,J
+clock8-knife1,A close up of a clock face with the hands at 12 and 2.,,clock,1.0,J
+clock5-elephant2,A clock with roman numerals.,,clock,1.0,J
+clock3-bear3,A clock with a brown background.,,clock,1.0,J
+clock6-car2,A red and black clock with a car on it.,,clock,0.999483,"J, G"
+clock10-bird3,A small clock with a brown and red face.,,clock,1.0,J
+clock1-car1,"A bunch of cars are shown in a blurry, colorful, and abstract manner.",,car,0.9993585,G
+clock5-airplane1,A clock with a lot of text on it.,,clock,1.0,J
+clock7-keyboard2,A close up of a clock face with the hands on the numbers 4 and 5.,,clock,1.0,J
+clock9-cat1,A round object with a clock face on it.,,clock,1.0,J
+clock8-chair2,A wooden clock with Roman numerals.,,clock,1.0,J
+clock5-oven1,A blurry picture of a clock.,,clock,1.0,J
+clock1-elephant2,A brown wooden surface with a pattern of trees and branches.,,airplane,0.8343313,X
+clock1-boat3,"A colorful, abstract image of a clock with a propeller on top.",,clock,0.9998012,J
+clock5-chair3,A blue circle with a clock inside of it.,,clock,1.0,J
+clock5-keyboard1,A round clock with a broken face.,,clock,1.0,J
+clock2-bear2,A clock with roman numerals.,,clock,1.0,J
+clock6-bicycle1,A close up of a watch with a clock face.,,clock,1.0,J
+clock5-clock2,A clock with foreign writing on it.,,clock,1.0,J
+clock6-bottle1,A clock with many bottles surrounding it.,,clock,0.77345973,"J, F"
+dog5-bear3,A dog with a brown and black coat.,,dog,0.999972,K
+dog1-knife3,A dog's face is shown with a pair of scissors in the background.,,dog,0.9934889,K
+dog2-bicycle2,A dog's face is shown in a blurry photo.,,dog,0.9999672,K
+dog9-bottle1,A dog is surrounded by a bunch of bottles.,,bottle,0.9994425,"K, F"
+dog7-chair2,A stack of chairs.,,chair,1.0,I
+dog2-bottle2,A bunch of colorful bottles are stacked on top of each other.,,bottle,1.0,F
+dog3-boat1,A person is sitting in a chair with a blue and red shirt.,,chair,1.0,I
+dog2-dog3,A white dog with brown ears.,,dog,0.9997551,K
+dog10-car3,A dog is sitting on top of a car.,,car,0.7394187,"G, K"
+dog3-dog1,A brown dog sitting on the ground.,,dog,0.9999695,K
+dog3-keyboard1,A black dog is laying on its side.,,dog,0.9999329,K
+dog3-clock1,A colorful clock face with numbers and letters on it.,,clock,1.0,J
+dog10-oven2,A black dog is sitting on a table.,,dog,0.9999689,"H, I"
+dog4-truck2,A red fist with a microphone in the center.,,bottle,0.8136306,X
+dog3-elephant2,A woman with long hair is sitting down.,,chair,0.99996006,X
+dog10-truck2,A red car is reflected in a silver object.,,car,0.99985456,G
+dog7-oven2,A black and white image of a person's head.,,airplane,0.78620505,X
+dog10-airplane1,A dog is laying on a pile of papers.,,dog,0.99995995,K
+dog6-bicycle1,A metal sculpture of a rose is surrounded by many other metal objects.,,bottle,0.5377754,X
+dog5-truck2,A red object with a silver face.,,bottle,0.4541022,J
+dog6-cat1,A brown dog with a black collar.,,dog,0.9999987,K
+dog4-bottle2,A bunch of bottles.,,bottle,1.0,F
+dog10-clock1,A dog is sitting on a table with a clock on its back.,,clock,0.9508569,H K J
+dog9-cat1,A dog is standing in front of a blue sky.,,dog,0.999739,K
+dog6-clock1,A dog is sitting in front of a clock.,,clock,0.9998066,K J
+dog9-chair2,A chair is sitting in front of a mirror.,,chair,1.0,I
+dog7-bird3,A dog with brown and white fur is sitting on the ground.,,dog,0.99980277,H
+dog10-bottle1,"A pile of bottles and cans is stacked on top of each other, forming a large pile.",,bottle,0.9999958,F
+dog8-bear3,A dog with a long tail is walking on a path.,,dog,0.9995685,K
+dog5-boat3,"A colorful, abstract image of a person's face.",,airplane,0.8787812,X
+dog9-boat1,A blurry image of a dog in a blue and red hat.,,dog,0.99987555,K
+dog2-cat1,A dog with brown ears and brown eyes.,,dog,0.99989855,K
+dog3-bird2,A black puppy sitting on a white surface.,,dog,0.99835455,K
+dog8-keyboard3,A blurry photo of a camera.,,airplane,0.91868126,X
+dog10-dog1,A dog is sitting on a carpet.,,dog,0.9999268,K
+dog6-truck2,"A red car with a license plate that reads ""3"".",,car,0.9820546,G
+dog4-chair1,A red chair in a row of chairs.,,chair,1.0,I
+dog8-bottle2,A black and white photo of a dog sitting in front of a pile of bottles.,,bottle,0.8932261,K
+dog1-bear1,A dog's face is shown in a blurry picture.,,dog,0.99996376,K
+dog8-chair3,A blue elephant statue.,,elephant,1.0,L
+dog5-car3,A red car with a dog in it.,,car,0.98625565,"G, K"
+dog9-bicycle3,A dog is walking in a field of red and white.,,dog,0.99818486,K
+dog6-elephant2,A dog's head is shown in the image.,,dog,0.99998534,K
+dog1-chair1,A red chair with a person sitting in it.,,chair,1.0,I
+dog4-oven1,A blurry image of a camera.,,airplane,0.97492415,X
+dog9-car1,A colorful car collage with multiple cars and a dog.,,car,0.9507656,"G, P"
+dog1-dog2,A dog with brown and white fur.,,dog,0.9999453,K
+dog10-bicycle1,A black dog sitting on the ground with a pile of scrap metal behind it.,,dog,0.97833145,K
+dog4-cat3,A dog with a brown and white fur is looking at the camera.,,dog,0.99996185,K
+dog3-bear3,A dog is sitting on a bed.,,dog,0.99932575,"H
+X"
+dog3-truck2,A red object with a black seat.,,chair,0.9473518,"I, G"
+dog1-boat3,"A colorful, abstract image of a face.",,airplane,0.7775796,X
+dog5-knife2,"A close up of a face with a mouth and eyes, surrounded by a bunch of books.",,bottle,0.97877264,X
+dog1-airplane3,A blurry image of a dog's head.,,dog,0.99990284,K
+dog2-airplane2,A blue and yellow painting of a dog's face.,,dog,0.9998436,K
+dog5-elephant1,A dog with a smile on its face.,,dog,0.99999785,K
+dog4-elephant2,A picture of a tiger's head.,,cat,0.3744167,X
+dog1-bird1,A dog with blue eyes.,,dog,0.999995,K
+dog7-keyboard3,A close up of a keyboard with the numbers 2 and 3 visible.,,keyboard,0.99999976,M
+dog8-dog3,A dog standing on a carpet.,,dog,0.9999583,K
+dog10-keyboard2,A close up of a keyboard with a key missing.,,keyboard,1.0,M
+dog4-keyboard2,A black and white photo of a camera.,,airplane,0.9366258,X
+dog8-boat3,A colorful elephant with a red trunk is standing in front of a building.,,elephant,1.0,L
+dog1-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+dog4-airplane3,A blurry picture of a dog's face.,,dog,0.999949,K
+dog1-cat3,A dog with a brown nose.,,dog,0.99997354,K
+dog10-elephant1,A dog is depicted in a painting.,,dog,0.9998253,K
+dog3-knife3,A black dog is sitting on a chair.,,chair,0.9984218,"H, I"
+dog7-knife3,A black and white dog statue.,,dog,0.9988625,K
+dog8-clock2,A dog sitting on a chair.,,chair,0.9992495,"H, I"
+dog6-bird1,A dog with a blue collar.,,dog,0.9999974,K
+dog5-oven1,A blurry image of a person's head.,,airplane,0.85045385,X
+dog4-bicycle1,"A collage of various metal objects, including scissors, is arranged to look like a person's head.",,knife,0.9827319,X
+dog8-oven3,A dog is standing in front of a camera.,,dog,0.999984,K
+dog7-car2,A blurry picture of a red car.,,car,0.9995827,G
+dog9-bear3,A dog is standing in front of a blurry background.,,dog,0.9999682,K
+dog2-knife3,"A dog's face is shown in a blurry, abstract image.",,dog,0.99970406,K
+dog4-bird1,A dog with its head down.,,dog,0.9999876,K
+dog9-airplane3,A dog is sitting in front of a white wall.,,dog,0.99977535,K
+dog4-clock1,A dog is sitting in front of a clock.,,clock,0.9998066,K J
+oven9-chair1,A red seat in a theater.,,chair,0.9995727,I
+oven3-airplane1,A blurry picture of a box with money in it.,,airplane,0.43562892,X
+oven7-cat1,A brown suitcase with a handle is on top of a brown chair.,,chair,0.9991775,I
+oven5-bicycle1,A close up of a microwave with a red handle.,,oven,0.9945925,O
+oven6-bird1,A blue turkey is laying on a chair.,,chair,0.9962191,X
+oven6-knife3,A blurry image of a toaster oven.,,oven,0.9999994,O
+oven7-elephant1,A stone wall with a basket on it.,,bicycle,0.99094886,X
+oven10-cat2,A microwave oven with food inside.,,oven,0.9999999,O
+oven2-dog3,A dog's face is seen through a window.,,dog,0.9999641,K
+oven5-bottle3,A green box with a handle and a lock on it.,,bottle,0.92732745,X
+oven7-keyboard1,A stack of black boxes with a white background.,,clock,0.80220807,X
+oven9-clock2,A blurry picture of a TV set.,,airplane,0.9631371,X
+oven7-bottle1,A chair is made of various bottles and cans.,,chair,0.9981438,"I, F"
+oven3-boat3,A man is sitting in a chair with a guitar.,,chair,0.99999976,I
+oven10-airplane2,A yellow and blue box with a handle.,,bottle,0.9872071,X
+oven9-boat2,A blurry photo of a microwave oven.,,oven,0.99925953,O
+oven5-keyboard2,A black object with a white number 1 on it.,,airplane,0.7251921,X
+oven9-bear2,A microwave with a dead animal inside.,,dog,0.63974965,X
+oven2-bicycle1,A metal box with a reflection of a car in it.,,car,0.99770665,G
+oven8-cat3,A piece of metal with a pattern of circles on it.,,clock,0.75285655,X
+oven3-knife1,A pair of leather gloves are inside a box.,,knife,0.8550851,X
+oven6-airplane3,A turkey is inside an oven.,,oven,1.0,O
+oven4-truck3,A yellow and blue bus with a mirror.,,truck,0.7206241,X
+oven10-boat2,"A colorful, abstract image of a microwave oven.",,oven,0.9998846,O
+oven1-cat1,A blurry photo of a cat.,,cat,0.99998426,H
+oven8-keyboard3,A black and white photo of a credit card.,,airplane,0.5480658,X
+oven4-elephant3,A rock with a hole in it.,,bottle,0.7430985,X
+oven7-clock2,A bunch of clocks stacked on top of each other.,,clock,1.0,J
+oven2-oven3,A row of microwaves with one open.,,oven,0.99173975,X
+oven4-bottle2,A colorful assortment of bottles and containers.,,bottle,1.0,F
+oven3-car2,A blurry image of a car.,,car,0.9991798,G
+oven3-elephant3,A heart-shaped piece of wood.,,boat,0.25801766,X
+oven2-chair1,A pink and red image of a theater with seats.,,chair,0.9080932,X
+oven1-boat3,A colorful image of a building with lots of windows.,,airplane,0.85806066,X
+oven10-bicycle1,"A computer is shown in a close-up view, with its internal components visible.",,airplane,0.49551603,X
+oven7-car3,A red car is parked next to a red bus.,,car,0.971114,G
+oven5-elephant1,A close-up of a rock with a hole in it.,,bottle,0.7272257,X
+oven9-keyboard1,A black and white photo of a camera lens.,,airplane,0.93582416,X
+oven4-chair1,A red chair in a pink room.,,chair,1.0,I
+oven6-bear2,A turkey is laying down in a box.,,bird,0.592482,X
+oven3-bottle3,A green box with a picture of two hearts on it.,,bottle,0.68622845,X
+oven4-bicycle2,"A car is shown from the driver's seat, with a reflection of the car's interior.",,car,0.99990606,G
+oven1-clock3,A clock with a bunch of clocks on it.,,clock,1.0,J
+oven7-oven1,A stack of three silver ovens.,,oven,1.0,O
+oven2-car1,A colorful car with a yellow hood is in the center of the image.,,car,0.99803776,G
+oven2-bottle1,A refrigerator filled with various bottles.,,bottle,1.0,F
+oven9-car2,A blurry image of a car with a red heart in the center.,,car,0.99826413,G
+oven4-keyboard3,A camera with a black lens cap on it.,,bottle,0.48645854,X
+oven6-chair3,A blue chair with a hole in the seat.,,chair,0.9999995,I
+oven2-bear3,A brown and white furry object.,,dog,0.98524505,H
+oven3-clock3,A clock with two faces and a number 12 on it.,,clock,1.0,J
+oven4-dog1,A chair with a wooden seat and a metal frame.,,chair,0.9999999,I
+oven3-bear2,A cat's face is shown in a blurry photo.,,cat,0.99999416,H
+oven9-airplane2,A blue and yellow box with a yellow apple inside.,,bottle,0.8157715,X
+oven9-oven1,A microwave with a food item inside.,,oven,0.9983935,X
+oven6-truck1,A red and black object with a red circle in the center.,,airplane,0.8504318,X
+oven9-bird3,A picture of a chicken.,,bird,0.99354196,X
+oven10-truck2,A red car's tail light is shown in a close-up view.,,car,0.8869453,G
+oven10-oven3,A microwave with a bunch of things in it.,,oven,0.99813926,X
+oven3-truck1,A red object with a face on it.,,bottle,0.62889135,X
+oven6-oven3,A machine with a screen showing a person's face.,,airplane,0.9044056,X
+oven3-cat2,A blurry image of a heart.,,airplane,0.3664124,X
+oven9-knife3,A blurry image of a knife block.,,knife,0.9999999,N
+oven7-dog2,A brown chair with a furry seat.,,chair,0.99999595,I
+oven1-bird3,A painting of a room with a wooden floor.,,airplane,0.86286384,X
+oven4-knife2,A stack of pots and pans on a stove.,,oven,0.9992963,X
+oven4-clock2,A microwave with a keyboard on top.,,keyboard,0.99949706,M
+oven8-knife2,A collection of old knives.,,knife,1.0,N
+oven5-dog3,A brown and black object with a dial on it.,,clock,0.9998746,J
+oven2-boat3,"A colorful, abstract image of a refrigerator.",,bottle,0.8897035,X
+oven5-airplane1,A blurry image of a microwave oven.,,oven,0.9996668,O
+oven2-bird2,Two silver boxes with a blue tint.,,bottle,0.72205555,X
+oven10-bear1,A brown and white object with a knob on it.,,clock,0.5621188,J
+oven1-dog3,A close-up of a dog's face with its eyes open.,,dog,0.9999876,K
+oven6-elephant2,"A brown, wrinkled, and textured surface with a hole in the middle.",,airplane,0.69386935,X
+oven4-car1,A colorful image of a toy car with a toy keyboard inside.,,car,0.85802823,G
+oven6-bicycle1,A square-shaped piece of metal with a diamond in the center.,,knife,0.6905897,X
+oven2-truck3,A colorful picture of a camera.,,airplane,0.9298579,X
+oven8-chair1,A red chair with a black seat.,,chair,1.0,I
+oven5-bird1,A microwave with food inside.,,oven,0.99964166,X
+elephant8-airplane3,"A colorful, abstract image of a mechanical object.",,airplane,0.68631953,X
+elephant6-cat2,A bear cub is nursing from its mother.,,bear,0.99999774,B
+elephant7-bear3,A brown elephant walking through the woods.,,elephant,0.99999964,L
+elephant10-keyboard1,A close-up of a keyboard with black and white keys.,,keyboard,1.0,M
+elephant5-chair3,A blue and white chair with a blue seat.,,chair,1.0,I
+elephant1-bear2,A gray elephant with its trunk in its mouth.,,elephant,0.9999994,L
+elephant6-car3,"A red car is in the foreground, with a white car in the background.",,car,0.9999654,G
+elephant6-knife2,A black and white image of a bear.,,bear,0.9999987,B
+elephant4-boat3,A colorful elephant statue is standing in front of a building.,,elephant,1.0,X
+elephant4-chair3,A blue and white chair with a blue and white background.,,chair,1.0,I
+elephant1-chair1,A pink chair with a black seat.,,chair,1.0,I
+elephant10-bear1,A close-up of a brown bear's head.,,bear,0.99997103,B
+elephant7-car3,A red car with a green tree in the background.,,car,0.9999448,G
+elephant4-oven1,A blurry picture of an elephant.,,elephant,1.0,L
+elephant9-bicycle2,A blurry photo of a bicycle.,,bicycle,0.99999976,C
+elephant5-bottle2,A black and white photo of a cat in a room with many bottles.,,cat,0.68047136,H
+elephant6-bird1,An elephant and a baby elephant standing together.,,elephant,1.0,"L, M"
+elephant9-airplane2,A blue and yellow elephant with a white trunk.,,elephant,1.0,L
+elephant7-clock2,A painting of a dog with a clock face on its back.,,clock,0.90613735,K J
+elephant2-clock1,A collage of clocks and numbers.,,clock,1.0,J
+elephant2-bird1,A blue elephant is standing in front of a white background.,,elephant,1.0,L
+elephant3-chair1,A row of red chairs in a theater.,,chair,0.9999987,I
+elephant5-bicycle3,A large elephant statue with a red background.,,elephant,1.0,X
+elephant2-truck2,A red object with a black and white pattern.,,airplane,0.71083236,X
+elephant8-bird2,Three elephants standing next to each other.,,elephant,1.0,L
+elephant6-dog2,An elephant and a baby elephant are standing together.,,elephant,1.0,"L, M"
+elephant9-boat3,A colorful elephant statue is standing in front of a building.,,elephant,1.0,X
+elephant7-knife2,A hand holding a book.,,bottle,0.9453306,X
+elephant4-car3,A red elephant with a white face.,,elephant,0.9999999,L
+elephant2-boat1,A painting of a person wearing a hat.,,bottle,0.5572089,X
+elephant6-truck3,"A colorful, abstract image of a chair.",,chair,0.9999999,I
+elephant8-elephant1,Three elephants are standing next to each other.,,elephant,1.0,L
+elephant8-bicycle3,A group of four metal sculptures of people.,,airplane,0.43584004,X
+elephant7-bird1,An elephant with a blue tusk.,,elephant,0.9999999,L
+elephant2-cat1,A dog's face is shown in a blurry photo.,,dog,0.9999672,K
+elephant6-bicycle1,A painting of an elephant and a baby elephant.,,elephant,1.0,"L, M"
+elephant5-car1,A colorful car show with various cars and trucks.,,truck,0.7894609,"G, P"
+elephant7-bottle3,A green elephant made of many small pictures of money.,,elephant,0.99999774,L
+elephant2-bear3,A brown bear with its head turned.,,bear,0.99987054,B
+elephant3-knife1,A painting of an elephant's leg and trunk.,,elephant,1.0,L
+elephant8-knife2,A painting of hands holding money.,,airplane,0.86199194,X
+elephant1-keyboard3,A keyboard with numbers on it.,,keyboard,0.9999999,M
+elephant5-truck1,A red elephant with a red trunk.,,elephant,1.0,L
+elephant4-bird1,An elephant with a blue and white pattern.,,elephant,1.0,L
+elephant6-bottle2,A bunch of bottles with different colors and shapes.,,bottle,1.0,F
+elephant8-truck3,A bunch of chairs are in the picture.,,chair,1.0,I
+elephant5-bear2,A close up of an elephant's trunk.,,elephant,1.0,L
+elephant9-dog3,A dog with a black nose.,,dog,0.99998796,K
+elephant9-elephant3,An elephant's trunk is visible in the image.,,elephant,1.0,L
+elephant5-elephant1,A gray elephant with wrinkled skin.,,elephant,0.9999968,L
+elephant2-bottle3,A green hand holding a green bottle.,,bottle,1.0,F
+elephant9-chair2,A bunch of chairs are stacked on top of each other.,,chair,0.9999999,I
+elephant1-car3,"A red car is in the center of the image, surrounded by other cars and a bus.",,car,0.9920151,G
+elephant1-oven2,A black and white elephant.,,elephant,1.0,L
+elephant4-clock3,A large elephant made of clocks.,,elephant,0.96391606,"J, L"
+elephant8-clock2,Three elephants with their backsides facing the camera.,,elephant,1.0,L
+elephant3-cat2,A picture of an elephant's leg.,,elephant,0.9999999,L
+elephant8-boat2,A painting of three elephants.,,elephant,1.0,L
+elephant4-bicycle2,A bunch of chairs are shown in a blurry picture.,,chair,0.9999993,I
+elephant3-truck1,A red elephant statue.,,elephant,1.0,L
+elephant3-oven1,A reflection of a person in a mirror.,,bicycle,0.72094727,X
+elephant7-dog1,A blurry image of an elephant walking on a field of grass.,,elephant,0.99999857,L
+elephant7-airplane3,A black and white elephant with a long trunk.,,elephant,1.0,L
+elephant8-dog1,Three elephants standing in the grass.,,elephant,0.9999994,L
+elephant2-airplane3,A black and white photo of a dog.,,dog,0.99997246,K
+elephant1-airplane2,A blue elephant with yellow legs.,,elephant,0.99999976,L
+elephant10-knife3,A hand holding a cell phone.,,airplane,0.5650745,X
+elephant10-elephant1,The image features a close-up of an elephant's wrinkled skin.,,elephant,1.0,L
+elephant9-clock3,An elephant made of clocks.,,elephant,0.99686384,"D, J"
+elephant8-oven3,A blurry photo of a room with a bunch of objects.,,airplane,0.9741019,X
+elephant1-boat2,A painting of an elephant with its trunk in the air.,,elephant,0.9999995,L
+elephant6-oven1,A blurry picture of an elephant.,,elephant,1.0,L
+elephant2-elephant3,A picture of an elephant.,,elephant,1.0,L
+elephant1-dog2,A large brown elephant with its trunk up.,,elephant,0.99999964,L
+elephant7-cat1,An elephant walking on a dirt road.,,elephant,0.99999917,L
+elephant3-keyboard2,A keyboard with letters and numbers on it.,,keyboard,1.0,M
+elephant7-keyboard3,A black elephant key chain.,,elephant,0.99981576,L
+elephant2-keyboard3,A blurry image of a camera.,,airplane,0.97492415,X
+elephant8-cat1,Three brown dogs sitting in the snow.,,dog,0.99301493,K
+elephant1-bottle1,A bunch of bottles and cans are arranged to look like an elephant.,,elephant,0.79592454,F
+bear2-cat2,A blurry image of a brown bear.,,bear,0.9999926,B
+bear7-bicycle2,A blurry photo of a motorcycle with a person on it.,,airplane,0.43144435,G
+bear5-bottle1,A bunch of bottles of alcohol.,,bottle,1.0,F
+bear2-car2,A blurry image of a car with a red hood.,,car,0.9952691,G
+bear3-chair2,A pile of chairs stacked on top of each other.,,chair,0.9999999,I
+bear1-clock2,A painting of a bear with a red mouth.,,bear,0.99942005,B
+bear10-bottle1,A collage of various bottles and cans.,,bottle,0.9999999,F
+bear10-knife2,A black and white image of a dog with a paw raised.,,dog,0.9999435,K
+bear5-airplane3,A bear statue with a blue dress.,,bear,0.9980286,B
+bear3-bird3,A cat is laying on a white surface.,,cat,0.9999994,H
+bear3-keyboard2,A keyboard with a black background.,,keyboard,1.0,M
+bear4-keyboard3,A close up of a black keyboard.,,keyboard,1.0,M
+bear7-oven3,A blurry photo of a computer with a keyboard and a mouse.,,keyboard,0.99993277,M
+bear1-elephant1,A polar bear is sitting on a rock.,,bear,0.9999368,B
+bear10-oven1,A black and white drawing of a dog.,,dog,0.9999627,K
+bear5-oven3,A bunch of electronic devices are stacked on top of each other.,,keyboard,0.69559723,X
+bear7-bear2,A brown bear is standing in the snow.,,bear,0.99998784,B
+bear1-bird2,A large bear is sitting on the ground.,,bear,0.99999535,B
+bear10-truck1,A red fish with a face on it.,,dog,0.5344977,X
+bear8-bicycle3,A close-up of a bear's head.,,bear,0.99999285,B
+bear3-dog3,A cat with its head down.,,cat,0.99999857,H
+bear4-truck3,"A colorful, abstract image of a bear.",,bear,0.99999785,B
+bear8-knife3,A black and white image of a bear.,,bear,0.9999987,B
+bear6-cat3,A bear's face with its mouth open.,,bear,0.9999919,B
+bear9-bottle2,"A close-up of a bunch of bottles, some of which are empty.",,bottle,1.0,F
+bear10-car2,A blurry image of a car.,,car,0.9991798,G
+bear3-car2,A blurry image of a red race car.,,car,0.99872905,G
+bear2-airplane1,A black and white image of a bear.,,bear,0.9999987,B
+bear10-chair2,A large stack of wooden chairs.,,chair,0.9999999,I
+bear10-keyboard3,A black object with a white number 3 on it.,,clock,0.538618,X
+bear6-bottle3,A bunch of green bottles and paper.,,bottle,0.9999999,F
+bear4-cat3,A brown bear is walking in the woods.,,bear,0.9999994,B
+bear2-dog1,A brown bear is standing on a rocky surface.,,bear,0.9999628,B
+bear6-car2,A bunch of cars are in the image.,,car,0.9991691,G
+bear2-bird3,A brown bear is standing on a snowy surface.,,bear,0.99999034,B
+bear5-chair1,A pink and black image of a row of seats.,,airplane,0.54283696,I
+bear8-boat2,"A colorful, abstract image of a teddy bear.",,bear,0.9996766,B
+bear9-keyboard3,A close up of a keyboard with numbers and letters on it.,,keyboard,1.0,M
+bear6-bird2,Two bears are playing together.,,bear,0.9999999,B. bear
+bear4-knife1,A painting of a dog's head.,,dog,0.9998253,K
+bear7-clock1,A colorful clock made of many clocks.,,clock,1.0,J
+bear8-truck3,A yellow and blue bear statue.,,bear,0.99999166,B
+bear8-bear1,A brown bear is sitting on the ground.,,bear,0.99999285,B
+bear2-oven1,A black and white photo of a bear.,,bear,0.9999995,B
+bear9-boat2,"A colorful, abstract image of a bear.",,bear,0.99999785,B
+bear6-bear1,A close up of a brown furry animal.,,dog,0.99456584,B
+bear4-car3,A red car with a person inside is surrounded by a blurry background.,,car,0.9999374,G
+bear3-airplane1,A picture of an elephant.,,elephant,1.0,L
+bear3-truck3,A colorful abstract image of a chair.,,chair,0.99999976,I
+bear1-bicycle3,A black bear with red collar.,,bear,0.9999893,B
+bear4-oven2,A black and white photo of a camera.,,airplane,0.9366258,X
+bear9-dog1,A lion is standing in front of a yellow background.,,elephant,0.52842325,X
+bear10-clock1,A clock with a face made of clocks.,,clock,1.0,J
+bear8-airplane1,A picture of a bear with a red nose.,,bear,0.9999932,B
+bear4-elephant2,A bear is standing on a rock.,,bear,0.9999982,B
+bear10-cat2,A close up of a cat's head.,,cat,0.9999969,H
+bear2-elephant1,A bear is depicted in a stone-like texture.,,bear,0.9999993,B
+bear8-dog1,A brown bear in a forest.,,bear,0.99999964,B
+bear5-bird1,A blue bear is laying down.,,bear,0.99999726,B
+bear6-boat3,"A colorful, abstract painting of a building with a spiral staircase.",,airplane,0.901962,X
+bear7-dog3,A brown dog with a black nose.,,dog,0.9999894,K
+bear9-knife2,A blurry image of a bear with a red hat.,,bear,0.9999962,B
+bear1-airplane3,A white bear with a blue hat is sitting on a blue surface.,,bear,0.999982,B
+bear3-bicycle2,A blurry image of a person holding a shopping cart.,,bottle,0.8603464,X
+bear4-boat2,A painting of a bear with a red car in the background.,,bear,0.988628,"B, G"
+bear2-keyboard2,A close up of a keyboard with a hand on it.,,keyboard,1.0,M
+bear2-knife2,A bear statue made of metal.,,bear,0.99999523,B
+bear10-elephant1,A close up of an elephant's head.,,elephant,0.9999999,L
+bear1-bear3,A bear cub is sitting down.,,bear,0.9999764,B
+bear3-cat1,A fox is laying down on a white surface.,,dog,0.86393195,X
+bear8-bottle1,A bottle of alcohol is piled on top of a bottle of alcohol.,,bottle,1.0,F
+bear8-elephant2,A wooden carving of a bear.,,bear,0.99998486,B
+bear4-clock3,A clock with an elephant on it.,,clock,0.56566995,"J, L"
+bear7-truck1,A red object with a face and a mouth.,,bottle,0.84361,X
+bear10-bear2,A bear is standing in front of a white background.,,bear,0.99999964,B
+bear1-chair2,A wooden chair with a wooden seat and back.,,chair,1.0,I
+bear6-chair1,A bunch of pink chairs.,,chair,1.0,I
+bear6-clock1,A clock made of letters.,,clock,1.0,J
+bear5-bicycle3,A close up of a bear's face with its mouth open.,,bear,0.9999882,B
+bear5-boat2,A colorful painting of a bear.,,bear,0.9999982,B
+car10-bicycle2,"A car is shown in a distorted, blurry image.",,car,0.99831724,G
+car4-car2,"A red sports car is shown in a blurry, colorful, and abstract image.",,car,0.9989197,G
+car4-clock1,A clock with a car face on it.,,clock,0.99991035,"J, G"
+car4-oven2,A black and white photo of a car.,,car,0.99983954,G
+car6-bicycle3,A close up of a car wheel.,,car,0.98143965,G
+car8-cat1,A brown and white cat is laying on a bed.,,cat,0.9999989,H
+car8-dog1,A footprint in the sand.,,airplane,0.34567234,X
+car5-cat1,A brown car on a snowy road.,,car,0.9899569,G
+car7-elephant3,A car is embedded in the sand.,,car,0.99892175,G
+car5-keyboard3,A watch with a blue face is shown.,,clock,0.9997689,J
+car6-boat1,A car with a wheel and a hubcap.,,car,0.99136204,G
+car3-truck1,A red sports car is shown in a close-up view.,,car,0.99955386,G
+car2-knife3,A close up of a watch face with a metal band.,,clock,0.9967104,J
+car10-keyboard2,A black keypad with a car on it.,,car,0.9667286,G
+car4-bird1,A blue car with a fish on the front.,,car,0.9960551,G
+car6-truck3,A car is shown with a wheel in the foreground.,,car,0.9975731,G
+car1-oven3,A bunch of electronics are stacked on top of each other.,,keyboard,0.49794704,X
+car3-bird2,A car is parked in a lot.,,car,0.9996904,G
+car9-keyboard2,A black and white image of a keypad.,,keyboard,0.99281985,M
+car5-bottle1,A car is made up of many different bottles.,,bottle,0.99668926,G
+car7-bird3,A car with a convertible top.,,car,0.99976975,G
+car1-airplane1,A car with a red stripe on the side.,,car,0.998632,G
+car7-clock1,A car made of clocks.,,clock,0.55172133,"G, J"
+car3-bottle3,A car is made of many bottles.,,bottle,0.9969472,G
+car8-airplane3,A car is shown in a blurry image.,,car,0.999042,G
+car9-truck3,A yellow car is parked in a garage.,,car,0.9994518,G
+car8-clock2,A red sports car is parked in a lot.,,car,0.9998369,G
+car9-bicycle2,A small car is driving on a road.,,car,0.99944586,G
+car1-clock2,A car with a clock on the dashboard.,,clock,0.9590811,"G, J"
+car6-chair3,A blue chair with a seat.,,chair,1.0,I
+car8-bear1,A brown bear is laying down on the ground.,,bear,0.99999344,B
+car6-elephant3,A car logo on a rock.,,car,0.9987282,G
+car4-elephant3,A car emblem on a leather surface.,,car,0.9992842,G
+car7-airplane2,A blue race car with yellow wheels.,,car,0.9973374,G
+car6-bear1,A cat's face is shown in close-up.,,cat,0.9999981,H
+car5-knife2,"A red car with a license plate that reads ""3516"" is parked on the street.",,car,0.965705,G
+car7-keyboard3,A black toy car is shown in a close-up view.,,car,0.9945327,G
+car10-car1,A red car with yellow and blue accents is parked on the street.,,car,0.9984059,G
+car9-knife1,A vintage car with a rusty hood and a black tire.,,car,0.96730196,G
+car8-knife2,A hand holding a car.,,car,0.9999329,G
+car1-car2,A red car with a yellow rim.,,car,0.99802315,G
+car3-boat1,A red sports car with a blue and red hood.,,car,0.99982554,G
+car8-boat3,A red sports car with a green wheel.,,car,0.99837863,G
+car2-car3,A red sports car with a chrome rim.,,car,0.999373,G
+car3-elephant3,A car is carved into a rock.,,car,0.993501,G
+car4-boat1,"A colorful, abstract image of a car.",,car,0.9994475,G
+car1-keyboard2,A close up of a keyboard with letters and numbers.,,keyboard,1.0,M
+car8-chair1,A red seat in a theater.,,chair,0.9995727,I
+car10-bottle3,A car is surrounded by money.,,car,0.9999397,G
+car1-chair3,A blue chair with a blue seat.,,chair,1.0,I
+car5-oven2,A black car with a license plate.,,car,0.9938899,G
+car6-knife1,A car wheel with a hubcap.,,car,0.7922346,G
+car9-clock2,A vintage Volkswagen Beetle is parked in a lot.,,car,0.9965773,G
+car3-dog2,A car is parked in front of a building.,,car,0.9996468,G
+car8-bicycle2,"A car is shown in a blurry, distorted image.",,car,0.99818414,G
+car7-dog3,A blurry image of a cat laying on a bed.,,cat,0.99998534,H
+car7-bear1,A brown bear is laying on the ground.,,bear,0.9999919,B
+car7-oven2,A black car is shown in a blurry picture.,,car,0.99933916,G
+car5-bear3,A car is shown in a blurry picture.,,car,0.9990637,G
+car7-car1,"Two cars are painted in red, black, and yellow.",,car,0.99848807,G
+car9-cat1,A car is shown in a blurry photo.,,car,0.9995752,G
+car4-bottle1,A collection of bottles and cans are stacked on top of each other.,,bottle,0.99999976,F
+car9-bird1,A car with a blue wheel.,,car,0.99674207,G
+car4-bear3,A close up of a dog's head.,,dog,0.9999782,K
+car7-boat3,A colorful car with a man standing on top of it.,,car,0.99821115,G
+car10-elephant2,A car is parked in front of a building.,,car,0.9996468,G
+car2-chair1,A red seat in a movie theater.,,chair,0.99907124,I
+car5-airplane3,A vintage car with a license plate B75777 is shown.,,car,0.9989679,G
+car6-bottle1,"A collage of various bottles, including alcohol and condiments, arranged in a visually interesting manner.",,bottle,0.9999999,F
+car4-bicycle3,A car with a broken windshield.,,car,0.99847,G
+car10-dog1,A car is parked in front of a building.,,car,0.9996468,G
+car2-bird3,A car with a dog in the back.,,car,0.9929912,"G, K"
+car5-truck3,A yellow car with a license plate.,,car,0.9735199,G
+car3-oven3,"A car is shown in a blurry, distorted image.",,car,0.99818414,G
+car8-truck3,A yellow car with blue wheels.,,car,0.99815637,G
+car4-cat3,A car is shown in a blurry photo.,,car,0.9995752,G
+car3-airplane3,A blue sports car with a yellow stripe.,,car,0.9988656,G
+car10-chair1,A red car is parked in a garage.,,car,0.99962485,G
+car2-cat3,A car is shown with its tire and rim.,,car,0.95488757,G
+car1-dog2,A blurry picture of a car with a motorcycle in the background.,,car,0.9881684,"G, P"
+keyboard10-car1,A colorful painting of cars on a road.,,car,0.99980444,G
+keyboard3-clock3,A bunch of clocks are arranged in a pattern.,,clock,1.0,J
+keyboard4-keyboard2,A keyboard with black keys.,,keyboard,1.0,M
+keyboard9-bear2,A black and white photo of a cat's head.,,cat,0.9999777,H
+keyboard8-dog3,A keyboard with a cat's fur on it.,,keyboard,0.95346075,"M, H"
+keyboard9-bicycle2,A bunch of silver car parts.,,car,0.9993037,G
+keyboard8-truck3,A painting of a chair with a yellow background.,,chair,0.99999976,I
+keyboard8-keyboard2,A black keyboard with white letters.,,keyboard,1.0,M
+keyboard9-keyboard2,A black keyboard with a keypad.,,keyboard,1.0,M
+keyboard9-chair2,A room full of wooden chairs.,,chair,1.0,I
+keyboard3-elephant2,A brown leather texture.,,knife,0.36238456,X
+keyboard7-truck2,A red car is in the background.,,car,0.9998996,G
+keyboard8-airplane2,A painting of a rocky surface with yellow and blue tones.,,airplane,0.91282046,X
+keyboard5-keyboard1,A close up of a keyboard with a few keys missing.,,keyboard,1.0,M
+keyboard7-clock3,A bunch of clocks are on a wall.,,clock,1.0,J
+keyboard5-dog3,A dog's face with a brown nose.,,dog,0.9999784,K
+keyboard6-bicycle1,"A keyboard is shown in a close-up view, surrounded by a colorful and abstract background.",,keyboard,1.0,M
+keyboard9-boat2,A blurry photo of a helicopter.,,airplane,0.99974126,X
+keyboard1-car3,A red car is parked in front of a building.,,car,0.99941945,G
+keyboard2-elephant1,"A close up of a wrinkled, textured surface.",,airplane,0.98138225,X
+keyboard4-knife2,"A collage of various papers, including books, magazines, and newspapers, are arranged in a visually interesting manner.",,airplane,0.91210246,X
+keyboard6-dog2,A laptop with a furry keyboard.,,keyboard,0.9999974,M
+keyboard2-knife1,A close-up of a shoe with a lot of holes in it.,,bottle,0.36415812,X
+keyboard4-bird1,A blue and white image of a shoe.,,airplane,0.85089904,X
+keyboard8-oven1,A keyboard is shown in a blurry photo.,,keyboard,0.9999999,M
+keyboard6-car2,A red car is in the center of the image.,,car,0.99886,G
+keyboard3-car2,A colorful car is parked in front of a building.,,car,0.99964607,G
+keyboard4-oven2,A blurry photo of a keyboard.,,keyboard,0.99999976,M
+keyboard7-bear2,"A close-up of a white, furry object.",,dog,0.8739157,B. bear
+keyboard4-truck3,A yellow truck is parked in a parking lot.,,truck,0.9999994,P
+keyboard4-clock2,A bunch of clocks in a bunch of different shapes and sizes.,,clock,1.0,J
+keyboard5-bird3,A piece of chocolate cake with a crumbly texture.,,oven,0.96577746,X
+keyboard3-cat1,A guitar with a cat sitting on it.,,cat,0.99997306,H
+keyboard5-airplane3,A close up of a keyboard.,,keyboard,1.0,M
+keyboard9-truck3,"A colorful, abstract image of a computer mouse.",,airplane,0.5405381,X
+keyboard1-airplane2,A blue and yellow picture of a toilet.,,airplane,0.31182873,X
+keyboard2-clock1,A clock with a lot of numbers on it.,,clock,1.0,J
+keyboard7-dog1,A brown and white fur is shown in a close-up.,,dog,0.88294894,X
+keyboard5-bottle1,A large pile of bottles of alcohol.,,bottle,1.0,F
+keyboard1-dog3,A close-up of a dog's face with a nose.,,dog,0.9999515,K
+keyboard10-boat2,"A colorful, abstract image of a boat on the water.",,boat,0.9999999,E
+keyboard7-bottle1,A bunch of bottles of different sizes and shapes.,,bottle,1.0,F
+keyboard6-boat2,"A colorful, abstract image of a car.",,car,0.9994475,G
+keyboard5-bicycle1,A pile of bicycle parts in a jumble.,,bicycle,0.9999995,C
+keyboard3-bird3,A picture of a guitar with a lot of people in the background.,,airplane,0.9818819,X
+keyboard4-cat2,"A close up of a furry, patterned fabric.",,dog,0.48205298,X
+keyboard8-cat3,A keyboard with a few keys missing.,,keyboard,1.0,M
+keyboard1-bear2,A close up of a white bear with a hole in its stomach.,,bear,0.9999485,B
+keyboard1-clock1,A clock with a hole in the middle.,,clock,1.0,J
+keyboard6-elephant1,A leather item with a zipper.,,bottle,0.98432875,X
+keyboard7-chair3,A blue chair with a blue seat.,,chair,1.0,I
+keyboard7-car3,A red car is surrounded by other red cars and a truck.,,truck,0.7107198,G
+keyboard3-bicycle2,A bunch of silver metal objects are in a pile.,,airplane,0.45350474,X
+keyboard5-oven2,A black and white photo of a cityscape.,,airplane,0.9536771,X
+keyboard7-boat2,A colorful and abstract painting of a car.,,car,0.99995387,G
+keyboard2-bicycle3,A close-up of a bunch of bicycle spokes.,,bicycle,1.0,C
+keyboard10-oven3,A bunch of electronic devices are stacked up.,,keyboard,0.6553418,X
+keyboard5-bear3,A close-up of a dog's fur.,,dog,0.99993205,H
+keyboard2-bottle1,A bunch of bottles of different sizes and shapes.,,bottle,1.0,F
+keyboard8-chair2,A large number of wooden chairs are arranged in rows.,,chair,0.9999999,I
+keyboard1-elephant3,A close up of a crocodile's skin with a hole in it.,,elephant,0.9769241,X
+keyboard6-chair1,A red chair with a person sitting in it.,,chair,1.0,I
+keyboard1-bird2,A close up of a keyboard with a hole in the center.,,keyboard,0.99999905,M
+keyboard7-oven2,A black and white photo of a building.,,airplane,0.9745198,X
+keyboard6-knife2,A pile of books with a black cover.,,bottle,0.8417921,X
+keyboard9-cat1,A cat is sleeping on a bed.,,cat,0.99999964,H
+keyboard10-airplane3,A cell phone is shown in a blurry photo.,,airplane,0.9877934,X
+keyboard3-boat1,A boat is on the water.,,boat,1.0,E
+keyboard6-bear2,A keyboard and a cat are in the image.,,keyboard,0.57349896,"M, H"
+keyboard5-cat1,A cat is laying on a bed with a piece of chocolate cake.,,cat,0.9999943,H
+keyboard7-knife1,A bunch of scissors.,,knife,0.99993634,X
+keyboard9-bird1,A blue and white keyboard.,,keyboard,1.0,M
+keyboard9-elephant2,A brown and tan colored wallpaper with a textured design.,,clock,0.9115144,X
+keyboard5-knife2,A bunch of scissors are on a table.,,knife,0.99973065,X
+keyboard10-keyboard1,A close up of a piece of metal with text on it.,,bottle,0.61754984,X
+keyboard10-truck1,"A red car in a colorful, abstract image.",,car,0.99926883,G
+keyboard1-chair2,A bunch of chairs in a room.,,chair,1.0,I
+keyboard6-bottle2,A bunch of wine bottles in a row.,,bottle,0.9999995,F
+keyboard9-airplane3,A black and white photo of a keyboard.,,keyboard,0.9999999,M
+keyboard4-bottle2,A bunch of wine bottles.,,bottle,0.9999999,F
+bicycle1-chair1,A pink chair with a black seat and a black wheel.,2024-01-29 23:00:20,chair,1.0,I

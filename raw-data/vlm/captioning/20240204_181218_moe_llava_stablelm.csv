@@ -1,0 +1,1283 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+elephant8-elephant1,2024-02-04 18:12:36,The image shows a close-up of three elephants with wrinkled skin.,elephant,1.0,L
+car9-cat1,2024-02-04 18:12:37,"The image is a painting of a car, which is depicted in a stylized and colorful manner.",car,0.99971634,G
+truck8-keyboard2,2024-02-04 18:12:37,The image is a close-up of a computer keyboard with the number pad visible.,keyboard,0.9999931,M
+bottle10-bear2,2024-02-04 18:12:38,"The image features a bottle of alcohol, specifically Drambuie, sitting on a white surface.",bottle,0.99999976,F
+elephant5-car1,2024-02-04 18:12:39,The image is a colorful painting of a car show with various colored cars and a yellow car in the foreground.,car,0.999613,G
+chair4-chair3,2024-02-04 18:12:40,"The image is a collage of chairs, some of which are blue, and some are white.",chair,0.9999982,I
+chair9-boat2,2024-02-04 18:12:40,"The image is a colorful, abstract painting of a chair.",chair,0.99999964,I
+oven2-bicycle1,2024-02-04 18:12:42,"The image is a collage of various pictures, including a picture of a cell phone, a picture of a computer, and a picture of a laptop.",airplane,0.9873713,X
+chair4-oven2,2024-02-04 18:12:43,The image is a black and white photo of a chair with a person's arm and hand in it.,chair,0.9999796,I
+elephant8-knife2,2024-02-04 18:12:44,"The image is a painting of a person's hand, with the hand holding a cell phone. The painting is in black and white, giving it a unique and artistic appearance.",airplane,0.94254184,X
+keyboard4-truck3,2024-02-04 18:12:44,A colorful painting of a car and a truck.,truck,0.97997594,"G, P"
+chair7-bird1,2024-02-04 18:12:45,The image is a close-up of a blue chair with a white background.,chair,0.99998,I
+dog8-keyboard3,2024-02-04 18:12:46,A black and white photo of a person's hand and feet.,airplane,0.83510834,X
+bird1-truck1,2024-02-04 18:12:46,The image is a close-up of a red heart with a blurry background.,elephant,0.36958197,X
+car8-bear1,2024-02-04 18:12:47,A close up of a brown dog laying on a blanket.,dog,0.999716,H
+clock8-knife1,2024-02-04 18:12:48,"The image is a close-up of a clock face, with a close-up view of the numbers on the clock.",clock,1.0,J
+truck7-bird2,2024-02-04 18:12:49,The image is a black and white photo of a semi-truck with a trailer.,truck,0.99999297,P
+truck2-bird2,2024-02-04 18:12:49,A truck is parked in front of a building.,truck,1.0,P
+elephant9-dog3,2024-02-04 18:12:50,A dog with a black nose and brown fur is standing on a white background.,dog,0.99985754,K
+bottle4-dog2,2024-02-04 18:12:50,"A bottle is shown in a close-up, with a blurry background.",bottle,1.0,F
+knife1-oven1,2024-02-04 18:12:51,"The image is a black and white photo of a gun, possibly a gun shot, with a blurry background.",airplane,0.98039925,X
+keyboard1-clock1,2024-02-04 18:12:52,"The image is a collage of clocks, with one clock having a hole in it.",clock,0.9999999,J
+boat5-knife2,2024-02-04 18:12:53,"The image is a collage of various papers, including a piece of paper with a drawing of a fish on it.",boat,0.4747196,X
+clock4-chair1,2024-02-04 18:12:54,The image is a blurry photo of a theater with a clock on the wall.,clock,0.99999654,J
+knife6-oven3,2024-02-04 18:12:55,"The image is a collage of various pictures, including a picture of a phone, a picture of a keyboard, and a picture of a computer screen.",keyboard,0.7957339,X
+chair5-car1,2024-02-04 18:12:56,"The image is a collage of various colored cars, with some of them being blurry.",car,0.9967141,G
+bear3-bicycle2,2024-02-04 18:12:56,A close up of a metal object with a red dot on it.,airplane,0.8946269,X
+keyboard8-truck3,2024-02-04 18:12:57,The image is a painting of a chair with a yellow leg and a blue leg.,chair,0.9999982,I
+bear2-cat2,2024-02-04 18:12:57,A blurry image of a bear.,bear,0.99999857,B
+elephant3-oven1,2024-02-04 18:12:58,A close up of a leg of a statue with a blurry background.,airplane,0.7711107,X
+keyboard5-oven2,2024-02-04 18:12:59,The image is a black and white photo of a city with buildings in the background.,airplane,0.981219,X
+dog1-bear1,2024-02-04 18:12:59,A dog with a brown coat is looking at the camera.,dog,0.9999317,K
+keyboard9-boat2,2024-02-04 18:13:00,The image is a colorful painting of a helicopter with a lot of different colors and shapes.,airplane,0.99957937,X
+oven4-bicycle2,2024-02-04 18:13:01,A blurry image of a car with a seat and a steering wheel in it.,car,0.98937184,G
+keyboard7-boat2,2024-02-04 18:13:02,"The image is a collage of various pictures, with a focus on a red and black picture.",airplane,0.98275244,X
+bird9-keyboard1,2024-02-04 18:13:02,A black bird is standing on a surface with a blurry background.,bird,0.9996985,D
+elephant8-dog1,2024-02-04 18:13:03,The image is a painting of three elephants in a field.,elephant,0.99999976,L
+knife3-cat1,2024-02-04 18:13:03,"The image is a close up of a cat's fur, with a blurry background.",cat,0.9999912,H
+dog3-boat1,2024-02-04 18:13:04,A man is sitting in a chair with a colorful background.,chair,0.9999999,I
+cat6-bear1,2024-02-04 18:13:06,"The image features a cat sitting on a blanket, with another cat lying on top of it. The cat on the blanket is looking at the camera, and the cat on top of it is looking at the camera as well.",cat,0.9999956,H
+elephant6-knife2,2024-02-04 18:13:06,A close up of a black and white picture of a bear.,bear,0.9999969,B
+airplane4-airplane1,2024-02-04 18:13:07,"The image is a collage of various airplane parts, including the tail, wing, and fuselage.",airplane,1.0,A
+airplane10-bear3,2024-02-04 18:13:08,A close up of a brown animal with long hair.,dog,0.9856926,B
+car5-bottle1,2024-02-04 18:13:08,"The image is a collage of various bottles and a car, with the car being the main focus.",bottle,0.96712375,G
+chair10-car2,2024-02-04 18:13:09,A colorful image of a motorcycle with a red stripe on the side.,truck,0.7767724,X
+chair6-truck2,2024-02-04 18:13:10,"The image is a close-up of a chair with a pinkish background, which is blurry and has a silver or chrome finish.",chair,0.9999939,I
+bicycle8-boat1,2024-02-04 18:13:11,The image is a close-up of a bicycle with a colorful frame.,bicycle,0.99999976,C
+dog4-chair1,2024-02-04 18:13:11,The image is a blurry photo of a theater with many empty seats.,airplane,0.97382826,X
+knife4-boat1,2024-02-04 18:13:12,A colorful image of a boat with a lot of different colors and shapes.,boat,0.9999999,E
+bottle7-clock1,2024-02-04 18:13:14,"The image is a collage of various clocks, including a large clock with a face and numbers, and a clock with a face and numbers on it. The clocks are arranged in a visually interesting and creative way.",clock,1.0,J
+boat6-dog1,2024-02-04 18:13:14,The image is a close-up of a dog's paw on a fur-covered surface.,dog,0.99967885,H
+bicycle5-keyboard3,2024-02-04 18:13:15,The image is a close-up of a cell phone with a chain attached to it.,airplane,0.9206716,X
+cat5-dog3,2024-02-04 18:13:16,"A cat and a kitten are laying down together, with the cat looking at the camera and the kitten looking at the camera as well.",cat,0.99999976,X
+boat6-truck3,2024-02-04 18:13:17,"The image is a close up of a chair with a colorful design, featuring a person sitting on it.",chair,0.99999964,I
+chair10-cat1,2024-02-04 18:13:18,The image is a close-up of a chair with a furry seat and a wooden frame.,chair,0.999995,I
+keyboard5-knife2,2024-02-04 18:13:18,"The image is a painting of a fish, with a bunch of fish on it.",boat,0.63011867,X
+airplane10-car3,2024-02-04 18:13:19,"The image is a colorful, abstract painting of a red airplane.",airplane,1.0,A
+truck2-elephant1,2024-02-04 18:13:20,The image is a close-up of a truck's grill and bumper.,truck,0.99999857,P
+dog1-bird1,2024-02-04 18:13:20,A dog with blue eyes and a black nose.,dog,0.99998236,K
+oven6-chair3,2024-02-04 18:13:21,The image is a close-up of a chair with a blue seat and a white frame.,chair,0.99997735,I
+car9-truck3,2024-02-04 18:13:22,"The image is a painting of a car, specifically a yellow Volkswagen Beetle, with a colorful background.",car,0.9935727,G
+bottle2-knife3,2024-02-04 18:13:22,The image is a close-up of a bottle of beer with a label.,bottle,1.0,F
+elephant3-knife1,2024-02-04 18:13:23,"The image is a painting of a man wearing a suit and tie, with a large elephant in the background.",elephant,0.9999999,X
+airplane4-bottle1,2024-02-04 18:13:24,"The image is a collage of various bottles and cans, including soda bottles and other beverages, arranged in a visually appealing manner.",bottle,0.9999963,F
+oven2-truck3,2024-02-04 18:13:26,"The image is a close-up of a colorful, abstract picture of a camera, with a close-up of a camera lens and a close-up of a camera.",airplane,0.96123195,X
+bicycle9-bear1,2024-02-04 18:13:27,"The image features a close-up of a bicycle with two tires, one of which is attached to the bicycle.",bicycle,0.9999993,C
+knife7-car2,2024-02-04 18:13:28,"The image is a collage of various colored car parts, including a red car, a yellow car, and a black car.",car,0.999476,G
+bicycle10-dog3,2024-02-04 18:13:28,"A bicycle is shown in a blurry, colorless photo.",bicycle,1.0,C
+bicycle8-chair2,2024-02-04 18:13:29,"The image is a collage of chairs and a bicycle, with the chairs arranged in a way that resembles a bike.",chair,0.52091575,"I, C"
+bottle1-car1,2024-02-04 18:13:30,The image is a colorful and abstract painting of a person's face.,airplane,0.91693765,X
+airplane6-bottle2,2024-02-04 18:13:31,"The image is a collage of many different colored bottles, with a black and white background.",bottle,0.9999989,F
+clock8-oven3,2024-02-04 18:13:31,The image is a close-up of a computer monitor with a bunch of buttons and a clock on it.,clock,0.99998,"J, M"
+dog5-knife2,2024-02-04 18:13:33,"The image is a painting of a man's face, with a key chain around his neck, and a key hanging from his ear.",bottle,0.92949134,X
+chair2-knife1,2024-02-04 18:13:33,The image is a painting of a chair with a person sitting on it.,chair,0.99999785,I
+bottle1-chair2,2024-02-04 18:13:34,"The image is a collage of old chairs, some of which are stacked on top of each other.",chair,0.99999666,I
+airplane5-bottle3,2024-02-04 18:13:35,"The image is a collage of various objects, including bottles, cans, and a green airplane.",airplane,0.9996921,"A, F"
+oven3-airplane1,2024-02-04 18:13:35,"A collage of money, with a focus on a dollar bill.",airplane,0.95920825,X
+bottle5-chair1,2024-02-04 18:13:36,The image is a blurry picture of a row of chairs in a theater.,chair,0.99974805,I
+car5-truck3,2024-02-04 18:13:37,The image is a close-up of a yellow car with a blurry background.,car,0.99954385,G
+oven8-cat3,2024-02-04 18:13:38,"The image is a close-up of a piece of metal, possibly a sculpture or a piece of art, with a brownish color.",airplane,0.6306303,X
+car2-bird3,2024-02-04 18:13:39,"A car is shown in a painting, with its hood open and a person inside.",car,0.9997814,G
+bear5-airplane3,2024-02-04 18:13:39,A bear is standing in the snow with its mouth open.,bear,0.9999862,B
+bear6-bird2,2024-02-04 18:13:40,The image shows two polar bears standing next to each other.,bear,0.9980129,B
+car3-dog2,2024-02-04 18:13:40,"The image is a painting of a car, specifically a race car, with a blurry background.",car,0.987457,G
+dog1-cat3,2024-02-04 18:13:41,A dog with a black nose and brown eyes is looking at the camera.,dog,0.9999714,K
+cat3-truck3,2024-02-04 18:13:42,The image is a colorful painting of a chair with a yellow seat and a blue back.,chair,0.99999726,I
+boat5-boat3,2024-02-04 18:13:43,"The image is a colorful, abstract painting of a city with buildings, a boat, and a butterfly.",boat,0.9672866,"E, F"
+chair8-airplane1,2024-02-04 18:13:43,A blurry image of a chair with a white background.,chair,0.9999981,I
+bicycle3-bird1,2024-02-04 18:13:44,A bike is shown in a blurry photo with a blue background.,bicycle,0.99997616,C
+boat1-chair3,2024-02-04 18:13:45,"The image is a collage of chairs, likely in a theater or auditorium setting.",chair,0.99999154,I
+bear2-keyboard2,2024-02-04 18:13:45,A close up of a black keyboard with a blurry hand on it.,keyboard,0.9999999,M
+airplane1-elephant1,2024-02-04 18:13:46,"The image is a close-up of a plane on a skin, with a grey and brown color scheme.",airplane,1.0,X
+clock4-bird3,2024-02-04 18:13:47,The image features a clock with a brown and orange background. The clock is showing the time as 10:50.,clock,1.0,J
+airplane4-bird3,2024-02-04 18:13:48,The image is a black and white photo of a bird with its wings spread.,bird,0.97448766,D
+cat10-oven2,2024-02-04 18:13:49,"The image is a black and white photo of a bunch of objects, including a table, a chair, and a keyboard.",chair,0.4860583,"I, M"
+bottle5-keyboard2,2024-02-04 18:13:50,"A close up of a computer keyboard with the letters z, x, c, and v visible.",keyboard,1.0,M
+keyboard6-bear2,2024-02-04 18:13:51,The image is a close-up of a keyboard with a dog's fur on it.,keyboard,0.6723678,"M, K"
+keyboard1-airplane2,2024-02-04 18:13:51,The image is a collage of several pictures of a toilet.,airplane,0.45920053,X
+dog6-clock1,2024-02-04 18:13:52,"The image features a dog with a clock on its head, surrounded by various clocks and numbers.",clock,0.996845,"D, G, J"
+bird9-chair1,2024-02-04 18:13:53,The image is a blurry picture of a person sitting in a chair at a movie theater.,chair,0.9999865,I
+bird1-airplane2,2024-02-04 18:13:53,"The image features a bird sitting on a branch, with a colorful background.",bird,0.9999218,D
+chair9-dog2,2024-02-04 18:13:54,The image is a close-up of a chair with a furry texture.,chair,0.9999951,I
+knife1-bird2,2024-02-04 18:13:55,The image is a close-up of a black and white photo of a hairbrush.,airplane,0.8769782,X
+oven5-airplane1,2024-02-04 18:13:55,The image is a close-up of a radio with a lot of writing on it.,airplane,0.9994941,X
+boat2-oven3,2024-02-04 18:13:56,The image is a close-up of a blurry photo of a CD player and a VCR.,airplane,0.9543976,X
+chair8-elephant1,2024-02-04 18:13:57,"The image features a chair with a wrinkled, wrinkled, and wrinkled appearance, possibly due to a wrinkled skin or a textured surface.",chair,0.9999988,I
+elephant1-car3,2024-02-04 18:13:58,"The image is a colorful, abstract, and distorted photo of a red car.",car,0.9988702,G
+dog4-clock1,2024-02-04 18:13:59,The image is a painting of a clock with a dog on it.,clock,0.99783283,"J, K"
+keyboard6-knife2,2024-02-04 18:14:00,"The image is a painting of a black cat with a collar on a string, sitting on top of a pile of papers.",cat,0.9997986,H
+boat4-car3,2024-02-04 18:14:01,"The image is a collage of various cars and buildings, with a red car in the foreground and a red boat in the background.",boat,0.99883896,"G, P"
+elephant1-chair1,2024-02-04 18:14:01,The image is a closeup of a row of red chairs in a theater.,chair,0.9995327,I
+car7-clock1,2024-02-04 18:14:02,The image is a colorful painting of a clock car.,clock,0.9480951,"G, I"
+bear2-bird3,2024-02-04 18:14:03,The image is a painting of a bear with a brown fur.,bear,0.9999957,B
+bear10-bottle1,2024-02-04 18:14:03,"The image is a collage of various bottles and cans, with a dog's head superimposed on the collage.",bottle,0.9411731,F
+dog8-chair3,2024-02-04 18:14:04,A blurry image of a chair with a blurry elephant in the background.,elephant,0.9959757,"I, L"
+oven9-bird3,2024-02-04 18:14:05,"The image is a painting of a camera, with a picture of a turkey inside the camera.",airplane,0.51199,X
+dog1-car2,2024-02-04 18:14:06,"The image is a colorful and distorted photo of a car, with a multitude of colors and shapes.",car,0.9990596,G
+knife4-car2,2024-02-04 18:14:06,"The image is a colorful, abstract, and blurry picture of scissors and other objects.",knife,0.9293462,X
+boat6-elephant2,2024-02-04 18:14:07,A close up of a leaf with a bird on it.,bird,0.9999932,D
+oven9-chair1,2024-02-04 18:14:08,The image is a close-up of a row of empty chairs in a theater.,chair,0.99684095,I
+bicycle4-bottle1,2024-02-04 18:14:08,"The image is a collage of various objects, including a bicycle, bottles, and other items.",bicycle,0.9775171,"C, F"
+chair9-bottle3,2024-02-04 18:14:09,"The image is a colorful, psychedelic, and abstract painting of a chair and a pile of bottles.",chair,0.688941,"I, F"
+airplane10-oven2,2024-02-04 18:14:10,The image is a black and white photo of a plane.,airplane,1.0,A
+truck10-bicycle1,2024-02-04 18:14:11,The image is a colorful and abstract painting of a car with a steering wheel.,car,0.98906225,G
+chair10-clock1,2024-02-04 18:14:12,"The image is a painting of a chair with a clock on it. The clock is placed on the chair, and the painting is filled with various colors and shapes.",clock,0.50996375,IJ
+bear10-keyboard3,2024-02-04 18:14:13,The image shows a close-up of a black object with a white background.,airplane,0.9967614,X
+knife9-airplane2,2024-02-04 18:14:13,The image is a collage of a blue sky with a bird flying in it.,bird,0.9567033,D
+bird10-clock1,2024-02-04 18:14:15,"The image is a collage of various clocks, including a bird clock, with a bird perched on top of one of the clocks. The clocks are arranged in different positions and sizes, creating a unique and visually interesting composition.",clock,0.8899851,D
+knife9-elephant2,2024-02-04 18:14:16,"The image is a close-up of a brown, wrinkled surface with a tree branch and a dog's leg visible.",dog,0.99434966,X
+keyboard7-car3,2024-02-04 18:14:17,"The image is a stylized or abstract painting of a car, with a lot of different colors and shapes.",car,0.9996933,G
+bear5-oven3,2024-02-04 18:14:18,"The image is a collage of various electronic devices, such as a TV, a computer, and a phone, all arranged in a visually interesting manner.",airplane,0.90183264,X
+bottle7-oven2,2024-02-04 18:14:19,The image is a black and white photo of a city with buildings and a keyboard in the background.,keyboard,0.9950411,M
+clock4-bottle3,2024-02-04 18:14:21,"The image features a green clock with a white face, surrounded by many pieces of paper. The clock is placed in the center of the image, and the papers are scattered around it.",clock,0.9999999,J
+keyboard6-car2,2024-02-04 18:14:21,The image is a collage of various colored cars and a red car.,car,0.99961996,G
+bird10-bird2,2024-02-04 18:14:22,The image features a large bird with a long beak standing in front of a blurry background.,bird,0.9997898,D
+boat1-keyboard3,2024-02-04 18:14:23,"The image is a close-up of a black object with a white background, possibly a credit card or a piece of electronic equipment.",airplane,0.98130167,X
+dog7-bird3,2024-02-04 18:14:24,A dog is sitting in front of a blurry background.,dog,0.9997243,K
+bicycle2-bottle1,2024-02-04 18:14:24,The image is a collage of various bottles and a bicycle.,bottle,0.8501727,"F, G, C"
+clock7-truck3,2024-02-04 18:14:25,"The image is a close up of a watch face, which is yellow and orange in color.",clock,0.9959884,J
+bear4-cat3,2024-02-04 18:14:25,A bear is walking on the ground.,bear,0.9999993,B
+clock9-keyboard2,2024-02-04 18:14:26,The image is a close-up of a black and white photo of a camera.,airplane,0.9876128,X
+keyboard2-elephant1,2024-02-04 18:15:05,"The image is a close up of a wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled",airplane,0.5504012,X
+bird8-clock1,2024-02-04 18:15:06,"The image is a collage of clocks, with one clock featuring a man on it.",clock,1.0,J
+oven9-oven1,2024-02-04 18:15:07,The image is a close-up of a toaster oven with a food item inside.,oven,0.9999999,O
+boat9-boat3,2024-02-04 18:15:07,The image is a colorful painting of a large sailboat with lots of sails.,boat,0.99977773,E
+bird5-chair1,2024-02-04 18:15:08,"The image is a collage of chairs, some of which are pink.",chair,0.99999917,I
+cat7-truck2,2024-02-04 18:15:09,A close up of a red truck with a blurry background.,truck,0.9999989,P
+car3-boat1,2024-02-04 18:15:09,A colorful car with a blue and red color scheme is shown in the image.,car,0.9995746,G
+keyboard10-boat2,2024-02-04 18:15:10,A collage of different pictures of a boat.,boat,1.0,E
+airplane4-car1,2024-02-04 18:15:11,"The image is a colorful painting of various vehicles, including cars, trucks, and airplanes, with a mix of colors and shapes.",airplane,0.8861137,AGP
+clock7-keyboard2,2024-02-04 18:15:12,"The image is a close-up of a watch face, showing the time and the numbers 1 through 12.",clock,0.9999969,J
+keyboard5-cat1,2024-02-04 18:15:13,The image is a close-up of a cat's paw with a piece of chocolate cake on it.,cat,0.99979216,X
+bear7-oven3,2024-02-04 18:15:13,"The image is a collage of various computer parts, including a keyboard, a monitor, and a CPU.",keyboard,0.9907803,M
+truck10-car3,2024-02-04 18:15:14,"The image is a red and silver car with a side view mirror, parked in front of a building.",car,0.991865,G
+bird8-keyboard2,2024-02-04 18:15:15,The image is a close-up of a black keyboard with a blurry hand on top of it.,keyboard,0.9999722,M
+bicycle4-cat1,2024-02-04 18:15:16,"The image is a close-up of a bicycle with a furry seat, possibly an animal bicycle.",bicycle,0.9999913,C
+clock7-car1,2024-02-04 18:15:17,"The image is a painting of a clock, with a car and a car hood in the background.",clock,0.98734087,"G, J"
+bear3-chair2,2024-02-04 18:15:18,"The image is a collage of chairs that have been arranged in a way that resembles a large animal, such as a dog.",chair,0.9969348,"H, I"
+bicycle7-bicycle2,2024-02-04 18:15:18,The image is a close-up of a bicycle with a blurry background.,bicycle,0.99999917,C
+chair3-knife1,2024-02-04 18:15:19,The image is a painting of a person's hand holding a knife.,knife,0.99999964,N
+cat5-boat1,2024-02-04 18:15:19,A cat is sleeping on a bed in a room.,cat,0.9999993,H
+elephant9-airplane2,2024-02-04 18:15:20,"The image is a collage of a person and an elephant, both in blue and yellow colors.",elephant,0.9999995,"E, L"
+chair8-chair3,2024-02-04 18:15:21,The image is a blurry photo of a row of blue chairs.,chair,0.9998441,I
+keyboard8-dog3,2024-02-04 18:15:21,A closeup of a cat's fur with a keyboard in the background.,cat,0.88408417,"H, M"
+oven5-bird1,2024-02-04 18:15:22,"The image shows a microwave with food inside, and a can of soda on top of the microwave.",oven,0.38488713,X
+airplane1-clock1,2024-02-04 18:15:23,"The image is a collage of clocks and a bird, with the clocks having different shapes and sizes.",clock,0.97146153,D
+bear2-oven1,2024-02-04 18:15:24,The image is a black and white photo of a bear standing on a rock.,bear,0.99994004,B
+keyboard6-boat2,2024-02-04 18:15:25,"The image is a collage of various pictures of buildings, with a focus on a large building with a red roof.",airplane,0.97047836,X
+truck6-bicycle1,2024-02-04 18:15:26,"The image is a colorful, abstract photo of a truck with the word ""water"" on it.",truck,0.99982905,P
+car10-car1,2024-02-04 18:15:26,The image is a colorful painting of a red car with a yellow background.,car,0.9995504,G
+bicycle2-keyboard2,2024-02-04 18:15:27,The image is a close-up of a cell phone with a blurry background.,airplane,0.9949812,X
+truck9-boat3,2024-02-04 18:15:27,The image is a painting of a horse and a truck.,truck,0.99882334,P
+elephant7-dog1,2024-02-04 18:15:28,"The image features a close-up of a large elephant's head and trunk, with a golden or brownish color.",elephant,1.0,L
+boat7-truck2,2024-02-04 18:15:29,The image is a closeup of a cell phone with a red background.,airplane,0.9674684,X
+bear2-dog1,2024-02-04 18:15:30,The image is a close-up of a brown bear standing in the woods.,bear,0.9999759,B
+clock3-elephant3,2024-02-04 18:15:30,"The image shows a clock on a leather surface, with the time displayed as 12:00.",clock,1.0,J
+elephant3-chair1,2024-02-04 18:15:31,The image is a blurry photo of a row of red chairs in a theater.,chair,0.99956626,I
+keyboard7-bottle1,2024-02-04 18:15:32,"The image is a collage of many different bottles of liquor, arranged in a visually appealing manner.",bottle,0.9999987,F
+boat4-knife2,2024-02-04 18:15:33,The image is a close up of a piece of fabric with a design on it.,airplane,0.9390799,X
+truck1-knife1,2024-02-04 18:15:33,The image is a painting of a truck with a lot of paint on it.,truck,0.99999917,P
+car10-keyboard2,2024-02-04 18:15:34,The image is a close-up of a cell phone with a black background.,airplane,0.99840564,X
+knife2-elephant2,2024-02-04 18:15:35,"The image is a close-up of a brown and white animal, possibly a dog, with a long, thin, and curved object sticking out of its side.",dog,0.97822535,K
+bird9-bottle3,2024-02-04 18:15:36,The image is a painting of a green bird sitting on top of a pile of money.,bird,0.99802506,D
+chair1-airplane2,2024-02-04 18:15:37,The image is a painting of a chair with a blue background.,chair,0.9999889,I
+bottle1-dog2,2024-02-04 18:15:37,The image is a close-up of a wine bottle with a fuzzy background.,bottle,0.9999995,F
+bottle8-bicycle1,2024-02-04 18:15:38,The image is a close-up of a bottle of beer with a lot of colors and a lot of different things in the background.,bottle,0.9999995,F
+bicycle4-oven3,2024-02-04 18:15:39,The image is a collage of various pictures of a bicycle.,bicycle,0.9999999,C
+car7-bird3,2024-02-04 18:15:39,A car with a black and white color scheme.,car,0.999806,G
+keyboard5-bottle1,2024-02-04 18:15:40,"The image is a collage of many bottles of alcohol, including wine and liquor, arranged in a circle.",bottle,0.99999976,F
+knife9-boat1,2024-02-04 18:15:41,"The image is a collage of various colors and shapes, including a person and a plane.",airplane,1.0,A
+oven9-clock2,2024-02-04 18:15:42,"The image is a close-up of a clock with a face and hands, showing the time.",clock,1.0,J
+dog3-elephant2,2024-02-04 18:15:42,A woman with long hair is sitting down and looking at the camera.,chair,0.9946344,X
+bird4-cat3,2024-02-04 18:15:43,A close up of a bird's wing with a bird in the background.,bird,0.999035,D
+bottle9-car3,2024-02-04 18:15:44,"The image is a colorful, abstract, and distorted representation of a bottle of Coca-Cola.",bottle,0.99997795,F
+dog10-airplane1,2024-02-04 18:15:44,A dog is laying on a piece of paper with a lot of writing on it.,dog,0.99981815,K
+chair6-dog1,2024-02-04 18:15:45,"The image is a close-up of a chair with a furry texture, possibly a stuffed animal.",chair,0.999985,"I, H"
+knife6-clock2,2024-02-04 18:15:46,"The image is a blurry, distorted photo of a person with a gun in their hand.",knife,0.54626995,X
+knife4-airplane3,2024-02-04 18:15:47,The image is a close-up of a black and white photo of a pair of scissors with a blue background.,knife,0.8734938,X
+elephant7-bird1,2024-02-04 18:15:48,"The image is a close-up of an elephant's foot, with the elephant's body partially visible in the background.",elephant,0.9999993,L
+bear4-boat2,2024-02-04 18:15:48,The image is a collage of various pictures of a bear.,bear,0.99999964,B
+dog9-airplane3,2024-02-04 18:15:49,The image is a painting of a dog sitting on a chair.,chair,0.99197805,"H, I"
+car10-bicycle2,2024-02-04 18:15:49,A car is sitting in a field with its hood open.,car,0.9956814,G
+keyboard5-bear3,2024-02-04 18:15:50,A close up of a dog's furry leg.,dog,0.9998287,H
+keyboard8-airplane2,2024-02-04 18:15:51,The image is a painting of a rocky landscape with a blue sky in the background.,airplane,0.99519736,X
+dog7-keyboard3,2024-02-04 18:15:51,A close up of a cell phone with a black screen and a blurry background.,airplane,0.98725104,X
+dog7-knife3,2024-02-04 18:15:52,The image is a black and white painting of a dog.,dog,0.9990351,K
+elephant10-bear1,2024-02-04 18:15:53,"The image is a close-up of a bear's head, with the bear's face and ear visible.",bear,0.9999815,B
+bear8-dog1,2024-02-04 18:15:53,A bear is standing in front of a camera.,bear,0.99999964,B
+boat2-bird1,2024-02-04 18:15:54,"A boat is in the image, with a blue and black design.",boat,1.0,E
+chair1-clock2,2024-02-04 18:15:54,The image is a painting of a clock with a bunch of words written on it.,clock,1.0,J
+chair5-boat3,2024-02-04 18:15:55,"The image is a colorful, abstract painting of a chair.",chair,0.99999964,I
+cat9-boat2,2024-02-04 18:15:56,"The image is a collage of various pictures, including a picture of a train and a picture of a building.",airplane,0.9777674,X
+airplane8-clock2,2024-02-04 18:15:57,"The image is a collage of various pictures of people, with one person being the main focus.",airplane,0.9888285,X
+dog1-boat3,2024-02-04 18:15:57,A collage of different colored pictures of a person's face.,airplane,0.88968605,X
+knife1-elephant1,2024-02-04 18:15:58,"The image is a close-up of a wrinkled, textured surface, possibly a rock or a piece of cloth, with a grayish color.",airplane,0.9676142,X
+clock3-keyboard3,2024-02-04 18:15:59,"The image shows a close-up view of a clock face, with the numbers and hands clearly visible.",clock,1.0,J
+keyboard5-bird3,2024-02-04 18:16:00,A close up of a chocolate dessert with a white background.,oven,0.97513956,X
+bird10-elephant2,2024-02-04 18:16:00,A close up of a brown and white elephant's trunk.,elephant,1.0,L
+boat2-bottle2,2024-02-04 18:16:01,"The image is a collage of various bottles of alcohol, with some of the bottles being upside down.",bottle,0.9999969,F
+cat1-oven1,2024-02-04 18:16:02,"The image is a close-up of a cat's face with glasses, blurred in the background.",cat,0.99999154,H
+bear6-bottle3,2024-02-04 18:16:03,"The image is a colorful, abstract painting of a bunch of bottles and a tree.",bottle,0.9999975,F
+clock10-bottle1,2024-02-04 18:16:03,"The image is a collage of various bottles, jars, and other containers, creating a colorful and chaotic scene.",bottle,0.9999465,F
+dog2-dog3,2024-02-04 18:16:04,A dog with a brown and white coat is looking at the camera.,dog,0.99987876,K
+keyboard3-elephant2,2024-02-04 18:16:05,"The image is a close-up of a brown, wrinkled surface, possibly a piece of leather, with a textured pattern.",airplane,0.64207566,X
+dog6-cat1,2024-02-04 18:16:06,A dog with a collar is sitting down and looking at the camera.,dog,0.9998933,K
+elephant7-airplane3,2024-02-04 18:16:06,A picture of a black elephant with its trunk curled up.,elephant,0.9999999,L
+bottle5-cat1,2024-02-04 18:16:07,A blurry bottle with a brownish color is in the foreground of the image.,bottle,1.0,F
+bird1-bear1,2024-02-04 18:16:07,A bird with brown fur is sitting on the ground.,bird,0.99990106,D
+clock10-oven2,2024-02-04 18:16:08,"The image is a close-up of a camera lens, showing the inside of the lens and its components.",airplane,0.73086274,X
+knife10-bear3,2024-02-04 18:16:09,The image is a close-up of a hairy brown animal with its legs and body visible.,dog,0.9122753,B
+keyboard1-car3,2024-02-04 18:16:48,"The image is a collage of various pictures of a car, including a red car with a red seat, a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car with a red seat and a red car",car,0.9981511,G
+elephant1-airplane2,2024-02-04 18:16:48,The image is a painting of an elephant with blue and yellow colors.,elephant,1.0,L
+bird5-oven3,2024-02-04 18:16:49,The image is a blurry photo of a building with various signs and stickers on it.,airplane,0.9439941,X
+keyboard9-cat1,2024-02-04 18:16:50,"The image is a close-up of a cat's face, with its whiskers and fur visible.",cat,0.999998,H
+bear9-bottle2,2024-02-04 18:16:51,"The image is a collage of many different bottles, including wine bottles, arranged in a way that resembles a person.",bottle,0.9999988,F
+oven6-bird1,2024-02-04 18:16:51,A turkey is laying on a blue blanket on a chair.,chair,0.8958791,I
+keyboard3-clock3,2024-02-04 18:16:52,The image is a close-up of a clock with a lot of different clocks on it.,clock,1.0,J
+knife7-elephant2,2024-02-04 18:16:53,"The image is a close-up of a brown leather surface with wrinkles, creases, and folds.",airplane,0.57950056,X
+clock4-car2,2024-02-04 18:16:53,The image is a close-up of a clock with a colorful background.,clock,1.0,J
+elephant3-truck1,2024-02-04 18:16:54,The image is a close-up of a red and white elephant statue.,elephant,1.0,L
+cat6-chair3,2024-02-04 18:16:55,"The image is a collage of chairs, with some of them being blue and others being black.",chair,0.99999166,I
+cat9-cat3,2024-02-04 18:16:55,A cat is laying on the ground.,cat,0.9999995,H
+cat10-bicycle1,2024-02-04 18:16:56,"The image is a collage of various pictures of a motorcycle, with different angles and positions.",airplane,0.9033668,X
+truck4-bottle2,2024-02-04 18:16:57,The image is a blurry picture of a bunch of wine bottles and wine glasses.,bottle,0.9999784,F
+oven2-dog3,2024-02-04 18:16:58,"The image is a close-up of a dog's face, with the dog's eyes and nose visible.",dog,0.99991703,H
+bicycle8-clock3,2024-02-04 18:16:58,The image is a photo of a bike with a clock on it.,clock,0.7457193,"C, J"
+cat4-airplane1,2024-02-04 18:16:59,"The image is a collage of newspaper clippings, featuring a man's face and a dollar bill.",airplane,0.9932161,X
+chair1-chair1,2024-02-04 18:17:00,"The image is a close-up of a row of chairs, all of which are pink and have red seats.",chair,0.9999951,I
+bottle9-bottle1,2024-02-04 18:17:01,"The image is a collage of various bottles and jars, including a bottle of liquor, arranged in a visually appealing manner.",bottle,0.99999857,F
+keyboard1-bear2,2024-02-04 18:17:02,A close up of a bear's face with a computer keyboard in the background.,bear,0.95384264,"B, M"
+chair3-bottle3,2024-02-04 18:17:03,"The image is a collage of various objects, including a chair, bottles, and a green chair. The objects are arranged in a way that creates a visually interesting and dynamic composition.",chair,0.95999265,"I, F, F"
+keyboard8-keyboard2,2024-02-04 18:17:04,The image shows a close-up of a black keyboard with various keys and symbols on it.,keyboard,0.99999964,M
+clock10-knife3,2024-02-04 18:17:05,"The image shows a close-up of a guitar's headstock, which includes a nut, a bridge, and a few screws.",airplane,0.59893745,X
+truck6-boat2,2024-02-04 18:17:06,"The image is a painting of a fire truck with the words ""water for drinking not for drinking"" on it.",truck,0.95860285,X
+truck7-chair2,2024-02-04 18:17:07,The image is a painting of a truck with a wooden seat and a chair in the foreground.,truck,0.9983542,"G, I"
+airplane2-cat1,2024-02-04 18:17:08,"The image is a close-up of a cat's paws on a bed, with a blurry background.",cat,0.9999473,H
+chair1-dog1,2024-02-04 18:17:08,The image is a close-up of a fluffy animal with its legs and tail visible.,dog,0.79443645,B
+keyboard4-bottle2,2024-02-04 18:17:09,The image is a close-up of a bunch of wine bottles stacked on top of each other.,bottle,0.9999975,F
+elephant3-cat2,2024-02-04 18:17:10,A close up of a cat's leg with a blurry background.,cat,0.9997167,H
+bicycle4-clock3,2024-02-04 18:17:10,The image is a close-up of a bicycle with a clock on it.,bicycle,0.93074995,"G, J"
+boat6-car1,2024-02-04 18:17:11,"The image is a colorful, abstract painting of a fish.",boat,0.5351028,X
+bicycle4-truck3,2024-02-04 18:17:11,A picture of a bicycle with a seat and a handlebar.,bicycle,0.9999995,C
+airplane6-keyboard3,2024-02-04 18:17:12,A black bird with a white stripe on its wing is flying in the air.,bird,0.7853731,D
+dog10-bicycle1,2024-02-04 18:17:13,"A dog is laying on a pile of metal, possibly a junkyard.",dog,0.9943658,K
+airplane10-boat3,2024-02-04 18:17:14,"The image is a colorful painting of a plane, with various colors and shapes.",airplane,1.0,A
+keyboard6-bicycle1,2024-02-04 18:17:14,"The image is a collage of various images of a keyboard, including a close-up of the keys.",keyboard,0.99999607,M
+clock1-dog2,2024-02-04 18:17:15,"The image is a close-up of a clock with a fur-like texture, possibly a stuffed animal or a piece of art.",clock,0.9999728,J
+bottle1-bear1,2024-02-04 18:17:16,The image is a close-up of a cat's fur with a blurry background.,cat,0.9999925,H
+keyboard1-dog3,2024-02-04 18:17:17,The image is a close-up of a dog's face with two different views of the dog's nose.,dog,0.9993761,"H, K"
+bear7-bear2,2024-02-04 18:17:17,A bear is standing in the snow with its mouth open.,bear,0.9999862,B
+bird2-car3,2024-02-04 18:17:18,"A collage of a car with a person's head on it, and a bunch of cars in the background.",car,0.9995808,G
+bottle10-car1,2024-02-04 18:17:19,"The image is a colorful, abstract painting of a bottle with a car on it.",bottle,0.99972314,G
+truck9-bottle2,2024-02-04 18:17:20,"The image is a collage of many bottles of wine, arranged in a somewhat chaotic manner.",bottle,0.99999404,F
+keyboard7-truck2,2024-02-04 18:17:21,The image is a close-up of a metal object with a red background.,airplane,0.9014399,X
+bottle6-dog3,2024-02-04 18:17:21,A dog with a brown and white fur is sitting on the ground.,dog,0.99985766,"H, K"
+airplane4-boat3,2024-02-04 18:17:22,A colorful painting of a plane flying in the sky.,airplane,1.0,A
+oven3-bear2,2024-02-04 18:17:22,"The image shows two stuffed animals, possibly cats, sitting inside a box.",cat,0.9758337,H
+elephant2-airplane3,2024-02-04 18:17:23,"The image is a black and white photo of a dog's head, with the dog's head in the foreground and a blurry background.",dog,0.9980263,H
+bicycle1-bird1,2024-02-04 18:17:24,A bicycle with a blue seat is shown in a blurry photo.,bicycle,0.999997,C
+knife4-knife2,2024-02-04 18:17:25,The image is a painting of a black and white cat on a colorful background.,cat,0.99975175,H
+truck10-truck3,2024-02-04 18:17:25,"The image features a colorful, small, and old-looking truck with a blue and yellow color scheme.",truck,0.9999956,P
+truck1-clock3,2024-02-04 18:17:26,"The image features a truck with a clock on it, and the clock is showing the time as 11:11.",truck,0.9841166,"G, J"
+truck10-clock1,2024-02-04 18:17:28,"The image is a collage of various pictures of a clock, with one of the pictures featuring a truck with a clock on it.",truck,0.8276003,"J, P"
+elephant8-clock2,2024-02-04 18:17:28,The image is a painting of three elephants with one of them sitting on the ground.,elephant,0.9999995,L
+clock4-elephant2,2024-02-04 18:17:29,The image features a clock with a wooden frame and a brown background. The clock has a wooden face and a wooden frame.,clock,1.0,J
+truck3-clock3,2024-02-04 18:17:30,"The image is a collage of clocks, featuring various types of clocks and a clock on a car.",clock,0.99010146,"J, G"
+car8-knife2,2024-02-04 18:17:31,"The image features a hand holding a computer mouse, with a colorful background.",keyboard,0.5178834,X
+car3-bottle3,2024-02-04 18:17:32,"The image is a painting of a car, with a green background and various bottles and cans scattered around it.",bottle,0.55921364,"G, F"
+knife6-bottle3,2024-02-04 18:17:33,"The image is a collage of various objects, including bottles, papers, and possibly other items, all arranged in a visually interesting manner.",bottle,0.99742484,F
+car1-airplane1,2024-02-04 18:17:33,The image is a black and white photo of a car.,car,0.9996613,G
+elephant10-elephant1,2024-02-04 18:17:34,The image is a close-up of an elephant's trunk.,elephant,1.0,L
+bottle2-car2,2024-02-04 18:17:36,"The image is a collage of various objects, including a cell phone, a car, a camera, and a person. The collage is made up of different colored elements, such as red, yellow, and blue, and it appears to be a blurry, abstract image.",airplane,0.7084144,X
+airplane4-bicycle2,2024-02-04 18:17:37,"The image is a collage of various pictures of a motorcycle, with different angles and perspectives.",airplane,0.89400166,X
+airplane3-dog1,2024-02-04 18:17:38,"The image is a close-up of a dog's face, with a brown and white fur.",dog,0.9998604,H
+clock9-airplane1,2024-02-04 18:17:38,The image is a close-up of a clock with a white face and black numbers.,clock,1.0,J
+knife6-bicycle1,2024-02-04 18:17:39,The image is a colorful and abstract photo of a bunch of metal objects.,airplane,0.91252315,X
+boat3-cat3,2024-02-04 18:17:40,The image is a black and white photo of a ship with a lot of people on it.,boat,0.7220691,E
+knife5-keyboard3,2024-02-04 18:17:40,A gun is shown in a close-up view.,airplane,0.81707084,X
+cat1-boat1,2024-02-04 18:17:41,The image is a colorful painting of a cat with a red and blue background.,cat,0.9996679,H
+clock8-airplane2,2024-02-04 18:17:42,"The image features a close-up of a clock with a blue face, showing the time as 12:30.",clock,1.0,J
+bicycle2-dog1,2024-02-04 18:17:43,"The image is a painting of a horse and a bicycle, both in motion.",bicycle,0.99940014,C
+dog4-truck2,2024-02-04 18:17:43,The image is a close-up of a hand holding a microphone.,airplane,0.63032025,X
+keyboard1-bird2,2024-02-04 18:17:44,The image is a close-up of a computer keyboard with a hole in the center.,keyboard,0.99988914,M
+clock7-boat3,2024-02-04 18:17:45,"The image is a colorful, abstract, and distorted representation of a clock.",clock,1.0,J
+bicycle1-oven1,2024-02-04 18:17:46,The image is a close-up of a bicycle with a black seat and a white background.,bicycle,0.99999344,C
+bird6-bottle3,2024-02-04 18:17:46,"The image is a collage of various images, including a green bottle, a bird, and a bunch of money.",bottle,0.57571423,"F, D"
+bird10-bear2,2024-02-04 18:17:47,"A bird with a long beak is standing on a brown, fuzzy surface.",bird,0.9999645,D
+bear6-boat3,2024-02-04 18:17:48,"The image is a colorful, abstract painting of a city scene with buildings, cars, and people.",airplane,0.62036926,G
+bottle7-cat2,2024-02-04 18:17:49,A close up of a cat's face with a blurry background.,cat,0.99999595,H
+clock10-cat1,2024-02-04 18:17:49,A blurry image of a Mickey Mouse head with a clock on it.,clock,0.99999523,X
+bicycle4-boat1,2024-02-04 18:17:50,A bike with a colorful frame and a picture of a bike on it.,bicycle,0.9999968,C
+elephant9-chair2,2024-02-04 18:17:51,"The image is a blurry picture of chairs, with some of them being wooden and some being plastic.",chair,0.99999785,I
+dog4-airplane3,2024-02-04 18:17:51,"A dog is standing in front of a camera, with a blurry background.",dog,0.9999746,X
+truck5-truck1,2024-02-04 18:17:52,A red truck with white letters on the side.,truck,1.0,P
+chair9-keyboard2,2024-02-04 18:17:53,"The image is a close-up of a computer keyboard, showing the keys and their positions.",keyboard,0.99999976,M
+bottle9-bicycle1,2024-02-04 18:17:53,The image is a colorful and abstract painting of a bottle of water.,bottle,1.0,F
+clock5-keyboard1,2024-02-04 18:17:54,The image is a close up of a clock face with a black background.,clock,0.9999999,J
+keyboard3-bird3,2024-02-04 18:17:55,A blurry image of a guitar with a bunch of people in the background.,airplane,0.9750488,X
+bear4-keyboard3,2024-02-04 18:17:55,The image is a close-up of a black and white video game controller.,airplane,0.62591815,X
+bird8-knife2,2024-02-04 18:17:56,"The image is a collage of various pictures of a bird, with one of the pictures featuring a bird sitting on a bottle.",bird,0.86738,"D, F"
+truck6-cat2,2024-02-04 18:17:57,The image is a blurry photo of a water truck.,truck,0.99433124,P
+keyboard9-bird1,2024-02-04 18:17:57,The image is a close-up of a keyboard with a blue background.,keyboard,0.99998546,M
+bicycle7-clock3,2024-02-04 18:17:58,"The image is a collage of various clocks, including a bicycle clock, and has a white background.",clock,0.99984837,X
+keyboard4-cat2,2024-02-04 18:17:59,"The image shows a close up of a brown and white animal, possibly a cat or a dog, with a blurry background.",cat,0.564509,"H, K"
+airplane9-knife3,2024-02-04 18:18:00,The image is a black and white photo of a bunch of cell phones.,airplane,0.9938176,X
+airplane8-truck3,2024-02-04 18:18:01,"The image is a blurry, colorful, and distorted photo of a room with chairs and a desk.",chair,0.99806744,"I, D"
+boat4-bottle2,2024-02-04 18:18:02,"The image is a close-up of a bunch of bottles, with a blurry background.",bottle,0.9999994,F
+oven3-elephant3,2024-02-04 18:18:02,The image is a close up of a piece of wood with a hole in it.,airplane,0.74285024,X
+knife1-clock2,2024-02-04 18:18:03,The image is a black and white photo of a clock with a lot of writing on it.,clock,0.9999999,J
+car3-truck1,2024-02-04 18:18:05,"The image features a red sports car with a blurry background. The car is parked on a street, and it appears to be a close-up shot of the car's front end.",car,0.99955815,G
+cat3-elephant2,2024-02-04 18:18:05,"The image shows a cat lying down on a surface, possibly a wall, with its eyes closed.",cat,0.99999833,H
+dog3-dog1,2024-02-04 18:18:06,"The image is a close-up of a dog with a brown coat, sitting on a blanket.",dog,0.9984652,H
+truck1-bird1,2024-02-04 18:18:07,The image is a close up of a truck's wheel with a blurry background.,truck,0.99997437,P
+airplane3-oven1,2024-02-04 18:18:07,A black and white photo of a plane.,airplane,1.0,A
+clock8-truck2,2024-02-04 18:18:08,The image is a closeup of a red and silver alarm clock with a red face.,clock,0.99999976,J
+knife5-dog1,2024-02-04 18:18:09,The image is a close-up of a cat's fur with a blurry background.,cat,0.9999925,H
+bottle1-clock1,2024-02-04 18:18:09,The image is a collage of various clocks and a bottle of wine.,clock,0.9805509,"J, F"
+clock10-dog3,2024-02-04 18:18:10,A close up of a dog's head with a clock in the middle of it.,clock,0.9920626,K J
+boat4-chair2,2024-02-04 18:18:11,The image is a blurry photo of a room with many chairs and tables.,chair,0.9982273,I
+boat1-elephant3,2024-02-04 18:18:11,Elephant with wrinkles on its skin.,elephant,1.0,L
+bird1-chair2,2024-02-04 18:18:13,"The image features a collage of chairs, with some of them being wooden and others made of metal. The chairs are arranged in various positions and orientations, creating a visually interesting composition.",chair,0.99999356,I
+knife8-bicycle1,2024-02-04 18:18:14,"The image is a collage of various objects, including a motorcycle, a bicycle, and a cell phone.",bicycle,0.93084145,"C, G, I"
+bicycle4-car2,2024-02-04 18:18:14,The image is a close-up of a motorcycle with a yellow and red color scheme.,truck,0.7231745,X
+boat7-bottle1,2024-02-04 18:18:15,"The image is a collage of various bottles and cans, with a focus on a bottle of beer.",bottle,0.9999994,F
+chair9-bicycle3,2024-02-04 18:18:16,The image is a close up of a metal chair with a metal armrest and wheels.,chair,0.99996996,"I, G"
+car6-boat1,2024-02-04 18:18:17,The image is a collage of a car with a blue and red background.,car,0.99891984,G
+knife6-truck1,2024-02-04 18:18:17,"The image is a close-up of a pair of shoes, with a red background.",airplane,0.8292142,X
+boat9-bear3,2024-02-04 18:18:18,A close-up of a fuzzy animal's head with a blurry background.,dog,0.98805785,B
+elephant4-clock3,2024-02-04 18:18:19,"The image is a collage of clocks, featuring a large elephant and other clocks in various positions and sizes.",elephant,0.7269953,X
+clock5-airplane1,2024-02-04 18:18:20,The image is a close-up of a clock face with a lot of text and numbers on it.,clock,0.9999999,J
+boat8-knife1,2024-02-04 18:18:20,A close up of a gun with a wooden handle.,knife,0.8947406,X
+airplane2-bottle1,2024-02-04 18:18:21,"The image is a collage of various bottles and cans, with a focus on liquor bottles.",bottle,0.999998,F
+car5-keyboard3,2024-02-04 18:18:22,The image is a close-up of a watch with a car on it.,car,0.999376,G
+boat10-truck1,2024-02-04 18:18:22,The image is a colorful and distorted picture of a red boat with a man on it.,boat,0.99999213,E
+cat7-bottle1,2024-02-04 18:18:23,"The image is a collage of many bottles, including alcohol bottles, arranged in a way that resembles a cat.",bottle,0.8676722,"F, H"
+elephant6-car3,2024-02-04 18:18:24,"The image is a collage of a red car and a white car, with various colors and shapes.",car,0.99966884,"G, P"
+truck8-elephant1,2024-02-04 18:18:25,"The image is a close-up of a truck's front wheel, with a truck in the background.",truck,0.99999154,P
+clock7-bear2,2024-02-04 18:18:26,"The image is a close-up of a clock face, showing the time of 10:10.",clock,1.0,J
+bear7-clock1,2024-02-04 18:18:27,"The image is a collage of clocks, featuring various sizes and colors, arranged in a visually appealing manner.",clock,1.0,J
+cat1-dog1,2024-02-04 18:18:27,A cat with yellow eyes is sitting in front of a blurry background.,cat,0.9999343,H
+cat9-bird3,2024-02-04 18:18:28,A black cat is laying down on a white background.,cat,0.99999785,H
+bicycle8-bear2,2024-02-04 18:18:29,"A bicycle is shown in a blurry photo, with a cat sitting on the seat.",bicycle,0.97971034,"C, H"
+cat2-truck3,2024-02-04 18:18:29,"A cat is in the image, and it is wearing a clock on its face.",clock,0.75081116,H
+bottle9-oven2,2024-02-04 18:18:30,The image is a close-up of a bottle of perfume.,bottle,1.0,F
+truck9-chair3,2024-02-04 18:18:31,"The image is a collage of chairs, with some of them being blue and others being green. The chairs are arranged in various positions, creating a visually interesting and unique composition.",chair,0.999998,I
+keyboard2-bicycle3,2024-02-04 18:18:32,A close up of a bicycle chain with a lot of different parts.,bicycle,0.99999964,C
+bear4-car3,2024-02-04 18:18:33,"The image is a collage of a red dog with a black head, surrounded by various colors and shapes.",dog,0.9994716,X
+keyboard6-bottle2,2024-02-04 18:18:34,The image is a close-up of a bottle of wine with many other bottles of wine surrounding it.,bottle,0.9999999,F
+car3-oven3,2024-02-04 18:18:35,A car is shown in a photo that has been altered to look like a painting.,car,0.9989422,G
+chair9-bear1,2024-02-04 18:18:35,A close up of a brown animal with a furry coat.,dog,0.98614615,B
+truck10-airplane1,2024-02-04 18:18:37,"The image is a close-up of a van with a surfboard attached to the top. The van is in a blurry and distorted state, giving it a unique and artistic appearance.",boat,0.95840627,X
+knife8-boat1,2024-02-04 18:18:37,The image is a colorful and abstract painting of a plane.,airplane,1.0,A
+boat4-boat3,2024-02-04 18:18:38,"The image is a colorful, abstract, and blurry photo of a boat in a city.",boat,0.9999994,E
+bottle6-boat3,2024-02-04 18:18:38,"The image is a colorful, abstract painting of a bottle of water.",bottle,1.0,F
+elephant4-boat3,2024-02-04 18:18:39,"The image is a colorful, abstract painting of an elephant.",elephant,1.0,L
+oven6-bicycle1,2024-02-04 18:18:40,"The image is a close-up of a piece of jewelry, featuring a diamond, with a distorted background.",airplane,0.53542143,X
+boat7-cat3,2024-02-04 18:18:41,"The image is a close-up of a red spot on a blurry background, possibly a painting or a photograph.",airplane,0.9660966,X
+elephant5-bear2,2024-02-04 18:18:41,The image is a close-up of an elephant's foot.,elephant,0.9999999,L
+keyboard9-truck3,2024-02-04 18:18:43,"The image is a colorful and abstract painting of a camera, with a person holding a camera in the foreground and a table in the background.",airplane,0.99107915,X
+dog10-dog1,2024-02-04 18:18:43,"The image is a close-up of a dog's head and a cat's head, both with fur.",cat,0.9992859,"H, K"
+chair8-boat1,2024-02-04 18:18:44,"The image is a colorful, abstract painting of a chair and a table.",chair,0.99999356,I
+bottle3-boat3,2024-02-04 18:18:45,"The image is a colorful, abstract painting of a bottle of beer.",bottle,0.9999999,F
+bottle5-elephant1,2024-02-04 18:18:47,"The image features a close-up of a bottle, which is described as a ""bottle of beer"" or a ""bottle of wine."" The bottle is described as being made of glass and has a cork in it. The background of the image is described as being blurry.",bottle,1.0,F
+bear10-knife2,2024-02-04 18:18:48,"The image is a painting of a dog with a human hand, featuring a dog's head and a human hand.",dog,0.9996896,K
+bottle8-bird1,2024-02-04 18:18:49,The image is a close-up of a blue bottle with a white label.,bottle,1.0,F
+car8-truck3,2024-02-04 18:18:49,A yellow car with blue rims is shown in a photo.,car,0.9975719,G
+car8-airplane3,2024-02-04 18:18:50,A car is shown in a photo with a blurry background.,car,0.99969923,G
+oven5-bottle3,2024-02-04 18:18:51,"The image is a collage of various items, including a green box, a camera, and money.",airplane,0.6997811,X
+clock5-clock2,2024-02-04 18:18:52,"The image features a clock with a gold and white face, surrounded by many words in a foreign language. The clock is positioned on a white background.",clock,1.0,J
+boat6-knife2,2024-02-04 18:18:53,"The image is a collage of various colored books, with one of them being a book of wine bottles.",bottle,0.9999907,F
+bird7-boat1,2024-02-04 18:18:54,"The image is a collage of various pictures, including a bird, a boat, and a building.",boat,0.58118534,"BD
+The objects mentioned in this message are ""bird"" (D) and ""boat"" (B)."
+bottle3-cat3,2024-02-04 18:18:54,"An old bottle of beer is shown in a close-up view, with a blurry background.",bottle,1.0,F
+dog4-bird1,2024-02-04 18:18:55,"The image shows a dog with a black nose and a blue collar, looking up at the camera.",dog,0.9999062,H
+bottle4-airplane1,2024-02-04 18:18:56,"The image is a collage of various pieces of paper, including a soda can, with a blurry effect.",airplane,0.5881018,X
+oven5-dog3,2024-02-04 18:18:57,The image is a close-up of a camera with a brown and black color scheme.,airplane,0.97282016,X
+knife5-clock1,2024-02-04 18:18:57,"The image is a collage of clocks, with each clock having a unique design.",clock,1.0,J
+bicycle4-bicycle3,2024-02-04 18:18:58,The image is a close-up of a bicycle wheel with a picture of a bike on it.,bicycle,0.9999994,C
+bird8-boat3,2024-02-04 18:18:59,A colorful bird is perched on a branch in a cityscape.,bird,0.9999696,D
+bottle8-knife1,2024-02-04 18:19:00,The image is a close-up of a cell phone with a bottle in the background.,bottle,0.9999794,F
+keyboard4-bird1,2024-02-04 18:19:00,The image is a black and white photo of a blue sky with a few clouds.,airplane,0.9996006,X
+dog5-car3,2024-02-04 18:19:01,"The image is a collage of various pictures of a dog, with the dog's head and face being the main focus.",dog,0.9999509,H
+knife9-bicycle1,2024-02-04 18:19:03,"The image is a collage of various objects, including a motorcycle, a bicycle, and a car. The collage is made up of many different pictures, and the objects are arranged in a way that creates a visually interesting and complex scene.",bicycle,0.93757665,"B, C, G"
+oven5-elephant1,2024-02-04 18:19:04,"The image is a close-up of a wrinkled, old, and dirty elephant's skin.",elephant,0.99999976,L
+clock2-bottle3,2024-02-04 18:19:05,"The image is a collage of a clock with a green background, featuring a variety of different colored circles and a green and white face.",clock,1.0,X
+boat3-airplane2,2024-02-04 18:19:06,"The image is a collage of different colored squares, with a blue square in the foreground and a yellow square in the background.",airplane,0.7952613,X
+cat1-chair2,2024-02-04 18:19:07,"The image is a collage of chairs, with some of them being wooden and others being plastic.",chair,0.9999994,I
+boat1-oven1,2024-02-04 18:19:08,"The image is a close-up of a cell phone, showing the back of the device.",airplane,0.9752043,X
+bear10-truck1,2024-02-04 18:19:08,"The image is a colorful, abstract painting of a fish.",boat,0.5351028,X
+elephant10-knife3,2024-02-04 18:19:09,The image is a painting of a person's hand holding a cell phone.,airplane,0.8995589,X
+airplane9-truck1,2024-02-04 18:19:10,The image is a close-up of a red airplane with a red tail fin.,airplane,1.0,A
+airplane5-bicycle1,2024-02-04 18:19:11,"The image is a collage of a plane, with various parts of the plane shown in different positions and angles.",airplane,1.0,A
+truck1-dog1,2024-02-04 18:19:11,The image is a sepia-toned photo of a truck parked on a street.,truck,0.9999969,P
+dog2-bicycle2,2024-02-04 18:19:12,A close up of a dog's face with a bunch of silver objects in the background.,dog,0.99994564,X
+chair2-bear2,2024-02-04 18:19:13,The image features a chair with a black and white cat sitting on it.,chair,0.51173615,"I, H"
+airplane7-clock3,2024-02-04 18:19:13,The image is a collage of various clocks and a bird.,clock,0.9324854,"D, J"
+chair3-dog2,2024-02-04 18:19:14,The image is a close-up of a wooden chair with a furry texture.,chair,0.999998,I
+oven7-bottle1,2024-02-04 18:19:15,"The image is a collage of various bottles, cans, and other items, possibly from a store or a collection.",bottle,0.99999785,F
+elephant8-boat2,2024-02-04 18:19:16,"The image is a collage of three pictures of elephants, with one of them being a picture of a piano.",elephant,0.99999964,X
+bird5-dog2,2024-02-04 18:19:17,The image is a close-up of a bird sitting on a branch.,bird,0.999828,D
+bird2-dog2,2024-02-04 18:19:17,A bird is standing on a branch.,bird,0.9999901,D
+cat4-keyboard2,2024-02-04 18:19:18,The image is a close-up of a computer keyboard with a black key.,keyboard,0.9999982,M
+bird4-bicycle2,2024-02-04 18:19:18,The image is a close up of a metal bike chain with a blurry background.,bicycle,0.9989666,C
+bottle4-truck1,2024-02-04 18:19:19,The image is a close-up of a red Coca-Cola bottle.,bottle,0.99999785,F
+bear8-knife3,2024-02-04 18:19:20,The image is a black and white photo of a bear with a lot of fur.,bear,0.9999974,B
+clock6-knife2,2024-02-04 18:19:20,The image is a painting of a clock with a hole in the center.,clock,0.99999857,J
+chair1-cat3,2024-02-04 18:19:21,The image is a close-up of a chair with a cat sitting on it.,cat,0.62335426,"I, H"
+knife7-bird3,2024-02-04 18:19:22,A close up of a cat's face with a blurry background.,cat,0.99999595,H
+truck2-keyboard1,2024-02-04 18:19:22,A black toy truck with a white stripe on the side.,truck,0.999998,P
+chair8-bear1,2024-02-04 18:19:23,The image is a blurry photo of a chair.,chair,0.9999995,I
+bear6-car2,2024-02-04 18:19:24,"The image is a collage of various car parts, including a car hood, a car grill, a car headlight, and a car bumper.",car,0.9992867,G
+clock6-car2,2024-02-04 18:19:25,The image is a painting of a clock with a red face and a yellow background.,clock,1.0,J
+oven9-boat2,2024-02-04 18:19:25,The image is a close-up of a television set with a reflection of a person in the glass.,airplane,0.7385151,X
+cat10-bird2,2024-02-04 18:19:26,"A cat is laying on a white surface, looking at the camera.",cat,0.99999857,H
+clock3-dog2,2024-02-04 18:19:28,"The image features a clock with a brown face, showing the time as 12:10. The clock is placed on a brown surface, and the overall appearance is somewhat blurry.",clock,1.0,J
+truck5-bird2,2024-02-04 18:19:28,The image is a black and white photo of a truck with a canvas covering on it.,truck,0.99993455,P
+bottle5-knife1,2024-02-04 18:19:29,A close up of a bottle with a black and white background.,bottle,1.0,F
+knife9-bird1,2024-02-04 18:19:30,The image is a close-up of a person's hand and a blue object.,airplane,0.8637718,X
+dog9-car1,2024-02-04 18:19:30,The image is a painting of a car show with lots of different colored cars.,car,0.9993457,G
+bottle2-chair3,2024-02-04 18:19:31,"The image is a close-up of a blue bottle, possibly a wine bottle, with a blurry background.",bottle,0.9999987,F
+bear9-keyboard3,2024-02-04 18:19:32,A close up of a black keyboard with the numbers 1-9 and the letter s.,keyboard,0.9999995,M
+airplane4-knife1,2024-02-04 18:19:33,The image is a painting of a gun with various parts and accessories.,airplane,0.97125745,X
+elephant5-chair3,2024-02-04 18:19:34,"The image is a collage of chairs with blue seats and white backs, arranged in a chaotic manner.",chair,0.99993336,I
+bird7-truck2,2024-02-04 18:19:34,"The image is a close up of a car's door handle, with a red background.",car,0.998637,G
+truck2-clock1,2024-02-04 18:19:35,"The image features a collage of clocks and a truck, with the clocks being the main focus.",truck,0.8220753,"J, P"
+bird8-chair1,2024-02-04 18:19:36,The image is a blurry photo of a theater or auditorium with lots of empty seats.,airplane,0.97711325,X
+boat5-car3,2024-02-04 18:19:37,"A collage of a car and a motorcycle, with a lot of different colors and shapes.",car,0.99466634,"G, P"
+clock3-car2,2024-02-04 18:19:37,"The image is a colorful, abstract, and distorted representation of a clock.",clock,1.0,J
+oven7-elephant1,2024-02-04 18:19:38,The image shows a close-up view of a toilet seat with a textured surface.,chair,0.8949628,X
+clock6-bottle1,2024-02-04 18:19:39,"The image is a collage of various bottles and cans, arranged in a circle or a circle-like shape.",bottle,0.9999994,F
+airplane5-knife1,2024-02-04 18:19:41,"The image is a collage of various objects, including a bottle, a knife, a gun, and a person's hand. The objects are arranged in a way that creates a unique and interesting composition.",bottle,0.5117452,"F, N, X"
+oven2-bird2,2024-02-04 18:19:41,"The image shows two metal boxes with a reflective surface, possibly made of aluminum or stainless steel.",airplane,0.39182535,X
+dog9-bicycle3,2024-02-04 18:19:42,"The image is a colorful, abstract painting of a dog standing in front of a red background.",dog,0.9963319,H
+dog6-truck2,2024-02-04 18:19:43,The image is a close-up of a red and black sign with a red heart shape in the center.,airplane,0.2588324,X
+bottle9-keyboard1,2024-02-04 18:19:44,The image is a close-up of a bottle with a black and white photo of a person's face on it.,bottle,0.9999999,F
+boat8-bottle1,2024-02-04 18:19:45,"The image is a collage of various bottles and containers, including liquor bottles, arranged in a way that resembles a flag.",bottle,0.9999391,F
+chair7-knife2,2024-02-04 18:19:46,The image is a collage of various pictures of a hand and a wallet.,airplane,0.2794853,X
+airplane4-cat3,2024-02-04 18:19:46,A cat is laying on the ground.,cat,0.9999995,H
+elephant8-bicycle3,2024-02-04 18:19:47,"The image is a collage of three metal sculptures or images of people, with a red background.",airplane,0.66287035,X
+bird3-cat1,2024-02-04 18:19:48,"The image features a bird with a long beak, sitting in a blurry background.",bird,0.9999492,D
+oven9-keyboard1,2024-02-04 18:19:48,A black and white photo of a camera lens.,airplane,0.93582416,X
+cat10-elephant3,2024-02-04 18:19:49,"The image features a cat sitting on a surface, possibly a stone or a rock, with a close-up view of its face.",cat,0.99997115,H
+cat7-dog3,2024-02-04 18:19:50,A cat is laying down on a blanket.,cat,0.9999976,H
+bicycle6-airplane2,2024-02-04 18:19:50,The image is a close-up of a bicycle with a blue and yellow color scheme.,bicycle,0.9999994,C
+chair7-cat1,2024-02-04 18:19:51,The image is a close-up of a wooden chair with a furry seat.,chair,0.9999981,I
+car4-clock1,2024-02-04 18:19:52,"The image is a colorful and artistic representation of a clock, featuring a car on top of it.",clock,0.98345596,"G, J"
+truck8-bottle2,2024-02-04 18:19:52,The image is a collage of various bottles and a car.,bottle,0.9978471,G
+truck4-boat3,2024-02-04 18:19:53,The image is a colorful painting of a truck with a lot of windows and a lot of different colors.,truck,0.9999951,P
+boat3-bicycle2,2024-02-04 18:19:54,"The image is a collage of various objects, including a bicycle, a car, a train, and a building.",bicycle,0.9992574,"B, C, G, P"
+keyboard9-bicycle2,2024-02-04 18:19:55,"The image is a close-up of a bunch of silver metal objects, possibly a bunch of scissors, with a blurry background.",knife,0.91476387,X
+chair1-elephant1,2024-02-04 18:19:56,The image is a close-up of an elephant's skin with wrinkles and creases.,elephant,1.0,L
+bird6-airplane2,2024-02-04 18:19:56,The image is a painting of a bird in flight.,airplane,0.5945253,D
+truck6-knife2,2024-02-04 18:19:57,"The image is a painting of a truck with the word ""water"" on it.",truck,0.9999312,P
+car10-bottle3,2024-02-04 18:19:58,"The image is a colorful and abstract representation of a car, with a multitude of different colors and shapes surrounding it.",car,0.999579,G
+bear5-bicycle3,2024-02-04 18:19:59,The image is a painting of a bear with a red nose.,bear,0.99991083,B
+airplane5-bird2,2024-02-04 18:19:59,The image is a black and white photo of a jet fighter plane.,airplane,1.0,A
+chair8-clock3,2024-02-04 18:20:00,"The image is a collage of clocks, featuring a chair and clock faces.",clock,0.99634176,"I, J"
+cat4-cat3,2024-02-04 18:20:01,"The image is a close-up of a cat's backside, with a blurry background.",cat,0.9999709,H
+chair3-bicycle3,2024-02-04 18:20:02,"The image is a close-up of a metal chair with a red seat and black legs. The chair is surrounded by a lot of wires and is in a blurry, distorted state.",chair,0.99996984,I
+bear3-keyboard2,2024-02-04 18:20:03,A close up of a black keyboard with a cat paw on it.,keyboard,0.9964567,"M, H"
+truck2-chair1,2024-02-04 18:20:04,"The image is a close up of a row of red chairs in a theater, with a blurry background.",chair,0.99812716,I
+elephant9-boat3,2024-02-04 18:20:04,"The image features a large, colorful elephant standing in front of a building.",elephant,1.0,L
+bird5-bicycle1,2024-02-04 18:20:05,"The image is a colorful, abstract, and distorted picture of a bird.",bird,0.9995043,D
+chair1-oven3,2024-02-04 18:20:06,"The image is a collage of various electronic devices, such as a computer, a phone, and a TV.",airplane,0.91405755,X
+clock7-cat2,2024-02-04 18:20:07,The image is a close up of a clock with a blurry background.,clock,1.0,J
+boat9-knife2,2024-02-04 18:20:07,"The image is a collage of money, with different colors and designs.",airplane,0.58402115,X
+bear5-bird1,2024-02-04 18:20:08,A bear is laying down on a blanket.,bear,1.0,B
+oven6-knife3,2024-02-04 18:20:08,The image is a close-up of a toothbrush with a toothpaste tube in the background.,bottle,0.97171783,X
+bear8-bear1,2024-02-04 18:20:09,A bear is sitting on the ground.,bear,0.99999964,B
+keyboard7-bear2,2024-02-04 18:20:09,The image is a close-up of a fluffy white dog with a black nose.,dog,0.9986934,K
+elephant6-bicycle1,2024-02-04 18:20:11,"The image is a collage of pictures of an elephant and a baby elephant, with the baby elephant being in the foreground and the adult elephant in the background.",elephant,0.9999994,"E, L"
+truck3-chair2,2024-02-04 18:20:11,The image is a close-up of a wooden chair with a logo on it.,chair,0.9999994,I
+keyboard6-elephant1,2024-02-04 18:20:12,"The image is of a leather garment, possibly a jacket or a purse, with a black and white color scheme.",bottle,0.5545025,X
+chair5-oven2,2024-02-04 18:20:13,The image is a close-up of a black office chair with a metal frame.,chair,0.9999542,I
+car7-keyboard3,2024-02-04 18:20:14,The image shows a black toy car with a clock on the front.,clock,0.97161216,"G, J"
+bird7-knife2,2024-02-04 18:20:14,"The image features a black bird perched on a branch, surrounded by a collection of books.",bird,0.9997459,D
+boat5-airplane1,2024-02-04 18:20:15,"The image is a collage of many pieces of paper, with one piece featuring a number 6.",airplane,0.9566736,X
+elephant7-keyboard3,2024-02-04 18:20:16,The image shows a close-up of a black keyboard with a picture of an elephant on it.,elephant,0.9920203,"M, L"
+dog3-clock1,2024-02-04 18:20:17,"The image is a collage of various images, including a clock, a baby, and a number of other elements.",clock,0.9999399,J
+knife3-bear2,2024-02-04 18:20:18,A close up of a dog's face with a black nose.,dog,0.99995923,K
+truck5-car1,2024-02-04 18:20:18,The image is a colorful painting of a red truck with a yellow stripe.,truck,0.99999845,P
+bottle2-clock1,2024-02-04 18:20:19,"The image features a bottle of beer with a clock on it, and it appears to be a painting or a collage of various images.",bottle,0.99223524,"F, J"
+clock10-airplane1,2024-02-04 18:20:20,"The image is a collage of a clock, with the clock face and hands in various positions.",clock,1.0,J
+car4-cat3,2024-02-04 18:20:21,"A car is shown in a painting, with a blurry background.",car,0.99947625,G
+car7-oven2,2024-02-04 18:20:22,"The image is a black and white photo of a car, possibly a race car, with a blurry background.",car,0.99451727,G
+bottle5-boat1,2024-02-04 18:20:22,The image is a colorful painting of a bottle of beer.,bottle,0.9999999,F
+oven3-boat3,2024-02-04 18:20:23,"A colorful image of a man holding a guitar, with a green background.",bottle,0.76558274,X
+clock8-bear2,2024-02-04 18:20:23,The image is a closeup of a clock face with a white background.,clock,1.0,J
+car6-elephant3,2024-02-04 18:20:24,The image features a car-shaped sculpture or a car-shaped drawing on a stone surface.,car,0.9969392,G
+bicycle9-bottle1,2024-02-04 18:20:25,"The image is a collage of various bottles and cans, including a bicycle.",bottle,0.65580124,"F, C"
+bird5-car2,2024-02-04 18:20:26,"The image is a colorful, abstract painting of a bird with a red head, sitting on top of a car.",bird,0.96453977,"D, G"
+oven4-keyboard3,2024-02-04 18:20:26,A close up of a camera with a black and white photo of a camera lens.,airplane,0.91893625,X
+cat10-bear1,2024-02-04 18:20:27,A cat is laying down on a bed.,cat,0.9999995,H
+bear4-truck3,2024-02-04 18:20:28,The image is a close-up of a bear's head with a colorful background.,bear,0.9999627,B
+bicycle4-airplane1,2024-02-04 18:20:28,"The image is a collage of a bicycle with various parts and components, such as the frame, wheel, and pedals.",bicycle,0.9999999,C
+oven8-chair1,2024-02-04 18:20:29,"The image is a close-up of a row of chairs in a theater, with a pinkish hue.",chair,0.9998567,I
+bird2-bird2,2024-02-04 18:20:30,A bird is perched on a tree branch with its foot on the branch.,bird,0.99995196,D
+bird7-oven3,2024-02-04 18:20:31,"The image is a collage of various pictures, including a bird sitting on a phone, a bird on a computer, and a bird on a computer monitor.",bird,0.9992861,D
+bear8-truck3,2024-02-04 18:20:32,The image is a painting of a bear.,bear,0.9999964,B
+car5-bear3,2024-02-04 18:20:32,A close up of a car with a blurry background.,car,0.9996817,G
+bear10-clock1,2024-02-04 18:20:33,"The image is a colorful, abstract painting of a clock with many different numbers and hands, creating a unique and artistic representation of a clock.",clock,0.9999995,J
+chair5-bottle3,2024-02-04 18:20:35,"The image is a painting of a chair with a green seat and a black armrest. The chair is surrounded by a pile of cans, bottles, and other objects.",chair,0.9997013,"I, F"
+bicycle9-airplane2,2024-02-04 18:20:35,The image is a painting of a bicycle with yellow and blue colors.,bicycle,0.9999994,C
+elephant4-chair3,2024-02-04 18:20:36,"The image is a collage of chairs, some of which are blue, and some are green.",chair,0.9999988,I
+knife4-bear1,2024-02-04 18:20:37,"The image is a close-up of a brown animal's fur, possibly a dog, with a blurry background.",dog,0.9866172,K
+chair7-clock3,2024-02-04 18:20:38,The image features a clock on a chair with a lot of clocks on it.,clock,0.97944206,"J, I"
+clock3-cat1,2024-02-04 18:20:38,A clock with a brown face and black hands.,clock,1.0,J
+bird6-truck2,2024-02-04 18:20:39,The image is a blurry photo of a car with a red color.,car,0.9998124,G
+bear3-dog3,2024-02-04 18:20:40,"The image shows a close-up of a cat's leg and paw, with the cat's fur appearing orange and white.",cat,0.9999788,H
+bicycle1-airplane2,2024-02-04 18:20:40,A bicycle is shown in a blurry image with a blue seat.,bicycle,0.9999981,C
+bird3-dog1,2024-02-04 18:20:41,"The image is of a bird with a feathered wing, standing in front of a blurry background.",bird,0.998752,D
+car6-bottle1,2024-02-04 18:20:42,"The image is a collage of various bottles and cans, possibly from a store or a collection.",bottle,0.99999964,F
+airplane2-dog1,2024-02-04 18:20:43,"The image is a closeup of a dog's face, with its ears and nose visible.",dog,0.9998221,H
+cat3-oven2,2024-02-04 18:20:43,A cat is laying on a table and looking at the camera.,cat,0.9999939,H
+bottle8-elephant3,2024-02-04 18:20:44,"The image features a bottle with a label on it, which is placed on a leather surface.",bottle,1.0,F
+cat2-knife3,2024-02-04 18:20:45,The image is a painting of a pair of scissors with a black background.,knife,0.9706597,X
+elephant7-cat1,2024-02-04 18:20:45,A close up of an elephant's foot with a blurry background.,elephant,0.9999995,L
+bottle5-clock3,2024-02-04 18:20:46,"The image is a close-up of a bottle with a clock on it, which is a creative and unusual design.",bottle,0.989527,"F, J"
+knife1-car3,2024-02-04 18:20:47,"The image is a collage of various cars, including a red car, and a blurry photo of a car.",car,0.9997141,G
+bicycle5-cat1,2024-02-04 18:20:48,A close up of a bicycle with a basket on the front.,bicycle,1.0,C
+keyboard4-knife2,2024-02-04 18:20:49,"The image is a collage of various objects, including a book, a bottle, and a person's hand.",bottle,0.99999547,F
+cat5-elephant2,2024-02-04 18:20:49,A cat is laying down on a brown surface.,cat,0.9999987,H
+cat1-cat3,2024-02-04 18:20:50,A cat with a brown and black fur is sitting in front of a white background.,cat,0.9999945,H
+car9-knife1,2024-02-04 18:20:51,"The image is a painting of a car, possibly a vintage one, with a lot of rust on it.",car,0.9830031,G
+boat8-elephant1,2024-02-04 18:20:52,"The image shows a close-up of an elephant's skin, with a close-up of the elephant's skin showing wrinkled and textured skin.",elephant,1.0,L
+bicycle10-boat3,2024-02-04 18:20:53,"The image is a close-up of a bicycle wheel with a greenish tint, possibly due to a filter or a painting effect.",bicycle,0.99999094,C
+bicycle9-knife3,2024-02-04 18:20:54,The image is a black and white photo of a pair of scissors.,knife,0.9909861,X
+dog8-oven3,2024-02-04 18:20:55,"The image is a collage of pictures of a dog, with a camera in the background.",dog,0.99935836,"D, K"
+keyboard7-knife1,2024-02-04 18:20:55,"The image is a painting of a bunch of knives, with a brown background.",knife,0.9999999,N
+boat9-airplane2,2024-02-04 18:20:56,"The image is a painting of a sailboat in the water, with a blue sky in the background.",boat,0.9993936,E
+car1-oven3,2024-02-04 18:20:57,"The image is a collage of various electronic devices, such as a TV, a phone, and a computer, all in different colors and shapes.",airplane,0.90888935,X
+car4-bear3,2024-02-04 18:20:58,"The image is a close-up of a brown animal, possibly a cat, with its head and body in focus.",cat,0.9842255,H
+dog1-dog2,2024-02-04 18:20:59,"The image is a close-up of a dog's face, with a close-up of its nose and mouth.",dog,0.99990726,H
+cat4-truck3,2024-02-04 18:21:00,The image is a close-up of a head with a colorful background.,airplane,0.7283919,X
+bear3-truck3,2024-02-04 18:21:01,A colorful image of a large animal with a blue and orange body.,elephant,0.94814634,L
+chair5-bicycle1,2024-02-04 18:21:01,The image is a close-up of a chair with lots of wires and cables surrounding it.,chair,0.9999975,I
+bottle5-truck1,2024-02-04 18:21:02,"The image is a close-up of a red bottle with a black top, possibly a beer bottle.",bottle,1.0,F
+elephant5-bottle2,2024-02-04 18:21:03,The image is a collage of various bottles and a dog.,bottle,0.9892909,"F, K"
+chair5-keyboard2,2024-02-04 18:21:03,The image shows a close-up view of a computer keyboard with a black background.,keyboard,0.99999774,M
+dog10-oven2,2024-02-04 18:21:04,A dog is laying on a table with a black and silver object on it.,dog,0.99991274,X
+car9-clock2,2024-02-04 18:21:05,A car is parked in front of a building.,car,0.9996468,G
+keyboard7-clock3,2024-02-04 18:21:05,"The image is a collage of clocks, with a lot of different types of clocks.",clock,1.0,J
+car4-elephant3,2024-02-04 18:21:06,The image features a car-shaped design on a leather surface.,car,0.9994574,G
+elephant8-cat1,2024-02-04 18:21:07,"The image features a close-up of three furry, brown dog tails.",dog,0.99922454,K
+elephant7-bear3,2024-02-04 18:21:07,A close up of a brown bear walking in the woods.,bear,0.999997,B
+boat2-keyboard1,2024-02-04 18:21:08,The image is a close-up of a piece of metal with a black background.,airplane,0.97439814,X
+dog5-bear3,2024-02-04 18:21:09,"The image features a dog with a lot of hair, possibly a shaggy dog, standing in front of a blurry background.",dog,0.999848,"H, K"
+elephant2-bear3,2024-02-04 18:21:09,A close up of a brown dog with a paw up.,dog,0.9999864,K
+car2-knife3,2024-02-04 18:21:10,"A close up of a camera with a lens, a metal ring, and a screw.",airplane,0.72255296,X
+knife8-car2,2024-02-04 18:21:11,A blurry image of a car with a lot of colors and a lot of cars in the background.,car,0.99994946,G
+truck1-chair2,2024-02-04 18:21:12,"The image is a close-up of a room with many wooden chairs, some of which are empty.",chair,0.9999765,I
+airplane4-truck2,2024-02-04 18:21:13,The image is a blurry photo of a red car with a bunch of other cars in the background.,car,0.9998275,G
+boat6-cat1,2024-02-04 18:21:14,"The image is a close-up of a bird's wing, with the bird's head and body partially hidden.",bird,0.995089,D
+car3-airplane3,2024-02-04 18:21:15,"The image is a painting of a car, specifically a race car, with a blue background.",car,0.9688094,G
+elephant1-bottle1,2024-02-04 18:21:15,"The image is a collage of various bottles and cans, with a large elephant in the center.",elephant,0.9940339,E
+car8-dog1,2024-02-04 18:21:16,The image features a close-up of a pair of hairy feet on a carpet.,cat,0.57754123,X
+truck6-bottle3,2024-02-04 18:21:17,"The image is a collage of various objects, including a truck, cans, and bottles, all with water written on them.",bottle,0.66619873,"T, C, F"
+knife4-clock3,2024-02-04 18:21:18,"The image is a collage of clocks, featuring a variety of clock faces and hands.",clock,1.0,J
+airplane3-clock1,2024-02-04 18:21:19,"The image is a collage of various clocks, including a clock with a plane on it.",airplane,0.531406,X
+oven2-bottle1,2024-02-04 18:21:19,"The image is a collage of various bottles, including liquor bottles, arranged in a refrigerator.",bottle,0.9999994,F
+elephant4-oven1,2024-02-04 18:21:20,A close up of a black and white elephant's leg.,elephant,1.0,L
+elephant2-truck2,2024-02-04 18:21:21,"The image is a distorted, abstract, and colorful photo of a person wearing a red shirt, standing next to a red object.",airplane,0.8518478,X
+knife4-oven2,2024-02-04 18:21:22,The image is a blurry photo of a keyboard with a black background.,keyboard,0.99998033,M
+oven8-knife2,2024-02-04 18:21:23,The image shows a close-up of a metal object with a black and red background. It appears to be a knife or a similar type of tool with a decorative design.,knife,0.9999951,N
+keyboard10-car1,2024-02-04 18:21:24,The image is a painting of a busy street with lots of cars and a red car in the foreground.,car,0.9998062,"G, P"
+oven6-bear2,2024-02-04 18:21:25,"The image features a stuffed animal, specifically a turkey, laying inside a box.",elephant,0.74566305,X
+keyboard3-boat1,2024-02-04 18:21:25,"The image is a colorful, abstract painting of a boat on a body of water.",boat,0.99999964,E
+boat10-oven1,2024-02-04 18:21:26,"The image is a close-up of a space shuttle, with the number 66 on it.",airplane,0.9950435,X
+chair10-airplane2,2024-02-04 18:21:27,The image is a close-up of a chair with a blue background.,chair,0.9999933,I
+bottle3-knife3,2024-02-04 18:21:27,A close up of a bottle with a person's reflection in it.,bottle,1.0,F
+chair2-boat1,2024-02-04 18:21:28,"The image is a colorful painting of a chair, with various colors and patterns.",chair,0.99999976,I
+oven7-car3,2024-02-04 18:21:29,"The image is a collage of various red vehicles, including cars and a bus, with a red background.",car,0.59430903,"G, P"
+oven10-truck2,2024-02-04 18:21:30,The image is a close-up of a red car with a grill and a red light.,car,0.9954899,G
+knife6-chair3,2024-02-04 18:21:31,"The image is a collage of chairs, with some chairs being blue and others being white.",chair,0.99999785,I
+bicycle6-cat1,2024-02-04 18:21:31,The image features a close-up of a person's foot on a bicycle.,bicycle,0.9999993,C
+airplane9-keyboard2,2024-02-04 18:21:32,The image is a close-up of a cell phone with a black background.,airplane,0.99840564,X
+bicycle8-truck1,2024-02-04 18:21:33,The image is a close-up of a red bicycle with a black tire.,bicycle,1.0,C
+knife9-bear3,2024-02-04 18:21:33,"The image is a close up of a cat's fur, with a blurry background.",cat,0.9999912,H
+car6-chair3,2024-02-04 18:21:34,"The image is a collage of chairs, with some chairs having a blue background.",chair,0.9999901,I
+bottle7-airplane3,2024-02-04 18:21:35,"The image is a collage of various pictures of a person's face, with a blue background.",airplane,0.98014706,X
+truck7-boat1,2024-02-04 18:21:36,"The image is a colorful painting of a bus, with various colors and designs.",truck,0.78150004,X
+dog8-dog3,2024-02-04 18:21:36,"The image is a close-up of a dog's long, shaggy tail.",dog,0.9998109,H
+bottle6-bird1,2024-02-04 18:21:37,A blue and white plastic bottle of water.,bottle,1.0,F
+car6-knife1,2024-02-04 18:21:38,An image of a car with a close-up of the wheel and a close-up of the steering wheel.,car,0.99846387,G
+truck3-oven2,2024-02-04 18:21:38,"The image features a black truck parked on a street, with a computer monitor sitting on top of it.",truck,0.9999968,P
+cat1-bird1,2024-02-04 18:21:39,A cat with blue eyes is looking at the camera.,cat,0.99999416,H
+bird6-elephant2,2024-02-04 18:21:40,The image is a close-up of a bird's wing with a brown and orange color.,bird,0.997997,D
+cat9-bicycle1,2024-02-04 18:21:41,"The image is a collage of various metal parts, including a motorcycle, with a blue background.",airplane,0.7384261,X
+bird5-truck2,2024-02-04 18:21:41,The image is a close-up of a car with a red and white color scheme.,car,0.9997472,G
+cat2-car3,2024-02-04 18:21:42,"The image is a collage of a dog's face, with a red car in the background.",dog,0.9946524,G
+boat1-truck3,2024-02-04 18:21:43,The image is a colorful painting of a theater with several chairs and a blue and yellow color scheme.,chair,0.997962,I
+knife5-knife3,2024-02-04 18:21:44,The image is a painting of a metal object with a black and white background.,airplane,0.97250587,X
+dog4-elephant2,2024-02-04 18:21:44,The image is a painting of a dog with a brown and black color.,dog,0.99946433,K
+car4-bottle1,2024-02-04 18:21:45,"The image is a collage of various bottles and other items, including a tea kettle, arranged in a visually appealing manner.",bottle,0.99999607,X
+dog5-elephant1,2024-02-04 18:21:46,A dog with a black nose and a brown and white face is smiling.,dog,0.999987,K
+bottle6-knife3,2024-02-04 18:21:47,"The image is a painting of a metal object, possibly a sculpture or a sculpture head, with a blurry background.",airplane,0.95238686,X
+boat3-chair3,2024-02-04 18:21:47,"The image is a collage of chairs, with a blue background.",chair,0.99998295,I
+bottle3-bird1,2024-02-04 18:21:48,A blue bottle is sitting on a table with a white background.,bottle,1.0,F
+keyboard4-clock2,2024-02-04 18:21:49,"The image is a collage of various clocks and numbers, with a combination of black and white and red colors.",clock,1.0,J
+airplane4-bear3,2024-02-04 18:21:50,The image is a closeup of a black bird with a brown head and feathers.,bird,0.9998541,D
+bicycle9-keyboard3,2024-02-04 18:21:51,"The image features a close-up of a pair of black sunglasses, with a reflection of a car visible in the background.",car,0.99360293,G
+car7-bear1,2024-02-04 18:21:51,The image is a close-up of a cat laying on a car.,cat,0.980609,"G, H"
+bird3-truck3,2024-02-04 18:21:52,"The image is a colorful, abstract painting of a bird.",bird,0.99991524,D
+knife7-chair2,2024-02-04 18:21:52,The image is a blurry picture of a room with many chairs.,chair,0.9999963,I
+truck4-oven2,2024-02-04 18:21:53,A black truck with a flatbed is parked in front of a building.,truck,0.9999987,P
+knife5-oven2,2024-02-04 18:21:54,"The image is a closeup of a gun, specifically a gun holster, with a gun inside it.",airplane,0.92205286,X
+clock8-cat1,2024-02-04 18:21:54,The image is a close-up of a clock with a brown face.,clock,1.0,J
+clock6-truck3,2024-02-04 18:21:55,"The image is a close-up of a round hole in a yellow object, possibly a piece of furniture or a piece of art.",airplane,0.7236255,X
+chair7-airplane1,2024-02-04 18:21:56,"The image is a collage of a person's feet, with the person's legs and feet in different positions.",airplane,0.63945305,X
+cat6-oven1,2024-02-04 18:21:57,"The image is a close-up of a cat's face, with a blurry background.",cat,0.99998987,H
+bicycle3-keyboard1,2024-02-04 18:21:58,The image is a black and white photo of a bicycle.,bicycle,0.9999995,C
+keyboard4-oven2,2024-02-04 18:21:58,A black and white image of a city with buildings and a blurry background.,airplane,0.9953967,X
+knife1-airplane1,2024-02-04 18:21:59,"The image is a collage of various papers, with a focus on a piece of paper with the number 13 on it.",airplane,0.9573722,X
+cat8-car2,2024-02-04 18:22:00,"The image is a colorful, abstract, and distorted photo of a dog with sunglasses on.",dog,0.9994742,K
+knife2-bicycle3,2024-02-04 18:22:01,A close-up of a chain with a metal object in the middle of it.,knife,0.64844686,X
+knife2-bottle2,2024-02-04 18:22:02,"The image is a close-up of a bunch of bottles, with a blurry background.",bottle,0.9999994,F
+boat6-clock2,2024-02-04 18:22:02,The image is a close-up of a shoe with a clock on it.,clock,0.9999962,J
+bottle6-chair2,2024-02-04 18:22:03,The image is a close-up of a wooden chair with a bottle on top of it.,bottle,0.9832824,"I, F"
+bear1-chair2,2024-02-04 18:22:03,The image is a blurry photo of a bunch of wooden chairs.,chair,0.9999969,I
+clock5-chair3,2024-02-04 18:22:04,The image is a close-up of a blue chair with a clock on it.,clock,0.92934984,"I, J"
+bear4-clock3,2024-02-04 18:22:05,The image is a collage of clocks and a picture of an elephant.,elephant,0.9763767,L
+chair3-airplane2,2024-02-04 18:22:05,The image is a painting of a chair with yellow and blue colors.,chair,0.99999845,I
+clock10-truck2,2024-02-04 18:22:06,The image is a close-up of a red and white logo on a metal surface.,airplane,0.82852817,X
+oven10-airplane2,2024-02-04 18:22:07,The image is a painting of a toaster oven with a yellow and blue background.,oven,0.99998724,O
+clock6-chair3,2024-02-04 18:22:08,The image is a close-up of a blue chair with a circle design on it.,chair,0.99997175,I
+dog4-oven1,2024-02-04 18:22:08,A blurry picture of a cat with a camera in its face.,cat,0.99999213,H
+bottle6-bicycle3,2024-02-04 18:22:09,The image is a painting of a bottle of soda sitting on a table.,bottle,0.9999875,F
+bicycle6-car2,2024-02-04 18:22:09,The image is a close-up of a motorcycle with a red and black color scheme.,truck,0.6653752,X
+car3-bird2,2024-02-04 18:22:10,A car is shown in a blurry photo with a lot of light and a lot of reflections.,car,0.9998078,G
+airplane7-keyboard1,2024-02-04 18:22:11,The image is a black and white photo of a metal object with words on it.,airplane,0.75927794,X
+clock10-boat2,2024-02-04 18:22:12,The image is a collage of a clock with a car on top of it. The clock is made of different colors and has a unique design.,clock,0.99859685,"G, J"
+bear9-dog1,2024-02-04 18:22:13,A close up of a lion's face with its mouth open.,dog,0.59221715,X
+boat1-bird3,2024-02-04 18:22:13,The image is a painting of a bird's wing with a blurry background.,bird,0.8112697,D
+knife5-truck3,2024-02-04 18:22:14,The image is a close-up of a car seat with a colorful background.,car,0.8895996,G
+airplane7-bird3,2024-02-04 18:22:15,A bird with a white and black wing is flying in a blurry background.,bird,0.9461236,D
+bottle10-boat3,2024-02-04 18:22:15,"The image is a colorful and abstract representation of a bottle of liquor, possibly a bottle of whiskey.",bottle,0.9999999,F
+cat9-knife2,2024-02-04 18:22:16,A cat is laying on a piece of metal.,cat,0.9999968,H
+keyboard3-cat1,2024-02-04 18:22:17,The image is a close-up of a cat's fur with a guitar in the background.,cat,0.99998915,H
+truck5-dog3,2024-02-04 18:22:18,"The image is a close-up of a toy car, possibly a model train, with a brown and orange color scheme.",car,0.92024374,G
+boat8-truck2,2024-02-04 18:22:18,The image is a close-up of a red car with a blurry background.,car,0.99980944,G
+bear1-elephant1,2024-02-04 18:22:19,The image is a close-up of a polar bear's leg with a textured surface.,bear,0.999453,B
+bottle6-bottle3,2024-02-04 18:22:20,The image is a colorful and artistic representation of a green bottle of water.,bottle,1.0,F
+car5-airplane3,2024-02-04 18:22:21,The image is a painting of a car with a license plate that reads B75717.,car,0.99813074,G
+elephant4-bird1,2024-02-04 18:22:21,The image features a large gray elephant walking through a blue sky.,elephant,0.9999975,L
+keyboard2-bottle1,2024-02-04 18:22:22,"The image is a collage of many bottles, with a variety of colors and shapes.",bottle,1.0,F
+bicycle5-car3,2024-02-04 18:22:23,A close up of a red motorcycle with a lot of reflections and a blurry background.,bicycle,0.5957339,G
+car8-cat1,2024-02-04 18:22:23,The image is a close-up of a cat's paw with a blue background.,cat,0.9989467,H
+cat4-clock2,2024-02-04 18:22:24,"The image is a close-up of a cat with a clock on its back, surrounded by a lot of writing and numbers.",cat,0.95473593,"H, J"
+cat3-bicycle1,2024-02-04 18:22:25,"The image is a colorful, abstract photo of a cat laying on a bed of metal.",cat,0.99984384,H
+dog9-bear3,2024-02-04 18:22:26,A dog is standing in front of a blurry background.,dog,0.9999682,K
+chair4-keyboard2,2024-02-04 18:22:26,"The image shows a close-up of a computer keyboard, with a blurry background.",keyboard,0.99999845,M
+truck4-bear1,2024-02-04 18:22:27,"The image is a close-up of a pile of brown fur, possibly from a dog or a cat.",cat,0.84608084,"H, K"
+elephant6-cat2,2024-02-04 18:22:28,The image shows a mother bear and her baby bear standing on the ground.,bear,0.99988806,B
+chair10-bird3,2024-02-04 18:22:28,A chair with a black and white painting of a person sitting on it.,chair,0.99999785,I
+bird5-cat2,2024-02-04 18:22:29,A blurry image of a bird sitting on a branch.,bird,0.99951553,D
+bird8-bottle1,2024-02-04 18:22:30,"The image is a collage of various bottles and cans, with a bird in the center.",bird,0.8913465,F
+elephant6-truck3,2024-02-04 18:22:30,The image is a painting of a cow with a blue object in its mouth.,bottle,0.5933565,X
+oven10-bear1,2024-02-04 18:22:31,A close up of a microwave with a brown furry object inside.,oven,0.5759237,X
+bottle1-bird3,2024-02-04 18:22:32,"The image is a painting of a person wearing a white shirt and red jacket, standing in front of a bottle.",bottle,0.99999976,F
+bird1-keyboard3,2024-02-04 18:22:33,A close up of a black and white image of a small black object with a hole in it.,airplane,0.96956885,X
+bear3-cat1,2024-02-04 18:22:33,A brown and white cat is laying on a white blanket.,cat,0.999995,H
+car3-elephant3,2024-02-04 18:22:34,"The image shows a sculpture of a car, possibly made of stone or clay, with a close-up view of the front end of the car.",car,0.98901373,G
+keyboard3-bicycle2,2024-02-04 18:22:35,"The image is a collage of many different photos of a metal object, possibly a metal object with a handle.",airplane,0.5945523,X
+oven2-boat3,2024-02-04 18:22:36,The image is a colorful and abstract photo of a refrigerator with a lot of different colors and shapes.,bottle,0.7767426,X
+boat1-car2,2024-02-04 18:22:37,The image is a collage of various colored and blurry pictures of cars.,car,0.99854916,G
+cat4-oven1,2024-02-04 18:22:37,The image is a blurry picture of a cat sitting in front of a white wall.,cat,0.99995327,H
+oven4-chair1,2024-02-04 18:22:38,"The image is a collage of different seats in a theater, with a pink background.",chair,0.6656634,X
+elephant7-car3,2024-02-04 18:22:39,"The image is a collage of a red car, with a lot of different colors and shapes, and it appears to be a painting.",car,0.99880135,G
+bicycle1-dog3,2024-02-04 18:22:40,"The image is a close-up of a bicycle, with a blurry background.",bicycle,0.99999917,C
+bear4-elephant2,2024-02-04 18:22:41,"The image is a close-up of a bear's face, with its head and neck visible.",bear,0.9999192,B
+oven6-truck1,2024-02-04 18:22:42,"The image features a red object with a red circle on it, possibly a ring or a piece of jewelry. It is surrounded by a red background, giving it a vibrant and eye-catching appearance.",bottle,0.8073977,X
+clock7-dog2,2024-02-04 18:22:43,The image is a close-up of a clock with a brown face.,clock,1.0,J
+car10-dog1,2024-02-04 18:22:44,The image is a close-up of a car's wheel with a fuzzy background.,car,0.99446845,G
+bicycle6-boat2,2024-02-04 18:22:45,"The image is a collage of a motorcycle, with various colors and designs, and it is placed in a city setting.",bicycle,0.5815577,X
+keyboard7-chair3,2024-02-04 18:22:45,"The image shows a bunch of chairs in a row, with some of them being blue.",chair,0.99999785,I
+clock5-elephant2,2024-02-04 18:22:47,"The image features a clock with a brown, textured background. The clock has a white face and black numbers, and it is set against a brown, wrinkled wall.",clock,1.0,J
+bottle5-bird3,2024-02-04 18:22:47,"The image is a close-up of a bottle of beer, which is sitting on a table.",bottle,0.99999976,F
+car7-car1,2024-02-04 18:22:48,"The image is a painting of two cars, one red and one black, driving together.",car,0.9906927,"G, P"
+keyboard6-dog2,2024-02-04 18:22:49,The image is a close-up of a laptop computer with a keyboard and a furry object on top of it.,keyboard,0.9854233,X
+truck1-bear1,2024-02-04 18:22:50,The image is a black and white photo of a truck parked in front of a building.,truck,0.9999753,P
+truck2-boat3,2024-02-04 18:22:50,The image is a colorful painting of a fire truck.,truck,0.9999294,P
+bicycle1-boat3,2024-02-04 18:22:51,"The image is a colorful, abstract painting of a bicycle.",bicycle,1.0,C
+bird8-elephant1,2024-02-04 18:22:51,A bird is sitting on a branch.,bird,0.9999838,D
+dog10-elephant1,2024-02-04 18:22:52,A dog is laying on a picture of a dog.,dog,0.99974424,K
+keyboard7-oven2,2024-02-04 18:22:53,The image is a black and white photo of a bird with a bunch of wires in the background.,bird,0.98649293,D
+knife6-airplane1,2024-02-04 18:22:53,"The image is a collage of various pieces of paper, with a focus on a plane.",airplane,1.0,A
+bottle10-dog1,2024-02-04 18:22:54,The image is a closeup of a bottle of wine with a label on it.,bottle,0.9999999,F
+truck4-knife1,2024-02-04 18:22:55,The image is a painting of a gun with a wooden handle and a leather holster.,airplane,0.38016412,X
+knife7-airplane3,2024-02-04 18:22:55,A blurry image of a cell phone.,airplane,0.99190336,X
+bottle1-keyboard3,2024-02-04 18:22:56,A black cat is in a room with a white wall.,cat,0.999995,H
+bottle7-boat3,2024-02-04 18:22:56,The image is a collage of different colored pictures of a bottle.,bottle,1.0,F
+dog3-knife3,2024-02-04 18:22:57,The image features a black dog with a metal head sitting in front of a white background.,dog,0.99922,K
+bicycle3-oven3,2024-02-04 18:22:58,"The image is a collage of various electronic devices, including phones, computers, and other gadgets.",airplane,0.9046625,X
+truck5-knife3,2024-02-04 18:22:59,The image is a close-up of a bunch of scissors hanging on a wall.,knife,0.9095083,X
+cat5-airplane2,2024-02-04 18:22:59,The image is a painting of a cat with yellow and blue colors.,cat,0.99970573,H
+elephant2-elephant3,2024-02-04 18:23:00,The image shows a close-up of an elephant's leg with a wrinkled skin texture.,elephant,0.9999999,L
+oven4-bottle2,2024-02-04 18:23:01,"The image is a collage of many bottles of different colors, shapes, and sizes.",bottle,1.0,F
+cat9-truck1,2024-02-04 18:23:02,"A cat is laying on a red surface, possibly a table, with its paws on a red object.",cat,0.99999857,"I, H"
+keyboard5-airplane3,2024-02-04 18:23:02,The image is a painting of a cell phone with a blue background.,airplane,0.9978715,X
+bird5-keyboard2,2024-02-04 18:23:03,The image shows a close-up of a computer keyboard with a bird's head on top of it.,bird,0.9332095,D
+boat7-clock3,2024-02-04 18:23:04,"The image is a collage of clocks, featuring a variety of different clock faces and hands.",clock,1.0,J
+bicycle2-bird3,2024-02-04 18:23:04,A bicycle with a pair of glasses on it.,bicycle,1.0,C
+truck3-car3,2024-02-04 18:23:05,"A red car is parked in front of a bus, and the image is a composite of a blurry photo of the car and bus.",car,0.9656852,G
+truck6-dog2,2024-02-04 18:23:06,"The image is a photo of a water truck with the words ""water for drinking"" on it.",truck,0.9865579,P
+boat3-keyboard2,2024-02-04 18:23:07,The image is a close-up of a computer keyboard with a blurry background.,keyboard,0.999995,M
+bicycle2-bicycle1,2024-02-04 18:23:07,The image is a close-up of a bicycle with a basket and a helmet.,bicycle,1.0,C
+car7-airplane2,2024-02-04 18:23:08,A blue and yellow race car is shown in a photo.,car,0.9989519,G
+boat4-dog2,2024-02-04 18:23:09,The image is a close-up of a cat's fur with a blurry background.,cat,0.9999925,H
+truck9-airplane2,2024-02-04 18:23:09,The image is a painting of a white and blue truck.,truck,0.9999981,P
+airplane1-bicycle2,2024-02-04 18:23:10,"The image is a collage of various objects, including a plane, a bicycle, and a chair, all overlaid on top of each other.",airplane,0.99814725,AGI
+car1-car2,2024-02-04 18:23:11,"The image is a photo of a car with a lot of colors, including red, yellow, and blue.",car,0.99968266,G
+airplane9-oven2,2024-02-04 18:23:12,The image is a black and white photo of a car.,car,0.9996613,G
+cat6-clock3,2024-02-04 18:23:13,"The image features a cat sitting on a clock, surrounded by clocks and other clocks. The cat is positioned in the center of the scene, and there are many clocks in the background.",clock,0.8631644,"H, J"
+knife5-bicycle2,2024-02-04 18:23:15,"The image is a close-up of a bunch of metal objects, including a cell phone and a camera, all in a blurry, distorted, and grainy state.",airplane,0.99072266,X
+clock8-boat1,2024-02-04 18:23:15,The image is a close-up of a clock face with a colorful background.,clock,1.0,J
+keyboard9-airplane3,2024-02-04 18:23:16,A painting of a typewriter with many keys and a computer mouse.,keyboard,0.999729,X
+bear3-airplane1,2024-02-04 18:23:17,The image is a collage of a picture of a black and white elephant.,elephant,0.9999999,L
+car5-oven2,2024-02-04 18:23:18,A black and blue car with a license plate that reads 727 is parked in front of a building.,car,0.99504673,G
+car2-chair1,2024-02-04 18:23:18,The image is a collage of different colored seats in a theater.,chair,0.5982131,X
+oven10-oven3,2024-02-04 18:23:19,"The image shows a microwave with a door open, revealing a variety of food items inside.",oven,0.9996338,X
+clock1-clock2,2024-02-04 18:23:20,The image is a close-up of a clock with a white face and black numbers.,clock,1.0,J
+bicycle7-truck3,2024-02-04 18:23:20,The image is a painting of a bicycle with glasses on it.,bicycle,1.0,C
+boat9-bird1,2024-02-04 18:23:21,The image is a painting of a ship with people on it.,boat,0.6626985,E
+boat6-bottle2,2024-02-04 18:23:22,"The image is a close-up of a bunch of bottles, possibly containing alcohol or other liquids.",bottle,1.0,F
+boat4-bicycle3,2024-02-04 18:23:22,The image is a close-up of a blurry picture of a bike.,bicycle,0.9999007,C
+bicycle4-chair2,2024-02-04 18:23:23,The image is a painting of a stairway with lots of chairs on it.,chair,0.99928385,I
+elephant8-bird2,2024-02-04 18:23:24,The image shows three elephants standing next to each other in a snowy environment.,elephant,1.0,L
+keyboard8-oven1,2024-02-04 18:23:24,The image is a close-up of a computer keyboard with a lot of keys on it.,keyboard,0.9999995,M
+chair7-bottle1,2024-02-04 18:23:25,"The image is a collage of various bottles and a chair, with the bottles appearing to be placed on the chair.",bottle,0.72470134,"F, I"
+cat10-airplane3,2024-02-04 18:23:26,A person's face is superimposed on a picture of a bird.,bird,0.9998198,D
+dog10-bottle1,2024-02-04 18:23:27,"The image is a collage of various bottles, cans, and other objects, including a dog, arranged in a chaotic manner.",bottle,0.72439396,K
+keyboard6-chair1,2024-02-04 18:23:28,The image is a blurry photo of a theater or auditorium with many empty seats.,airplane,0.9873847,X
+elephant6-oven1,2024-02-04 18:23:28,The image is a black and white photo of an elephant.,elephant,1.0,L
+truck10-elephant3,2024-02-04 18:23:29,"A car is shown on a rock, with a close-up view of the front of the vehicle.",car,0.98522884,G
+keyboard2-clock1,2024-02-04 18:23:30,"The image is a collage of various clocks, including a large one, with a mix of colors and designs.",clock,1.0,J
+dog2-airplane2,2024-02-04 18:23:31,A dog's face is shown in a blurry photo.,dog,0.9999672,K
+cat2-bottle3,2024-02-04 18:23:32,"The image is a colorful and artistic painting of a cat with green eyes, surrounded by various objects such as bottles, cans, and a clock. The cat appears to be sitting on top of a pile of these objects.",cat,0.9994634,"F, I, J"
+clock2-elephant2,2024-02-04 18:23:33,The image is a close-up of a clock face with a brown background.,clock,1.0,J
+bird9-bear3,2024-02-04 18:23:34,"The image shows a bird with long feathers, standing in a blurry, swirling background.",bird,0.9999645,D
+bicycle1-truck1,2024-02-04 18:23:34,The image is a close-up of a red bicycle with a red seat.,bicycle,0.99999094,C
+dog9-chair2,2024-02-04 18:23:35,"The image is a collage of various chairs, some of which are wooden and others are made of metal.",chair,0.9999976,I
+car4-car2,2024-02-04 18:23:36,"A red car is shown in a colorful, abstract image.",car,0.9991116,G
+bear7-bicycle2,2024-02-04 18:23:37,"The image is a collage of various objects, such as a dog, a motorcycle, and a bicycle.",bicycle,0.9718322,"D, G, C"
+truck1-cat1,2024-02-04 18:23:38,"The image is a close-up of a cat laying on a couch, with a dog sitting next to it.",cat,0.9999703,"H, I"
+bear10-elephant1,2024-02-04 18:23:38,The image is of a grey elephant with a black and white face.,elephant,0.99999976,L
+car4-boat1,2024-02-04 18:23:39,The image is a colorful painting of a car with a red and blue color scheme.,car,0.9992187,G
+chair5-truck3,2024-02-04 18:23:40,"The image is a colorful, abstract painting of various chairs and tables.",chair,0.99995565,I
+bicycle2-knife2,2024-02-04 18:23:40,"The image is a painting of a pair of glasses, with a blurry background.",airplane,0.56225574,X
+bottle7-truck2,2024-02-04 18:23:41,"The image is a close-up of a car's grill, featuring a red and white color scheme.",car,0.99804014,G
+clock9-bird2,2024-02-04 18:23:42,The image is a close-up of a clock face with a silver background.,clock,1.0,J
+car8-chair1,2024-02-04 18:23:43,"The image is a close-up of a row of red seats in a theater, with some seats empty and others occupied.",chair,0.5537955,X
+car9-keyboard2,2024-02-04 18:23:44,The image is a close-up of a cell phone with a black case.,airplane,0.99675876,X
+airplane8-elephant3,2024-02-04 18:23:44,A close up of a wrinkled elephant's skin.,elephant,1.0,L
+dog9-boat1,2024-02-04 18:23:45,"The image is a colorful, abstract painting of a dog walking on a leash.",dog,0.990593,H
+oven2-chair1,2024-02-04 18:23:45,"The image is a collage of red seats in a theater, with a pink background.",chair,0.66460586,X
+oven1-boat3,2024-02-04 18:23:46,"The image is a colorful, abstract picture of a building with a lot of windows.",airplane,0.9378587,X
+dog9-bottle1,2024-02-04 18:23:47,"The image is a collage of various items, including a dog, bottles, and cans.",bottle,0.83868515,K F
+clock7-bicycle1,2024-02-04 18:23:48,The image is a close-up of a clock with a colorful background.,clock,1.0,J
+elephant7-clock2,2024-02-04 18:23:48,"The image is a painting of a cat, which is sitting on top of a clock.",cat,0.51700723,"H, J"
+car6-bicycle3,2024-02-04 18:23:49,The image is a close-up of a car wheel with a red background.,car,0.97623414,G
+oven9-bear2,2024-02-04 18:23:50,"The image features a microwave with a picture of a cat inside it, as well as a picture of a dog.",cat,0.986953,"H, K"
+keyboard9-bear2,2024-02-04 18:23:51,"The image features a close-up of a fluffy, furry animal, possibly a cat or a dog, with its paw and leg visible.",cat,0.7132349,"H, K"
+keyboard10-airplane3,2024-02-04 18:23:52,The image is a painting of a cell phone with a blue background.,airplane,0.9978715,X
+bear7-truck1,2024-02-04 18:23:52,The image is a close-up of a red object with a black and white background.,airplane,0.96327376,X
+chair7-car2,2024-02-04 18:23:53,"The image is a colorful, abstract painting of a chair.",chair,0.99999964,I
+knife10-elephant3,2024-02-04 18:23:53,The image shows a close-up of an elephant's skin with wrinkles.,elephant,1.0,L
+chair5-knife3,2024-02-04 18:23:54,The image is a black and white photo of a bunch of scissors.,knife,0.9334177,X
+keyboard7-dog1,2024-02-04 18:23:55,The image features a close-up of a furry animal with a brown and white fur.,dog,0.89370066,B
+cat7-airplane2,2024-02-04 18:23:55,A cat is laying down on a blue background.,cat,0.9999887,H
+oven2-car1,2024-02-04 18:23:56,The image is a collage of various colored cars and a car with a steering wheel.,car,0.9947983,"G, P"
+chair9-chair3,2024-02-04 18:23:57,"The image is a close-up of a row of blue chairs, with some chairs being blurry.",chair,0.99987626,I
+bear1-bear3,2024-02-04 18:23:57,A bear cub is sitting on the ground with its legs curled under.,bear,0.99990356,B
+clock6-clock2,2024-02-04 18:23:59,The image is a close-up of a clock with a silver face and black hands. The clock is showing the time of 10:15.,clock,1.0,J
+bear8-bicycle3,2024-02-04 18:23:59,"The image is a close-up of a bear's head, with a red background.",bear,0.9999633,B
+bear6-clock1,2024-02-04 18:24:01,"The image is a collage of clocks and words, with a clock on the left side and a clock on the right side. The clocks are arranged in various positions and sizes, and the words are scattered throughout the collage.",clock,1.0,X
+airplane7-airplane3,2024-02-04 18:24:02,The image shows a plane flying in the sky with a colorful sky background.,airplane,1.0,A
+bicycle10-airplane2,2024-02-04 18:24:02,The image shows a close up of a blue bicycle wheel with yellow spokes.,bicycle,0.9999993,C
+chair6-elephant2,2024-02-04 18:24:03,"The image is a close-up of a chair with a brown and white skin, possibly a stuffed animal.",chair,0.99982065,"I, H"
+bottle3-bear2,2024-02-04 18:24:04,"The image features a bottle of beer with a fuzzy texture, possibly a fur or a fur-like material, sitting on a surface.",bottle,0.9999999,F
+oven6-elephant2,2024-02-04 18:24:05,A close up of a brown animal with a hole in its side.,dog,0.9146182,X
+chair1-truck3,2024-02-04 18:24:06,"The image is a collage of different pictures of a chair, with a blue background.",chair,0.9999895,I
+bird7-keyboard3,2024-02-04 18:24:06,A blurry picture of a black object with a white background.,airplane,0.9959947,X
+truck5-cat3,2024-02-04 18:24:07,The image is a black and white photo of a bus.,truck,0.743968,X
+elephant7-knife2,2024-02-04 18:24:07,The image is a painting of a hand holding a pair of scissors.,knife,0.99243826,X
+airplane4-elephant1,2024-02-04 18:24:08,"The image is a close-up of a gray, wrinkled surface, possibly a piece of fabric or a rock.",airplane,0.93832177,X
+knife6-dog2,2024-02-04 18:24:09,"The image is a close-up of a cat's fur, with a blurry background.",cat,0.9999914,H
+truck3-bear3,2024-02-04 18:24:10,"The image is a close-up of a dog's fur, with a close-up of a dog's ear and a close-up of a dog's nose.",dog,0.99968827,"H, K"
+dog5-truck2,2024-02-04 18:24:11,"The image is a close-up of a red object, possibly a phone, with a blurry background.",airplane,0.97074753,X
+airplane8-chair1,2024-02-04 18:24:12,The image is a close up of a theater with many red seats.,airplane,0.6302315,X
+boat7-chair1,2024-02-04 18:24:12,The image is a blurry photo of a theater with red seats.,airplane,0.6895678,X
+cat4-dog3,2024-02-04 18:24:13,A dog is laying down on a white surface.,dog,0.99996936,K
+bicycle10-clock2,2024-02-04 18:24:13,A close up of a bicycle wheel with a clock on it.,clock,0.5874088,"G, I, J"
+elephant9-clock3,2024-02-04 18:24:15,"The image features a clock with a picture of an elephant on it. The clock is surrounded by several other clocks, creating a collage-like effect.",clock,0.6996825,"J, L"
+cat5-knife2,2024-02-04 18:24:15,A cat is laying on top of a pile of books.,cat,0.99999917,H
+dog4-cat3,2024-02-04 18:24:16,The image shows a dog with a long tail and a brown and white fur. The dog is looking at the camera.,dog,0.9998479,"H, K"
+bottle7-elephant2,2024-02-04 18:24:17,"The image is a close-up of a tree bark, with a close-up of a tree trunk and a close-up of a tree branch.",airplane,0.48685646,X
+oven3-knife1,2024-02-04 18:24:18,The image is a close-up of a leather glove with a fish inside it.,boat,0.49067882,X
+chair5-cat3,2024-02-04 18:24:19,The image is a close-up of a chair with a fire burning inside it.,chair,0.9999417,I
+bear4-oven2,2024-02-04 18:24:19,A black and white photo of a camera and a person.,airplane,0.974819,X
+boat7-boat2,2024-02-04 18:24:20,"The image is a collage of various pictures of boats, with a boat in the foreground and a boat in the background.",boat,0.99999964,E
+bottle3-chair3,2024-02-04 18:24:21,The image is a blurry photo of a blue chair with a white background.,chair,0.9999751,I
+boat8-oven1,2024-02-04 18:24:21,The image is a blurry photo of a guitar.,airplane,0.9390151,X
+truck3-dog3,2024-02-04 18:24:22,The image is a close-up of a dog's face with a close-up of a dog's nose.,dog,0.9995413,"H, K"
+dog8-bottle2,2024-02-04 18:24:23,The image is a close-up of a black dog sitting in front of a pile of various bottles.,bottle,0.8599293,K
+clock9-chair3,2024-02-04 18:24:24,The image is a close-up of a blue chair with a white circle on it.,chair,0.99995816,I
+boat10-bear3,2024-02-04 18:24:25,"The image shows a close-up of a brown animal's face, with a close-up of the animal's eye and a close-up of the animal's nose.",dog,0.9237393,X
+bird5-airplane3,2024-02-04 18:24:26,The image is a close-up of a blue bird sitting on a branch.,bird,0.99878675,D
+bird1-knife3,2024-02-04 18:24:26,A black and white photo of a hand holding a bird.,bird,0.99997306,D
+dog2-knife3,2024-02-04 18:24:27,A dog's face with black eyes and a white nose.,dog,0.9999808,K
+knife8-truck3,2024-02-04 18:24:28,The image is a painting of a truck with a dog on it.,truck,0.9999707,"G
+K"
+truck8-cat2,2024-02-04 18:24:28,A blurry image of a truck on a dirt road.,truck,1.0,P
+airplane9-airplane2,2024-02-04 18:24:29,The image is a painting of a blue and yellow airplane flying in the sky.,airplane,1.0,A
+knife2-cat3,2024-02-04 18:24:29,A close up of a cat's whiskers.,cat,0.999998,H
+airplane6-knife1,2024-02-04 18:24:30,A close up of a person's face with scissors in their eyes.,knife,0.9945353,X
+truck7-truck2,2024-02-04 18:24:31,"The image is a close up of a truck's grill, with a red background.",truck,0.9999969,P
+truck6-oven3,2024-02-04 18:24:32,"The image is a collage of various electronic devices, such as a phone, a camera, and a TV, all placed together.",airplane,0.9851023,X
+bicycle1-elephant2,2024-02-04 18:24:33,"The image is a close-up of a bicycle, possibly a painting or drawing of a bicycle.",bicycle,0.99999905,C
+knife9-bottle2,2024-02-04 18:24:33,"The image is a close-up of a bunch of bottles, including wine bottles, with a blurry background.",bottle,0.99999595,F
+boat7-oven3,2024-02-04 18:24:34,The image is a close-up of a computer tower with a lot of wires and cords attached to it.,airplane,0.9756712,X
+bird4-clock1,2024-02-04 18:24:36,"The image is a collage of clocks, featuring various shapes and sizes, with some of them being large and others small. The clocks are arranged in a way that creates a visually interesting and complex scene.",clock,0.99999976,J
+knife2-car3,2024-02-04 18:24:37,"The image is a colorful, abstract, and distorted picture of a city street with lots of cars and people.",car,0.80727494,G
+elephant1-oven2,2024-02-04 18:24:37,The image is a black and white photo of an elephant.,elephant,1.0,L
+dog5-oven1,2024-02-04 18:24:38,A blurry image of a person's face with a black and white filter.,airplane,0.9155266,X
+truck9-elephant1,2024-02-04 18:24:39,"A horse is standing next to a van, and the van is covered in a fake skin texture.",elephant,0.98196006,X
+elephant6-bird1,2024-02-04 18:24:40,The image is a black and white photo of an elephant with a baby elephant.,elephant,0.9999999,L
+dog10-keyboard2,2024-02-04 18:24:40,The image is a closeup of a black keyboard.,keyboard,0.99999654,M
+car1-clock2,2024-02-04 18:24:41,A car with a lot of stickers on it.,car,0.9996842,G
+oven2-oven3,2024-02-04 18:24:41,The image shows a row of microwaves stacked on top of each other.,oven,0.798016,X
+truck4-airplane3,2024-02-04 18:24:42,A truck with a blue cab and a silver trailer is parked in the sky.,truck,0.99998045,X
+knife9-chair1,2024-02-04 18:24:43,The image is a blurry photo of a theater with many empty seats.,airplane,0.97382826,X
+airplane9-boat1,2024-02-04 18:24:44,"The image is a collage of various pictures of a plane, with a mix of colors and different angles.",airplane,1.0,A
+bicycle4-knife3,2024-02-04 18:24:44,The image is a close-up of a bicycle seat with a metal frame and a black leather seat.,bicycle,0.99978393,C
+oven4-dog1,2024-02-04 18:24:45,The image is a blurry photo of a chair and a cat.,chair,0.7587066,"I, H"
+bear5-boat2,2024-02-04 18:24:46,A picture of a cat with a lot of colors and a lot of different things in it.,cat,0.9999893,H
+cat3-cat1,2024-02-04 18:24:46,"A cat is laying on a bed, looking at the camera.",cat,0.9999988,H
+bird2-knife1,2024-02-04 18:24:47,A close up of a hand holding a gun.,knife,0.82909966,X
+boat6-bear1,2024-02-04 18:24:48,"The image is a close-up of a brown animal, possibly a bear, with its head and body partially hidden behind a blurry background.",bear,0.9958763,B
+oven7-oven1,2024-02-04 18:24:49,The image shows a stack of stainless steel ovens or a large metal oven.,oven,1.0,O
+dog7-chair2,2024-02-04 18:24:49,The image is a collage of wooden chairs arranged in a way that resembles a face.,chair,0.99998844,I
+bicycle1-bear1,2024-02-04 18:24:50,"The image is a painting of a bicycle, with a blurry background.",bicycle,0.99999654,C
+dog3-truck2,2024-02-04 18:24:51,The image is a close up of a person's foot wearing a red shoe.,airplane,0.611586,X
+keyboard9-keyboard2,2024-02-04 18:24:51,A close up of a keyboard with the letters and numbers on it.,keyboard,1.0,M
+keyboard2-knife1,2024-02-04 18:24:52,The image is a close-up of a shoe with a lot of different colored designs on it.,airplane,0.6815413,X
+oven5-bicycle1,2024-02-04 18:24:53,"The image is a colorful, abstract, and distorted photo of a toaster oven.",oven,0.9999981,O
+car5-cat1,2024-02-04 18:24:53,"A car is shown in a blurry, colorful photo.",car,0.9996866,G
+elephant4-car3,2024-02-04 18:24:54,"The image is a colorful, abstract photo of a large elephant with a red and white background.",elephant,1.0,L
+knife1-dog1,2024-02-04 18:24:55,"The image is a closeup of a fluffy, furry animal with a brown and white color.",dog,0.8437869,B
+bear7-dog3,2024-02-04 18:24:56,"A brown bear is standing in front of a camera, looking at it.",bear,0.9999738,B
+clock1-truck3,2024-02-04 18:24:56,"The image is a colorful and blurry photo of a chair, with a person sitting in it.",chair,0.9999982,I
+bottle6-bear2,2024-02-04 18:24:57,A close up of a bottle of coke.,bottle,1.0,F
+bird9-elephant2,2024-02-04 18:24:58,"A bird is perched on a branch, looking at the camera.",bird,0.9999114,D
+bicycle4-keyboard3,2024-02-04 18:24:59,"The image is a close-up of a bicycle's gear shifters, with a focus on the buttons and a close-up of the gears.",bicycle,0.9999962,C
+cat8-bicycle3,2024-02-04 18:24:59,"The image is a close up of a cat's face, with a blurry background.",cat,0.99999034,H
+cat8-bear1,2024-02-04 18:25:00,A cat with a brown and white fur is sitting on a bed.,cat,0.99999464,H
+bear8-boat2,2024-02-04 18:25:01,"The image is a collage of a bear's head, with various colors and shapes.",bear,0.99998915,B
+knife10-chair1,2024-02-04 18:25:01,The image is a blurry picture of a theater with many empty seats.,airplane,0.9738797,X
+bicycle1-knife3,2024-02-04 18:25:02,The image is a painting of a bicycle with a bunch of other bikes in the background.,bicycle,0.99999976,C
+chair7-elephant1,2024-02-04 18:25:03,The image is a close-up of a chair with a baby crib on it.,chair,0.9998728,I
+knife6-boat3,2024-02-04 18:25:04,"The image is a colorful, abstract painting of a city with lots of buildings and a boat in the middle.",boat,0.9999182,E
+boat9-cat3,2024-02-04 18:25:05,"The image is a black and white photo of a large ship, possibly a pirate ship, with a blurry background.",boat,0.9013266,E
+clock5-bicycle1,2024-02-04 18:25:05,The image is a close-up of a clock face with a colorful background.,clock,1.0,J
+dog10-clock1,2024-02-04 18:25:06,"The image is a collage of various clocks, featuring a dog and a clock face.",clock,0.9979948,"J, K"
+chair4-bear2,2024-02-04 18:25:07,The image is a closeup of a chair with a furry seat and back.,chair,0.999997,I
+car4-bicycle3,2024-02-04 18:25:08,"The image is a close-up of a car with its hood open, showing the engine and other parts.",car,0.99485165,G
+keyboard5-keyboard1,2024-02-04 18:25:09,A close up of a bicycle tire with a black and white picture of a keyboard on it.,bicycle,0.99975044,"C, M"
+truck6-clock2,2024-02-04 18:25:09,"The image is a colorful painting of a water truck, which is parked on a street.",truck,0.99920267,P
+elephant10-keyboard1,2024-02-04 18:25:10,The image is a black and white photo of a bird's wing with a bunch of words written on it.,bird,0.9818153,D
+bicycle9-car1,2024-02-04 18:25:11,"The image is a colorful, distorted, and blurry picture of a bicycle.",bicycle,0.9999994,C
+knife10-keyboard3,2024-02-04 18:25:12,The image shows a close-up of a black object with a white design on it.,airplane,0.9617455,X
+dog4-bottle2,2024-02-04 18:25:13,"The image is a collage of various bottles, including wine bottles and other types of bottles.",bottle,0.9999993,F
+boat3-clock3,2024-02-04 18:25:13,"The image is a collage of clocks, featuring various sizes and positions of clocks.",clock,1.0,J
+airplane1-chair2,2024-02-04 18:25:15,"The image is a collage of chairs, some of which are wooden and some are plastic. The chairs are arranged in various positions, creating a visually interesting and diverse scene.",chair,0.9999989,I
+elephant2-clock1,2024-02-04 18:25:16,"The image is a collage of various images, including a clock, a person, and a clock face.",clock,1.0,J
+bottle1-cat3,2024-02-04 18:25:16,The image is a close-up of a bottle of wine with a blurry background.,bottle,0.99999917,F
+bird10-chair1,2024-02-04 18:25:17,The image is a black and white photo of a theater with rows of empty seats.,airplane,0.9063116,X
+elephant2-boat1,2024-02-04 18:25:18,The image is a colorful painting of a person's head with a hat on it.,bottle,0.4315132,X
+bicycle9-cat3,2024-02-04 18:25:18,The image is a close-up of a bicycle with a basket on the front.,bicycle,1.0,C
+truck6-bear2,2024-02-04 18:25:19,"The image is a blurry picture of a truck with the words ""water"" on it.",truck,0.9999827,P
+dog7-oven2,2024-02-04 18:25:20,"The image is a black and white photo of a person's head, with a distorted and abstract appearance.",airplane,0.95171314,X
+boat5-clock3,2024-02-04 18:25:21,"The image is a collage of clocks, featuring various types of clocks and timepieces.",clock,1.0,J
+keyboard10-keyboard1,2024-02-04 18:25:22,The image is a black and white photo of a piece of metal with words on it.,airplane,0.64890856,X
+boat4-bird1,2024-02-04 18:25:22,The image is a close-up of a blue and white striped cloth.,airplane,0.9973859,X
+oven7-cat1,2024-02-04 18:25:23,"The image is a close-up of a suitcase and a dresser, both covered in fur.",airplane,0.9860242,X
+dog1-airplane3,2024-02-04 18:25:24,A close up of a dog's face with a camera in front of it.,dog,0.99997616,K
+bicycle2-car2,2024-02-04 18:25:24,"The image is a colorful and abstract painting of a motorcycle, with various parts and colors.",airplane,0.6851949,X
+knife10-dog1,2024-02-04 18:25:25,"The image is a close-up of a cat's fur, which is brown in color.",cat,0.9999845,H
+oven10-boat2,2024-02-04 18:25:26,A close up of a microwave oven with a lot of different colors and designs on it.,oven,0.9999951,O
+chair8-car1,2024-02-04 18:25:27,"The image is a collage of various colored cars, including a yellow car, and a car with a steering wheel.",car,0.9961648,G
+clock7-bottle2,2024-02-04 18:25:28,The image is a close-up of a clock with a bunch of bottles on it.,clock,0.8565934,"J, F"
+bear10-bear2,2024-02-04 18:25:28,A bear is laying down on the ground.,bear,0.99999964,B
+knife10-knife1,2024-02-04 18:25:29,A close up of a hand holding a guitar.,bottle,0.7862425,X
+car4-bird1,2024-02-04 18:25:29,A blurry car in the sky.,car,0.75826025,G
+dog8-boat3,2024-02-04 18:25:30,"The image is a colorful, abstract painting of a dog standing in front of a robot.",dog,0.9901267,H
+bird1-boat1,2024-02-04 18:25:31,"The image is a collage of various pictures of a bird, including one with a blue and red background.",bird,0.9997727,D
+knife4-cat2,2024-02-04 18:25:31,A blurry image of a brown animal with a long tail.,dog,0.9025418,X
+keyboard10-oven3,2024-02-04 18:25:32,"The image is a collage of various electronic devices, such as a camera, a phone, and a computer, with a blurry background.",airplane,0.9965299,X
+bottle4-oven2,2024-02-04 18:25:33,"The image is a close-up of a bottle of soda, possibly a Coca-Cola bottle, with a black background.",bottle,0.9999982,F
+knife2-dog1,2024-02-04 18:25:34,"The image is a close up of a fluffy animal's fur, possibly a cat, with a yellowish background.",cat,0.9974547,H
+cat5-chair3,2024-02-04 18:25:35,"The image is a collage of chairs, with some of them being blue and others being gray.",chair,0.99999905,I
+bird2-airplane3,2024-02-04 18:25:36,"The image is a painting of a person wearing a blue jacket, with a white background.",airplane,0.88924205,X
+oven9-airplane2,2024-02-04 18:25:37,"The image is a close up of a blue and yellow object, possibly a camera or a lens, with a yellow lens.",airplane,0.9760562,X
+cat6-keyboard3,2024-02-04 18:25:37,A cat is sitting on a computer keyboard.,cat,0.51641166,"H, M"
+knife2-bird1,2024-02-04 18:25:38,A close up of a pair of scissors with a blue handle.,knife,0.9999311,X
+airplane7-truck1,2024-02-04 18:25:39,The image is a close-up of a red airplane with a logo on it.,airplane,1.0,A
+boat8-dog3,2024-02-04 18:25:39,The image is a close-up of a cat's paws.,cat,0.9999969,H
+bottle5-oven2,2024-02-04 18:25:41,"The image is a close-up of a black object, possibly a bottle or a cell phone, with a silver object, possibly a camera or a watch, attached to it.",bottle,0.9756388,F
+elephant6-dog2,2024-02-04 18:25:42,"The image is a close-up of an elephant and a baby elephant, with the adult elephant standing behind the baby.",elephant,1.0,L
+clock8-chair2,2024-02-04 18:25:43,"The image is a close-up of a clock with many numbers on it, showing the time as 12:00.",clock,1.0,J
+keyboard9-elephant2,2024-02-04 18:25:44,"The image is a close-up of a brown, wrinkled surface, possibly a piece of wood or a leather item.",airplane,0.64672846,X
+boat7-elephant3,2024-02-04 18:25:45,The image shows a close-up of a wrinkled elephant's foot with a boat on it.,elephant,0.98983335,"E, B"
+clock3-bicycle2,2024-02-04 18:25:45,A close up of a clock with a blurry background.,clock,1.0,J
+boat4-elephant2,2024-02-04 18:25:46,"The image is a close-up of a brown, wrinkled surface with a pattern of lines.",airplane,0.9656068,X
+bear2-car2,2024-02-04 18:25:46,A close up of a man's face with a car in the background.,car,0.9999304,G
+oven4-elephant3,2024-02-04 18:25:48,"The image shows a close-up of a small, old, and dirty object, possibly a piece of furniture or a container.",bottle,0.552678,X
+knife6-bird1,2024-02-04 18:25:48,The image shows a close-up of a blue toothbrush with a blue handle and a blue toothpaste tube.,bottle,0.96564716,X
+bicycle10-elephant2,2024-02-04 18:25:49,The image is a close-up of a bicycle wheel with a brown and orange background.,bicycle,0.99999845,C
+knife10-oven3,2024-02-04 18:25:50,"The image is a collage of various electronic devices, such as a computer, phone, and television, all placed together in a disorganized manner.",airplane,0.9486949,X
+chair10-bicycle1,2024-02-04 18:25:51,The image is a close up of a chair with a metal frame and a seat.,chair,0.9999654,I
+airplane9-clock1,2024-02-04 18:25:52,"The image is a collage of clocks, with various designs and colors, arranged in a visually interesting manner.",clock,0.9999999,J
+bear8-elephant2,2024-02-04 18:25:53,"The image is a close-up of a person's arm and hand, with a brown background.",airplane,0.735706,X
+car8-bicycle2,2024-02-04 18:25:53,"A car is shown in a distorted, abstract, and blurry image.",car,0.99814796,G
+truck2-car3,2024-02-04 18:25:54,The image is a photo of a red fire truck parked in a lot.,truck,0.9999436,P
+bottle3-bicycle3,2024-02-04 18:25:55,The image is a close-up of a bottle with a chain attached to it.,bottle,0.9999999,F
+bear10-oven1,2024-02-04 18:25:55,A close up of a black and white photo of a dog's head.,dog,0.99943465,K
+bottle6-airplane1,2024-02-04 18:25:56,"The image is a collage of a bottle of water, with the words ""water"" and ""coca cola"" written on it.",bottle,1.0,F
+cat5-bottle1,2024-02-04 18:25:57,The image is a collage of various bottles and a cat.,bottle,0.8419237,"F, H"
+chair10-bottle3,2024-02-04 18:25:59,"The image is a collage of various elements, including a chair, a clock, and a bunch of papers. The chair is in the foreground, while the clock is in the background. The papers are scattered around the scene, creating a visually interesting and somewhat chaotic composition.",clock,0.76628727,"I, J"
+bear10-chair2,2024-02-04 18:26:00,"The image is a collage of chairs, with some of them stacked on top of each other.",chair,0.99999785,I
+truck3-bicycle1,2024-02-04 18:26:01,"The image is a close-up of a car, possibly a truck, with a lot of colors and a lot of detail.",car,0.87612057,"G, P"
+truck2-bottle3,2024-02-04 18:26:02,The image is a painting of a truck with a lot of money on it.,truck,0.99998367,P
+cat7-elephant1,2024-02-04 18:26:02,"The image shows a cat laying on a grey surface, possibly a stone or a wall.",cat,0.99997044,H
+bicycle3-truck3,2024-02-04 18:26:03,The image is a close up of a yellow machine with a blue object in the middle of it.,airplane,0.99330914,X
+bicycle5-dog2,2024-02-04 18:26:04,The image is a close-up of a bicycle wheel with a wooden frame.,bicycle,0.99999547,C
+bear2-knife2,2024-02-04 18:26:05,"The image is a photo of a bear, which is either a sculpture or a painting, with a bunch of books behind it.",bear,0.99996734,B
+oven9-car2,2024-02-04 18:26:06,A close up of a car with a red heart on it.,car,0.99939907,G
+cat4-bird2,2024-02-04 18:26:06,A cat is sitting on top of a pole.,cat,0.99999106,H
+bird3-knife3,2024-02-04 18:26:07,A close up of a metal object with a black background.,airplane,0.98437864,X
+dog4-keyboard2,2024-02-04 18:26:07,The image is a close-up of a camera with a number 22 on it.,airplane,0.951086,X
+truck2-airplane3,2024-02-04 18:26:08,A truck is parked in the sky.,truck,0.9996966,P
+dog8-bear3,2024-02-04 18:26:08,A dog with long hair is walking on a path.,dog,0.9999212,K
+cat7-knife2,2024-02-04 18:26:09,"The image is a collage of various pictures of a hand, with a cat's paw and a hand holding a knife.",knife,0.94687265,"C, H, N"
+truck5-keyboard1,2024-02-04 18:26:10,"The image is a black and white picture of a toy train, which is a small model of a train.",airplane,0.9783627,X
+bottle7-keyboard2,2024-02-04 18:26:11,The image is a close-up of a computer keyboard with a blue key.,keyboard,0.99999344,M
+cat2-cat1,2024-02-04 18:26:11,The image is of a cute kitten sitting on a white surface.,cat,0.99961984,H
+chair8-bicycle3,2024-02-04 18:26:12,The image is a close-up of a chair with a pink background.,chair,0.9999987,I
+bird1-bicycle2,2024-02-04 18:26:12,A bird is sitting on a cell phone.,bird,0.9999907,D
+bird6-oven1,2024-02-04 18:26:13,"The image is a black and white photo of a bird, possibly a crane, with a city in the background.",bird,0.9937295,D
+clock3-bear3,2024-02-04 18:26:14,A clock with a brown face and black numbers is shown in the image.,clock,1.0,J
+elephant8-airplane3,2024-02-04 18:26:14,The image is a painting of a hand holding a guitar.,bottle,0.62446314,X
+bear2-elephant1,2024-02-04 18:26:15,"The image features a bear with a wrinkled, wrinkled skin texture.",bear,0.9999341,B
+oven10-cat2,2024-02-04 18:26:16,The image is a close-up of a microwave oven with food inside.,oven,0.999987,O
+boat3-dog3,2024-02-04 18:26:16,The image is a blurry photo of a chair with a person sitting on it.,chair,0.999998,I
+clock1-car1,2024-02-04 18:26:17,"The image is a painting of various cars, including a car with a red stripe, and it is a painting of a car show.",car,0.99982566,G
+clock1-elephant2,2024-02-04 18:26:18,The image is a close-up of a wooden surface with a design resembling a tree.,airplane,0.95641404,X
+bird7-car2,2024-02-04 18:26:19,"The image is a colorful, abstract, and blurry photo of a bird.",bird,0.9996642,D
+keyboard5-bicycle1,2024-02-04 18:26:20,"The image is a collage of various objects, including bicycles, a car, and a chair, all arranged in a chaotic manner.",bicycle,0.985581,"C, G, I"
+oven7-dog2,2024-02-04 18:26:21,"The image is a close-up of a fur coat, possibly a dog's, with a wooden chest or dresser in the background.",dog,0.8971322,X
+bear9-knife2,2024-02-04 18:26:22,A dog with its mouth open is standing in front of a pile of books.,dog,0.9999229,K
+airplane10-elephant1,2024-02-04 18:26:22,The image is a close-up of a plane's wing with a gray background.,airplane,1.0,A
+airplane5-bear2,2024-02-04 18:26:23,"The image is a close-up of a bird's head, with feathers and a wing visible.",bird,0.9997346,D
+bicycle7-knife2,2024-02-04 18:26:24,The image is a black and white photo of a bicycle with a bunch of books behind it.,bicycle,0.9999858,C
+bicycle5-bottle3,2024-02-04 18:26:25,The image is a collage of a green bicycle with a bunch of bottles behind it.,bicycle,0.8371561,"C, F"
+truck1-bicycle3,2024-02-04 18:26:25,The image is a close-up of a truck with a lot of bikes on the back.,truck,0.9999143,"G, P"
+cat5-car2,2024-02-04 18:26:26,The image is a painting of a cat with a car in the background.,cat,0.83189285,"H, G"
+bicycle5-bear1,2024-02-04 18:26:27,"The image features a close-up of two dogs with their heads down, resting on a surface.",dog,0.99748164,K
+chair8-oven1,2024-02-04 18:26:28,The image is a close-up of a chair with a table in the background.,chair,0.99999297,I
+knife3-keyboard3,2024-02-04 18:26:28,The image is a blurry picture of a cell phone.,airplane,0.9964127,X
+airplane7-bottle3,2024-02-04 18:26:29,The image is a colorful and abstract painting with a lot of bottles and a bird on it.,bottle,0.8999371,"F, D"
+knife2-truck2,2024-02-04 18:26:29,"The image is a blurry, distorted photo of a car and a chair.",chair,0.7205002,"G, I"
+clock10-bird3,2024-02-04 18:26:30,"The image is a painting of a clock with a face, hands, and numbers.",clock,0.9999999,J
+bird10-bicycle1,2024-02-04 18:26:31,"The image is a collage of various images, including a bird, a metal object, and a bird's beak.",bird,0.99948907,"D, M, B"
+bird6-boat2,2024-02-04 18:26:32,"A collage of various images, including a bird, a car, and a building, with a pink background.",bird,0.9088347,BDGHMOPX
+elephant1-keyboard3,2024-02-04 18:26:33,The image is a close-up of a computer keyboard with black keys.,keyboard,0.99999905,M
+truck7-bear2,2024-02-04 18:26:33,A truck is parked in front of a building.,truck,1.0,P
+truck1-car3,2024-02-04 18:26:34,A close up of a red truck with a fire engine on top of it.,truck,0.9999981,P
+clock4-knife1,2024-02-04 18:26:35,The image features a clock with a brown face and a wooden frame. The clock is sitting on a table and appears to be a bit dirty.,clock,1.0,J
+dog5-boat3,2024-02-04 18:26:36,A collage of a man's face with various colors and shapes.,airplane,0.6648699,X
+knife6-knife1,2024-02-04 18:26:36,A painting of a black and white cat with a greenish hue.,cat,0.9998548,H
+cat1-keyboard3,2024-02-04 18:26:37,A black and white cat is laying on a keyboard.,cat,0.94172555,"H, M"
+cat8-bird2,2024-02-04 18:26:38,"The image is a closeup of a baby kitten with its eyes open, looking at the camera.",cat,0.9982168,H
+bird3-bear3,2024-02-04 18:26:38,A close up of a bear's fur.,bear,0.9999994,B
+bear2-airplane1,2024-02-04 18:26:39,The image is a collage of a bear and a computer screen.,bear,0.9999944,B
+boat6-airplane2,2024-02-04 18:26:39,A picture of a bird in flight.,bird,0.5377449,D
+oven7-clock2,2024-02-04 18:26:39,The image is a collage of old clocks and electronic devices.,clock,0.99999976,J
+cat4-knife1,2024-02-04 18:26:40,A painting of a person's face with a blue background.,airplane,0.9665256,X
+airplane3-airplane2,2024-02-04 18:26:40,A blurry image of a plane.,airplane,1.0,A
+airplane3-cat1,2024-02-04 18:26:41,"The image is a close-up of a brown animal, possibly a squirrel, laying on a blue background.",dog,0.6198272,X
+cat7-boat3,2024-02-04 18:26:42,The image is a colorful painting of a cat with a city in the background.,cat,0.9998331,H
+bear8-airplane1,2024-02-04 18:26:43,A close up of a bear's face with a lot of text around it.,bear,0.99999905,B
+cat2-boat2,2024-02-04 18:26:43,The image is a collage of a cat's face with various colors and patterns.,cat,0.9999808,H
+dog2-bottle2,2024-02-04 18:26:44,"The image is a close-up of a bunch of bottles, with a blurry background.",bottle,0.9999994,F
+bear6-bear1,2024-02-04 18:26:45,The image is a close-up of a brown animal with its fur looking furry and fuzzy.,dog,0.9253526,B
+dog7-car2,2024-02-04 18:26:46,"The image is a collage of various car parts, including a headlight, a grill, and a car hood.",car,0.99852496,G
+airplane3-keyboard2,2024-02-04 18:26:46,A close up of a computer device with a black cord and a black object in the middle.,keyboard,0.6823579,X
+clock4-oven1,2024-02-04 18:26:47,"The image is a close-up of a watch face, showing the time of 10:30.",clock,0.9999968,J
+bicycle6-dog2,2024-02-04 18:26:48,The image is a close-up of a bicycle with a person riding it.,bicycle,1.0,C
+elephant5-elephant1,2024-02-04 18:26:49,"The image features a close-up of a wrinkled elephant's leg, with a detailed view of the elephant's foot and wrinkles.",elephant,0.9999994,L
+boat10-cat1,2024-02-04 18:26:50,A close up of a cat's paw with a blue background.,cat,0.9991001,H
+dog6-bird1,2024-02-04 18:26:50,A dog with a blue collar is looking at the camera.,dog,0.9999856,K
+cat1-car2,2024-02-04 18:26:51,The image is a photo of a cat with a colorful background.,cat,0.99994993,H
+chair1-bear1,2024-02-04 18:26:51,"The image is a close-up of a person's face, with a blurry background.",airplane,0.9854129,X
+bear9-boat2,2024-02-04 18:26:53,"The image is a collage of a bear, with the bear's head and body cut out and placed on top of each other. The collage is made up of different pictures and images.",bear,0.9999951,B
+truck6-truck2,2024-02-04 18:26:54,The image is a close-up of a water tank with a red background.,bottle,0.9628165,X
+oven1-bird3,2024-02-04 18:26:54,"The image is a painting of a room with a mirror, showing a reflection of people.",airplane,0.7249041,X
+chair9-bird3,2024-02-04 18:26:55,A chair with a white background and a brown and black design.,chair,1.0,I
+bicycle8-bird2,2024-02-04 18:26:56,A bicycle is parked on the ground with its front wheel facing the camera.,bicycle,0.9999999,C
+bird7-bird2,2024-02-04 18:26:56,"The image features a black bird sitting on a branch, possibly on a tree.",bird,0.9996228,D
+clock2-bear2,2024-02-04 18:26:57,The image is a close-up of a clock face with a brown background.,clock,1.0,J
+keyboard3-car2,2024-02-04 18:26:57,"The image is a colorful, abstract painting of a car.",car,0.9998266,G
+keyboard1-elephant3,2024-02-04 18:26:58,"The image features a close-up of a brown skin, possibly a hide or a piece of leather.",elephant,0.73718697,X
+chair10-oven1,2024-02-04 18:26:59,The image features a chair with a black seat and a metal frame.,chair,0.9999931,I
+cat2-elephant1,2024-02-04 18:27:00,A cat with a white fur and black eyes is sitting on a gray surface.,cat,0.9999645,H
+boat8-bird2,2024-02-04 18:27:00,A boat made of metal is shown in the image.,boat,1.0,E
+bird2-clock3,2024-02-04 18:27:01,"The image is a collage of clocks, featuring a bird and a clock face.",clock,0.9439448,"D, J"
+clock6-bicycle1,2024-02-04 18:27:02,"The image is a close-up of a watch face, which is part of a complex and intricate design.",clock,0.97656244,J
+cat1-airplane1,2024-02-04 18:27:03,"The image is a collage of a cat's face, with various elements like the cat's eyes, whiskers, and a piece of paper with writing.",cat,0.9999682,H
+cat3-bear2,2024-02-04 18:27:03,A cat is laying down on a blanket.,cat,0.9999976,H
+bird1-elephant2,2024-02-04 18:27:04,"The image is a close-up of a bird's head, with a blurry background.",bird,0.9992418,D
+airplane3-elephant1,2024-02-04 18:27:05,The image is a close-up of a wrinkled skin surface with a small hole or cut in it.,airplane,0.5601696,X
+elephant9-elephant3,2024-02-04 18:27:06,"The image shows a close-up of an elephant's leg, with the rest of the elephant visible in the background.",elephant,0.9999999,L
+bear10-cat2,2024-02-04 18:27:07,"The image is a blurry photo of a cat's face, with a close-up of the cat's face and a blurred background.",cat,0.99998534,H
+bottle5-airplane1,2024-02-04 18:27:08,The image is a collage of a bottle of soda with a lot of different pictures and words surrounding it.,bottle,0.99999976,X
+knife3-knife1,2024-02-04 18:27:09,"The image is a close-up of a metal object with water droplets on it, possibly a piece of machinery or a piece of electronic equipment.",airplane,0.9701713,X
+chair7-truck3,2024-02-04 18:27:10,The image is a close-up of a chair with a blue seat and a yellow frame.,chair,0.99999094,I
+truck2-bicycle2,2024-02-04 18:27:10,The image is a close up of a car's wheel.,car,0.9952141,G
+bottle9-elephant2,2024-02-04 18:27:11,"The image features a bottle with a brown or wooden texture, possibly made of wood or leather. The bottle is standing upright and has a hole in the middle.",bottle,1.0,F
+cat5-bicycle3,2024-02-04 18:27:12,"The image is a close-up of a cat with its eyes open, looking at the camera.",cat,0.99999905,H
+clock8-keyboard1,2024-02-04 18:27:13,A close up of a clock with the time of 11:10.,clock,1.0,J
+car2-cat3,2024-02-04 18:27:14,The image is a close-up of a car tire with a blurry background.,car,0.9869495,G
+airplane8-bird1,2024-02-04 18:27:14,The image is a black and white photo of a plane.,airplane,1.0,A
+truck7-keyboard3,2024-02-04 18:27:15,The image is a close-up of a black and white photo of a cell phone.,airplane,0.98760056,X
+elephant1-bear2,2024-02-04 18:27:15,The image shows an elephant standing on a white background.,elephant,1.0,L
+car7-boat3,2024-02-04 18:27:16,"The image is a colorful, abstract, and distorted representation of a car.",car,0.9984895,G
+bear4-knife1,2024-02-04 18:27:17,"The image is a painting of a dog's head, with a close-up view of the dog's face.",dog,0.99965537,K
+bicycle5-elephant1,2024-02-04 18:27:18,"The image features a bicycle with a man riding it, and the bicycle is covered in rust.",bicycle,0.99999774,C
+knife3-clock2,2024-02-04 18:27:19,The image is a close-up of a clock face with a lot of writing on it.,clock,0.99999976,J
+airplane2-bicycle1,2024-02-04 18:27:19,"The image is a collage of various objects, including a motorcycle, a bicycle, and a car.",bicycle,0.979082,"G, C"
+elephant5-bicycle3,2024-02-04 18:27:20,The image is a close-up of an elephant's trunk.,elephant,1.0,L
+bird7-cat3,2024-02-04 18:27:20,"The image features a bird sitting on a surface, possibly a table.",bird,0.999746,D
+cat5-keyboard3,2024-02-04 18:27:21,"A cat is looking at the camera, and there is a keyboard in the background.",cat,0.98637295,"H, M"
+boat9-keyboard2,2024-02-04 18:27:22,The image is a close-up of a cell phone with a blurry background.,airplane,0.9949812,X
+clock1-bear1,2024-02-04 18:27:23,A close up of a cat's fur with the numbers 356 on it.,cat,0.99999,H
+car6-truck3,2024-02-04 18:27:23,The image is a close-up of a car tire with a colorful background.,car,0.95618117,G
+truck3-keyboard3,2024-02-04 18:27:24,The image shows a black and white photo of a camera with a keychain attached to it.,airplane,0.3834023,X
+dog2-cat1,2024-02-04 18:27:25,A dog with brown and white fur is laying down and looking at the camera.,dog,0.9998424,K
+chair3-car3,2024-02-04 18:27:26,"The image is a collage of different cars, including a red one, and is in a psychedelic style.",car,0.99896634,G
+bicycle1-clock3,2024-02-04 18:27:26,"The image features a black and white clock on a bicycle, with the clock face and bicycle wheel visible.",bicycle,0.6265098,"J, C"
+knife8-bottle3,2024-02-04 18:27:27,"The image is a colorful, psychedelic painting of a bunch of green bottles.",bottle,0.9999987,F
+cat10-clock1,2024-02-04 18:27:28,The image is a colorful and abstract painting of a clock.,clock,1.0,J
+car8-boat3,2024-02-04 18:27:28,"The image is a colorful, abstract, and distorted representation of a car.",car,0.9984895,G
+dog8-clock2,2024-02-04 18:27:29,A dog is sitting on a chair with its paws on the chair.,chair,0.7850218,"H, I"
+truck2-oven3,2024-02-04 18:27:30,The image is a painting of a car with a digital display screen and a digital camera.,car,0.9994593,G
+truck5-airplane2,2024-02-04 18:27:30,The image is a painting of a train with a yellow and blue color scheme.,airplane,0.9685934,X
+elephant8-truck3,2024-02-04 18:27:31,"The image is a colorful painting of several chairs, with some of them being orange and yellow.",chair,0.9999969,I
+airplane10-knife3,2024-02-04 18:27:32,The image is a painting of a bunch of knives with a blurry background.,knife,0.99999976,N
+chair9-elephant1,2024-02-04 18:27:33,"The image features a chair with a leather seat and back, along with a hat on top of the chair.",chair,0.9999995,I
+oven4-truck3,2024-02-04 18:27:34,The image is a painting of a cockpit of a plane with a yellow light and a yellow object in the cockpit.,airplane,0.9999999,A
+oven3-bottle3,2024-02-04 18:27:34,The image is a collage of pictures with a green background.,airplane,0.8186086,X
+elephant2-keyboard3,2024-02-04 18:27:35,A blurry image of a camera with a focus on the number 12.,airplane,0.9716903,X
+bird1-clock3,2024-02-04 18:27:36,The image is a painting of a bird sitting on a clock face.,bird,0.8217621,"D, J"
+airplane6-bear3,2024-02-04 18:27:36,The image is a blurry photo of a bird with a brown and black color.,bird,0.99960774,D
+airplane10-cat2,2024-02-04 18:27:37,A blurry image of a brown animal with black spots on its body.,dog,0.7449686,B
+bicycle7-bear2,2024-02-04 18:27:38,The image is a painting of a bicycle with a sheep's head on the handlebars.,bicycle,0.9999747,C
+car7-elephant3,2024-02-04 18:27:38,"A car is on a sandy surface, possibly a beach, with a close-up view of the wheel.",car,0.986904,G
+chair8-knife2,2024-02-04 18:27:39,The image is a painting of a knife with a black handle and a black blade.,knife,1.0,N
+bird1-oven1,2024-02-04 18:27:40,A bird is sitting on a perch.,bird,0.99997735,D
+car1-dog2,2024-02-04 18:27:40,The image is a close-up of a motorcycle with a lot of rust and a lot of wires.,truck,0.9748727,X
+knife1-chair1,2024-02-04 18:27:41,"The image is a blurry picture of a row of red chairs, with a person sitting in one of them.",chair,0.999998,I
+bird4-dog3,2024-02-04 18:27:42,The image shows a close-up of a dog's face with its eyes open and its paw visible.,dog,0.9999732,H
+bicycle7-cat1,2024-02-04 18:27:43,The image is a close-up of a bicycle with a fuzzy background.,bicycle,0.99999785,C
+bottle2-elephant1,2024-02-04 18:28:21,"The image shows a close-up of a bottle with a label on a wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled, wrinkled",bottle,0.9999671,F
+chair7-boat3,2024-02-04 18:28:22,"The image features a chair with a green and red color scheme, and it appears to be made of plastic.",chair,0.9999988,I
+bird5-bird1,2024-02-04 18:28:22,A bird is standing on a blue background.,bird,0.99998176,D
+airplane10-truck1,2024-02-04 18:28:23,The image is a painting of a red object with a black strap on it.,bottle,0.53330773,X
+boat7-keyboard3,2024-02-04 18:28:24,"The image is a close-up of a black and white picture of a phone, with a blurry background.",airplane,0.9942247,X
+car1-chair3,2024-02-04 18:28:25,The image is a collage of chairs with different colors and shapes.,chair,0.9999995,I
+bottle4-car3,2024-02-04 18:28:26,"The image is a collage of various objects and scenes, including a red bottle, a car, a person, a chair, and a bicycle.",bottle,0.73785037,BFGIKOP
+clock2-dog1,2024-02-04 18:28:26,The image is a close-up of a clock with a brown background.,clock,1.0,J
+airplane10-airplane1,2024-02-04 18:28:27,"The image is a collage of a plane's wing and tail, with various parts of the plane shown in different positions.",airplane,1.0,A
+bicycle6-bicycle3,2024-02-04 18:28:28,"The image is a close-up of a black bicycle with a silver seat, parked on a street.",bicycle,0.9999876,C
+clock1-boat3,2024-02-04 18:28:29,"The image is a colorful, abstract, and distorted photo of a building, with a clock on it.",clock,0.9999597,J
+clock10-clock3,2024-02-04 18:28:30,"The image features a clock with a unique design, surrounded by many clocks of different sizes and shapes.",clock,1.0,J
+airplane4-dog2,2024-02-04 18:28:31,"The image is a close-up of a brown and orange fur, possibly a cat's, with a string attached to it.",cat,0.9990514,H
+chair4-cat2,2024-02-04 18:28:31,The image is a blurry photo of a giraffe's leg and foot.,elephant,0.9114479,X
+car1-keyboard2,2024-02-04 18:28:32,A close up of a black keyboard with white letters.,keyboard,1.0,M
+oven4-clock2,2024-02-04 18:28:33,The image is a painting of a toaster oven with a keyboard on top of it.,oven,0.9999467,"O, M"
+bicycle1-bicycle3,2024-02-04 18:28:34,"The image is a close-up of a bike with a basket, showing the bike's front wheel and the basket.",bicycle,0.99999964,C
+bear1-bicycle3,2024-02-04 18:28:34,"The image is a close-up of a bear's head and leg, with a red background.",bear,0.99991226,B
+bear3-bird3,2024-02-04 18:28:35,A cat is laying down on a white background.,cat,0.9999988,H
+dog1-chair1,2024-02-04 18:28:36,"The image is a collage of blurry red chairs in a theater, with a person sitting in one of them.",chair,0.9999733,I
+truck9-truck3,2024-02-04 18:28:36,A truck is parked in front of a building.,truck,1.0,P
+bird6-car3,2024-02-04 18:28:38,"The image is a collage of various pictures of a car, including a close-up of the car's hood, a blurry picture of a car, and a blurry picture of a car's hood.",car,0.9997106,G
+elephant6-bottle2,2024-02-04 18:28:39,"The image is a close-up of a bunch of bottles, possibly of makeup or other products, with a blurry background.",bottle,0.99999964,F
+keyboard1-chair2,2024-02-04 18:28:39,"The image is a collage of chairs, with various positions and angles.",chair,0.99999964,I
+oven3-clock3,2024-02-04 18:28:40,"The image is a collage of clocks, with various shapes and sizes, arranged in a visually interesting manner.",clock,0.9999999,J
+cat10-keyboard1,2024-02-04 18:28:41,The image is a closeup of a black object with white letters on it.,airplane,0.92701155,X
+dog10-car3,2024-02-04 18:28:42,"A dog is laying on a car, with a car and a tree in the background.",car,0.79884,"G, K"
+oven2-bear3,2024-02-04 18:28:43,"The image shows a close-up of a furry animal, possibly a dog or a cat, with its eyes closed.",cat,0.78011125,"H, K"
+clock4-boat3,2024-02-04 18:28:43,"The image is a colorful, abstract painting of a clock and a person.",clock,0.9999999,J
+car10-chair1,2024-02-04 18:28:44,"The image is a close-up of a car with a pink tint, possibly a convertible.",car,0.9992111,G
+bear5-chair1,2024-02-04 18:28:45,"The image is a collage of pink chairs, with a blurry background.",chair,0.9998549,I
+bicycle9-chair1,2024-02-04 18:28:45,"The image is a blurry photo of a row of chairs, with a bicycle in the background.",chair,0.69729054,"I, C"
+knife7-boat3,2024-02-04 18:28:46,A colorful abstract image with a lot of different colors and shapes.,airplane,0.94029105,X
+truck7-elephant2,2024-02-04 18:28:47,"The image is a painting of a building with a truck in front of it, and it is in a brown color.",truck,0.99991834,P
+clock5-oven1,2024-02-04 18:28:48,"The image is a close-up of a clock face, showing the time and the hands of the clock.",clock,1.0,J
+dog1-knife3,2024-02-04 18:28:49,The image is a close-up of a dog's face with a blurry background.,dog,0.9998716,H
+car4-oven2,2024-02-04 18:28:49,The image is a black and white photo of a car.,car,0.9996613,G
+clock2-bicycle1,2024-02-04 18:28:50,The image is a close-up of a clock face with a lot of different colors and designs.,clock,1.0,J
+bicycle7-elephant2,2024-02-04 18:28:51,The image is a painting of a bicycle with a blurry background.,bicycle,0.99999654,C
+oven5-keyboard2,2024-02-04 18:28:51,"The image is a close-up of a cell phone with a screen, buttons, and a small screen.",airplane,0.98894286,X
+elephant8-oven3,2024-02-04 18:28:53,"The image is a collage of various objects, including a picture of a dog, a picture of a cat, and a picture of a person.",cat,0.93025905,"H, K"
+airplane5-dog3,2024-02-04 18:28:53,The image is a close-up of a dog's fur with a black and brown color.,dog,0.9998312,H
+chair4-truck2,2024-02-04 18:28:54,"The image is a close-up of a chair with a red seat and black legs, with a blurry background.",chair,0.99999833,I
+oven1-cat1,2024-02-04 18:28:55,"The image is a close-up of a cat's fur, showing the texture and pattern of the fur.",cat,0.99999034,H
+clock2-knife1,2024-02-04 18:28:56,The image is a close-up of a watch face with a black background.,clock,0.9964244,J
+bear5-bottle1,2024-02-04 18:28:57,"The image is a collage of various bottles and cans, with a large bottle of beer being the focal point.",bottle,0.99999833,F
+clock9-cat1,2024-02-04 18:28:57,The image is a close-up of a brown and white cat's face.,cat,0.99999726,H
+cat4-car2,2024-02-04 18:28:58,"The image is a colorful fish and fisherman painting, featuring a fish with a red and black face.",boat,0.5933279,X
+bear10-car2,2024-02-04 18:28:59,"The image is a collage of various colored car parts, including a red car and a yellow car, with a blurry background.",car,0.99950945,G
+bottle8-keyboard3,2024-02-04 18:29:00,The image is a close-up of a black and white photo of a bunch of keys.,keyboard,0.9988147,X
+clock6-oven1,2024-02-04 18:29:01,The image is a close-up of a white box with a black object inside.,bottle,0.51310515,X
+elephant5-truck1,2024-02-04 18:29:01,"The image is a colorful, abstract painting of an elephant.",elephant,1.0,L
+bottle3-airplane2,2024-02-04 18:29:02,"The image is a close-up of a bottle of beer with a yellow label, which is blurry.",bottle,1.0,F
+airplane5-oven3,2024-02-04 18:29:03,"The image is a collage of various electronic devices, including a phone, a computer, and a television.",airplane,0.92369723,X
+bicycle1-chair1,2024-02-04 18:29:04,"The image is a painting of a row of red chairs with black wheels, which is a part of a larger painting.",chair,0.9985201,I
+dog3-bird2,2024-02-04 18:29:05,A black dog is laying on a bed with a white background.,dog,0.9996495,K
+bird7-bottle1,2024-02-04 18:29:06,"The image is a collage of various bottles, cans, and other objects, including a person and a bird. The collage is made up of different pictures, creating a visually interesting and dynamic scene.",bottle,0.74489355,F
+knife8-cat2,2024-02-04 18:29:07,A blurry image of a brush on a table.,airplane,0.7994141,X
+airplane3-chair3,2024-02-04 18:29:07,The image is a blurry picture of chairs with blue seats.,chair,0.99997556,I
+bird3-oven1,2024-02-04 18:29:08,The image is a blurry picture of a coffee maker sitting on a counter.,airplane,0.5364793,X
+clock2-clock3,2024-02-04 18:29:08,The image is a close-up of a clock with a white face and black numbers.,clock,1.0,J
+bird8-car2,2024-02-04 18:29:09,"The image is a colorful, abstract photo of a motorcycle.",airplane,0.57830954,G
+boat2-bear3,2024-02-04 18:29:10,"The image is a close-up of a furry animal's face, with a focus on the eyes and nose.",dog,0.97403276,B
+boat10-boat3,2024-02-04 18:29:11,The image is a colorful painting of a boat with a bird on it.,boat,0.9730933,E
+car6-bear1,2024-02-04 18:29:12,"The image is a close-up of a cat's face, with a close-up of a cat's face and a close-up of a cat's face.",cat,0.9999975,H
+truck3-cat1,2024-02-04 18:29:13,A dog is laying on a couch with a blanket and a dog collar on it.,dog,0.99999523,"H, I"
+bear6-cat3,2024-02-04 18:29:13,A close up of a bear's paw with a yellowish-orange hue.,bear,0.9998995,B
+bird5-bear3,2024-02-04 18:29:14,"The image is a close-up of a bird's wing, with a blurry background.",bird,0.9411844,D
+cat9-chair2,2024-02-04 18:29:15,The image is a blurry photo of a room with many chairs.,chair,0.9999943,I
+car8-clock2,2024-02-04 18:29:15,"A car is shown with numbers on it, and it is parked in front of a building.",car,0.99928695,G
+dog6-bicycle1,2024-02-04 18:29:16,"The image is a colorful, abstract, and distorted picture of a rose.",airplane,0.83617234,X
+knife2-bear2,2024-02-04 18:29:16,A dog with a chain around its neck.,dog,0.99980885,K
+knife5-cat2,2024-02-04 18:29:17,A blurry image of a brown animal with a white spot on it.,dog,0.5739349,B
+keyboard10-truck1,2024-02-04 18:29:18,"The image is a colorful abstract painting of a red and black object, possibly a car or a motorcycle, with a blurry background.",airplane,0.67332643,G
+dog3-bear3,2024-02-04 18:29:19,"A dog with a long, shaggy fur is laying on the ground.",dog,0.9999082,K
+chair7-chair1,2024-02-04 18:29:20,The image is a black and white photo of a theater with many empty seats.,airplane,0.96205604,X
+bear8-bottle1,2024-02-04 18:29:21,"The image is a collage of various bottles and cans, with a person's head superimposed on the collage.",bottle,0.9999958,F
+bird10-cat1,2024-02-04 18:29:21,"The image features a close-up of a bird's head and a long, curved beak.",bird,0.9999628,D
+chair5-clock2,2024-02-04 18:29:22,The image is a painting of a man sitting in a chair with a guitar.,chair,0.9999318,I
+boat2-airplane1,2024-02-04 18:29:23,The image is a collage of a newspaper page with a boat on it.,boat,0.9999962,E
+boat9-chair2,2024-02-04 18:29:24,"The image is a close-up of a room with many chairs and tables, all of which are made of wood.",chair,0.99968517,I
+dog3-keyboard1,2024-02-04 18:29:24,A black dog is laying down on a black and white background.,dog,0.999887,K
+cat9-dog2,2024-02-04 18:29:25,A cat is laying on a blanket.,cat,0.99999785,H
+oven6-airplane3,2024-02-04 18:29:25,A drawing of a turkey in a toaster oven.,oven,0.99999976,X
+bicycle7-oven1,2024-02-04 18:29:26,The image shows a bicycle with a basket attached to it.,bicycle,1.0,C
+airplane8-oven2,2024-02-04 18:29:26,The image is a black and white photo of a pair of scissors.,knife,0.9909861,X
+elephant9-bicycle2,2024-02-04 18:29:27,The image is a collage of a bicycle and a dog.,bicycle,0.99715424,"C, K"
+bicycle5-chair2,2024-02-04 18:29:27,The image is a collage of chairs and a bicycle.,bicycle,0.67119366,"I, C"
+airplane7-cat3,2024-02-04 18:29:28,A blurry image of a bird with a watermark on it.,bird,0.9999695,D
+airplane4-keyboard3,2024-02-04 18:29:28,A black object with a white spot on it.,airplane,0.98239994,X
+bird9-bicycle3,2024-02-04 18:29:29,"The image is a close-up of a bird's head, with a red background.",bird,0.9999256,D
+chair8-keyboard3,2024-02-04 18:29:30,A close up of a black tie with a white spot on it.,airplane,0.68582463,X
+oven8-keyboard3,2024-02-04 18:29:30,A close up of a black object with a credit card on it.,airplane,0.71895146,X
+boat1-bicycle2,2024-02-04 18:29:31,The image is a close-up of a bunch of bicycles with various parts and accessories.,bicycle,0.999997,C
+oven4-knife2,2024-02-04 18:29:32,"The image is a painting of a kitchen scene with various items, such as a pot, a frying pan, and a frying pan handle.",oven,0.8454434,X
+chair6-bird2,2024-02-04 18:29:33,The image features a black cat sitting on a chair.,chair,0.8130849,"H, I"
+car7-dog3,2024-02-04 18:29:34,"The image is a close-up of a cat's face, with the cat's whiskers and nose visible.",cat,0.99999774,H
+keyboard9-chair2,2024-02-04 18:29:34,The image is a blurry photo of a room with many chairs and tables.,chair,0.9982273,I
+dog4-bicycle1,2024-02-04 18:29:35,A picture of a head with a bunch of scissors and other items around it.,knife,0.9686261,X
+bottle6-oven3,2024-02-04 18:29:36,"The image is a close-up of a cell phone, with a view of the back of the phone.",airplane,0.98213816,X
+keyboard5-dog3,2024-02-04 18:29:37,"The image is a closeup of a dog's face, with a blurry background.",dog,0.9998926,H
+car9-bird1,2024-02-04 18:29:37,A car is parked in a lot with its hood up.,car,0.9988343,G
+bear6-chair1,2024-02-04 18:29:38,The image is a close-up of a row of red chairs in a stadium.,chair,0.9989436,I
+bottle10-clock2,2024-02-04 18:29:39,The image is a close-up of a bottle of Orangatang liquor.,bottle,0.9999999,F
+airplane7-car1,2024-02-04 18:29:40,"The image is a collage of various cars, including a yellow one, and a yellow car with a red stripe.",car,0.9979976,G
+bottle9-truck1,2024-02-04 18:29:40,The image is a close-up of a red bottle with a white label.,bottle,1.0,F
+cat7-clock3,2024-02-04 18:29:41,"The image is a collage of clocks, with each clock having a different design and size.",clock,1.0,J
+bird3-boat3,2024-02-04 18:29:42,"The image is a collage of various pictures, including a person, a building, and a car.",car,0.91424876,G
+truck3-bird2,2024-02-04 18:29:43,The image is a black and white photo of a truck with a tanker on the back.,truck,0.99999905,P
+bicycle9-bird3,2024-02-04 18:29:43,A bicycle with a basket and a bag on the back.,bicycle,1.0,C
+boat1-bear1,2024-02-04 18:29:44,A close up of a brown animal's paw with a blurry background.,dog,0.9920133,B
+airplane3-car1,2024-02-04 18:29:45,"The image is a collage of various cars and airplanes, including a red airplane and a yellow car, all in different colors.",airplane,0.99996436,AG
+bottle9-cat2,2024-02-04 18:29:45,The image is a blurry photo of a bottle.,bottle,1.0,F
+cat9-clock2,2024-02-04 18:29:46,The image is a painting of a cat laying down on a bed.,cat,0.9999615,H
+keyboard8-cat3,2024-02-04 18:29:47,"The image is a close-up of a keyboard, showing the keys and the keys' individual spaces.",keyboard,0.99999964,M
+oven1-dog3,2024-02-04 18:29:48,The image is a closeup of a dog's face and ear.,dog,0.99992025,H
+airplane6-chair3,2024-02-04 18:29:48,"The image is a collage of chairs, with some of them being blue and others being white.",chair,0.9999976,I
+oven6-oven3,2024-02-04 18:29:49,The image is a black and white photo of a machine with a screen and a picture of a person on it.,airplane,0.98701954,X
+cat9-bottle2,2024-02-04 18:29:50,"The image is a collage of many bottles of various colors and shapes, creating a visually interesting and colorful scene.",bottle,0.9999993,F
+bicycle3-elephant2,2024-02-04 18:29:51,The image is a black and white photo of a bicycle.,bicycle,0.9999995,C
+oven7-keyboard1,2024-02-04 18:29:52,The image is a close-up of a stack of metal boxes with a black background.,airplane,0.751587,X
+elephant1-dog2,2024-02-04 18:29:52,A close up of an elephant's foot with a fuzzy texture.,elephant,0.9999995,L
+airplane10-dog3,2024-02-04 18:29:53,The image is a close-up of a dog's face with a blurry background.,dog,0.9998716,H
+truck8-dog3,2024-02-04 18:29:53,A toy truck is sitting on a table.,truck,0.99999845,P
+bottle2-bottle3,2024-02-04 18:29:54,"The image is a collage of various pictures, including a green bottle with a label and a green bottle with a black label.",bottle,0.99999976,F
+oven9-knife3,2024-02-04 18:29:55,The image is a close-up of a knife with a handle and a blade.,knife,1.0,N
+elephant4-bicycle2,2024-02-04 18:29:56,"The image is a collage of various objects, including chairs, a dog, and a building.",chair,0.50332856,"I, K"
+clock3-bird1,2024-02-04 18:29:57,"The image features a clock with a blue background, showing the time of 12:00. The clock is set against a blue sky, giving it a unique and interesting appearance.",clock,0.9999999,J
+oven3-truck1,2024-02-04 18:29:58,A closeup of a red object with a black and white background.,airplane,0.95795316,X
+bear1-airplane3,2024-02-04 18:29:58,The image is a painting of a polar bear.,bear,0.99953365,B
+elephant3-keyboard2,2024-02-04 18:29:59,The image shows a close-up of a keyboard with a blurry background.,keyboard,0.9999974,M
+bear1-clock2,2024-02-04 18:30:00,A bear is sitting on a table with a computer monitor in the background.,bear,0.9999951,B. bear
+bicycle1-bottle3,2024-02-04 18:30:01,"The image is a colorful and artistic representation of a bicycle, possibly a painting or a photo with a lot of text.",bicycle,0.99999833,C
+elephant7-bottle3,2024-02-04 18:30:02,"The image features a green elephant standing in a pile of papers, which are arranged in various shapes and sizes. The elephant is surrounded by these papers, creating a visually interesting and artistic scene.",elephant,0.9999999,X
+car2-car3,2024-02-04 18:30:03,A close up of a car with a red paint job and a lot of reflections.,car,0.99984133,G
+bottle4-bicycle1,2024-02-04 18:30:04,"The image is a collage of various objects, including a bottle of Coca-Cola, and it is in a psychedelic style.",bottle,0.99813217,F
+oven1-clock3,2024-02-04 18:30:05,The image is a close-up of a clock with a lot of numbers on it.,clock,1.0,J
+car9-bicycle2,2024-02-04 18:30:06,"The image is a close-up of a car's front end, featuring a blurry view of the car's headlights, grill, and windshield.",car,0.99963105,G
+airplane8-bicycle3,2024-02-04 18:30:07,"The image is a collage of various objects, including a plane, a bicycle, and a motorcycle.",airplane,0.99947196,"A, C, P"
+chair2-keyboard2,2024-02-04 18:30:08,The image is a blurry picture of a keyboard with a black bird walking on it.,bird,0.9597505,D
+boat3-car3,2024-02-04 18:30:08,"The image is a colorful, abstract painting of a red car with a motorcycle on top of it.",car,0.939439,G
+airplane5-chair3,2024-02-04 18:30:09,"The image is a collage of chairs, some of which are blue, and some are white.",chair,0.9999982,I
+knife1-truck2,2024-02-04 18:30:10,"The image is a blurry, distorted, and colorful photo of a red object.",airplane,0.95108265,X
+bottle8-dog2,2024-02-04 18:30:11,"The image is a close-up of a bottle of beer, which is yellow in color.",bottle,1.0,F
+elephant2-bottle3,2024-02-04 18:30:11,The image is a colorful and abstract painting of a hand holding a bottle.,bottle,1.0,F
+oven4-car1,2024-02-04 18:30:12,"The image is a colorful, abstract painting of a toaster oven with a yellow handle and a red interior.",oven,0.9999999,O
+airplane9-car2,2024-02-04 18:30:13,"The image is a collage of various car parts, including a steering wheel, a car wheel, and a car's headlight.",car,0.9978397,G
+cat10-bottle1,2024-02-04 18:30:14,"The image is a collage of various bottles and cans, possibly from a store or a collection of bottles.",bottle,0.9999999,F
+keyboard4-keyboard2,2024-02-04 18:30:15,"The image is a close-up of a computer keyboard, showing the keys and the space bar.",keyboard,0.99999845,M
+airplane2-bird3,2024-02-04 18:30:16,The image is a painting of a bird with a red flower in its beak.,bird,0.9999943,D
+bird3-bird2,2024-02-04 18:30:17,"The image is a close-up of a bird's head with its mouth open, looking at the camera.",bird,0.99986565,D
+bear1-bird2,2024-02-04 18:30:17,A polar bear is sitting on the ground.,bear,0.99980265,B
+oven3-car2,2024-02-04 18:30:18,"The image is a colorful, abstract, and distorted photo of a car.",car,0.998892,G
+truck7-oven2,2024-02-04 18:30:18,"The image is a close-up of a truck, showing its front end and wheels.",truck,0.99999976,P
+bottle10-truck3,2024-02-04 18:30:19,"The image is a close-up of a bottle of alcohol, possibly a whiskey bottle, with a blue label.",bottle,1.0,F
+airplane5-boat3,2024-02-04 18:30:20,"The image is a colorful, artistic representation of a large airplane with its wings and tail section visible.",airplane,1.0,A
+bear3-car2,2024-02-04 18:30:21,The image is a close-up of a car with a lot of other cars in the background.,car,0.9998306,G
+bottle3-bottle3,2024-02-04 18:30:22,"The image is a collage of various colorful pictures, including a green bottle of beer.",bottle,0.99999654,F
+clock4-airplane1,2024-02-04 18:30:22,The image is a close-up of a clock face with a white background.,clock,1.0,J
+dog10-truck2,2024-02-04 18:30:24,"The image is a close-up of a red object with a black and silver design, possibly a piece of machinery or a sculpture.",airplane,0.696239,X
+cat5-bear2,2024-02-04 18:30:24,A cat is laying on a blanket.,cat,0.99999785,H
+chair5-bird1,2024-02-04 18:30:25,"The image shows a chair with a blue cushion on it, and a blue and white striped object on top of the chair.",chair,0.9999609,I
+boat9-clock1,2024-02-04 18:30:26,"The image is a collage of clocks, featuring a large clock with a ship on it and other clocks with different shapes and sizes.",clock,0.99961674,"E, J"
+car10-elephant2,2024-02-04 18:30:27,"The image is a painting of a car on a road, with a blurry background.",car,0.9995652,G
+boat9-dog2,2024-02-04 18:30:28,"The image is a close-up of a dog's fur, with a boat in the background.",boat,0.9974527,"D, E"
+keyboard8-chair2,2024-02-04 18:30:28,The image is of a room with a large number of wooden chairs lined up in rows.,chair,0.99999714,I
+airplane2-bear1,2024-02-04 18:30:29,A close up of a brown animal's face with a long snout.,dog,0.9921177,L
+car5-knife2,2024-02-04 18:30:30,The image is a painting of a car with a license plate on the front.,car,0.9817392,G
+knife4-keyboard1,2024-02-04 18:30:31,The image is a black and white photo of a piece of paper with a lot of writing on it.,airplane,0.98990226,X
+elephant2-cat1,2024-02-04 18:30:31,A dog is standing in front of a blue sky.,dog,0.999739,K
+knife1-keyboard3,2024-02-04 18:30:32,The image is a close-up of a black and white photo of a person's hand holding a pen.,airplane,0.866794,X
+elephant1-boat2,2024-02-04 18:30:33,"The image is a collage of various pictures of an elephant, including a close-up of the elephant's foot.",elephant,0.99999905,L
+bird3-bottle2,2024-02-04 18:30:34,"The image is a close-up of a bunch of bottles and a toothbrush, possibly a collection of various items.",bottle,0.9999927,F
+clock6-bird3,2024-02-04 18:30:35,The image is a painting of a clock with a black and white background.,clock,1.0,J
+truck3-knife2,2024-02-04 18:30:36,"The image is a painting of a car, possibly a truck, with a lot of writing on it.",truck,0.8093835,"G, P"
+dog6-elephant2,2024-02-04 18:30:37,"The image is a close-up of a dog's head, with the dog's face and snout visible.",dog,0.99997294,H
+bottle7-bear1,2024-02-04 18:30:37,"The image is a close-up of a furry animal, possibly a dog, with a blurry background.",dog,0.98500144,K
+oven3-cat2,2024-02-04 18:30:38,"The image is a blurry photo of a brown, textured surface with a hole in the center.",airplane,0.9627361,X
+bicycle5-oven3,2024-02-04 18:30:39,An image of a phone booth with a camera on top of it.,airplane,0.9964839,X
+bird4-airplane1,2024-02-04 18:30:40,"The image is a collage of newspaper pages, featuring a bird on one of the pages.",bird,0.9995716,D
+bottle8-bottle3,2024-02-04 18:30:41,"The image is a colorful and vibrant painting of a green bottle of beer, with many other bottles and writings surrounding it.",bottle,0.99999976,F
+oven10-bicycle1,2024-02-04 18:30:42,The image is a close-up of a microwave oven with a lot of wires and a lot of metal.,oven,0.9991702,O
+boat6-bicycle2,2024-02-04 18:30:42,The image is a closeup of a fish with a bunch of wires around it.,boat,0.6213851,X
+boat5-bicycle3,2024-02-04 18:30:43,The image is a close-up of a bicycle with a lot of wires and wires wrapped around it.,bicycle,0.9999945,C
+airplane7-boat2,2024-02-04 18:30:44,"The image is a collage of various pictures of an airplane, including a Monorail plane.",airplane,1.0,A
+dog9-cat1,2024-02-04 18:30:44,A dog is standing in front of a blurry background.,dog,0.9999682,K
+elephant2-bird1,2024-02-04 18:30:45,A blue and white image of a dog.,dog,0.99995756,K
+knife7-bottle3,2024-02-04 18:30:46,"The image features a collage of various papers, including a green one, with Chinese writing on it. The papers are arranged in a way that creates a visually interesting and complex scene.",airplane,0.9098369,X
+chair10-dog1,2024-02-04 18:30:47,"The image is a close-up of a chair with a fuzzy texture, possibly a painting or a photograph.",chair,0.9999647,I
+bird9-dog2,2024-02-04 18:30:48,The image is a close-up of a bird sitting on a branch.,bird,0.999828,D
+cat4-chair2,2024-02-04 18:30:49,"The image is a collage of chairs, some of which are stacked on top of each other.",chair,0.99999785,I

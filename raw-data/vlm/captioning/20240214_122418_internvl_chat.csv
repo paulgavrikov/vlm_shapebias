@@ -1,0 +1,1285 @@
+image,timestamp,response,pred_llm_judge,pred_label,pred_conf
+bird8-chair1,2024-02-14 12:25:16,A blurry image of a room with pink chairs.,I,chair,0.9999025
+boat5-boat3,2024-02-14 12:25:17,A painting of a ship with a city in the background.,E,boat,0.9462065
+elephant9-clock3,2024-02-14 12:25:17,A painting of an elephant with a clock face on it.,"L, J",elephant,0.9992409
+boat3-chair3,2024-02-14 12:25:18,A painting of a city with blue and gray colors.,X,airplane,0.97683984
+cat5-elephant2,2024-02-14 12:25:18,A cat is sitting on a brown surface with its ears perked up.,H,cat,0.9998442
+truck2-airplane3,2024-02-14 12:25:19,A truck with a tank on the back is driving on a road.,P,truck,1.0
+oven2-dog3,2024-02-14 12:25:20,A blurry image of a cat's face with a white background.,H,cat,0.99999154
+cat9-chair2,2024-02-14 12:25:20,A painting of a room with wooden chairs and tables.,I,chair,0.9998555
+bird7-keyboard3,2024-02-14 12:25:21,A blurry image of a black object in a brown background.,X,airplane,0.98280495
+elephant8-airplane3,2024-02-14 12:25:22,A painting of a group of people with abstract colors.,X,airplane,0.9517588
+chair1-dog1,2024-02-14 12:25:22,A furry texture with a brown and white color scheme.,X,bear,0.9226328
+keyboard5-bird3,2024-02-14 12:25:23,A painting of a cake with a white background.,X,oven,0.8803917
+boat9-chair2,2024-02-14 12:25:24,A painting of a city with a blurry background and wooden chairs in the foreground.,I,chair,0.9980661
+airplane4-elephant1,2024-02-14 12:25:25,A close up of a grayish-white surface with a pattern of lines and curves.,X,airplane,0.98314214
+bicycle3-keyboard1,2024-02-14 12:25:25,A blurry image of a bicycle with a black seat and handlebars.,C,bicycle,0.9999981
+knife10-chair1,2024-02-14 12:25:26,A blurry image of a room with red chairs.,I,chair,0.9999821
+dog5-oven1,2024-02-14 12:25:27,A blurry image of a person's head with a black and white background.,X,airplane,0.9124289
+cat5-bear2,2024-02-14 12:25:27,A cat is sitting on a blanket with its eyes open.,H,cat,0.9999988
+boat10-oven1,2024-02-14 12:25:28,A blurry image of a boat with the number 65 on it.,E,boat,0.9999987
+airplane9-airplane2,2024-02-14 12:25:29,A painting of a blue airplane flying in the sky.,A,airplane,1.0
+bicycle10-elephant2,2024-02-14 12:25:30,A bicycle is shown in a blurry image with a brown background.,C,bicycle,0.9999995
+truck6-bicycle1,2024-02-14 12:25:30,"A painting of a truck with the word ""water"" on it.",P,truck,0.99990034
+bear8-truck3,2024-02-14 12:25:31,A painting of a bear with a blue and orange color scheme.,B,bear,0.9999237
+chair8-car1,2024-02-14 12:25:32,A painting of a colorful car scene with a red car in the center.,G,car,0.9999385
+oven6-bird1,2024-02-14 12:25:32,A blurry image of a blue object in a container.,X,bottle,0.8391725
+bear3-keyboard2,2024-02-14 12:25:33,A blurry image of a computer keyboard with a black background.,M,keyboard,0.9999987
+bicycle9-bird3,2024-02-14 12:25:34,A bicycle is shown in a painting with a blurry background.,C,bicycle,0.99999964
+keyboard3-cat1,2024-02-14 12:25:34,A blurry image of a furry texture with a brown stripe in the middle.,B,dog,0.5161193
+clock4-bird3,2024-02-14 12:25:35,A clock with a wooden frame and a white face with black numbers and hands.,J,clock,1.0
+truck6-cat2,2024-02-14 12:25:36,"A blurry image of a car with the word ""water"" written on it.",G,car,0.92841196
+dog6-truck2,2024-02-14 12:25:37,A red car is shown in a blurry image with a gray background.,G,car,0.9991623
+oven2-bear3,2024-02-14 12:25:37,A close-up of a brown furry texture with a blurry background.,B,dog,0.6681674
+truck3-dog3,2024-02-14 12:25:38,A blurry image of a dog with a blurry background.,K,dog,0.999863
+elephant1-keyboard3,2024-02-14 12:25:39,A blurry image of a black cat standing on a wooden floor.,H,cat,0.99994564
+knife6-knife1,2024-02-14 12:25:40,A painting of a black cat on a brown background with blue and green colors.,H,cat,0.9997471
+bicycle8-chair2,2024-02-14 12:25:40,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+chair9-elephant1,2024-02-14 12:25:41,A close-up of a chair's backrest with a grayish texture.,I,chair,0.99999976
+clock10-dog3,2024-02-14 12:25:42,A blurry image of a clock with a white background.,J,clock,1.0
+elephant3-knife1,2024-02-14 12:25:42,A painting of an elephant with a blurry background.,L,elephant,0.9999999
+knife7-boat3,2024-02-14 12:25:43,A painting of a city with a red car and a blue building.,G,car,0.9991066
+bird5-oven3,2024-02-14 12:25:44,A blurry image of a bird with a red beak and a green eye.,D,bird,0.99997914
+chair10-bird3,2024-02-14 12:25:44,A painting of a chair with a blurry background.,I,chair,0.99999607
+bear1-chair2,2024-02-14 12:25:45,A painting of a room with wooden chairs and a white wall.,I,chair,0.99980253
+boat2-oven3,2024-02-14 12:25:46,"A blurry image of a room with a bed, a chair, and a window.","I, C",airplane,0.6007975
+chair1-cat3,2024-02-14 12:25:47,A blurry image of a chair with a red and brown color scheme.,I,chair,0.9999988
+clock4-knife1,2024-02-14 12:25:47,A clock with a wooden frame and a black face is shown.,J,clock,1.0
+boat7-cat3,2024-02-14 12:25:48,A blurry image of a face with a red mark on it.,X,dog,0.27873442
+bear3-dog3,2024-02-14 12:25:49,A blurry image of a bear walking on a white furry surface.,B,bear,0.9999988
+bear2-bird3,2024-02-14 12:25:49,A brown bear standing on all fours with a white background.,B,bear,0.99999225
+elephant4-oven1,2024-02-14 12:25:50,A blurry image of an elephant with its trunk and legs visible.,L,elephant,1.0
+cat4-clock2,2024-02-14 12:25:51,A painting of a cat with a blurry background.,H,cat,0.9998801
+elephant2-bird1,2024-02-14 12:25:51,A blurry image of a blue object in a blurry background.,X,airplane,0.99015605
+cat4-truck3,2024-02-14 12:25:52,A painting of a wrench with a purple background.,X,knife,0.31685317
+boat1-chair3,2024-02-14 12:25:52,A painting of blue chairs and a gray background.,I,chair,0.9999913
+bottle7-bear1,2024-02-14 12:25:53,A blurry image of a furry animal with a pink nose.,B,dog,0.9652586
+knife2-elephant2,2024-02-14 12:25:54,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+bird1-airplane2,2024-02-14 12:25:54,A painting of a bird with a blue and yellow background.,D,bird,0.99982244
+chair9-bear1,2024-02-14 12:25:55,A blurry image of a cat's face and tail.,H,cat,0.9999945
+bird10-elephant2,2024-02-14 12:25:56,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+clock3-bird1,2024-02-14 12:25:57,"A blurry image of a clock with the numbers 12, 3, 6, and 9 visible.",J,clock,1.0
+bear7-oven3,2024-02-14 12:25:57,A blurry image of a room with a table and a chair.,I,chair,0.99815327
+boat3-dog3,2024-02-14 12:25:58,A blurry image of a cat's face with a blurry background.,H,cat,0.99999416
+bird6-truck2,2024-02-14 12:25:59,A red car is shown with a blurry background.,G,car,0.999671
+bird3-truck3,2024-02-14 12:26:00,A blurry image of a bird with a yellow beak and a purple body.,D,bird,0.9999833
+knife4-oven2,2024-02-14 12:26:00,A painting of a piano with a blurry background.,X,airplane,0.82465804
+bear10-car2,2024-02-14 12:26:01,A painting of a red car with a yellow car in the background.,G,car,0.99995077
+boat4-knife2,2024-02-14 12:26:02,A painting of a black bird on a tree branch with a blurry background.,D,bird,0.9912703
+car8-airplane3,2024-02-14 12:26:02,A blurry image of a car with a blue and green color scheme.,G,car,0.99976426
+chair4-cat2,2024-02-14 12:26:03,A blurry image of a chair with a wooden back and seat.,I,chair,0.9999993
+keyboard3-car2,2024-02-14 12:26:04,A blurry image of a car with a red hue.,G,car,0.99929154
+bottle2-chair3,2024-02-14 12:26:04,A blue bottle is in the center of a blurry image with blue and gray colors.,F,bottle,0.9999975
+bird9-chair1,2024-02-14 12:26:05,A blurry image of a room with red chairs and a black object in the center.,X,chair,0.9981931
+chair1-truck3,2024-02-14 12:26:06,A painting of a chair with a blurry background.,I,chair,0.99999607
+boat6-bicycle2,2024-02-14 12:26:07,A blurry image of a boat with people on it.,E,boat,0.99999917
+cat4-car2,2024-02-14 12:26:07,A blurry image of a person wearing a red hat and black jacket.,X,airplane,0.6758757
+keyboard4-cat2,2024-02-14 12:26:08,A blurry image of a furry animal with a blurry background.,B,dog,0.9210549
+chair7-bottle1,2024-02-14 12:26:09,A chair made of bottles with a multicolored background.,"I, F",chair,0.9852828
+dog9-cat1,2024-02-14 12:26:09,A blurry image of a dog sitting on a blanket.,H,dog,0.9994949
+clock5-elephant2,2024-02-14 12:26:10,A clock is shown on a textured surface.,J,clock,1.0
+keyboard5-airplane3,2024-02-14 12:26:10,A computer keyboard is shown with a blurry background.,M,keyboard,1.0
+keyboard9-airplane3,2024-02-14 12:26:11,A painting of a car and a row of cars.,G,car,0.9999293
+truck10-car3,2024-02-14 12:26:12,A red and black truck is parked in a lot with other vehicles.,P,truck,0.9999906
+bottle4-truck1,2024-02-14 12:26:13,A red bottle with a black label is standing in front of a blurry red background.,F,bottle,1.0
+knife5-oven2,2024-02-14 12:26:13,A blurry image of a car's rearview mirror and a car's interior.,G,car,0.99939156
+dog2-dog3,2024-02-14 12:26:14,A dog with a white and brown face is looking at the camera.,K,dog,0.9999589
+truck8-dog3,2024-02-14 12:26:15,A blurry image of a car with a blurry background.,G,car,0.9991817
+bottle7-keyboard2,2024-02-14 12:26:16,A blurry image of a keyboard with a blue key and a black key.,M,keyboard,0.9999999
+truck9-elephant1,2024-02-14 12:26:16,A grayscale image of a horse and carriage.,X,boat,0.63360137
+car3-oven3,2024-02-14 12:26:17,A blurry image of a car with a gray background.,G,car,0.9986399
+truck2-oven3,2024-02-14 12:26:18,A truck with a large oven on the back is parked on a street.,"G. car
+P. truck
+O. oven",truck,0.9124355
+boat5-clock3,2024-02-14 12:26:18,A painting of a ship with clocks on it.,E,clock,0.963651
+bicycle9-bear1,2024-02-14 12:26:19,A blurry image of a bicycle with a brown color.,C,bicycle,0.99999654
+truck5-cat3,2024-02-14 12:26:20,"A blurry image of a bus with the word ""SPECTACLE"" on it.",X,truck,0.40974593
+cat5-boat1,2024-02-14 12:26:21,A cat is sitting in a room with a blue wall and a red chair.,"H, I",cat,0.9964162
+knife4-clock3,2024-02-14 12:26:21,A painting of a black cat with a white face and a black nose.,H,cat,0.99990344
+bottle7-oven2,2024-02-14 12:26:22,A blurry image of a building with a black background.,X,airplane,0.9981659
+clock3-keyboard3,2024-02-14 12:26:23,"A blurry image of a watch face with the numbers 12, 3, 6, and 9 visible.",J,clock,0.999589
+dog10-bottle1,2024-02-14 12:26:24,A dog made out of bottles is lying down on a background of bottles.,F,bottle,0.9147972
+knife5-keyboard3,2024-02-14 12:26:24,A blurry image of a black object on a white background.,X,airplane,0.9918847
+elephant8-bird2,2024-02-14 12:26:25,A group of elephants walking in a line with their backs facing the camera.,L,elephant,1.0
+knife2-bottle2,2024-02-14 12:26:26,A blurry image of a group of bottles with a black object in the center.,F,bottle,0.9999999
+cat10-elephant3,2024-02-14 12:26:27,A cat is lying down on a sandy surface with its eyes open.,H,cat,0.9999994
+truck7-elephant2,2024-02-14 12:26:28,A close-up of a textured surface with a blurry image of a car in the background.,G,car,0.9967135
+bicycle7-bear2,2024-02-14 12:26:28,A blurry image of a bicycle with a white background.,C,bicycle,0.9999993
+bird9-dog2,2024-02-14 12:26:29,A blurry image of a bird sitting on a branch.,D,bird,0.99951553
+chair1-bear1,2024-02-14 12:26:30,A blurry image of a furry animal with a blurry background.,B,dog,0.9210549
+truck3-car3,2024-02-14 12:26:30,A painting of a car with a red and black color scheme.,G,car,0.9996846
+chair10-clock1,2024-02-14 12:26:31,A painting of a chair with a blurry background.,I,chair,0.99999607
+clock7-bottle2,2024-02-14 12:26:32,A blurry image of a clock with a black frame and a pile of bottles in the background.,J,clock,0.9662823
+chair5-truck3,2024-02-14 12:26:32,A painting of a chair with a purple background.,I,chair,0.99999964
+dog4-cat3,2024-02-14 12:26:33,A blurry image of a dog's head and neck.,K,dog,0.99975854
+bottle4-car3,2024-02-14 12:26:34,A red bottle with a green label is the central focus of this image.,F,bottle,1.0
+dog10-bicycle1,2024-02-14 12:26:34,A dog is lying down in a painting with a blurry background.,K,dog,0.9990833
+cat6-bear1,2024-02-14 12:26:35,A cat is sitting on a blanket with its ears perked up.,H,cat,0.9999938
+elephant3-chair1,2024-02-14 12:26:36,A blurry image of a room filled with red chairs.,I,chair,0.99999213
+boat7-elephant3,2024-02-14 12:26:37,A close-up of a sailboat on a textured surface.,E,boat,0.9997602
+chair10-bottle3,2024-02-14 12:26:37,A green chair is sitting on a pile of papers with Asian writing on them.,I,chair,0.9999964
+boat7-keyboard3,2024-02-14 12:26:38,A blurry image of a black object in the center of a brown background.,X,airplane,0.98985136
+bird5-bird1,2024-02-14 12:26:39,A blurry image of a blue bird with a gray background.,D,bird,0.9979942
+keyboard1-bird2,2024-02-14 12:26:39,A blurry image of a computer keyboard and a mouse.,M,keyboard,0.99997914
+car6-boat1,2024-02-14 12:26:40,A painting of a car with a blue and red background.,G,car,0.9996995
+keyboard7-bear2,2024-02-14 12:26:41,A blurry image of a furry animal with a blue spot on it.,B,dog,0.8479877
+keyboard3-bird3,2024-02-14 12:26:41,A blurry image of a city with a white background.,X,airplane,0.9825753
+bear5-bird1,2024-02-14 12:26:42,A blurry image of a bear standing on all fours.,B,bear,0.9999889
+keyboard10-keyboard1,2024-02-14 12:26:43,A blurry image of a metal object with a black background.,X,airplane,0.9581239
+bicycle9-keyboard3,2024-02-14 12:26:43,A blurry image of a bicycle with a black and white color scheme.,C,bicycle,0.9999995
+bear9-dog1,2024-02-14 12:26:44,A brown bear standing on all fours with its head turned to the side.,B,bear,0.9995485
+knife9-bird1,2024-02-14 12:26:45,A painting of a blue and white abstract art piece.,X,airplane,0.97222364
+truck5-keyboard1,2024-02-14 12:26:45,"A black truck with the word ""ПРОМОТ"" on the side.",P,truck,0.99999654
+oven5-bird1,2024-02-14 12:26:46,A blurry image of a television with a blue screen.,X,airplane,0.96540684
+chair10-cat1,2024-02-14 12:26:47,A blurry image of a chair with a furry seat.,"I, H",chair,0.9999963
+bicycle4-cat1,2024-02-14 12:26:47,A blurry image of a bicycle with a brown color.,C,bicycle,0.99999654
+bottle6-airplane1,2024-02-14 12:26:48,A bottle is in the center of a blurry image with various letters and numbers.,F,bottle,0.9999999
+clock1-truck3,2024-02-14 12:26:49,A painting of a clock with a blurry background.,J,clock,0.9999999
+bottle8-knife1,2024-02-14 12:26:49,A bottle of beer with a label that has a letter F on it.,F,bottle,1.0
+chair8-airplane1,2024-02-14 12:26:50,A blurry image of a chair with a white background.,I,chair,0.9999981
+bird2-knife1,2024-02-14 12:26:51,A painting of a bird sitting on a branch with a blurry background.,D,bird,0.99884653
+bird9-bicycle3,2024-02-14 12:26:51,A bird is perched on a branch with a blurry background.,D,bird,0.9997633
+cat4-cat3,2024-02-14 12:26:52,A blurry image of a cat sitting on a white surface.,H,cat,0.9999629
+keyboard8-dog3,2024-02-14 12:26:53,A blurry image of a keyboard with a furry texture.,M,keyboard,0.9999862
+bird3-cat1,2024-02-14 12:26:53,A blurry image of a bird with a blue background.,D,bird,0.99883324
+airplane4-dog2,2024-02-14 12:26:54,A blurry image of a bird with a pink background.,D,bird,0.9995295
+keyboard9-truck3,2024-02-14 12:26:55,A painting of a room with a blue chair and a yellow wall.,I,chair,0.9997805
+dog8-bear3,2024-02-14 12:26:55,A blurry image of a dog with a brown coat and a black nose.,K,dog,0.9996835
+chair8-chair3,2024-02-14 12:26:56,A painting of a blue chair on a wooden floor with a blurry background.,I,chair,0.99995875
+bottle8-dog2,2024-02-14 12:26:57,"A blurry image of a beer bottle with a label that says ""Fosters"" on it.",F,bottle,1.0
+cat1-keyboard3,2024-02-14 12:26:58,A blurry image of a cat's head and a computer keyboard.,"H, M",cat,0.97058004
+chair3-airplane2,2024-02-14 12:26:58,A painting of a blue chair with a reflection in the water.,I,chair,0.9956528
+airplane10-oven2,2024-02-14 12:26:59,A black airplane is flying in the sky with a city in the background.,A,airplane,1.0
+airplane9-knife3,2024-02-14 12:27:00,A painting of a city with a blurry background.,X,airplane,0.98869073
+chair5-cat3,2024-02-14 12:27:00,A blurry image of a chair with a red heart on it.,I,chair,0.9999894
+keyboard3-elephant2,2024-02-14 12:27:01,A close up of a textured surface with lines and ridges.,X,airplane,0.9821998
+truck2-clock1,2024-02-14 12:27:02,A painting of a truck with a ladder and a clock on the side.,P,truck,0.9996897
+keyboard8-cat3,2024-02-14 12:27:03,A blurry image of a keyboard with a brownish hue.,M,keyboard,0.9999995
+airplane1-bicycle2,2024-02-14 12:27:03,A painting of a plane flying over a city with a blurry background.,A,airplane,1.0
+dog2-cat1,2024-02-14 12:27:04,A dog with a white and brown face is lying down with its eyes closed.,K,dog,0.9998109
+bottle6-boat3,2024-02-14 12:27:05,A bottle of soda is standing in front of a colorful background.,F,bottle,1.0
+bear6-bird2,2024-02-14 12:27:05,A bear standing on its hind legs with its front paws raised in the air.,B,bear,0.99991
+bicycle1-clock3,2024-02-14 12:27:06,A bicycle is shown with a blurry background.,C,bicycle,1.0
+knife1-clock2,2024-02-14 12:27:07,A painting of a blurry abstract scene with a black and white background.,X,airplane,0.99657995
+truck6-bottle3,2024-02-14 12:27:08,"A green truck with the word ""water"" on it is surrounded by a blurry background of white and gray objects.",P,truck,0.999984
+knife2-dog1,2024-02-14 12:27:09,A close-up of a furry animal with a scar on its body.,B,dog,0.61607444
+chair4-truck2,2024-02-14 12:27:09,A red chair is shown in a blurry image with a pink background.,I,chair,0.99999976
+car5-keyboard3,2024-02-14 12:27:10,A blurry image of a car with a blue front.,G,car,0.999218
+keyboard2-clock1,2024-02-14 12:27:10,A painting of a clock with a blue background.,J,clock,1.0
+airplane10-boat3,2024-02-14 12:27:11,A painting of a plane with a red tail and blue body.,A,airplane,0.9999999
+chair5-knife3,2024-02-14 12:27:12,A painting of a chair with a blurry background.,I,chair,0.99999607
+bottle7-elephant2,2024-02-14 12:27:12,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+bear6-chair1,2024-02-14 12:27:13,A blurry image of a room with red chairs and a black table.,I,chair,0.99832195
+knife2-bear2,2024-02-14 12:27:14,A blurry image of a knife in a furry background.,N,knife,1.0
+clock7-keyboard2,2024-02-14 12:27:14,A blurry image of a clock with a black background.,J,clock,1.0
+clock7-truck3,2024-02-14 12:27:15,A digital painting of a clock with a black frame and a yellow face.,J,clock,1.0
+bear10-clock1,2024-02-14 12:27:16,A painting of a clock with a face and hands.,J,clock,1.0
+bottle8-bicycle1,2024-02-14 12:27:17,"A bottle of beer is the central focus of this image, surrounded by a chaotic background of various objects.",F,bottle,0.9999974
+clock5-keyboard1,2024-02-14 12:27:18,A blurry image of a clock with the time of 12:00.,J,clock,1.0
+bicycle7-cat1,2024-02-14 12:27:18,A blurry image of a bicycle with a blue background.,C,bicycle,0.9999976
+cat5-chair3,2024-02-14 12:27:19,A painting of abstract shapes and colors.,X,airplane,0.86791587
+dog9-chair2,2024-02-14 12:27:19,A blurry image of a wooden chair and a building.,I,chair,0.99993145
+bottle6-bird1,2024-02-14 12:27:20,A blurry image of a blue bottle with a white cap.,F,bottle,1.0
+keyboard10-oven3,2024-02-14 12:27:21,A blurry image of a city with buildings and a train.,X,airplane,0.92957616
+airplane8-truck3,2024-02-14 12:27:21,A painting of a room with a yellow wall and a blue chair.,I,chair,0.99937135
+car4-bear3,2024-02-14 12:27:22,A blurry image of a brown animal with a hole in its head.,X,dog,0.88612634
+bicycle5-chair2,2024-02-14 12:27:23,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+airplane5-knife1,2024-02-14 12:27:23,A painting of a gun with a blurry background.,X,airplane,0.97862566
+knife3-knife1,2024-02-14 12:27:24,A painting of a brown and blue abstract art piece.,X,airplane,0.95953476
+bear8-dog1,2024-02-14 12:27:25,A brown bear is walking in a field with a blurry background.,B,bear,0.99999535
+car6-truck3,2024-02-14 12:27:25,A white car is shown with a blurry background.,G,car,0.99979895
+airplane2-bear1,2024-02-14 12:27:26,A close-up of a furry animal's face with a blurry background.,B,dog,0.99006
+knife6-bottle3,2024-02-14 12:27:27,A painting of a green plant with white and gray background.,X,bird,0.48648384
+bicycle4-bicycle3,2024-02-14 12:27:28,A bicycle with a black seat and red frame is shown in a blurry image with a white background.,C,bicycle,0.99999964
+truck8-keyboard2,2024-02-14 12:27:28,A blurry image of a black object with numbers on it.,X,airplane,0.8647915
+airplane6-chair3,2024-02-14 12:27:29,A painting of a blue chair in a room with a gray floor.,I,chair,0.9999913
+bear10-bear2,2024-02-14 12:27:30,A bear is standing on a rocky surface with its head turned to the side.,B,bear,0.99989223
+clock6-chair3,2024-02-14 12:27:30,A blurry image of a blue clock with a blue background.,J,clock,0.99999976
+truck6-boat2,2024-02-14 12:27:31,A red truck with a water tank is parked on a street with buildings in the background.,P,truck,0.999997
+bicycle4-airplane1,2024-02-14 12:27:32,A blurry image of a bike with a white background.,C,bicycle,0.99995327
+clock7-dog2,2024-02-14 12:27:32,A blurry image of a clock with two hands.,J,clock,1.0
+knife6-bicycle1,2024-02-14 12:27:33,A chaotic image of a pile of metal objects with a blurry background.,X,airplane,0.9702185
+clock5-airplane1,2024-02-14 12:27:34,A clock with a black face and white numbers and hands.,J,clock,1.0
+oven3-bear2,2024-02-14 12:27:35,A blurry image of two birds in a square frame with a white background.,D,bird,0.99367493
+oven7-elephant1,2024-02-14 12:27:35,A close-up of a gray stone wall with a rough texture.,X,airplane,0.7285051
+cat3-oven2,2024-02-14 12:27:36,A cat is sitting on a table with its paw on the edge.,"H, I",cat,0.9999676
+car1-keyboard2,2024-02-14 12:27:36,A blurry image of a black keyboard with white keys.,M,keyboard,0.9999999
+bottle9-bottle1,2024-02-14 12:27:37,A bottle is surrounded by a mosaic of smaller bottles and objects.,F,bottle,1.0
+oven9-chair1,2024-02-14 12:27:38,A pink chair is in the middle of a room with other chairs.,I,chair,1.0
+clock6-clock2,2024-02-14 12:27:39,A clock with a black face and white numbers and hands.,J,clock,1.0
+dog7-knife3,2024-02-14 12:27:39,A blurry image of a dog with a black and white color scheme.,K,dog,0.9995073
+keyboard7-dog1,2024-02-14 12:27:40,A close up of a furry texture with a brown color.,X,dog,0.7139519
+boat6-bear1,2024-02-14 12:27:40,A brown bear is lying down on a bed of grass.,B,bear,0.9999697
+bird6-oven1,2024-02-14 12:27:41,A blurry image of a bird flying in the sky.,D,airplane,0.6756674
+knife4-keyboard1,2024-02-14 12:27:42,A blurry image of a black object on a gray background.,X,airplane,0.9872121
+bicycle1-knife3,2024-02-14 12:27:42,A blurry image of a bicycle with a black and white background.,C,bicycle,0.9999988
+car6-elephant3,2024-02-14 12:27:43,"The image shows a close-up of a wheel with a star design, surrounded by a rough, cracked surface.",X,bicycle,0.93347037
+bicycle9-car1,2024-02-14 12:27:44,A colorful painting of a bicycle with a basket on the front.,C,bicycle,1.0
+bear1-clock2,2024-02-14 12:27:45,A bear is sitting on the ground with a blurry background.,B,bear,0.99999917
+airplane10-elephant1,2024-02-14 12:27:46,A close-up of a grayish-white surface with a pattern of lines and curves.,X,airplane,0.98291826
+bottle1-chair2,2024-02-14 12:27:46,A blurry image of a room with chairs and tables.,"I, G",chair,0.99844486
+elephant6-car3,2024-02-14 12:27:47,A red car is parked in a parking lot with trees in the background.,G,car,0.99937207
+bird2-dog2,2024-02-14 12:27:48,"A green parrot is perched on a branch, surrounded by a blurry background.",D,bird,0.9937382
+bear2-dog1,2024-02-14 12:27:49,A brown bear standing on all fours with its head turned to the left.,B,bear,0.99929035
+car7-oven2,2024-02-14 12:27:49,A black car is parked on a street with a blurry background.,G,car,0.9996076
+keyboard7-boat2,2024-02-14 12:27:50,A painting of a city with a lot of buildings and people.,X,airplane,0.9597978
+boat1-oven1,2024-02-14 12:27:50,A blurry image of a black and white object.,X,airplane,0.9929133
+keyboard6-bicycle1,2024-02-14 12:27:51,A computer keyboard is surrounded by a pile of scrap metal.,M,keyboard,0.999998
+truck3-oven2,2024-02-14 12:27:52,A black truck is parked in front of a building with a blurry background.,P,truck,0.99998844
+elephant4-boat3,2024-02-14 12:27:53,A painting of an elephant with a cityscape on its body.,L,elephant,1.0
+elephant1-airplane2,2024-02-14 12:27:53,A painting of an elephant with a blue and yellow color scheme.,L,elephant,1.0
+clock1-dog2,2024-02-14 12:27:54,"A blurry image of a clock with the numbers 12, 3, 6, and 9 visible.",J,clock,1.0
+dog5-elephant1,2024-02-14 12:27:55,"A dog's face is depicted in a textured, abstract style.",K,dog,0.9996941
+bicycle4-bottle1,2024-02-14 12:27:56,A bicycle is made up of small bottles and is surrounded by a colorful background.,C,bicycle,0.7008595
+keyboard6-elephant1,2024-02-14 12:27:57,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+truck7-oven2,2024-02-14 12:27:57,A blurry image of a truck with a trailer.,P,truck,0.9999999
+chair9-bottle3,2024-02-14 12:27:58,A green chair is surrounded by a pile of bottles with Asian writing on them.,"I, F",bottle,0.69803965
+car7-keyboard3,2024-02-14 12:27:59,A black car is parked on a street with a blurry background.,G,car,0.9996076
+boat4-chair2,2024-02-14 12:27:59,A blurry image of a room with chairs and tables.,"I, G",chair,0.99844486
+truck6-bear2,2024-02-14 12:28:00,"A blurry image of a truck with the word ""water"" on it.",P,truck,0.9999875
+bird6-car3,2024-02-14 12:28:01,A painting of a red car with a blurry background.,G,car,0.9997845
+keyboard3-bicycle2,2024-02-14 12:28:02,A blurry image of a group of bicycles with a man in the background.,C,bicycle,0.99999845
+clock3-elephant3,2024-02-14 12:28:03,"A clock with the numbers 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 on it.",J,clock,1.0
+keyboard10-truck1,2024-02-14 12:28:04,A painting of a red car with a blurry background.,G,car,0.9997845
+boat2-bear3,2024-02-14 12:28:05,A blurry image of a furry animal with a black spot in the center.,B,dog,0.93310696
+boat1-bicycle2,2024-02-14 12:28:05,A pile of bicycles with a red reflector in the middle.,C,bicycle,0.99999845
+airplane7-keyboard1,2024-02-14 12:28:06,A blurry image of a black and white object.,X,airplane,0.9929133
+keyboard8-keyboard2,2024-02-14 12:28:06,A close-up of a black keyboard with white lettering.,M,keyboard,1.0
+boat6-bottle2,2024-02-14 12:28:07,A blurry image of a group of bottles with a black bird in the center.,F,bottle,0.99147487
+dog9-bottle1,2024-02-14 12:28:08,A dog made of bottles is standing in front of a wall of bottles.,"B, F",bottle,0.99690944
+knife7-car2,2024-02-14 12:28:09,"A blurry image of cars with red, yellow, and gray colors.",G,car,0.9975101
+boat5-knife2,2024-02-14 12:28:09,A painting of a ship with a blurry background.,E,boat,0.86279696
+bird8-car2,2024-02-14 12:28:10,A painting of a bird with a red head and black body.,D,bird,0.9999914
+knife2-bird1,2024-02-14 12:28:11,A blurry image of a knife with a blue handle and a silver blade.,N,knife,1.0
+bear8-elephant2,2024-02-14 12:28:11,A close up of a bear's face with a cracked texture.,B,bear,0.99999285
+car8-cat1,2024-02-14 12:28:12,A close-up of a brown animal lying on a white furry surface.,B. bear,dog,0.97798675
+bottle2-elephant1,2024-02-14 12:28:13,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+elephant3-keyboard2,2024-02-14 12:28:13,A blurry image of a keyboard with a black and white color scheme.,M,keyboard,0.99999964
+car2-cat3,2024-02-14 12:28:14,A blurry image of a car with a red wheel.,G,car,0.99395037
+clock9-chair3,2024-02-14 12:28:15,A blue and white abstract image with a circular pattern.,X,airplane,0.91992587
+chair10-bicycle1,2024-02-14 12:28:15,A chair is surrounded by a chaotic background of various objects.,I,chair,0.99999905
+knife1-truck2,2024-02-14 12:28:16,A painting of a red car with a pink background.,G,car,0.9998872
+airplane8-bird1,2024-02-14 12:28:16,A blurry image of a plane flying in the sky.,A,airplane,1.0
+bear10-keyboard3,2024-02-14 12:28:17,A blurry image of a black object on a beige background.,X,airplane,0.99069
+bottle3-boat3,2024-02-14 12:28:18,A painting of a bottle with a cityscape in the background.,F,bottle,1.0
+knife1-car3,2024-02-14 12:28:19,A blurry image of a red car with a pink and purple background.,G,car,0.99962413
+elephant6-truck3,2024-02-14 12:28:19,A painting of a blue and yellow elephant with a purple background.,L,elephant,0.9999993
+oven1-cat1,2024-02-14 12:28:20,A blurry image of a cat's fur with a blue background.,H,cat,0.9999409
+elephant4-bird1,2024-02-14 12:28:21,A blurry image of an elephant walking on a dirt ground.,L,elephant,0.99999976
+airplane2-bottle1,2024-02-14 12:28:22,"A colorful array of bottles with various shapes and sizes, some with caps and others without, are displayed in a vibrant and artistic manner.",F,bottle,1.0
+chair5-car1,2024-02-14 12:28:23,A painting of cars with a red car in the center.,G,car,0.9998642
+clock4-car2,2024-02-14 12:28:23,A blurry image of a clock with a red background.,J,clock,1.0
+oven9-keyboard1,2024-02-14 12:28:24,A blurry image of a toaster oven with a black and white filter.,O,oven,0.9999957
+clock8-keyboard1,2024-02-14 12:28:25,A close up of a clock with the time of 12:30.,J,clock,1.0
+oven7-oven1,2024-02-14 12:28:29,"The image presents a scene of two ovens, one stacked on top of the other, set against a stark white background. The oven on top is slightly blurred, adding a sense of depth to the image. The oven on the bottom is in sharp focus, revealing its black color and silver handle. The oven on top, despite being blurred, shares the same black color and silver handle as the oven on the bottom. The two ovens, despite their differences in focus, share a commonality in their design and color scheme.",O. oven,oven,1.0
+keyboard6-knife2,2024-02-14 12:28:30,A painting of a keyboard with a black and white cat sitting on it.,"M, H",cat,0.91893446
+bird8-clock1,2024-02-14 12:28:30,A painting of a bird with a background of numbers and letters.,D,bird,0.999966
+oven1-boat3,2024-02-14 12:28:31,A painting of a boat in a glass case with a red and blue background.,E,boat,0.9999943
+dog5-truck2,2024-02-14 12:28:32,A red and black abstract painting with a blurry background.,X,airplane,0.9898683
+truck5-dog3,2024-02-14 12:28:33,"A blurry image of a brown toy truck with the word ""SCOUT"" on it.",P,truck,0.9999945
+chair7-truck3,2024-02-14 12:28:33,A painting of a chair with a blue seat and a yellow frame.,I,chair,0.9999964
+chair9-keyboard2,2024-02-14 12:28:34,A blurry image of a computer keyboard with the number 1 and 2 visible.,M,keyboard,0.9999931
+bottle5-airplane1,2024-02-14 12:28:35,A bottle is in the center of a distorted image with various words and letters.,F,bottle,1.0
+bear1-bicycle3,2024-02-14 12:28:35,A bear is sitting on the ground with its head turned to the left.,B,bear,0.9999827
+elephant7-airplane3,2024-02-14 12:28:36,A painting of an elephant with a blue background.,L,elephant,1.0
+bird1-knife3,2024-02-14 12:28:37,A painting of a bird with a blurry background.,D,bird,0.9989126
+bear3-bird3,2024-02-14 12:28:37,A painting of a bear with a white background.,B,bear,0.9999981
+boat6-airplane2,2024-02-14 12:28:38,A painting of a boat in the water with a blue sky and yellow clouds.,E,boat,0.9999974
+bicycle1-elephant2,2024-02-14 12:28:39,A bicycle is shown in a blurry image with a brown background.,C,bicycle,0.9999995
+chair10-dog1,2024-02-14 12:28:39,A blurry image of a chair is shown on a furry background.,I,chair,0.9999951
+knife9-bottle2,2024-02-14 12:28:40,A blurry image of a group of bottles with various colors and sizes.,F,bottle,1.0
+truck4-knife1,2024-02-14 12:28:41,A painting of a car with a blurry background.,G,car,0.99936515
+clock10-cat1,2024-02-14 12:28:42,"An old, rusty alarm clock with a white handle and two bells is sitting on a blue and white furry surface.","J
+I",clock,0.99999964
+clock4-chair1,2024-02-14 12:28:42,A blurry image of a room with red chairs and a black object in the center.,X,chair,0.9981931
+truck4-boat3,2024-02-14 12:28:43,A painting of a green and red truck with a blue sky and pink clouds.,P,truck,0.99998736
+truck4-bottle2,2024-02-14 12:28:44,A blurry image of a pile of bottles with a car in the background.,"F, G",bottle,0.9985404
+knife9-elephant2,2024-02-14 12:28:45,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+car5-bear3,2024-02-14 12:28:45,A blurry image of a car is shown on a white background.,G,car,0.9991314
+boat6-dog1,2024-02-14 12:28:46,A close-up of a furry surface with a brown marking.,X,dog,0.906745
+bird7-bird2,2024-02-14 12:28:47,"A black bird is perched on a wire, surrounded by a blurry background.",D,bird,0.9991167
+elephant7-knife2,2024-02-14 12:28:48,A blurry image of an elephant with a pink trunk and a red eye.,L,elephant,1.0
+bicycle6-boat2,2024-02-14 12:28:48,A bicycle with a basket is shown in a painting.,C,bicycle,1.0
+truck1-clock3,2024-02-14 12:28:49,A truck is shown with a blurry background.,P,truck,1.0
+bird5-cat2,2024-02-14 12:28:50,A blurry image of a bird with a brown and white color scheme.,D,bird,0.99980265
+bottle6-chair2,2024-02-14 12:28:50,A blurry image of a wooden chair with a blurry background.,I,chair,0.9999976
+clock9-keyboard2,2024-02-14 12:28:51,A blurry image of a black keyboard with white letters.,M,keyboard,0.99999976
+keyboard2-bottle1,2024-02-14 12:28:52,A blurry image of a shelf filled with various bottles of alcohol.,F,bottle,1.0
+knife7-airplane3,2024-02-14 12:28:52,A painting of a blue and white sky with a black bird in the center.,D,bird,0.97179633
+keyboard9-bird1,2024-02-14 12:28:53,A blurry image of a computer keyboard with a blue object in the foreground.,M,keyboard,0.99990857
+chair4-bear2,2024-02-14 12:28:54,A blurry image of a chair with a white background.,I,chair,0.9999981
+dog3-boat1,2024-02-14 12:28:54,A painting of a dog with a blue helmet on.,K,dog,0.9991737
+dog1-boat3,2024-02-14 12:28:55,A painting of a face with a red background.,X,airplane,0.5383149
+oven3-clock3,2024-02-14 12:28:56,A painting of a clock with a face and hands.,J,clock,1.0
+bird10-chair1,2024-02-14 12:28:56,A blurry image of a room with pink chairs and a black table.,I,chair,0.99305624
+oven3-truck1,2024-02-14 12:28:57,A red box with a red heart inside it.,X,bottle,0.9241726
+oven2-oven3,2024-02-14 12:28:58,A blurry image of a double oven with a digital display and buttons.,O,oven,0.9999989
+oven3-elephant3,2024-02-14 12:28:59,"The image shows a square-shaped object with a heart shape in the center, surrounded by a brownish-beige background.",X,elephant,0.5660446
+cat5-bottle1,2024-02-14 12:29:00,A cat is surrounded by a multitude of bottles in various colors and sizes.,F,bottle,0.9376716
+dog4-elephant2,2024-02-14 12:29:00,A close up of a dog's face with wrinkles.,K,dog,0.99980885
+car7-dog3,2024-02-14 12:29:01,A blurry image of a dog's face with a white background.,K,dog,0.9998933
+bird8-boat3,2024-02-14 12:29:02,A painting of a bird with a red beak and blue body.,D,bird,0.9999964
+dog7-chair2,2024-02-14 12:29:02,A painting of a chair made of chairs.,I,chair,1.0
+car5-cat1,2024-02-14 12:29:03,A blurry image of a car with a white background.,G,car,0.99900633
+elephant7-clock2,2024-02-14 12:29:04,A painting of an elephant with a blurry background.,L,elephant,0.9999999
+truck7-bird2,2024-02-14 12:29:04,A large truck with a trailer is parked on a snowy road.,P,truck,0.9999999
+elephant3-oven1,2024-02-14 12:29:05,A blurry image of an elephant with a white background.,L,elephant,1.0
+chair3-bicycle3,2024-02-14 12:29:06,A wooden chair with a red cushion is sitting on a gray carpet with a blurry background.,I,chair,1.0
+knife2-cat3,2024-02-14 12:29:07,A blurry image of a snake with a red eye and a white stripe on its body.,X,elephant,0.5845816
+keyboard6-chair1,2024-02-14 12:29:08,A blurry image of a room with red chairs.,I,chair,0.9999821
+bottle2-knife3,2024-02-14 12:29:08,A bottle is standing upright in front of a blurry background.,F,bottle,1.0
+bottle3-cat3,2024-02-14 12:29:09,A blurry image of a bottle with a brown liquid inside.,F,bottle,1.0
+keyboard4-keyboard2,2024-02-14 12:29:10,"A blurry image of a keyboard with the letters ""T"", ""O"", ""P"", and ""D"" visible.",M,keyboard,0.99999976
+bear3-airplane1,2024-02-14 12:29:11,A blurry image of a bear with a white background.,B,bear,0.9999976
+elephant5-chair3,2024-02-14 12:29:11,A painting of abstract shapes and colors.,X,airplane,0.86791587
+bottle9-keyboard1,2024-02-14 12:29:12,"A blurry image of a bottle with a label that says ""Jaeger"".",F,bottle,0.9999999
+oven3-airplane1,2024-02-14 12:29:13,A picture of a box with a picture of a box inside it.,X,bottle,0.96793836
+car3-boat1,2024-02-14 12:29:13,A car is shown in a painting with a blue background.,G,car,0.9991673
+airplane5-bear2,2024-02-14 12:29:14,A blurry image of a bird with a white background.,D,bird,0.9997322
+cat10-bird2,2024-02-14 12:29:15,"A cat is sitting on a couch with a blanket, looking at the camera.",H,cat,0.999997
+chair6-bird2,2024-02-14 12:29:15,A blurry image of a black object on a white background.,X,airplane,0.9918847
+oven4-bottle2,2024-02-14 12:29:16,A blurry image of a group of bottles with various colors and sizes.,F,bottle,1.0
+bear2-airplane1,2024-02-14 12:29:17,A bear standing on its hind legs with a blurry background.,B,bear,0.9999387
+keyboard9-chair2,2024-02-14 12:29:18,"A room filled with wooden chairs and tables, with a blurry background.",I,chair,0.99977297
+oven4-car1,2024-02-14 12:29:18,A painting of a toaster oven with a pot on top of it.,O,oven,0.9999999
+bottle4-bicycle1,2024-02-14 12:29:19,A bottle is surrounded by a chaotic background of various shapes and colors.,F,bottle,1.0
+knife1-dog1,2024-02-14 12:29:20,A close-up of a furry texture with a brownish hue.,X,dog,0.6390787
+elephant2-elephant3,2024-02-14 12:29:21,A close-up of an elephant's head on a textured surface.,L,elephant,0.99999964
+bear6-clock1,2024-02-14 12:29:21,A painting of a woman with a clock in her hand.,J,clock,1.0
+keyboard6-boat2,2024-02-14 12:29:22,A painting of a city with a red and black train in the center.,X,airplane,0.91674405
+clock2-knife1,2024-02-14 12:29:23,A blurry image of a clock with a black frame and white numbers.,J,clock,1.0
+oven1-bird3,2024-02-14 12:29:23,A blurry image of a room with a window and a bed.,X,airplane,0.9029365
+elephant7-cat1,2024-02-14 12:29:24,A painting of an elephant with a blurry background.,L,elephant,0.9999999
+dog10-oven2,2024-02-14 12:29:25,A black cat is sitting on a table with a blurry background.,"H, I",cat,0.99993074
+dog8-dog3,2024-02-14 12:29:25,A blurry image of a dog with a blurry background.,K,dog,0.999863
+bear5-oven3,2024-02-14 12:29:26,A blurry image of a machine with red buttons and a black screen.,X,airplane,0.9522599
+airplane4-car1,2024-02-14 12:29:27,A painting of a red car with a blue car in the background.,G,car,0.99995613
+cat7-knife2,2024-02-14 12:29:27,A cat is sitting on a pile of books with a blurry background.,H,cat,0.99997175
+cat10-clock1,2024-02-14 12:29:28,A painting of a cat with a background of clocks.,"H, J",cat,0.6811866
+knife9-bicycle1,2024-02-14 12:29:29,A chaotic image of a pile of scrap metal with various colors and shapes.,X,airplane,0.7490868
+truck4-oven2,2024-02-14 12:29:30,A black truck is parked on a street with a blurry background.,P,truck,0.9999993
+car4-oven2,2024-02-14 12:29:30,A black and white image of a car with a blurry background.,G,car,0.9988042
+keyboard4-truck3,2024-02-14 12:29:31,A painting of a city with cars and buildings.,"G, I",car,0.9977665
+knife3-bear2,2024-02-14 12:29:31,A blurry image of a bear's head and neck.,B,bear,0.9999683
+clock2-bear2,2024-02-14 12:29:33,"A blurry image of a clock with the numbers 12, 3, 6, and 9 visible.",J,clock,1.0
+car2-car3,2024-02-14 12:29:33,A red car is shown with a blurry background.,G,car,0.999671
+bicycle7-elephant2,2024-02-14 12:29:34,A bicycle is shown in a blurry image with a brown background.,C,bicycle,0.9999995
+boat4-bird1,2024-02-14 12:29:35,A painting of a blue and white abstract painting with a blurry background.,X,airplane,0.9926704
+truck6-knife2,2024-02-14 12:29:35,"A painting of a red truck with the word ""water"" on it.",P,truck,0.9999188
+clock10-truck2,2024-02-14 12:29:36,A red car is parked in front of a building with a white wall.,G,car,0.99939716
+clock8-chair2,2024-02-14 12:29:37,A close-up of a clock with a blurry background.,J,clock,1.0
+dog4-chair1,2024-02-14 12:29:37,A blurry image of a room with red chairs and a black table.,I,chair,0.99832195
+elephant7-dog1,2024-02-14 12:29:38,A blurry image of an elephant walking in the grass.,L,elephant,0.9999981
+car4-car2,2024-02-14 12:29:39,A red car with a black hood and a yellow stripe on the side.,G,car,0.9980996
+bicycle3-truck3,2024-02-14 12:29:40,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+boat2-bottle2,2024-02-14 12:29:40,A blurry image of a group of bottles with a black object in the center.,F,bottle,0.9999999
+bear8-bicycle3,2024-02-14 12:29:41,A bear is standing in a field with a blurry background.,B,bear,0.99999917
+car10-car1,2024-02-14 12:29:42,A red car is parked on a street with a blurry background.,G,car,0.999198
+truck1-cat1,2024-02-14 12:29:42,A blurry image of a dog and a cat in a room with a window.,"H, K",cat,0.9910659
+elephant7-keyboard3,2024-02-14 12:29:43,A black silhouette of an elephant is shown against a blurry background.,L,elephant,1.0
+bird9-bottle3,2024-02-14 12:29:44,A green bird is sitting on a branch with a blurry background.,D,bird,0.9999176
+oven4-knife2,2024-02-14 12:29:45,A painting of a microwave oven with a pot on top and a roasting pan inside.,O,oven,0.9999995
+keyboard6-car2,2024-02-14 12:29:46,A blurry image of a car with a red hue.,G,car,0.99929154
+airplane8-elephant3,2024-02-14 12:29:46,The image is a close-up of a textured surface with a black line running through it.,X,airplane,0.9989479
+clock8-bear2,2024-02-14 12:29:47,A close-up of a pocket watch with a blurry background.,J,clock,0.9719517
+knife9-boat1,2024-02-14 12:29:48,A painting of a city with a blue sky and red and blue buildings.,X,airplane,0.97387874
+airplane2-bicycle1,2024-02-14 12:29:48,A painting of a pile of metal objects with a blurry background.,X,airplane,0.9874571
+chair7-chair1,2024-02-14 12:29:49,A painting of a room with a pink background and a black chair.,I,chair,0.99966466
+dog6-cat1,2024-02-14 12:29:50,A brown and white dog with a collar is sleeping on a white furry blanket.,K,dog,0.99879885
+car4-clock1,2024-02-14 12:29:51,A painting of a car with a clock on it.,"G, J",clock,0.80703515
+boat4-boat3,2024-02-14 12:29:51,A painting of a boat in the water with a pink sky and blue water.,E,boat,0.9999989
+bear2-elephant1,2024-02-14 12:29:52,A close up of a bear's face on a textured surface.,B,bear,0.9999987
+elephant9-chair2,2024-02-14 12:29:53,A blurry image of a room with chairs and a table.,"I, J",chair,0.9985455
+clock3-bicycle2,2024-02-14 12:29:54,"A blurry image of a clock with the numbers 12, 3, 6, and 9 visible.",J,clock,1.0
+airplane4-cat3,2024-02-14 12:29:55,A blurry image of a cat's face with a red mark on it.,H,cat,0.99999106
+dog4-bicycle1,2024-02-14 12:29:55,A painting of a person with a blurry background.,X,airplane,0.97342074
+bird7-car2,2024-02-14 12:29:56,A blurry image of a bird sitting on a branch with a red and yellow background.,D,bird,0.9998666
+truck7-keyboard3,2024-02-14 12:29:57,A blurry image of a black object on a white background.,X,airplane,0.9918847
+bird3-knife3,2024-02-14 12:29:57,A blurry image of an eagle's head with a gray background.,D,bird,0.7153341
+bicycle5-car3,2024-02-14 12:29:58,A red bicycle is shown with a blurry background.,C,bicycle,1.0
+knife10-oven3,2024-02-14 12:29:59,A blurry image of a cityscape with buildings and a sky.,X,airplane,0.99891114
+bicycle9-bottle1,2024-02-14 12:30:00,A bicycle is made of bottles and is surrounded by a blurry background.,C,bicycle,0.5809583
+boat9-dog2,2024-02-14 12:30:00,A blurry image of a feathered object with a brownish hue.,D,bird,0.9385861
+clock5-clock2,2024-02-14 12:30:01,A clock with a blurry background and a black frame.,J,clock,1.0
+bear4-truck3,2024-02-14 12:30:01,A painting of a bear with a purple background.,B,bear,0.9999132
+dog8-boat3,2024-02-14 12:30:02,A painting of a red elephant with a blue trunk and a blue tail.,L,elephant,0.9999995
+truck1-bear1,2024-02-14 12:30:03,A blurry image of a bear with a blurry background.,B,bear,0.9999969
+oven1-clock3,2024-02-14 12:30:04,A painting of a room with a clock and a window.,"J, O",clock,1.0
+elephant9-boat3,2024-02-14 12:30:04,A colorful painting of an elephant with a cityscape in the background.,L,elephant,1.0
+bird5-bear3,2024-02-14 12:30:05,A blurry image of a bird with a brown and green color scheme.,D,bird,0.99986374
+chair1-airplane2,2024-02-14 12:30:06,A painting of a chair with a blue background and yellow lines.,I,chair,0.9999974
+knife8-bicycle1,2024-02-14 12:30:06,A painting of a group of people standing in a room with a blue wall.,X,airplane,0.8804989
+chair6-elephant2,2024-02-14 12:30:07,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+airplane7-truck1,2024-02-14 12:30:08,A red car is parked on a street with a blurry background.,G,car,0.999198
+chair10-airplane2,2024-02-14 12:30:08,A chair with a yellow seat and a blue backrest is sitting on a blue floor.,I,chair,1.0
+oven5-dog3,2024-02-14 12:30:09,A blurry image of a microwave oven on a white furry surface.,O,oven,0.9997571
+truck2-bird2,2024-02-14 12:30:10,A rusty truck with a ladder on the side and a gas tank on the back is parked on a snowy ground.,P,truck,0.9999999
+airplane9-car2,2024-02-14 12:30:11,A painting of a red car with a yellow stripe on the hood.,G,car,0.99907327
+truck8-elephant1,2024-02-14 12:30:12,A blurry image of a truck is shown.,P,truck,1.0
+chair7-airplane1,2024-02-14 12:30:12,A blurry image of a chair with a hat on it.,I,chair,0.9999994
+dog2-bicycle2,2024-02-14 12:30:13,A blurry image of a bicycle with a black tire and a silver frame.,C,bicycle,1.0
+car7-bear1,2024-02-14 12:30:14,A furry animal is sleeping on a bed with a brown blanket.,X,bear,0.49636006
+bear9-knife2,2024-02-14 12:30:14,A painting of a bear with a blurry background.,B,bear,0.99999297
+car3-elephant3,2024-02-14 12:30:15,A car is imprinted on a piece of paper with a rough texture.,G,car,0.9980653
+bottle9-car3,2024-02-14 12:30:16,A bottle of Tabasco sauce is standing upright in the center of the image.,F,bottle,1.0
+bear6-car2,2024-02-14 12:30:17,A colorful abstract painting with various shapes and colors.,X,airplane,0.83925474
+keyboard5-bear3,2024-02-14 12:30:17,A close-up of a furry texture with a blurry background.,X,dog,0.42852885
+car8-dog1,2024-02-14 12:30:18,A blurry image of a car is shown on a furry background.,G,car,0.99740463
+truck9-truck3,2024-02-14 12:30:19,A painting of a truck with a horse on the side.,P,truck,0.9997093
+bicycle9-knife3,2024-02-14 12:30:19,A painting of two bicycles with a blurry background.,C,bicycle,0.99997365
+chair8-oven1,2024-02-14 12:30:20,A blurry image of a chair with a white background.,I,chair,0.9999981
+cat3-truck3,2024-02-14 12:30:20,A painting of a cat with a blurry background.,H,cat,0.9998801
+elephant2-clock1,2024-02-14 12:30:21,A painting of a clock with a face made of numbers and letters.,J,clock,1.0
+knife6-bird1,2024-02-14 12:30:22,A blurry image of a blue object on a white background.,X,airplane,0.9843439
+keyboard10-airplane3,2024-02-14 12:30:22,A painting of a piano with a blue and black color scheme.,X,keyboard,0.48012206
+boat3-keyboard2,2024-02-14 12:30:41,"A blurry image of a keyboard with the letters ""T"", ""U"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"", ""J"", ""L"", ""T"", ""V"", ""E"", ""D"", ""E"", ""R"", ""N"", ""O"",",X,keyboard,0.99999833
+boat4-bottle2,2024-02-14 12:30:41,A blurry image of a variety of bottles and containers.,F,bottle,0.9999999
+dog3-elephant2,2024-02-14 12:30:42,A close up of a face with a blurry background.,X,airplane,0.9571682
+truck9-bottle2,2024-02-14 12:30:43,A blurry image of a horse and a truck with many bottles in the background.,"T, B",bottle,0.58194983
+boat6-clock2,2024-02-14 12:30:44,A painting of a boat with a face on it.,E,boat,0.9999993
+boat3-bicycle2,2024-02-14 12:30:44,A blurry image of a city with a lot of buildings and a sky.,X,airplane,0.999411
+oven2-truck3,2024-02-14 12:30:45,A painting of a room with a blue wall and a yellow door.,X,airplane,0.62987435
+car4-boat1,2024-02-14 12:30:45,A painting of a car with a blue and red background.,G,car,0.9996995
+bicycle4-chair2,2024-02-14 12:30:46,A blurry image of a room with chairs and tables.,"I, G",chair,0.99844486
+cat4-knife1,2024-02-14 12:30:47,A painting of a cat with a blurry background.,H,cat,0.9998801
+car8-boat3,2024-02-14 12:30:47,A red car is shown in a painting with a blurry background.,G,car,0.9997845
+elephant5-elephant1,2024-02-14 12:30:48,A gray elephant is standing on a gray surface with its trunk curled up.,L,elephant,0.9999994
+dog1-chair1,2024-02-14 12:30:49,A blurry image of a room filled with red chairs.,I,chair,0.99999213
+airplane10-bear3,2024-02-14 12:30:50,A close-up of a furry animal's tail with a blurry background.,B,dog,0.93439656
+bird10-bear2,2024-02-14 12:30:50,A blurry image of a bird with a long neck and curved beak.,D,bird,0.99991703
+bear4-car3,2024-02-14 12:30:51,A red car is in the center of the image with a blurry background.,G,car,0.9995486
+bottle8-bottle3,2024-02-14 12:30:52,A bottle of beer is surrounded by a blurry background with some writing.,F,bottle,1.0
+airplane9-truck1,2024-02-14 12:30:53,A red airplane is flying in the sky with a blurry background.,A,airplane,1.0
+knife1-oven1,2024-02-14 12:30:53,A blurry image of a building with a gray sky.,X,airplane,0.9990227
+chair2-boat1,2024-02-14 12:30:54,A painting of a chair with a blue seat and red back.,I,chair,0.9999988
+bird8-knife2,2024-02-14 12:30:54,A painting of a bird with a blurry background.,D,bird,0.9989126
+elephant7-car3,2024-02-14 12:30:55,A red elephant is walking on a pile of rocks with a pink sky in the background.,X,elephant,0.9999994
+truck3-clock3,2024-02-14 12:30:56,A painting of a clock with a blurry background.,J,clock,0.9999999
+bird3-bird2,2024-02-14 12:30:57,A close-up of a bird's head with its beak open.,D,bird,0.9999434
+car3-dog2,2024-02-14 12:30:57,A blurry image of a car with a furry background.,G,car,0.99816245
+truck2-boat3,2024-02-14 12:30:58,A red truck with a ladder on the side is parked on a street.,P,truck,0.99999905
+oven2-bottle1,2024-02-14 12:30:59,The image is a digital art piece featuring a refrigerator filled with various bottles of alcohol.,F,bottle,0.9999987
+boat9-bear3,2024-02-14 12:31:00,A blurry image of a brown furry object with a green spot.,B,dog,0.848086
+car10-chair1,2024-02-14 12:31:00,A red car is parked on a snowy road with a pink sky.,G,car,0.9970497
+bottle10-boat3,2024-02-14 12:31:01,A painting of a bottle with a blue label and red cap.,F,bottle,1.0
+elephant2-boat1,2024-02-14 12:31:02,A painting of a person with a red and blue background.,X,airplane,0.8004689
+oven4-clock2,2024-02-14 12:31:02,A painting of a microwave with a pot on top of it.,X,oven,0.9947035
+clock7-boat3,2024-02-14 12:31:03,A digital painting of a clock with a green second hand.,J,clock,1.0
+chair5-bicycle1,2024-02-14 12:31:04,A computer chair with a metal frame and black seat.,I,chair,0.99999976
+chair8-elephant1,2024-02-14 12:31:04,A close up of a wrinkled piece of paper with a faint drawing of a chair.,I,chair,0.9997844
+bicycle8-clock3,2024-02-14 12:31:05,A bicycle is shown in a painting with a blurry background.,C,bicycle,0.99999964
+bear3-chair2,2024-02-14 12:31:06,A digital art piece of a bear made up of chairs.,"B, I",chair,0.6854
+knife9-airplane2,2024-02-14 12:31:06,A painting of a blue and yellow abstract scene with a black line.,X,airplane,0.9974534
+keyboard4-bird1,2024-02-14 12:31:07,A blurry image of a blue and white object.,X,airplane,0.9899469
+bottle3-airplane2,2024-02-14 12:31:08,A bottle is standing in the center of a painting with blue and yellow colors.,F,bottle,1.0
+bicycle2-bicycle1,2024-02-14 12:31:09,"A bicycle with a basket is the main subject of the image, surrounded by a blurry background.",C,bicycle,0.99999964
+boat5-airplane1,2024-02-14 12:31:09,A painting of a ship with a lot of writing on it.,X,boat,0.97548497
+clock6-bicycle1,2024-02-14 12:31:10,A close up of a clock with a blurry background.,J,clock,1.0
+cat1-chair2,2024-02-14 12:31:10,A painting of a cat made up of chairs and tables.,"H, I",cat,0.8377919
+knife3-cat1,2024-02-14 12:31:11,A blurry image of a furry animal with a brown tail.,B,dog,0.96829134
+bird4-bicycle2,2024-02-14 12:31:12,A painting of a group of people sitting on a bench with a blurry background.,X,airplane,0.62466806
+clock10-airplane1,2024-02-14 12:31:13,A blurry image of an alarm clock with a white background.,J,clock,0.99999964
+truck3-bear3,2024-02-14 12:31:13,A blurry image of a brown furry animal with a circular object on its face.,"B, F",dog,0.965753
+bicycle4-truck3,2024-02-14 12:31:14,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+clock4-airplane1,2024-02-14 12:31:15,A clock with a white face and black numbers and hands.,J,clock,1.0
+dog4-bottle2,2024-02-14 12:31:16,A blurry image of a group of bottles with a black silhouette of a person in the center.,F,bottle,0.9999999
+elephant4-car3,2024-02-14 12:31:16,A red elephant is standing on a white ground with a pink sky.,L,elephant,0.9999994
+truck2-keyboard1,2024-02-14 12:31:17,A black and white photo of a truck with a blurry background.,P,truck,0.99999845
+bottle1-car1,2024-02-14 12:31:18,A painting of a bottle with a blurry background of cars.,F,bottle,0.9999534
+car3-bird2,2024-02-14 12:31:18,A silver car is parked on a snowy ground with a blurry background.,G,car,0.99125457
+bottle5-chair1,2024-02-14 12:31:19,A blurry image of a room with red chairs.,I,chair,0.9999821
+knife8-truck3,2024-02-14 12:31:20,A painting of a blue and yellow airplane with a blurry background.,A,airplane,1.0
+bicycle10-airplane2,2024-02-14 12:31:21,A blue bicycle with yellow wheels is shown in a blurry image.,C,bicycle,0.9999989
+dog4-airplane3,2024-02-14 12:31:21,A dog is standing in the snow with a blue sky in the background.,K,dog,0.99922943
+bicycle6-bicycle3,2024-02-14 12:31:22,A bicycle with a basket is shown on a pink and white background.,C,bicycle,1.0
+dog5-bear3,2024-02-14 12:31:23,A blurry image of a dog with a brown fur.,K,dog,0.9997614
+knife8-cat2,2024-02-14 12:31:23,A blurry image of a furry animal with a brown spot on it.,B,dog,0.87897503
+airplane2-dog1,2024-02-14 12:31:24,A close-up of a furry surface with some dark spots.,X,dog,0.85553277
+boat4-bicycle3,2024-02-14 12:31:25,The image is a digital art piece featuring a boat with a pink and purple color scheme.,E,boat,0.9999963
+oven4-elephant3,2024-02-14 12:31:26,The image shows a close-up of a stone wall with a square hole in the center.,X,bottle,0.44922844
+dog2-bottle2,2024-02-14 12:31:26,A blurry image of a group of bottles with different colors and sizes.,F,bottle,1.0
+cat9-bicycle1,2024-02-14 12:31:27,A painting of a pile of metal objects with a blurry background.,X,airplane,0.9874571
+airplane6-keyboard3,2024-02-14 12:31:28,A blurry image of a plane flying in the sky.,A,airplane,1.0
+clock3-dog2,2024-02-14 12:31:29,A blurry image of a clock with the time of 12:30.,J,clock,1.0
+bear8-boat2,2024-02-14 12:31:29,A bear is standing in a field with a sky background.,B,bear,0.9999963
+dog4-bird1,2024-02-14 12:31:30,A blurry image of a dog's head with a blurry background.,K,dog,0.9998363
+clock4-bottle3,2024-02-14 12:31:31,A green clock with a green frame is on a white background.,J,clock,1.0
+bear4-cat3,2024-02-14 12:31:31,A brown bear is standing on all fours in a field with a blurry background.,B,bear,0.9999907
+dog10-airplane1,2024-02-14 12:31:32,A dog is sitting on a white background with words and letters around it.,K,dog,0.999778
+cat9-bird3,2024-02-14 12:31:33,A cat is sitting on a white surface with a blurry background.,H,cat,0.99998343
+car9-clock2,2024-02-14 12:31:33,A white car is shown with a black roof and black tires.,G,car,0.9991229
+knife6-airplane1,2024-02-14 12:31:34,A painting of a black and white abstract image with a red line.,X,airplane,0.989926
+car10-bottle3,2024-02-14 12:31:35,A green car is surrounded by a background of white and gray.,G,car,0.99999
+chair7-boat3,2024-02-14 12:31:35,A painting of a chair with a green cushion and red frame.,I,chair,0.9999982
+oven10-oven3,2024-02-14 12:31:36,A blurry image of a microwave oven with a door open and a control panel on the right side.,O,oven,0.99982554
+airplane1-chair2,2024-02-14 12:31:37,A painting of a room with chairs and a table.,I,chair,0.9998739
+bear8-airplane1,2024-02-14 12:31:38,A blurry image of a bear with a white background.,B,bear,0.9999976
+oven9-boat2,2024-02-14 12:31:38,A painting of a microwave with a red object inside it.,X,oven,0.9627141
+car4-cat3,2024-02-14 12:31:39,A blurry image of a car with a blurry background.,G,car,0.9991817
+dog10-truck2,2024-02-14 12:31:40,A red and white car is shown in a blurry image.,G,car,0.99954385
+bicycle1-bicycle3,2024-02-14 12:31:40,A bicycle with a red seat and a black seat is shown in a painting with a blurry background.,C,bicycle,0.9999974
+truck3-keyboard3,2024-02-14 12:31:41,A blurry image of a black object with a white logo on it.,X,airplane,0.76575357
+bottle6-bear2,2024-02-14 12:31:42,A bottle is sitting on a textured surface.,F,bottle,1.0
+keyboard3-boat1,2024-02-14 12:31:42,A painting of a keyboard with a blue and red background.,M,keyboard,0.9999914
+elephant8-knife2,2024-02-14 12:31:43,A painting of a group of people with a blurry background.,X,airplane,0.99574286
+airplane3-airplane2,2024-02-14 12:31:44,A painting of a plane in the sky with a blue background.,A,airplane,1.0
+chair8-boat1,2024-02-14 12:31:44,A painting of a chair with a blurry background.,I,chair,0.99999607
+bear4-elephant2,2024-02-14 12:31:45,A bear is depicted in a square image with a brown color.,B,bear,0.99999404
+oven6-bicycle1,2024-02-14 12:31:46,A painting of a square with a fish in the center surrounded by a gray background.,X,boat,0.5311962
+bicycle1-bottle3,2024-02-14 12:31:47,"A green bicycle is the main focus of the image, surrounded by a blurry background with various objects.",C,bicycle,0.999997
+chair4-keyboard2,2024-02-14 12:31:47,A blurry image of a keyboard with a black cat sitting on it.,"M, H",cat,0.6926277
+knife2-car3,2024-02-14 12:31:48,A painting of a red car with a blurry background.,G,car,0.9997845
+car1-car2,2024-02-14 12:31:48,A red car is shown with a blurry background.,G,car,0.999671
+clock10-bottle1,2024-02-14 12:31:49,A collage of various bottles and a clock.,"F, J",clock,0.9369134
+keyboard4-oven2,2024-02-14 12:31:50,A blurry image of a city with a lot of buildings.,X,airplane,0.9724879
+chair3-dog2,2024-02-14 12:31:50,A wooden chair with a blurry background.,I,chair,0.99999976
+dog4-keyboard2,2024-02-14 12:31:51,A blurry image of a black object with a white number 2 on it.,X,airplane,0.9540939
+bear3-bicycle2,2024-02-14 12:31:52,"A close-up of a pile of metal objects, including a red object, with a blurry background.",X,airplane,0.914716
+bird5-car2,2024-02-14 12:31:53,A painting of a bird with a red chest and black wings.,D,bird,0.9988746
+chair7-knife2,2024-02-14 12:31:53,A painting of a chair with a blurry background.,I,chair,0.99999607
+bicycle6-dog2,2024-02-14 12:31:54,A painting of a bicycle with a sidecar is displayed on a wall.,C,bicycle,0.99999607
+cat9-bottle2,2024-02-14 12:31:55,A blurry image of a group of bottles with a blue background.,F,bottle,0.99999976
+bicycle8-bear2,2024-02-14 12:31:55,A blurry image of a bicycle with a black seat and handlebars.,C,bicycle,0.9999981
+chair7-car2,2024-02-14 12:31:56,A painting of a red chair with a black seat and armrests.,I,chair,0.9999993
+knife5-dog1,2024-02-14 12:31:57,A close-up of a furry texture with a brown stripe in the middle.,X,dog,0.7017002
+bicycle8-boat1,2024-02-14 12:31:58,A painting of a bicycle with a blue frame and red handlebars.,C,bicycle,0.9999999
+bear3-car2,2024-02-14 12:31:58,A blurry image of a pile of red and black objects.,X,airplane,0.956829
+cat9-dog2,2024-02-14 12:31:59,A cat is lying down on a furry surface with its tail curled up.,H,cat,0.9999989
+oven3-car2,2024-02-14 12:32:00,A blurry image of a car with a red flower in the middle.,G,car,0.9994461
+airplane8-oven2,2024-02-14 12:32:00,A painting of a city with a blurry background and a clear sky.,X,airplane,0.99710494
+car8-bicycle2,2024-02-14 12:32:01,A car is shown in a blurry image with a gray background.,G,car,0.99866366
+bottle4-oven2,2024-02-14 12:32:02,A dark bottle is standing on a table with a blurry background.,F,bottle,0.99999976
+bottle1-dog2,2024-02-14 12:32:03,A blurry image of a bottle with a furry background.,F,bottle,1.0
+truck7-chair2,2024-02-14 12:32:03,A painting of a truck with chairs in the background.,"G, I",truck,0.9980081
+airplane4-boat3,2024-02-14 12:32:04,A painting of a plane flying over a city with a colorful background.,A,airplane,1.0
+boat9-airplane2,2024-02-14 12:32:04,A painting of a ship with blue and yellow colors.,E,boat,0.9769174
+airplane1-elephant1,2024-02-14 12:32:05,A gray and white image of a plane.,A,airplane,1.0
+bicycle1-bird1,2024-02-14 12:32:06,A blurry image of a bicycle with a blue background.,C,bicycle,0.9999976
+boat1-bear1,2024-02-14 12:32:06,A blurry image of a furry animal.,B,dog,0.9508723
+elephant6-bicycle1,2024-02-14 12:32:07,A painting of an elephant with a baby elephant in the background.,L,elephant,0.9999999
+car8-chair1,2024-02-14 12:32:07,A pink and black abstract painting of a car.,G,car,0.99977833
+elephant5-bottle2,2024-02-14 12:32:08,A blurry image of a bottle with a black silhouette of an elephant in the background.,"F, L",bottle,0.8599435
+airplane2-bird3,2024-02-14 12:32:09,A painting of a bird with a red beak and black wings.,D,bird,0.9999107
+cat10-oven2,2024-02-14 12:32:10,A blurry image of a black object on a white background.,X,airplane,0.9918847
+truck3-bird2,2024-02-14 12:32:10,A black and white truck with a white trailer and a logo on the side.,P,truck,0.9999999
+boat4-elephant2,2024-02-14 12:32:11,A close up of a textured surface with a brown color.,X,airplane,0.9626742
+boat7-bottle1,2024-02-14 12:32:12,"A collage of various objects, including bottles, is displayed on a gray background.",F,bottle,0.99998796
+elephant7-bottle3,2024-02-14 12:32:13,A green elephant is walking on a white background with a lot of writing on it.,X,elephant,1.0
+bird9-keyboard1,2024-02-14 12:32:13,A blurry image of a bird sitting on a branch.,D,bird,0.99951553
+elephant1-car3,2024-02-14 12:32:14,A red car is parked in a lot with a tree and other cars in the background.,G,car,0.99945074
+cat3-bear2,2024-02-14 12:32:15,A cat is sitting on a white blanket with its eyes open.,H,cat,0.99999857
+car6-knife1,2024-02-14 12:32:16,A car is shown with a blurry background and a close-up of the front wheel.,G,car,0.9867194
+bicycle5-keyboard3,2024-02-14 12:32:16,A blurry image of a black and white object with a number 96 on it.,X,airplane,0.8968438
+cat7-truck2,2024-02-14 12:32:17,A red car is shown in a blurry image with a white background.,G,car,0.9994343
+clock6-oven1,2024-02-14 12:32:18,A blurry image of a circular object with a square in the center.,X,airplane,0.90522003
+car4-bottle1,2024-02-14 12:32:19,"A collage of various bottles and containers, including a bottle of ketchup, a bottle of mustard, and a bottle of hot sauce.",F,bottle,1.0
+bear10-oven1,2024-02-14 12:32:20,A blurry image of a bear's head with a white background.,B,bear,0.9999877
+cat2-bottle3,2024-02-14 12:32:20,A cat is surrounded by a background of white and green.,H,cat,0.9999975
+oven10-airplane2,2024-02-14 12:32:21,A painting of a microwave with a yellow object inside.,X,oven,0.69979894
+airplane3-keyboard2,2024-02-14 12:32:22,A blurry image of a computer keyboard with a black square in the center.,M,keyboard,0.9999968
+cat8-bicycle3,2024-02-14 12:32:22,A cat with a blurry face and a pink background.,H,cat,0.99999714
+boat7-clock3,2024-02-14 12:32:23,A painting of a woman with a clock in her hand.,J,clock,1.0
+bear4-oven2,2024-02-14 12:32:24,A black and white image of a bear in a cage.,B,bear,0.9999969
+chair9-chair3,2024-02-14 12:32:24,A blurry image of a room with blue chairs and a gray floor.,I,chair,0.99891174
+dog3-bear3,2024-02-14 12:32:25,A blurry image of a dog with long hair.,K,dog,0.9998109
+bear1-bird2,2024-02-14 12:32:26,A large polar bear is sitting on the ground with its head turned to the side.,B,bear,0.9983675
+airplane1-clock1,2024-02-14 12:32:26,A painting of a bird with a clock background.,"D, J",clock,0.85027486
+cat9-knife2,2024-02-14 12:32:27,A painting of a cat with a red and black background.,H,cat,0.99997866
+truck9-chair3,2024-02-14 12:32:27,A painting of blue chairs and a blue car.,"I, G",chair,0.9051894
+car3-bottle3,2024-02-14 12:32:28,A painting of a car with a background of bottles.,G,bottle,0.9862882
+elephant6-knife2,2024-02-14 12:32:29,A blurry image of an elephant with a background of a brick wall.,L,elephant,0.99999964
+bottle6-bottle3,2024-02-14 12:32:29,A green bottle is surrounded by a multitude of bottles and cans.,F,bottle,1.0
+boat9-keyboard2,2024-02-14 12:32:30,A blurry image of a black and white object.,X,airplane,0.9929133
+airplane7-clock3,2024-02-14 12:32:31,A painting of a bird with a clock in the background.,"D, J",clock,0.62149626
+bear3-truck3,2024-02-14 12:32:31,A painting of a bear with a blurry background.,B,bear,0.99999297
+cat4-chair2,2024-02-14 12:32:32,A painting of a room with chairs and a table.,I,chair,0.9998739
+chair2-knife1,2024-02-14 12:32:32,A painting of a chair with a blurry background.,I,chair,0.99999607
+bird4-dog3,2024-02-14 12:32:33,A blurry image of a bird's wing and a white background.,D,bird,0.97248036
+truck5-knife3,2024-02-14 12:32:34,A painting of a group of people standing in a row.,X,airplane,0.9527322
+truck3-chair2,2024-02-14 12:32:34,A room filled with wooden chairs and tables.,I,chair,0.99999094
+keyboard9-cat1,2024-02-14 12:32:35,A blurry image of a cat sleeping on a bed.,H,cat,0.9999838
+bottle10-car1,2024-02-14 12:32:36,A bottle of alcohol is in the center of a colorful abstract painting.,F,bottle,0.9999999
+bird4-clock1,2024-02-14 12:32:36,A painting of a bird with a blurry background.,D,bird,0.9989126
+dog6-bicycle1,2024-02-14 12:32:37,A painting of a metal object with a blurry background.,X,airplane,0.98129076
+chair9-boat2,2024-02-14 12:32:37,A chair is shown in front of a colorful background.,I,chair,1.0
+cat2-knife3,2024-02-14 12:32:38,A painting of a cat with a blurry background.,H,cat,0.9998801
+cat9-truck1,2024-02-14 12:32:39,A red car is parked in a garage with a blurry background.,G,car,0.99962604
+truck10-airplane1,2024-02-14 12:32:40,"A blurry image of a truck with the word ""BROOKLYN"" on it.",P,truck,0.99999833
+knife9-bear3,2024-02-14 12:32:40,A blurry image of a brown furry animal.,B,dog,0.97332746
+car5-oven2,2024-02-14 12:32:41,A black car with a white roof is parked on a street.,G,car,0.99956304
+keyboard7-chair3,2024-02-14 12:32:41,A painting of blue chairs on a white background.,I,chair,0.9999825
+bird2-airplane3,2024-02-14 12:32:42,A painting of a person with a blue and black background.,X,airplane,0.97739697
+boat9-knife2,2024-02-14 12:32:43,A painting of a ship with a blurry background.,E,boat,0.86279696
+elephant8-boat2,2024-02-14 12:32:43,A painting of elephants with a blurry background.,L,elephant,0.9999999
+cat3-elephant2,2024-02-14 12:32:44,A close-up of a cat's face with a blurred background.,H,cat,0.99999416
+bird5-chair1,2024-02-14 12:32:45,A blurry image of a room with pink and white chairs.,I,chair,0.9999311
+cat5-knife2,2024-02-14 12:32:45,A cat's face is shown with a blurry background.,H,cat,0.9999975
+bird1-oven1,2024-02-14 12:32:46,A blurry image of a bird sitting on a branch.,D,bird,0.99951553
+boat10-boat3,2024-02-14 12:32:46,A painting of a boat with a red roof and blue body.,E,boat,0.9999993
+elephant8-bicycle3,2024-02-14 12:32:47,The image is a digital art piece featuring a group of elephants with a blurred background.,L,elephant,0.9999999
+boat6-elephant2,2024-02-14 12:32:48,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+bicycle8-truck1,2024-02-14 12:32:49,"A red bicycle is the main subject of the image, with a blurred background that includes a red and white checkered pattern.",C,bicycle,0.9999969
+boat1-truck3,2024-02-14 12:32:50,A painting of a cityscape with a blurry background and a clear blue sky.,X,airplane,0.9960879
+cat7-airplane2,2024-02-14 12:32:50,A painting of a cat with a blue background.,H,cat,0.9994954
+truck10-elephant3,2024-02-14 12:32:51,A car is depicted in a drawing on a piece of paper.,G,car,0.99852777
+cat9-clock2,2024-02-14 12:32:52,A painting of a pile of rocks with a blurry background.,X,airplane,0.96424717
+bottle9-bicycle1,2024-02-14 12:32:53,A bottle of water with a diamond shape on it is surrounded by a blurry background.,F,bottle,1.0
+car10-bicycle2,2024-02-14 12:32:54,A car is surrounded by a blurry background with a red and white object in the top right corner.,G,car,0.9986545
+knife5-truck3,2024-02-14 12:32:54,A painting of a room with a purple wall and a blue door.,X,clock,0.7510105
+bottle3-bicycle3,2024-02-14 12:32:55,"A purple bottle is the central focus of the image, surrounded by a blurry background with a pink and white color scheme.",F,bottle,0.99999726
+elephant1-dog2,2024-02-14 12:32:56,A brown elephant standing on a white background.,L,elephant,1.0
+dog8-keyboard3,2024-02-14 12:32:57,A blurry image of a black object on a white background.,X,airplane,0.9918847
+knife4-cat2,2024-02-14 12:32:57,A blurry image of a furry animal with a small black spot and a long black line.,B,dog,0.8273161
+bird8-keyboard2,2024-02-14 12:32:58,A blurry image of a keyboard with a black and white color scheme.,M,keyboard,0.99999964
+truck8-bottle2,2024-02-14 12:32:59,A blurry image of a truck with a lot of bottles in the background.,"P, F",truck,0.9958262
+car1-oven3,2024-02-14 12:33:00,"A blurry image of a room with a TV, a bookshelf, and a window.",X,airplane,0.4567577
+clock1-elephant2,2024-02-14 12:33:01,A close-up of a wrinkled piece of paper with a brownish color.,X,airplane,0.7637033
+truck1-bird1,2024-02-14 12:33:01,A blurry image of a truck with a white trailer.,P,truck,0.9999999
+cat1-cat3,2024-02-14 12:33:02,A blurry image of a cat with a white background.,H,cat,0.9999881
+bird7-cat3,2024-02-14 12:33:03,A blurry image of a bird sitting on a branch.,D,bird,0.99951553
+clock2-bottle3,2024-02-14 12:33:03,A clock with green numbers and hands on a white background.,J,clock,1.0
+bear9-bottle2,2024-02-14 12:33:04,A blurry image of a group of bottles with various colors and sizes.,F,bottle,1.0
+chair9-bicycle3,2024-02-14 12:33:05,A red office chair with wheels is in the center of a blurry background.,I,chair,0.99999714
+cat1-boat1,2024-02-14 12:33:05,A cat is shown in a digital art style with a colorful background.,H,cat,0.99997485
+chair5-bottle3,2024-02-14 12:33:06,A green chair is sitting on a pile of papers with Chinese writing on them.,I,chair,0.99999595
+clock7-cat2,2024-02-14 12:33:07,A blurry image of a clock with the time of 12:00.,J,clock,1.0
+bird1-bear1,2024-02-14 12:33:07,A blurry image of a bird sitting on a rock.,D,bird,0.9986053
+bicycle4-oven3,2024-02-14 12:33:08,A blurry image of a bike with a blurry background.,C,bicycle,0.9999404
+bear4-knife1,2024-02-14 12:33:09,A painting of a bear with a blue nose and a brown body.,B,bear,0.9999219
+bird5-airplane3,2024-02-14 12:33:09,A blue and black bird is perched on a branch.,D,bird,0.99980277
+keyboard1-chair2,2024-02-14 12:33:10,The image is a blurry photo of a room with wooden chairs and tables.,I,chair,0.99880004
+bicycle7-oven1,2024-02-14 12:33:11,A blurry image of a bicycle with a black seat and handlebars.,C,bicycle,0.9999981
+chair4-chair3,2024-02-14 12:33:11,A painting of a chair with a blue background.,I,chair,0.9999982
+bear2-car2,2024-02-14 12:33:12,A painting of a red and black car with a blurry background.,G,car,0.99957854
+keyboard7-clock3,2024-02-14 12:33:13,A painting of a clock with a blurry background.,J,clock,0.9999999
+knife2-bicycle3,2024-02-14 12:33:13,A painting of a red and black dragon with a pink background.,X,airplane,0.29562166
+dog1-bird1,2024-02-14 12:33:14,A blurry image of a dog with a blue eye.,K,dog,0.9998325
+dog3-keyboard1,2024-02-14 12:33:15,A black dog is sitting on a gray surface with a blurry background.,K,dog,0.999567
+car9-bird1,2024-02-14 12:33:16,A blurry image of a car with a blue front bumper and a white roof.,G,car,0.99747676
+airplane10-cat2,2024-02-14 12:33:16,A blurry image of a cat's tail and a brown and white furry surface.,H,cat,0.99996114
+boat8-knife1,2024-02-14 12:33:17,A painting of a boat with a blue sky and water.,E,boat,0.99999416
+knife10-keyboard3,2024-02-14 12:33:18,A blurry image of a black object on a white background.,X,airplane,0.9918847
+bear4-clock3,2024-02-14 12:33:18,A bear is standing on a gray background with a white and gray color scheme.,B,bear,0.9999999
+elephant2-keyboard3,2024-02-14 12:33:19,A blurry image of a person's arm holding a black object.,X,bottle,0.62234443
+airplane7-car1,2024-02-14 12:33:20,A painting of cars in various colors and sizes.,G,car,0.9998919
+knife3-keyboard3,2024-02-14 12:33:20,A blurry image of a black object in a brownish-yellow background.,X,airplane,0.97674507
+car4-elephant3,2024-02-14 12:33:21,A car is depicted in a drawing on a piece of paper.,G,car,0.99852777
+knife5-knife3,2024-02-14 12:33:22,A painting of a window with a black and white striped curtain.,X,clock,0.87522674
+elephant8-elephant1,2024-02-14 12:33:23,A close-up of a grayish-brown surface with a pattern of lines and ridges.,X,airplane,0.9514018
+boat2-keyboard1,2024-02-14 12:33:23,A blurry image of a metal object with a black hole in the center.,X,airplane,0.9649876
+keyboard7-car3,2024-02-14 12:33:24,A painting of a red car with a blurry background.,G,car,0.9997845
+airplane10-knife3,2024-02-14 12:33:25,A painting of a city with a blurry background and a clear sky.,X,airplane,0.99710494
+chair5-clock2,2024-02-14 12:33:25,A black and white painting of a chair with a blurry background.,I,chair,0.9999877
+chair5-oven2,2024-02-14 12:33:26,A black office chair with wheels is in front of a blurry window.,I,chair,0.9999604
+keyboard9-elephant2,2024-02-14 12:33:27,A close up of a textured surface with lines and ridges.,X,airplane,0.9821998
+clock4-elephant2,2024-02-14 12:33:28,"A clock is shown with the numbers 12, 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10 on it.",J,clock,1.0
+bicycle6-cat1,2024-02-14 12:33:29,A blurry image of a brown animal with a white object in its mouth.,B,dog,0.9212382
+knife4-boat1,2024-02-14 12:33:30,A painting of a city with a boat in the water.,E,boat,0.9999999
+cat6-clock3,2024-02-14 12:33:30,A cat is sitting in a room with a clock on the wall.,"H, J",clock,0.88486314
+bird6-elephant2,2024-02-14 12:33:31,A close up of a textured surface with a brown color.,X,airplane,0.9626744
+oven10-boat2,2024-02-14 12:33:32,A microwave oven with a red interior and a silver exterior.,O,oven,1.0
+cat4-airplane1,2024-02-14 12:33:32,A cat is standing on a pole in front of a wall with writing on it.,X,cat,0.99982375
+truck10-truck3,2024-02-14 12:33:33,A colorful painting of a truck with a blue cab and a yellow bed.,P,truck,0.9999994
+airplane6-bottle2,2024-02-14 12:33:34,A blurry image of a group of bottles with a black object in the center.,F,bottle,0.9999999
+chair8-clock3,2024-02-14 12:33:35,A painting of a chair with a background of abstract shapes and numbers.,I,chair,0.99999917
+dog7-keyboard3,2024-02-14 12:33:35,A blurry image of a black object with a white background.,X,airplane,0.99396694
+oven8-cat3,2024-02-14 12:33:36,A blurry image of a stove with two burners and a window.,O. oven,oven,0.43176034
+airplane4-airplane1,2024-02-14 12:33:37,A plane is flying in the sky with a blurry background.,A,airplane,1.0
+boat4-car3,2024-02-14 12:33:37,A painting of a pile of cars with a red car in the foreground.,G,car,0.99948907
+knife5-cat2,2024-02-14 12:33:38,A blurry image of a furry animal with a brown spot in the center.,B,dog,0.9376607
+car7-elephant3,2024-02-14 12:33:39,"A car is imprinted in the sand, with its tires and headlights visible.",G,car,0.9886234
+car7-bird3,2024-02-14 12:33:40,A blurry image of a car with a red hue.,G,car,0.99929154
+boat5-bicycle3,2024-02-14 12:33:40,A painting of a ship with a red sail and a white hull.,E. boat,boat,0.99985826
+truck6-dog2,2024-02-14 12:33:41,"A blurry image of a truck with the word ""water"" on it.",P,truck,0.9999875
+bicycle1-oven1,2024-02-14 12:33:42,A blurry image of a bicycle with a black seat and a white frame.,C,bicycle,0.99999845
+truck5-airplane2,2024-02-14 12:33:43,A painting of a yellow and blue train on a white background.,X,airplane,0.9328635
+bottle7-truck2,2024-02-14 12:33:43,A painting of a red and white abstract image.,X,airplane,0.90095025
+bottle5-bird3,2024-02-14 12:33:44,A bottle of beer with a white label on a white background.,F,bottle,1.0
+bird10-bicycle1,2024-02-14 12:33:44,A painting of a bird with a long beak and a red eye.,D,bird,0.9999665
+oven6-elephant2,2024-02-14 12:33:45,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+chair2-keyboard2,2024-02-14 12:33:46,A black chair is sitting in a room with a blurry background.,I,chair,0.99999976
+clock1-clock2,2024-02-14 12:33:46,A blurry image of a clock with a black and white face.,J,clock,1.0
+elephant5-bear2,2024-02-14 12:33:47,A large elephant with a long trunk is walking on a sandy ground.,L,elephant,0.9999994
+dog9-car1,2024-02-14 12:33:48,A painting of a dog with a blurry background of cars.,K,dog,0.63680655
+bottle5-clock3,2024-02-14 12:33:49,A bottle is in the center of a blurry image with a clock in the background.,"F, J",bottle,0.99680316
+cat2-truck3,2024-02-14 12:33:49,A blurry image of a cat with a blue object in front of it.,X,cat,0.9997527
+car3-truck1,2024-02-14 12:33:50,A red car is parked on a street with buildings in the background.,G,car,0.99981064
+knife10-elephant3,2024-02-14 12:33:51,"The image shows a close-up view of a wrinkled, textured surface with a darker spot in the center.",X,airplane,0.98634964
+oven7-bottle1,2024-02-14 12:33:52,A collage of various bottles and containers with different colors and sizes.,F,bottle,1.0
+truck5-truck1,2024-02-14 12:33:53,A red truck with a white cab is parked on a white surface.,P,truck,0.9999999
+airplane8-bicycle3,2024-02-14 12:33:53,"The image is a blurry, abstract painting with a pink and purple color scheme.",X,airplane,0.9534056
+chair5-bird1,2024-02-14 12:33:54,A blurry image of a blue chair with a white background.,I,chair,0.9999777
+dog7-car2,2024-02-14 12:33:55,A blurry image of a red and yellow object.,X,airplane,0.87419796
+oven10-bear1,2024-02-14 12:33:55,A furry animal is lying on a bed with a brown and white color scheme.,"B, H",dog,0.8698811
+car1-chair3,2024-02-14 12:33:56,A blurry image of a city with blue and gray colors.,X,airplane,0.99415416
+dog4-oven1,2024-02-14 12:33:57,A blurry image of a hand holding a gun.,X,knife,0.85619116
+chair6-truck2,2024-02-14 12:33:57,A painting of a red car with a black hood and a gray background.,G,car,0.9996511
+keyboard1-airplane2,2024-02-14 12:33:58,A painting of a blue and yellow abstract art piece.,X,airplane,0.9598219
+elephant6-oven1,2024-02-14 12:33:59,A blurry image of an elephant standing on a platform with a white background.,L,elephant,1.0
+keyboard6-bottle2,2024-02-14 12:33:59,A blurry image of a group of bottles with a black bar in the middle.,F,bottle,0.9999999
+bird4-cat3,2024-02-14 12:34:00,A blurry image of a bird in flight with a brown and white color scheme.,D,bird,0.77814496
+truck1-dog1,2024-02-14 12:34:01,A close-up of a furry texture with a blurry image of a car in the background.,X,car,0.99747074
+cat7-bottle1,2024-02-14 12:34:02,A colorful collage of bottles and liquor bottles with a cat in the center.,"F, J",bottle,0.86647266
+oven1-dog3,2024-02-14 12:34:03,A blurry image of a dog's face is shown in a square frame.,H,dog,0.9995571
+clock2-elephant2,2024-02-14 12:34:03,A close up of a clock with a blurry background.,J,clock,1.0
+bird8-elephant1,2024-02-14 12:34:04,A bird is sitting on a branch in the image.,D,bird,0.99997056
+keyboard1-bear2,2024-02-14 12:34:05,A blurry image of a keyboard with a black hole in the center.,M,keyboard,0.99994147
+bird5-dog2,2024-02-14 12:34:05,A blurry image of a bird with a pinkish background.,D,bird,0.999506
+airplane10-dog3,2024-02-14 12:34:06,A blurry image of a dog's tail and a white furry background.,H,dog,0.9992575
+bird4-airplane1,2024-02-14 12:34:07,A blurry image of a bird with a red beak and black wings.,D,bird,0.9996754
+bird1-boat1,2024-02-14 12:34:07,A painting of a bird with a blurry background.,D,bird,0.9989126
+bottle9-oven2,2024-02-14 12:34:08,A bottle of dark liquid is standing in front of a blurry background.,F,bottle,1.0
+car4-bird1,2024-02-14 12:34:09,A blurry image of a blue car with a black hood.,G,car,0.99946314
+airplane5-bird2,2024-02-14 12:34:10,A blurry image of a fighter jet with a missile attached to it.,A,airplane,0.9999912
+clock2-bicycle1,2024-02-14 12:34:10,A clock with a blurry background and a blurry face.,J,clock,1.0
+bird3-dog1,2024-02-14 12:34:11,A blurry image of a furry animal with a blurry background.,B,dog,0.9210549
+knife8-boat1,2024-02-14 12:34:12,A painting of a boat in the water with a blue sky and clouds.,E,boat,0.9999964
+oven6-bear2,2024-02-14 12:34:12,A blurry image of a bird in a box with a white background.,D,bird,0.99776554
+oven9-knife3,2024-02-14 12:34:13,A blurry image of a person sitting in a chair with a white background.,I,chair,0.99999905
+elephant5-car1,2024-02-14 12:34:14,A colorful painting of cars and a cow.,G,car,0.75704366
+bicycle1-airplane2,2024-02-14 12:34:15,A blurry image of a bicycle with a blue seat and yellow wheels.,C,bicycle,0.9999943
+bear8-bottle1,2024-02-14 12:34:15,A collage of bottles with various colors and sizes.,F,bottle,1.0
+truck10-clock1,2024-02-14 12:34:16,A painting of a truck with a clock face on the windshield.,"P, J",truck,0.99686027
+bear5-airplane3,2024-02-14 12:34:16,A bear is standing in the snow with a blue background.,B,bear,0.99999785
+bicycle6-car2,2024-02-14 12:34:17,A blurry image of a red car with a black steering wheel.,G,car,0.99098176
+airplane2-cat1,2024-02-14 12:34:18,A blurry image of a cat with a white background.,H,cat,0.9999881
+elephant4-bicycle2,2024-02-14 12:34:18,A pile of bicycles and metal objects in a blurry image.,C,bicycle,0.999962
+keyboard6-dog2,2024-02-14 12:34:19,A blurry image of a keyboard on a furry surface.,M,keyboard,0.99998045
+truck7-boat1,2024-02-14 12:34:20,A painting of a truck with a blue and red color scheme.,P,truck,0.9999976
+elephant5-truck1,2024-02-14 12:34:21,A red elephant with a gray trunk and legs is standing on a white background.,L,elephant,1.0
+car10-dog1,2024-02-14 12:34:21,A blurry image of a car with a brown and white background.,G,car,0.9981634
+keyboard5-keyboard1,2024-02-14 12:34:22,A close up of a black keyboard with a blurry background.,M,keyboard,0.9999999
+bear10-elephant1,2024-02-14 12:34:23,A close-up of a gray elephant's skin with wrinkles and a shadow.,L,elephant,0.9999937
+cat3-bicycle1,2024-02-14 12:34:23,A cat with a blue eye is lying on a bed of metal.,H,cat,0.99999547
+cat5-car2,2024-02-14 12:34:24,A painting of a cat with a blurry background.,H,cat,0.9998801
+truck4-bear1,2024-02-14 12:34:25,A blurry image of a furry animal with a brown color.,B,dog,0.9479165
+airplane5-oven3,2024-02-14 12:34:25,A blurry image of a room with a TV and a window.,X,airplane,0.6376058
+car6-bicycle3,2024-02-14 12:34:26,A silver car with a black tire and a red light on the front.,G,car,0.94536155
+car7-boat3,2024-02-14 12:34:27,A painting of a car with a blue background.,G,car,0.9990414
+bear7-dog3,2024-02-14 12:34:27,A brown bear standing on all fours with its eyes closed.,B,bear,0.9998853
+truck6-oven3,2024-02-14 12:34:28,A blurry image of a control panel with various buttons and a red light.,X,clock,0.7004401
+oven2-boat3,2024-02-14 12:34:29,A painting of a building with a red roof and green windows.,X,boat,0.28734192
+keyboard9-bear2,2024-02-14 12:34:29,A blurry image of a furry animal with a blurry background.,B,dog,0.9210549
+car9-bicycle2,2024-02-14 12:34:30,A car is shown in a distorted image with a gray background.,G,car,0.99488837
+boat9-clock1,2024-02-14 12:34:31,A painting of a ship with numbers and letters on it.,X,boat,0.9915742
+knife1-keyboard3,2024-02-14 12:34:31,A blurry image of a black and white object.,X,airplane,0.9929133
+chair7-elephant1,2024-02-14 12:34:32,A close-up of a chair's design on a fabric.,I,chair,0.99999964
+dog10-keyboard2,2024-02-14 12:34:32,A black and white image of a keyboard with a blurry background.,M,keyboard,0.999997
+car8-truck3,2024-02-14 12:34:33,A yellow car is shown in a painting with a blurry background.,G,car,0.9993563
+clock8-truck2,2024-02-14 12:34:34,A red and black clock is the main focus of the image.,J,clock,1.0
+dog10-dog1,2024-02-14 12:34:34,A blurry image of a bear in the woods.,B,bear,0.9999993
+bottle3-bottle3,2024-02-14 12:34:35,A green bottle is in the center of a painting with a blurry background.,F,bottle,1.0
+airplane4-bear3,2024-02-14 12:34:36,A blurry image of a furry animal with a black marking on its face.,B,dog,0.9532755
+knife4-knife2,2024-02-14 12:34:37,A painting of a black bird flying over a colorful background.,D,bird,0.7972463
+cat7-boat3,2024-02-14 12:34:37,A painting of a cat with a cityscape in the background.,H,cat,0.9999517
+dog3-clock1,2024-02-14 12:34:38,A dog is sitting on a white background with numbers and letters.,K,dog,0.99986434
+knife5-clock1,2024-02-14 12:34:38,A painting of a clock with a red center and a blue frame.,J,clock,0.9999999
+truck6-truck2,2024-02-14 12:34:39,"A blurry image of a red car with the word ""water"" on it.",G,car,0.9777672
+oven9-clock2,2024-02-14 12:34:40,A painting of a microwave with a turkey inside.,X,oven,0.92763317
+dog6-bird1,2024-02-14 12:34:40,A blurry image of a dog with a collar.,K,dog,0.99995065
+cat7-clock3,2024-02-14 12:34:41,A cat is lying down with a clock in the background.,"H, J",clock,0.771454
+bear9-keyboard3,2024-02-14 12:34:42,A blurry image of a computer keyboard with a black background.,M,keyboard,0.9999987
+bird7-knife2,2024-02-14 12:34:43,"A black and white bird is perched on a wire, with a blurry background of colorful objects.",D,bird,0.999361
+dog8-clock2,2024-02-14 12:34:43,A dog is standing in the middle of a painting with a blurry background.,H,dog,0.999435
+car1-clock2,2024-02-14 12:34:44,A black car with a blurry background and a blurry clock on the front.,"G, J",clock,0.66538364
+car2-chair1,2024-02-14 12:34:45,A blurry image of a car with a pink background.,G,car,0.9975775
+bicycle7-truck3,2024-02-14 12:34:46,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+clock10-knife3,2024-02-14 12:34:46,A painting of a clock with a blurry background.,J,clock,0.9999999
+truck1-knife1,2024-02-14 12:34:47,A truck is shown with a blurry background.,P,truck,1.0
+elephant1-chair1,2024-02-14 12:34:48,A blurry image of a room with a pink wall and a black chair.,I,chair,0.9501987
+bicycle5-cat1,2024-02-14 12:34:48,A blurry image of a bicycle with a brown seat and handlebars.,C,bicycle,0.9999919
+cat6-chair3,2024-02-14 12:34:49,A blurry image of a room with blue chairs and a gray floor.,I,chair,0.99891174
+airplane3-dog1,2024-02-14 12:34:50,A furry texture with a brown spot in the center.,X,bear,0.5906171
+cat1-oven1,2024-02-14 12:34:50,A blurry image of a cat with a white background.,H,cat,0.9999881
+keyboard5-bicycle1,2024-02-14 12:34:51,A close-up of a pile of metal objects with a blurry background.,X,airplane,0.97711235
+knife4-car2,2024-02-14 12:34:52,A blurry image of a red car with a yellow background.,G,car,0.9992099
+bear1-airplane3,2024-02-14 12:34:52,A bear is sitting on the ground with a blue nose.,B,bear,0.9999869
+keyboard9-boat2,2024-02-14 12:34:53,A painting of a city with a red car in the foreground.,G,car,0.9998487
+bird2-car3,2024-02-14 12:34:53,A painting of a red car with a blurry background.,G,car,0.9997845
+bottle4-dog2,2024-02-14 12:34:54,A bottle is standing upright in front of a furry background.,F,bottle,0.9999999
+elephant10-elephant1,2024-02-14 12:34:55,A close-up of an elephant's skin with wrinkles and a small bump.,L,elephant,1.0
+knife7-bottle3,2024-02-14 12:34:56,A blurry image of a pile of bottles with some green bottles in the center.,F,bottle,0.9999999
+bird8-bottle1,2024-02-14 12:34:57,A colorful abstract image of a bird made up of various objects.,D,bird,0.9992386
+elephant4-chair3,2024-02-14 12:34:57,A painting of abstract shapes in blue and white.,X,airplane,0.87704146
+airplane3-chair3,2024-02-14 12:34:58,A painting of blue chairs and a gray background.,I,chair,0.9999913
+bird5-truck2,2024-02-14 12:34:58,A blurry image of a red car with a silver grill.,G,car,0.9976603
+boat10-truck1,2024-02-14 12:34:59,A red car is shown with a blurry background.,G,car,0.999671
+clock6-bottle1,2024-02-14 12:35:00,A collage of various bottles and a clock in the center.,"F, J",clock,0.79386413
+bicycle4-keyboard3,2024-02-14 12:35:00,A blurry image of a bicycle with a black and white background.,C,bicycle,0.9999988
+keyboard5-bottle1,2024-02-14 12:35:01,A collage of various bottles and liquor bottles with different colors and sizes.,F,bottle,1.0
+elephant8-clock2,2024-02-14 12:35:02,A painting of a group of people with abstract shapes and colors.,X,airplane,0.92857814
+truck1-bicycle3,2024-02-14 12:35:03,"The image shows a truck with a trailer, a black tire, a white cab, and a red trailer.",P,truck,1.0
+clock10-bird3,2024-02-14 12:35:03,A red alarm clock with a white face and black numbers.,J,clock,1.0
+boat7-chair1,2024-02-14 12:35:04,A blurry image of a room with red chairs and a black chair.,I,chair,0.9999782
+bird6-airplane2,2024-02-14 12:35:05,A painting of a bird in flight with a blue and yellow color scheme.,D,bird,0.7771172
+dog1-cat3,2024-02-14 12:35:06,A blurry image of a dog with a red nose and a white face.,K,dog,0.99977404
+chair6-dog1,2024-02-14 12:35:06,A close-up of a furry texture with a brown stripe in the middle.,X,dog,0.7017002
+bottle4-airplane1,2024-02-14 12:35:07,A blurry image of a bottle with a red label.,F,bottle,1.0
+oven8-knife2,2024-02-14 12:35:08,A painting of a toaster oven with a blurry background.,O,oven,0.99999475
+cat1-car2,2024-02-14 12:35:08,A painting of a cat with a red nose and yellow eyes.,H,cat,0.9999958
+oven5-elephant1,2024-02-14 12:35:09,A close-up of a wrinkled piece of paper with a blurry image of a microwave oven.,O,oven,0.9924204
+boat2-bird1,2024-02-14 12:35:10,A blurry image of a boat in the water.,E,boat,1.0
+bird7-truck2,2024-02-14 12:35:11,A red car is shown in a blurry image with a black bird in the foreground.,G,bird,0.72849095
+keyboard4-clock2,2024-02-14 12:35:12,A painting of a pile of metal objects with numbers and letters on them.,X,airplane,0.8563314
+bird6-bottle3,2024-02-14 12:35:12,A painting of a green dragon with a background of bottles.,X,bottle,0.9999987
+bicycle9-cat3,2024-02-14 12:35:13,A blurry image of a bicycle with a basket on the front.,C,bicycle,1.0
+keyboard5-dog3,2024-02-14 12:35:14,A blurry image of a brown and white object.,X,airplane,0.94622606
+bottle8-bird1,2024-02-14 12:35:14,A blurry image of a bottle with a label.,F,bottle,1.0
+dog8-oven3,2024-02-14 12:35:15,A digital art image of an elephant with a blurred background.,L,elephant,1.0
+bicycle3-oven3,2024-02-14 12:35:16,A blurry image of a bike with a red light on the back.,C,bicycle,0.99998856
+bottle2-car2,2024-02-14 12:35:16,A blurry image of a bottle with a red label.,F,bottle,1.0
+cat10-bicycle1,2024-02-14 12:35:17,A painting of a cat with a blurry background.,H,cat,0.9998801
+boat6-cat1,2024-02-14 12:35:17,A blurry image of a dog lying on a furry surface.,H,dog,0.99965227
+knife2-truck2,2024-02-14 12:35:18,A painting of a red car with a blurry background.,G,car,0.9997845
+dog4-clock1,2024-02-14 12:35:19,A painting of a dog with a clock on its face.,K J,clock,0.98770744
+oven9-oven1,2024-02-14 12:35:19,A blurry image of a microwave with a food item inside.,O,oven,0.78784144
+truck2-chair1,2024-02-14 12:35:20,A blurry image of a room with pink chairs and a black steering wheel.,"G, I",chair,0.9993774
+chair3-bottle3,2024-02-14 12:35:21,A green chair is surrounded by a pile of papers with numbers and symbols on them.,I,chair,0.99999905
+knife1-chair1,2024-02-14 12:35:22,A blurry image of a room with red chairs.,I,chair,0.9999821
+bicycle6-airplane2,2024-02-14 12:35:22,A blue bicycle is shown in a blurry image with a yellow background.,C,bicycle,0.9999987
+oven5-airplane1,2024-02-14 12:35:23,A blurry image of a microwave with a lot of white paper around it.,X,airplane,0.7488841
+airplane4-bottle1,2024-02-14 12:35:24,A colorful collage of various bottles and containers.,F,bottle,1.0
+knife3-clock2,2024-02-14 12:35:25,A blurry image of a clock with a spoon on it.,J,clock,0.9999994
+bicycle9-chair1,2024-02-14 12:35:25,A blurry image of a bicycle in a room with pink chairs.,"C, I",bicycle,0.974412
+bear8-knife3,2024-02-14 12:35:26,A blurry image of a bear standing in the snow.,B,bear,0.9999956
+knife10-bear3,2024-02-14 12:35:27,A blurry image of a furry animal with a white spot.,B,dog,0.82295257
+knife7-bird3,2024-02-14 12:35:27,A blurry image of a bird with a black stripe on its face.,D,bird,0.9994566
+bottle6-oven3,2024-02-14 12:35:28,A bottle is standing in front of a wall with a blurry background.,F,bottle,1.0
+oven9-car2,2024-02-14 12:35:29,A blurry image of a car with a red object inside it.,G,car,0.9989735
+elephant9-dog3,2024-02-14 12:35:29,A painting of an elephant with a blurry background.,L,elephant,0.9999999
+cat8-car2,2024-02-14 12:35:30,A blurry image of a cat with a red nose and a yellow and orange body.,H,cat,0.99999547
+bird2-bird2,2024-02-14 12:35:31,A black bird is perched on a branch with a blurry background.,D,bird,0.99921703
+bottle7-cat2,2024-02-14 12:35:32,A blurry image of a furry animal with a pinkish-brown color.,B,dog,0.9151266
+keyboard10-car1,2024-02-14 12:35:32,A painting of a colorful scene with cars and people.,G,car,0.9943023
+chair8-knife2,2024-02-14 12:35:33,A painting of a chair with a red cushion and a black seat.,I,chair,0.9999999
+bear3-cat1,2024-02-14 12:35:34,A brown bear is sleeping on a white furry blanket.,B,bear,0.99999976
+bird10-bird2,2024-02-14 12:35:34,A black bird with a long beak is standing on the ground.,D,bird,0.99998486
+airplane7-bird3,2024-02-14 12:35:35,A painting of a bird with a blurry background.,D,bird,0.9989126
+elephant8-truck3,2024-02-14 12:35:36,A painting of elephants with a purple background.,L,elephant,1.0
+car2-knife3,2024-02-14 12:35:36,A blurry image of a car with a black circle in the middle.,G,car,0.9928681
+truck8-cat2,2024-02-14 12:35:37,A blurry image of a truck with a white background.,P,truck,0.99999976
+keyboard8-truck3,2024-02-14 12:35:38,A painting of a city with a purple sky and a yellow building.,X,airplane,0.98893434
+bottle5-keyboard2,2024-02-14 12:35:38,A blurry image of a bottle with a black background.,F,bottle,1.0
+dog2-airplane2,2024-02-14 12:35:39,"A painting of a dog's face with blue, yellow, and white colors.",K,dog,0.99988127
+elephant3-cat2,2024-02-14 12:35:40,"A close-up of a furry animal's back, with a blurry background.",B,dog,0.97690225
+chair5-keyboard2,2024-02-14 12:35:41,A blurry image of a black object on a gray background with numbers and letters.,X,airplane,0.88451475
+bird10-clock1,2024-02-14 12:35:41,A painting of a bird with a clock in the background.,"D, J",clock,0.62149626
+knife7-elephant2,2024-02-14 12:35:42,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+oven7-car3,2024-02-14 12:35:43,A painting of a red car with a blurry background.,G,car,0.9997845
+cat7-elephant1,2024-02-14 12:35:43,A cat is sitting on a blanket with its ears perked up.,H,cat,0.9999938
+clock10-oven2,2024-02-14 12:35:44,A black and white photo of a clock with a blurry background.,J,clock,1.0
+clock6-car2,2024-02-14 12:35:45,A painting of a clock with a red face and yellow hands.,J,clock,1.0
+bicycle2-keyboard2,2024-02-14 12:35:45,A blurry image of a keyboard with a black and white color scheme.,M,keyboard,0.99999964
+keyboard4-bottle2,2024-02-14 12:35:46,A blurry image of a group of bottles with various colors and sizes.,F,bottle,1.0
+bottle1-bird3,2024-02-14 12:35:47,A blurry image of a bottle with a white background.,F,bottle,1.0
+elephant10-keyboard1,2024-02-14 12:35:47,A blurry image of a black and white object.,X,airplane,0.9929133
+bear6-bottle3,2024-02-14 12:35:48,A painting of a green and white abstract art piece.,X,airplane,0.6852023
+elephant1-oven2,2024-02-14 12:35:49,A black elephant standing on a gray background with a blurry image.,L,elephant,0.9999999
+truck3-knife2,2024-02-14 12:35:49,A painting of a truck with a blurry background.,P,truck,0.99999094
+bicycle2-car2,2024-02-14 12:35:50,A painting of a red bicycle with a blurry background.,C,bicycle,0.99999654
+bottle10-dog1,2024-02-14 12:35:51,"A bottle of wine with the word ""CHARLOTTE"" on it.",F,bottle,0.99999976
+truck4-airplane3,2024-02-14 12:35:51,A blue truck is shown with a black cab and a black trailer.,P,truck,1.0
+airplane6-bear3,2024-02-14 12:35:52,A blurry image of a furry animal with a black spot on it.,B,dog,0.8468828
+clock7-bear2,2024-02-14 12:35:53,A blurry image of a clock with the time of 12:00.,J,clock,1.0
+bear1-elephant1,2024-02-14 12:35:54,A bear is sitting on the ground with its head down.,B,bear,0.9999933
+bottle6-knife3,2024-02-14 12:35:54,A painting of a person with a blurry background.,X,airplane,0.9734205
+elephant2-cat1,2024-02-14 12:35:55,A blurry image of a furry animal with a heart shape.,B,dog,0.8342431
+bear2-oven1,2024-02-14 12:35:56,A bear standing on all fours with a blurry background.,B,bear,0.99999547
+keyboard3-clock3,2024-02-14 12:35:56,A blurry image of a clock with numbers and hands.,J,clock,1.0
+cat7-dog3,2024-02-14 12:35:57,A cat is sleeping on a white blanket.,H,cat,0.9999968
+bottle5-oven2,2024-02-14 12:35:57,A blurry image of a bottle with a black background.,F,bottle,1.0
+keyboard1-elephant3,2024-02-14 12:35:58,The image shows a close-up view of a textured surface with a small hole in the center.,X,airplane,0.9805548
+boat3-clock3,2024-02-14 12:35:59,A painting of a building with a clock on it.,J,clock,0.99999964
+cat2-elephant1,2024-02-14 12:35:59,A cat face is drawn on a piece of paper.,H,cat,0.99999225
+bird6-boat2,2024-02-14 12:36:00,A painting of a bird with a cityscape in the background.,D,bird,0.99979323
+bottle2-bottle3,2024-02-14 12:36:01,A green bottle is surrounded by a white background with various symbols and letters.,F,bottle,1.0
+clock1-car1,2024-02-14 12:36:01,A painting of a colorful abstract scene with cars and a blurry background.,G,car,0.99091524
+bicycle10-boat3,2024-02-14 12:36:02,A blue bicycle is shown in a painting with a red background.,C,bicycle,0.99999976
+cat5-bicycle3,2024-02-14 12:36:03,A cat with a pink nose and green eyes is sitting in a pile of debris.,H,cat,0.9999857
+bottle8-keyboard3,2024-02-14 12:36:04,A blurry image of a black bottle with a white label.,F,bottle,1.0
+boat1-bird3,2024-02-14 12:36:04,A blurry image of a brown and white object.,X,airplane,0.94622606
+car5-bottle1,2024-02-14 12:36:05,A collage of bottles and a car is displayed on a white background.,G,bottle,0.99997437
+dog3-truck2,2024-02-14 12:36:06,A painting of a red and black object with a pink background.,X,airplane,0.9145118
+car1-airplane1,2024-02-14 12:36:06,A blurry image of a car with a lot of graffiti on it.,G,car,0.9959074
+clock3-car2,2024-02-14 12:36:07,A blurry image of a clock with red hands and a red border.,J,clock,1.0
+car6-bottle1,2024-02-14 12:36:08,A colorful image of a car made up of bottles and cans.,G,bottle,0.96128464
+clock9-cat1,2024-02-14 12:36:08,A blurry image of a clock with a blue background.,J,clock,0.9999999
+bear6-boat3,2024-02-14 12:36:09,A painting of a woman with a red scarf and a blue background.,X,bird,0.810053
+bottle3-bear2,2024-02-14 12:36:10,A bottle is sitting on a furry surface.,F,bottle,1.0
+keyboard6-bear2,2024-02-14 12:36:10,A blurry image of a keyboard on a furry surface.,M,keyboard,0.99998045
+knife1-airplane1,2024-02-14 12:36:11,A blurry image of a piece of paper with some writing on it.,X,airplane,0.9707983
+clock9-bird2,2024-02-14 12:36:12,A clock with roman numerals and a black center is on a white background.,J,clock,1.0
+dog6-clock1,2024-02-14 12:36:12,A dog is surrounded by a collage of numbers and letters.,K,dog,0.99996865
+keyboard8-oven1,2024-02-14 12:36:13,A blurry image of a computer keyboard with a blue background.,M,keyboard,0.9999958
+bear10-cat2,2024-02-14 12:36:14,A blurry image of a bear's head and neck.,B,bear,0.9999683
+cat8-bear1,2024-02-14 12:36:14,A blurry image of a cat with a blurry background.,H,cat,0.9999933
+boat9-boat3,2024-02-14 12:36:15,A painting of a ship with a red flag on it.,E,boat,0.9814414
+boat8-dog3,2024-02-14 12:36:16,A blurry image of a dog's face and a white furry background.,K,dog,0.9998431
+boat6-truck3,2024-02-14 12:36:16,A painting of a bird with a blurry background.,D,bird,0.9989126
+bicycle7-bicycle2,2024-02-14 12:36:17,A bicycle with a black seat and handlebars is parked on a gray concrete ground.,C,bicycle,0.9999987
+bicycle7-knife2,2024-02-14 12:36:18,A blurry image of a bicycle with a colorful background.,C,bicycle,0.99999917
+chair3-car3,2024-02-14 12:36:19,A painting of a red car with a blurry background.,G,car,0.9997845
+elephant2-bottle3,2024-02-14 12:36:19,A painting of a green elephant with a blurry background.,L,elephant,0.9999994
+bear4-boat2,2024-02-14 12:36:20,A bear is standing in a room with a red car and a gray wall.,"B, G",bear,0.99995875
+boat8-truck2,2024-02-14 12:36:21,A red car is shown in a blurry image with a white background.,G,car,0.9994343
+clock1-boat3,2024-02-14 12:36:21,A painting of a clock with a red second hand and a green minute hand.,J,clock,1.0
+knife10-dog1,2024-02-14 12:36:22,A close-up of a furry texture with a brown and white color scheme.,X,bear,0.78705716
+bottle9-elephant2,2024-02-14 12:36:23,A close up of a wrinkled elephant skin with a diamond shape in the center.,L,elephant,0.9999994
+bicycle1-chair1,2024-02-14 12:36:24,A blurry image of a room with pink chairs and a bicycle.,"I, C",chair,0.80351007
+dog5-knife2,2024-02-14 12:36:25,A blurry image of a person's face with a red tongue sticking out.,X,dog,0.6585123
+keyboard4-knife2,2024-02-14 12:36:25,A blurry image of a pile of papers with some red and blue colors.,X,airplane,0.98021096
+bottle1-clock1,2024-02-14 12:36:26,A painting of a bottle with a background of clocks.,"F, J",bottle,0.99458814
+oven4-bicycle2,2024-02-14 12:36:27,A blurry image of a car with a red light.,G,car,0.99697757
+oven5-bicycle1,2024-02-14 12:36:27,A blurry image of a microwave oven with a black and white color scheme.,O,oven,0.99977034
+cat9-cat3,2024-02-14 12:36:28,A blurry image of a cat sitting on a blanket.,H,cat,0.9999509
+bicycle10-clock2,2024-02-14 12:36:29,A bicycle is shown in a blurry image with a background of numbers and symbols.,C,bicycle,0.99999976
+car2-bird3,2024-02-14 12:36:30,A blurry image of a car with a red wheel.,G,car,0.99395037
+clock1-bear1,2024-02-14 12:36:30,A furry brown animal with a white marking on its face.,B,dog,0.98682183
+oven9-airplane2,2024-02-14 12:36:31,A blue and yellow toy car is sitting on a white surface.,G,car,0.9950671
+car7-car1,2024-02-14 12:36:31,A painting of a car with a red wheel.,G,car,0.9972441
+bottle5-boat1,2024-02-14 12:36:32,A painting of a bottle with a blue top and red body.,F,bottle,1.0
+dog9-bicycle3,2024-02-14 12:36:33,A dog is standing in a field of grass with a blurry background.,H,dog,0.9998362
+car5-knife2,2024-02-14 12:36:34,"A red car is parked on a street with a license plate that reads ""35"".",G,car,0.983163
+truck5-car1,2024-02-14 12:36:34,"A red truck with the word ""Gazprom"" on it is driving on a road.",P,truck,0.9999995
+bottle5-truck1,2024-02-14 12:36:35,A red bottle with a black label is the main focus of the image.,F,bottle,1.0
+car4-bicycle3,2024-02-14 12:36:36,"A red car is shown with a blurry background, and it has a headlight on the front.",G,car,0.9993973
+bottle6-bicycle3,2024-02-14 12:36:37,A bottle with a red label is surrounded by a chaotic background of lines and shapes.,F,bottle,1.0
+cat5-keyboard3,2024-02-14 12:36:37,A blurry image of a cat sitting in a car.,"G, H",cat,0.787176
+boat1-car2,2024-02-14 12:36:38,A blurry image of a red car with other cars in the background.,G,car,0.9996136
+cat6-keyboard3,2024-02-14 12:36:39,A blurry image of a cat sitting on a keyboard.,"H, M",cat,0.9678515
+chair1-clock2,2024-02-14 12:36:39,A painting of a chair with a blurry background.,I,chair,0.99999607
+bottle10-truck3,2024-02-14 12:36:40,A bottle of alcohol with a blue label is standing upright.,F,bottle,1.0
+clock5-bicycle1,2024-02-14 12:36:41,A clock with a blurry background and a blurry clock face.,J,clock,1.0
+keyboard8-chair2,2024-02-14 12:36:41,A room filled with wooden chairs and tables.,I,chair,0.99999094
+airplane9-clock1,2024-02-14 12:36:42,A painting of a clock with a face and hands.,J,clock,1.0
+dog5-car3,2024-02-14 12:36:43,A painting of a red car with a blurry background.,G,car,0.9997845
+bicycle2-bird3,2024-02-14 12:36:43,A blurry image of a bicycle with a basket on the front.,C,bicycle,1.0
+oven2-chair1,2024-02-14 12:36:44,A pink and red abstract image with a black chair in the center.,I,chair,0.9998994
+oven9-bird3,2024-02-14 12:36:45,A painting of a microwave with a chicken inside.,X,bird,0.5951264
+cat3-cat1,2024-02-14 12:36:45,A cat is lying down on a white furry blanket with its eyes open.,H,cat,0.99999726
+bird7-bottle1,2024-02-14 12:36:46,A painting of a bird with a background of bottles and colors.,D,bird,0.96917164
+chair7-bird1,2024-02-14 12:36:47,A blurry image of a blue chair with a wooden frame.,I,chair,0.99996376
+clock9-airplane1,2024-02-14 12:36:47,A clock with roman numerals and a red second hand.,J,clock,1.0
+boat8-bottle1,2024-02-14 12:36:48,A collage of various bottles and containers with a blurry background.,F,bottle,0.9999995
+knife6-chair3,2024-02-14 12:36:49,A painting of blue and gray chairs with a blurry background.,I,chair,0.9999331
+bottle7-clock1,2024-02-14 12:36:49,A digital art piece with a blurry clock in the center.,J,clock,1.0
+truck5-bird2,2024-02-14 12:36:50,A black truck with white lettering is parked on a gray surface.,P,truck,1.0
+bottle5-cat1,2024-02-14 12:36:51,A painting of a brown dog with a blue background.,K,dog,0.99969983
+elephant7-bear3,2024-02-14 12:36:51,A brown bear is walking on a grassy field with a blurry background.,B,bear,0.99998486
+boat7-oven3,2024-02-14 12:36:52,A blurry image of a computer with a black and white picture of a cat in the bottom right corner.,X,cat,0.999246
+chair2-bear2,2024-02-14 12:36:53,A blurry image of a chair with a white background.,I,chair,0.9999981
+truck2-car3,2024-02-14 12:36:54,A red truck with a ladder on the side is parked on a street with a blurry background.,P,truck,0.9999993
+elephant3-truck1,2024-02-14 12:36:55,A red elephant is standing in front of a blurry background.,L,elephant,1.0
+oven6-knife3,2024-02-14 12:36:55,A painting of a black and white object with a blurry background.,X,airplane,0.9946456
+bottle3-chair3,2024-02-14 12:36:56,A painting of a bottle with blue and gray colors.,F,bottle,1.0
+boat1-elephant3,2024-02-14 12:36:57,The image shows a close-up view of a textured surface with a darker line running through it.,X,airplane,0.9892196
+clock8-oven3,2024-02-14 12:36:57,A blurry image of a clock with a white background.,J,clock,1.0
+clock3-cat1,2024-02-14 12:36:58,A blurry image of a clock with a red second hand.,J,clock,1.0
+dog4-truck2,2024-02-14 12:36:58,A red and black abstract painting of a gun.,X,airplane,0.9369903
+cat5-dog3,2024-02-14 12:36:59,A cat with blue eyes is sitting on a white surface.,H,cat,0.9999615
+bicycle1-boat3,2024-02-14 12:37:00,A painting of a bicycle with a blue seat and red frame.,C,bicycle,0.9999993
+bottle3-knife3,2024-02-14 12:37:00,A bottle is standing in front of a blurry background.,F,bottle,1.0
+bird1-chair2,2024-02-14 12:37:01,A painting of a room with chairs and a table.,I,chair,0.9998739
+bird5-keyboard2,2024-02-14 12:37:02,A black bird is standing on a gray ground with numbers on it.,D,bird,0.9999871
+bicycle5-oven3,2024-02-14 12:37:02,A blurry image of a room with a desk and a chair.,I,chair,0.99924695
+chair8-bear1,2024-02-14 12:37:03,A blurry image of a chair with a furry texture.,I,chair,0.99999523
+bear2-knife2,2024-02-14 12:37:04,A bear is standing on a brick wall with a blurry background.,B,bear,0.9999995
+clock6-bird3,2024-02-14 12:37:04,A clock with a white face and black numbers and hands.,J,clock,1.0
+knife8-bottle3,2024-02-14 12:37:05,A painting of a green object surrounded by white and green bottles.,X,bottle,1.0
+dog1-car2,2024-02-14 12:37:05,A blurry image of a colorful abstract painting.,X,airplane,0.98399955
+elephant6-bird1,2024-02-14 12:37:06,A blurry image of an elephant with a baby elephant underneath it.,L,elephant,1.0
+bicycle9-airplane2,2024-02-14 12:37:07,A painting of a bicycle with a yellow basket on the front.,C,bicycle,0.9999999
+bird7-boat1,2024-02-14 12:37:08,A painting of a bird sitting on a wire with a blurry background.,D,bird,0.9975267
+dog10-clock1,2024-02-14 12:37:08,A dog is lying down in the center of a colorful abstract background.,H,dog,0.9996107
+boat8-oven1,2024-02-14 12:37:09,A blurry image of a boat on water with a sky background.,E,boat,0.9999833
+bird3-oven1,2024-02-14 12:37:10,A blurry image of a white wall with a black object in the foreground.,X,airplane,0.919016
+elephant2-truck2,2024-02-14 12:37:11,A painting of a red car with a black hood and a gray background.,G,car,0.9996511
+truck3-bicycle1,2024-02-14 12:37:11,A blurry image of a car with a logo on it.,G,car,0.99895847
+knife6-truck1,2024-02-14 12:37:12,A painting of a red car with a blurry background.,G,car,0.9997845
+airplane7-cat3,2024-02-14 12:37:13,A blurry image of a brown object on a white background.,X,airplane,0.9271589
+bicycle7-clock3,2024-02-14 12:37:13,A bicycle is shown with a blurry background.,C,bicycle,1.0
+oven9-bear2,2024-02-14 12:37:14,A blurry image of a chicken in a box with a white background.,X,bird,0.83640844
+truck2-bicycle2,2024-02-14 12:37:15,A blurry image of a car and a bike.,"G, C",bicycle,0.845907
+elephant6-cat2,2024-02-14 12:37:15,A blurry image of a mother elephant and her baby elephant.,"L, M",elephant,1.0
+bottle5-knife1,2024-02-14 12:37:16,A bottle is standing on a table with a blurry background.,F,bottle,1.0
+oven7-cat1,2024-02-14 12:37:17,A blurry image of a furry animal with a blue background.,B,dog,0.9461822
+airplane9-oven2,2024-02-14 12:37:17,A painting of a black and white boat in the water.,E,boat,1.0
+chair1-chair1,2024-02-14 12:37:18,A blurry image of a room with pink chairs.,I,chair,0.9999025
+car9-truck3,2024-02-14 12:37:19,A yellow car is parked in a room with a blurry background.,G,car,0.99985063
+car9-knife1,2024-02-14 12:37:19,A car is shown in a painting with a blurry background.,G,car,0.99943036
+dog8-chair3,2024-02-14 12:37:20,A painting of a gray elephant standing on a blue background.,L,elephant,0.9999989
+dog6-elephant2,2024-02-14 12:37:21,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+bird10-cat1,2024-02-14 12:37:21,A blurry image of a dog's tail.,K,dog,0.99961436
+clock10-boat2,2024-02-14 12:37:22,A red alarm clock with the numbers 876543210 on it.,J,clock,1.0
+bird1-clock3,2024-02-14 12:37:22,A painting of a bird with a clock face.,"D, J",bird,0.7306558
+bear10-truck1,2024-02-14 12:37:23,A red and white abstract painting of a bear.,B,bear,0.99999917
+clock4-boat3,2024-02-14 12:37:24,A painting of a clock with a red frame and a blue face.,J,clock,0.9999999
+bottle1-keyboard3,2024-02-14 12:37:24,A blurry image of a black and white picture.,X,airplane,0.9951906
+dog3-dog1,2024-02-14 12:37:25,A brown dog is sitting on a furry surface.,K,dog,0.99991167
+bicycle5-elephant1,2024-02-14 12:37:26,A bicycle is shown in a grayscale image with a blurry background.,C,bicycle,0.99999964
+cat6-oven1,2024-02-14 12:37:26,A blurry image of a cat with a gray and white color scheme.,H,cat,0.99998975
+knife1-elephant1,2024-02-14 12:37:27,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+boat7-truck2,2024-02-14 12:37:27,A painting of a red car with a black steering wheel.,G,car,0.99600923
+oven8-keyboard3,2024-02-14 12:37:28,A blurry image of a keyboard with a black object on top of it.,M,keyboard,0.99998677
+keyboard1-car3,2024-02-14 12:37:29,A painting of a red car with a blurry background.,G,car,0.9997845
+chair3-knife1,2024-02-14 12:37:29,A painting of a chair with a blurry background.,I,chair,0.99999607
+keyboard2-bicycle3,2024-02-14 12:37:30,"The image is a blurry, abstract painting of a group of people and bicycles.",C,bicycle,0.99996257
+airplane5-bicycle1,2024-02-14 12:37:31,A painting of a black and white airplane with a red nose.,A,airplane,1.0
+chair8-bicycle3,2024-02-14 12:37:32,"A chair is the central focus of the image, surrounded by a blurry background with various objects.",I,chair,0.99999654
+elephant9-elephant3,2024-02-14 12:37:33,A gray elephant is walking on a sandy ground with its trunk hanging down.,L,elephant,0.99999547
+bird1-bicycle2,2024-02-14 12:37:33,A blurry image of a bird with a red eye and a black beak.,D,bird,0.9999423
+knife4-bear1,2024-02-14 12:37:34,A blurry image of a furry animal.,B,dog,0.9508723
+bicycle4-car2,2024-02-14 12:37:35,A blurry image of a red bike with a black seat and handlebars.,C,bicycle,0.99992776
+airplane4-keyboard3,2024-02-14 12:37:36,A blurry image of a black object with a screw on it.,X,airplane,0.9666205
+airplane3-cat1,2024-02-14 12:37:36,A blurry image of a brown and white dog with a blue background.,K,dog,0.9998342
+dog8-bottle2,2024-02-14 12:37:37,A blurry image of a dog standing in front of a pile of bottles.,"K, F",bottle,0.9725117
+airplane5-dog3,2024-02-14 12:37:38,A blurry image of a brown and black animal.,B,dog,0.8787039
+bear5-bicycle3,2024-02-14 12:37:38,A bear is standing on all fours with its head turned to the left.,B,bear,0.9998729
+oven4-dog1,2024-02-14 12:37:39,A blurry image of a dog's face with a brown and white color scheme.,K,dog,0.99972194
+oven10-truck2,2024-02-14 12:37:40,A red object is inside a microwave oven with a black and white background.,X,oven,0.99999845
+bear2-keyboard2,2024-02-14 12:37:41,A blurry image of a black cat with white eyes.,H,cat,0.99999714
+knife8-car2,2024-02-14 12:37:41,A painting of a car with a blurry background.,G,car,0.99936515
+bottle7-airplane3,2024-02-14 12:37:42,A painting of a blue bottle with a black label.,F,bottle,1.0
+airplane5-bottle3,2024-02-14 12:37:42,A painting of a green robot with a green background.,X,car,0.4578847
+boat8-elephant1,2024-02-14 12:37:43,A close up of a grayish-white surface with a crack in the middle.,X,airplane,0.9086949
+cat1-bird1,2024-02-14 12:37:44,A blurry image of a cat with a blue tint.,H,cat,0.9999602
+cat1-airplane1,2024-02-14 12:37:44,A cat is looking at something with a blurry background.,H,cat,0.9999975
+keyboard7-oven2,2024-02-14 12:37:45,A blurry image of a cityscape with a black and white color scheme.,X,airplane,0.9411358
+elephant2-airplane3,2024-02-14 12:37:46,A painting of a black and white elephant with a blue background.,L,elephant,0.9999994
+cat2-boat2,2024-02-14 12:37:47,A cat is shown in a digital art piece with a multitude of colors and shapes.,H,cat,0.99997425
+bottle7-boat3,2024-02-14 12:37:47,A colorful abstract painting with a blue and red tower in the center.,X,airplane,0.9735581
+keyboard7-knife1,2024-02-14 12:37:48,A painting of a brown and black abstract art piece.,X,airplane,0.9643008
+bear8-bear1,2024-02-14 12:37:49,A brown bear is standing on all fours in a field with a blurry background.,B,bear,0.9999907
+truck2-bottle3,2024-02-14 12:37:50,A painting of a green truck with a white cab and a green trailer with white lettering.,P,truck,0.99999845
+knife1-bird2,2024-02-14 12:37:50,A blurry image of a knife with a red spot on it.,N,knife,1.0
+oven3-cat2,2024-02-14 12:37:51,A blurry image of a square with a brown and white color scheme.,X,airplane,0.82955617
+oven5-keyboard2,2024-02-14 12:37:52,A blurry image of a black object with numbers on it.,X,airplane,0.8647919
+dog9-airplane3,2024-02-14 12:37:52,A black dog is sitting on a white background with a blurry image behind it.,K,dog,0.9991007
+oven3-boat3,2024-02-14 12:37:53,A painting of a green box with a red heart inside it.,X,bottle,0.9504879
+bicycle4-boat1,2024-02-14 12:37:54,A blurry image of a bike with blue and red colors.,C,bicycle,0.99998355
+boat8-bird2,2024-02-14 12:37:54,A blurry image of a boat on the water.,E,boat,0.9999999
+bicycle4-knife3,2024-02-14 12:37:55,A blurry image of a bicycle with a white background.,C,bicycle,0.9999993
+knife6-clock2,2024-02-14 12:37:56,A painting of a city with a blurry background.,X,airplane,0.98869073
+bear7-truck1,2024-02-14 12:37:56,A red bear with a black nose and eyes is standing on its hind legs.,B,bear,0.99965334
+oven6-airplane3,2024-02-14 12:37:57,A painting of a fish in a box with a blue background.,X,boat,0.49777135
+bottle10-clock2,2024-02-14 12:37:58,A bottle of Dramamine is shown with a blurry background.,F,bottle,1.0
+chair5-boat3,2024-02-14 12:37:58,A painting of a chair with a blue seat and red armrests.,I,chair,0.9999976
+chair7-cat1,2024-02-14 12:37:59,A brown leather chair with wooden armrests and legs is sitting on a white furry surface.,I,chair,0.9999964
+clock2-clock3,2024-02-14 12:38:00,A blurry image of a clock with the time of 12:00.,J,clock,1.0
+chair9-dog2,2024-02-14 12:38:01,A blurry image of a chair with a furry texture.,I,chair,0.99999523
+airplane4-truck2,2024-02-14 12:38:01,A blurry image of a red car with a black grill.,G,car,0.9966696
+oven10-bicycle1,2024-02-14 12:38:02,A blurry image of a microwave with a red and blue interior.,X,oven,0.64897954
+knife6-oven3,2024-02-14 12:38:03,A blurry image of a room with a window and a door.,X,airplane,0.74865544
+cat10-bottle1,2024-02-14 12:38:04,"A colorful array of bottles and jars, some with lids, are scattered throughout the image.",F,bottle,0.9999995
+truck9-boat3,2024-02-14 12:38:04,A painting of a truck with a horse on the side.,P,truck,0.9997093
+keyboard5-cat1,2024-02-14 12:38:05,A blurry image of a brown and white furry object with a blue background.,B. bear,dog,0.8198032
+bear1-bear3,2024-02-14 12:38:06,A brown bear is sitting on the ground with its head turned to the side.,B,bear,0.9999248
+keyboard9-keyboard2,2024-02-14 12:38:07,A blurry image of a keyboard with a black and white color scheme.,M,keyboard,0.99999964
+chair10-oven1,2024-02-14 12:38:07,A chair with a black seat and a white backrest is shown in a blurry image.,I,chair,0.9999995
+clock3-bear3,2024-02-14 12:38:08,A blurry image of a clock with a brown face and black hands.,J,clock,1.0
+chair8-keyboard3,2024-02-14 12:38:09,A blurry image of a black and white cat.,H,cat,0.99998534
+clock10-clock3,2024-02-14 12:38:09,A digital painting of an alarm clock with a blurred background.,J,clock,0.99999857
+elephant6-dog2,2024-02-14 12:38:10,A mother elephant is nursing her baby in a blurry image.,L,elephant,0.99999964
+clock2-dog1,2024-02-14 12:38:11,A blurry image of a clock with a brownish color.,J,clock,1.0
+knife10-knife1,2024-02-14 12:38:11,A painting of a brown and black abstract art piece.,X,airplane,0.9643008
+bird3-boat3,2024-02-14 12:38:12,A painting of a city with a red bird in the foreground.,D,bird,0.99993515
+bicycle5-dog2,2024-02-14 12:38:13,A blurry image of a bicycle with a brown seat and handlebars.,C,bicycle,0.9999919
+bear10-bottle1,2024-02-14 12:38:14,A collage of various bottles and containers with a blurry background.,F,bottle,0.9999995
+chair10-car2,2024-02-14 12:38:14,A painting of a red car with a yellow background.,G,car,0.9998435
+elephant8-cat1,2024-02-14 12:38:15,A blurry image of three brown bears standing on a white furry surface.,B,bear,0.9999913
+chair1-oven3,2024-02-14 12:38:16,A chair is in front of a wall with a blurry background.,I,chair,0.9999918
+oven7-dog2,2024-02-14 12:38:16,A blurry image of a furry animal with a blurry background.,B,dog,0.9210549
+boat2-airplane1,2024-02-14 12:38:17,A boat is shown in a distorted image with numbers and letters in the background.,E,boat,0.99999976
+airplane5-chair3,2024-02-14 12:38:17,A painting of abstract shapes and colors.,X,airplane,0.86791587
+keyboard7-truck2,2024-02-14 12:38:18,A painting of a red car with a blurry background.,G,car,0.9997845
+airplane9-keyboard2,2024-02-14 12:38:19,A blurry image of a computer keyboard with the keys in black and white.,M,keyboard,0.99999964
+elephant1-bottle1,2024-02-14 12:38:20,A digital art piece of an elephant made up of bottles.,"B, F",bottle,0.7422473
+airplane4-bird3,2024-02-14 12:38:20,A painting of a plane flying in the sky.,A,airplane,1.0
+elephant8-dog1,2024-02-14 12:38:21,A painting of three elephants with a blurry background.,L,elephant,0.99999964
+bird1-truck1,2024-02-14 12:38:21,A painting of a red car with a blurry background.,G,car,0.9997845
+oven7-clock2,2024-02-14 12:38:22,A painting of a machine with a red button and a white background.,X,airplane,0.8594761
+bear9-boat2,2024-02-14 12:38:23,A digital art piece of a bear with a mosaic of different colors and shapes.,B,bear,0.9999963
+keyboard2-elephant1,2024-02-14 12:38:24,A close-up of a grayish-white fabric with wrinkles and folds.,X,airplane,0.4960569
+bottle9-truck1,2024-02-14 12:38:24,A bottle of alcohol with a red diamond label is standing upright on a table.,F,bottle,0.9999999
+cat1-dog1,2024-02-14 12:38:25,A cat with a blurry face and a furry background.,H,cat,0.99999404
+keyboard5-oven2,2024-02-14 12:38:26,A blurry image of a black object on a gray background.,X,airplane,0.9872121
+keyboard8-airplane2,2024-02-14 12:38:26,A painting of a blue sky with yellow and black shapes.,X,airplane,0.9970445
+clock5-chair3,2024-02-14 12:38:27,A clock with a blue face and a black hand is in the center of a blue and white checkered background.,J,clock,1.0
+dog1-airplane3,2024-02-14 12:38:28,A blurry image of a dog's face with a blue eye.,K,dog,0.99990404
+oven4-chair1,2024-02-14 12:38:29,A blurry image of a room with pink chairs and a black table.,I,chair,0.99305624
+bottle3-bird1,2024-02-14 12:38:29,A blurry image of a blue bottle with a white label.,F,bottle,1.0
+airplane3-car1,2024-02-14 12:38:30,A painting of a red car in a colorful background.,G,car,0.9999219
+boat10-cat1,2024-02-14 12:38:31,A dog is sleeping on a white furry blanket.,K,dog,0.9942226
+elephant9-airplane2,2024-02-14 12:38:31,A blurry image of an elephant walking on a blue ground with yellow flowers.,L,elephant,0.9999995
+oven5-bottle3,2024-02-14 12:38:32,A painting of a microwave with a green color.,X,oven,0.8601747
+dog9-boat1,2024-02-14 12:38:33,A painting of a dog with a blue hat and red and blue stripes.,K,dog,0.99955004
+boat10-bear3,2024-02-14 12:38:34,A close-up of a furry animal's face with a blurry background.,B,dog,0.99006
+cat5-airplane2,2024-02-14 12:38:34,A painting of a cat with a blue background.,H,cat,0.9994954
+boat4-dog2,2024-02-14 12:38:35,A blurry image of a furry object with a white line in the middle.,X,dog,0.659852
+oven2-bird2,2024-02-14 12:38:36,A blurry image of a double oven with a black and white color scheme.,O,oven,0.99999905
+dog7-bird3,2024-02-14 12:38:36,A brown dog with a white chest is sitting on the ground.,K,dog,0.99957556
+bird7-oven3,2024-02-14 12:38:37,A bird is standing on a ledge with a blurry background.,D,bird,0.9999211
+oven4-keyboard3,2024-02-14 12:38:38,A blurry image of a black object with white writing on it.,X,airplane,0.69036525
+airplane3-oven1,2024-02-14 12:38:38,A blurry image of a plane in the sky.,A,airplane,1.0
+dog7-oven2,2024-02-14 12:38:39,A blurry image of a person in a black suit.,X,airplane,0.9720275
+bottle2-clock1,2024-02-14 12:38:40,A bottle of beer is surrounded by a colorful background with numbers and letters.,F,bottle,1.0
+oven3-knife1,2024-02-14 12:38:40,A painting of a box with a picture of a knife inside it.,X,knife,0.9999975
+clock6-truck3,2024-02-14 12:38:41,A painting of a blue and orange room with a circular window.,X,clock,0.82698447
+elephant10-bear1,2024-02-14 12:38:42,A close-up of a bear's face with its eyes closed.,B,bear,0.99999774
+oven4-truck3,2024-02-14 12:38:42,A painting of a microwave with a glass of orange juice on top.,X,bottle,0.9847728
+knife5-bicycle2,2024-02-14 12:38:43,A blurry image of a pile of bicycles with a blue bike in the center.,C,bicycle,0.99999666
+bird9-bear3,2024-02-14 12:38:44,A blurry image of a bird with a brown feathered body and a black beak.,D,bird,0.9999721
+bear10-knife2,2024-02-14 12:38:45,A painting of a bear with a blurry background.,B,bear,0.99999297
+dog1-bear1,2024-02-14 12:38:46,A blurry image of a dog with a brown and white color scheme.,K,dog,0.9996031
+dog9-bear3,2024-02-14 12:38:46,A blurry image of a dog's head and a blurry background.,K,dog,0.99979645
+elephant4-clock3,2024-02-14 12:38:47,A painting of an elephant with a clock face on its trunk.,"L, J",elephant,0.9994855
+bicycle1-truck1,2024-02-14 12:38:48,"A red bicycle is the main subject of the image, with a blurry background that includes a red car and a red and white sign.","C, G",bicycle,0.9999347
+boat3-car3,2024-02-14 12:38:49,A painting of a car with a red hood and a white body.,G,car,0.99972504
+bottle9-cat2,2024-02-14 12:38:50,A blurry image of a bottle with a green label and a brown cap.,F,bottle,1.0
+cat8-bird2,2024-02-14 12:38:51,A gray kitten with black spots is sitting on a white and gray patterned surface.,X,cat,0.99746716
+bicycle1-dog3,2024-02-14 12:38:51,A blurry image of a bicycle with a brown and white background.,C,bicycle,0.9999968
+cat9-boat2,2024-02-14 12:38:52,A painting of a red car with a black roof and a white license plate.,G,car,0.9916916
+bird5-bicycle1,2024-02-14 12:38:53,A bird is standing on a pile of metal objects.,D,bird,0.99983644
+car7-airplane2,2024-02-14 12:38:53,A blue car is driving on a road with a yellow line.,G,car,0.99902225
+bicycle3-bird1,2024-02-14 12:38:54,A blurry image of a bicycle with a blue frame and a black seat.,C,bicycle,0.9999951
+bear10-chair2,2024-02-14 12:38:55,A painting of a room with wooden chairs and a piano.,"I, M",chair,0.99993896
+truck7-bear2,2024-02-14 12:38:55,A blurry image of a truck with a trailer.,P,truck,0.9999999
+truck1-car3,2024-02-14 12:38:56,A red truck is parked on a street with a blurry background.,P,truck,0.99999917
+chair4-oven2,2024-02-14 12:38:57,A blurry image of a chair with a wooden frame and a black seat.,I,chair,0.9999964
+airplane7-bottle3,2024-02-14 12:38:57,A painting of a green bird with white writing on it.,D,bird,0.99998915
+airplane3-clock1,2024-02-14 12:38:58,A painting of an airplane with a cityscape in the background.,A,airplane,1.0
+bottle1-cat3,2024-02-14 12:38:59,A blurry image of a bottle with a brown stripe in the middle.,F,bottle,0.9999999
+airplane7-boat2,2024-02-14 12:38:59,"A painting of a plane with the word ""Monarch"" on it.",A,airplane,0.99999964
+dog3-knife3,2024-02-14 12:39:00,A black dog is sitting in the middle of a blurry background.,K,dog,0.998403
+truck1-chair2,2024-02-14 12:39:01,The image is a painting of a room with chairs and a mirror.,I,chair,0.99985325
+cat10-keyboard1,2024-02-14 12:39:02,A blurry image of a black and white photo with a blurry background.,X,airplane,0.99693274
+cat2-cat1,2024-02-14 12:39:02,A brown and white kitten with blue eyes is sitting on a blue blanket.,H,cat,0.9997855
+dog3-bird2,2024-02-14 12:39:03,A black puppy is sitting on a gray and white patterned fabric.,X,dog,0.9395376
+airplane10-airplane1,2024-02-14 12:39:04,A plane is flying in the sky with a blurry background.,A,airplane,1.0
+bottle6-dog3,2024-02-14 12:39:04,A blurry image of a dog's paw with a white background.,K,dog,0.9995111
+elephant6-bottle2,2024-02-14 12:39:05,A blurry image of a pile of bottles with a blurry elephant in the background.,F,elephant,0.99163544
+airplane4-bicycle2,2024-02-14 12:39:06,A painting of a city with a lot of buildings and people.,X,airplane,0.9597978
+oven8-chair1,2024-02-14 12:39:07,A blurry image of a room with pink and red chairs.,I,chair,0.9999678
+truck7-truck2,2024-02-14 12:39:08,A red truck is parked in a lot with a white truck in the background.,P,truck,0.99999774
+bear5-chair1,2024-02-14 12:39:08,A blurry image of a room with pink chairs and a pink wall.,I,chair,0.9859406
+bottle10-bear2,2024-02-14 12:39:09,"A bottle of alcohol with a white label that says ""Dramamine"" on it.",F,bottle,1.0
+boat5-car3,2024-02-14 12:39:10,A painting of a red car with a blurry background.,G,car,0.9997845
+elephant9-bicycle2,2024-02-14 12:39:11,A blurry image of a group of bicycles with a focus on the front wheel of one bicycle.,C,bicycle,0.9999999
+bird3-bottle2,2024-02-14 12:39:12,A blurry image of a group of bottles with a black object in the center.,F,bottle,0.9999999
+oven3-bottle3,2024-02-14 12:39:13,A painting of a green box with a green handle and a green lock.,X,bottle,0.95247185
+knife9-chair1,2024-02-14 12:39:13,A blurry image of a room with red chairs.,I,chair,0.9999821
+clock6-knife2,2024-02-14 12:39:14,A painting of a clock with a brick background.,J,clock,1.0
+car8-knife2,2024-02-14 12:39:14,A blurry image of a car with a colorful background.,G,car,0.99921584
+boat6-knife2,2024-02-14 12:39:15,A painting of a bird with a brick background.,D,bird,0.9998247
+bird1-keyboard3,2024-02-14 12:39:16,A blurry image of a black object with a white design on it.,X,airplane,0.91159236
+elephant8-oven3,2024-02-14 12:39:16,A painting of a group of elephants standing in a line.,L,elephant,1.0
+dog10-car3,2024-02-14 12:39:17,A dog is sitting in a room with a blurry background.,"H
+X",dog,0.99983275
+boat3-cat3,2024-02-14 12:39:18,A blurry image of a painting with a brown background.,X,airplane,0.9551297
+bottle1-bear1,2024-02-14 12:39:18,A close-up of a furry texture with a blurry background.,X,dog,0.42852885
+elephant7-bird1,2024-02-14 12:39:19,A blue elephant is walking on a gray ground.,L,elephant,0.99999726
+airplane5-boat3,2024-02-14 12:39:20,A painting of a blue and red airplane with a red tail.,A,airplane,1.0
+elephant2-bear3,2024-02-14 12:39:20,A blurry image of a bear's head with a brown fur texture.,B,bear,0.9999964
+bicycle2-bottle1,2024-02-14 12:39:21,A painting of a bicycle with a blurry background.,C,bicycle,0.9999975
+oven2-bicycle1,2024-02-14 12:39:22,A painting of a metal object with a heart in the center.,X,airplane,0.6245947
+airplane8-chair1,2024-02-14 12:39:22,A blurry image of a room with pink and black chairs.,I,chair,0.99993527
+cat4-dog3,2024-02-14 12:39:23,A blurry image of a dog's face with a white background.,K,dog,0.9998933
+bear5-boat2,2024-02-14 12:39:24,A bear is standing in the middle of a city with buildings in the background.,B,bear,0.9999981
+bird1-elephant2,2024-02-14 12:39:25,A close up of an elephant's face with wrinkles and a trunk.,L,elephant,1.0
+oven6-truck1,2024-02-14 12:39:25,A red car is parked in a parking lot with a blurry background.,G,car,0.99969876
+dog2-knife3,2024-02-14 12:39:26,A blurry image of a dog's face with a black nose and eyes.,K,dog,0.99991393
+bear2-cat2,2024-02-14 12:39:27,A blurry image of a bear standing on all fours with a blurry background.,B,bear,0.9999924
+dog5-boat3,2024-02-14 12:39:28,A painting of a red and blue robot with a green face.,X,car,0.2616739
+bicycle10-dog3,2024-02-14 12:39:28,A blurry image of a bicycle with a brown and white background.,C,bicycle,0.9999968
+clock8-airplane2,2024-02-14 12:39:29,A blurry image of a clock with a blue frame and yellow face.,J,clock,0.99999976
+clock8-boat1,2024-02-14 12:39:30,A close-up of a clock with a blurry background.,J,clock,1.0
+knife6-dog2,2024-02-14 12:39:30,A blurry image of a furry texture with a brown spot in the center.,"B, H",bear,0.54868954
+truck9-airplane2,2024-02-14 12:39:31,A yellow and blue truck is parked on a street.,P,truck,0.9999999
+bear4-keyboard3,2024-02-14 12:39:32,A black object is sitting on a brown surface.,X,airplane,0.8102608
+bicycle1-bear1,2024-02-14 12:39:32,A blurry image of a bicycle with a brown background.,C,bicycle,0.99999654
+knife7-chair2,2024-02-14 12:39:33,A blurry image of a room with chairs and tables.,"I, G",chair,0.99844486
+boat7-boat2,2024-02-14 12:39:33,A painting of a boat with a red sail.,E,boat,0.9999999
+knife4-airplane3,2024-02-14 12:39:34,A painting of a black bird on a white background.,D,bird,0.9995664
+airplane3-elephant1,2024-02-14 12:39:35,A close up of a wrinkled piece of paper with a black line on it.,X,airplane,0.9937098
+chair9-bird3,2024-02-14 12:39:35,A brown chair with wheels is sitting on a white floor.,I,chair,0.9999989
+keyboard1-dog3,2024-02-14 12:39:36,A blurry image of a dog's face with a brick wall in the background.,K,dog,0.9999019
+cat10-bear1,2024-02-14 12:39:37,A furry animal is sleeping on a bed with a white blanket.,"B, H",dog,0.57448405
+dog10-elephant1,2024-02-14 12:39:37,A dog is lying down on a textured surface.,H,dog,0.99997556
+clock5-oven1,2024-02-14 12:39:38,A blurry image of a clock with a black frame and white face.,J,clock,1.0
+clock8-knife1,2024-02-14 12:39:39,A close-up of a clock with a blurry background.,J,clock,1.0
+cat4-oven1,2024-02-14 12:39:40,A blurry image of a cat with a blurry background.,H,cat,0.9999933
+oven10-cat2,2024-02-14 12:39:40,A blurry image of a brick wall with a small square hole in the center.,X,airplane,0.6543062
+boat9-cat3,2024-02-14 12:39:41,A blurry image of a ship with a brown color.,E,boat,0.89797795
+elephant10-knife3,2024-02-14 12:39:42,A painting of a black and white abstract scene with a blurry background.,X,airplane,0.9980856
+bicycle8-bird2,2024-02-14 12:39:42,A bicycle is parked on a concrete surface with a blurry background.,C,bicycle,0.9999999
+bird2-clock3,2024-02-14 12:39:43,A painting of a bird with a clock in the background.,"D, J",clock,0.62149626
+bicycle3-elephant2,2024-02-14 12:39:44,A bicycle is shown in a blurry image with a brown background.,C,bicycle,0.9999995
+bear7-bicycle2,2024-02-14 12:39:45,"A blurry image of a pile of metal objects, including a red object.",X,airplane,0.6595075
+keyboard2-knife1,2024-02-14 12:39:45,A painting of a city with a blurry background and a clear foreground.,X,airplane,0.9900478
+cat4-bird2,2024-02-14 12:39:46,A black and white cat is sitting on a gray surface with a blurry background.,H,cat,0.9999652
+clock4-oven1,2024-02-14 12:39:47,"A blurry image of a clock with the numbers 12, 3, 6, and 9 visible.",J,clock,1.0
+oven2-car1,2024-02-14 12:39:48,A painting of a car with a blurry background.,G,car,0.99936515
+cat4-keyboard2,2024-02-14 12:39:48,A blurry image of a black object on a gray background.,X,airplane,0.9872121
+bear6-cat3,2024-02-14 12:39:49,A blurry image of a bear's face with a brown and white color scheme.,B,bear,0.99999905
+chair1-elephant1,2024-02-14 12:39:50,A close-up of a gray fabric with a wrinkled texture.,X,airplane,0.7527864
+airplane9-boat1,2024-02-14 12:39:50,A painting of a plane with a blue and red color scheme.,A,airplane,1.0
+airplane8-clock2,2024-02-14 12:39:51,A blurry image of a group of people sitting in a room with a gray background.,X,chair,0.6078335
+bicycle2-dog1,2024-02-14 12:39:52,A close-up of a furry texture with some darker spots.,X,dog,0.5514275
+car8-clock2,2024-02-14 12:39:53,A car is shown in a painting with a blurry background.,G,car,0.99943036
+car5-truck3,2024-02-14 12:39:53,A yellow car is parked on a street with a blurry background.,G,car,0.99878675
+boat6-car1,2024-02-14 12:39:54,A painting of a colorful kayak with a blurry background.,X,boat,0.99870753
+boat3-airplane2,2024-02-14 12:39:55,A painting of a blue and yellow boat on water with a blue sky in the background.,E,boat,0.999992
+car9-keyboard2,2024-02-14 12:39:56,A blurry image of a car with a blurry background.,G,car,0.9991817
+chair7-clock3,2024-02-14 12:39:56,A chair with a cushion is sitting on a wooden floor with a blurry background.,I,chair,1.0
+keyboard7-bottle1,2024-02-14 12:39:57,"A colorful array of bottles with various shapes and sizes, some with caps and others without, are scattered throughout the image.",F,bottle,1.0
+truck3-cat1,2024-02-14 12:39:58,A blurry image of a dog and a car.,"G, K",car,0.76986355
+bear5-bottle1,2024-02-14 12:39:59,A collage of bottles and cans with a bear in the center.,B,bear,0.7722281
+car6-bear1,2024-02-14 12:39:59,A close-up of a furry animal with a blurry background.,B,dog,0.966368
+keyboard10-boat2,2024-02-14 12:40:00,A painting of a city with a red train on the tracks.,X,airplane,0.760294
+oven7-keyboard1,2024-02-14 12:40:01,A blurry image of a pile of metal objects.,X,airplane,0.9097717
+car6-chair3,2024-02-14 12:40:01,A painting of a blue and white abstract scene with a circular shape in the center.,X,airplane,0.9138407
+knife6-boat3,2024-02-14 12:40:02,A painting of a city with a boat in the water.,E,boat,0.9999999
+clock7-car1,2024-02-14 12:40:03,A blurry image of a clock with red frame and yellow face.,J,clock,1.0
+bicycle5-bear1,2024-02-14 12:40:03,A blurry image of two ostriches standing on a sandy ground.,X,bird,0.70874155
+bird9-elephant2,2024-02-14 12:40:04,A bird is sitting on a branch in a painting.,D,bird,0.9999242
+keyboard1-clock1,2024-02-14 12:40:05,A painting of a city with a clock in the center.,J,clock,0.99999917
+car1-dog2,2024-02-14 12:40:06,A blurry image of a pile of feathers with a faint image of a building in the background.,X,airplane,0.84834874
+truck10-bicycle1,2024-02-14 12:40:06,A car with a blurry background and a blurry steering wheel.,G,car,0.99763465
+clock8-cat1,2024-02-14 12:40:07,A blurry image of a pocket watch with a blue background.,J,clock,0.97677034
+bicycle5-bottle3,2024-02-14 12:40:08,A green bicycle is surrounded by a colorful background with various objects and text.,C,bicycle,0.99999976
+boat9-bird1,2024-02-14 12:40:08,A blurry image of a ship sailing on the water.,E,boat,0.9997149
+car5-airplane3,2024-02-14 12:40:09,A car with a license plate that reads B 75170 is parked on a snowy street.,G,car,0.9609011
+car10-keyboard2,2024-02-14 12:40:10,A blurry image of a keyboard with a black and white filter.,M,keyboard,0.9999968
+car10-elephant2,2024-02-14 12:40:11,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+dog1-knife3,2024-02-14 12:40:11,A blurry image of a dog's face with a black nose and eyes.,K,dog,0.99991393
+bicycle2-knife2,2024-02-14 12:40:12,A blurry image of a bicycle with a brick wall in the background.,C,bicycle,0.9999994
+cat2-car3,2024-02-14 12:40:13,A cat is sitting on a pile of papers with a green tree in the background.,H,cat,0.9999926
+car7-clock1,2024-02-14 12:40:13,A painting of a car with a clock on it.,"G, J",clock,0.80703515
+cat10-airplane3,2024-02-14 12:40:14,A painting of a fish with a blue background.,X,boat,0.79459023
+airplane10-car3,2024-02-14 12:40:15,A red airplane is flying in the sky with a blurry background.,A,airplane,1.0
+bottle8-elephant3,2024-02-14 12:40:15,A bottle of beer is imprinted on a piece of paper.,F,bottle,1.0
+truck2-elephant1,2024-02-14 12:40:16,A blurry image of a truck with a blurry background.,P,truck,0.99999976
+bear6-bear1,2024-02-14 12:40:17,A close-up of a furry texture with a blurry background.,X,dog,0.42852885
+bicycle4-clock3,2024-02-14 12:40:18,A bicycle is shown in a blurry image with a background of musical notes.,C,bicycle,0.9999994
+airplane10-truck1,2024-02-14 12:40:18,A red car is parked on a street with a blurry background.,G,car,0.999198
+airplane4-knife1,2024-02-14 12:40:19,A painting of a metal object with a blurry background.,X,airplane,0.98129076
+dog1-dog2,2024-02-14 12:40:20,A white dog with a brown nose and eyes is looking at the camera.,K,dog,0.9997764
+airplane6-knife1,2024-02-14 12:40:20,A painting of a bird with a blurry background.,D,bird,0.9989126
+truck6-clock2,2024-02-14 12:40:21,"A water truck is shown with the word ""water"" on it.",P,truck,0.99973816
+clock7-bicycle1,2024-02-14 12:40:22,A blurry image of a clock with a red second hand.,J,clock,1.0
+keyboard9-bicycle2,2024-02-14 12:40:22,A blurry image of a bike rack with bikes.,C,bicycle,0.99988127
+boat1-keyboard3,2024-02-14 12:40:23,A blurry image of a black object with a white dot on it.,X,airplane,0.9918405
+car8-bear1,2024-02-14 12:40:24,A close-up of a furry animal's face with its eyes closed.,B,dog,0.99075997
+car9-cat1,2024-02-14 12:40:24,A blurry image of a car with a blue background.,G,car,0.9983204
+bird3-bear3,2024-02-14 12:40:25,A close-up of a furry animal's face with a blurry background.,B,dog,0.99006
+elephant5-bicycle3,2024-02-14 12:40:26,A large elephant with a long trunk and a curled tail is standing on a ground with various objects.,L,elephant,0.9999974
+keyboard5-knife2,2024-02-14 12:40:27,A painting of a black and red object on a white background.,X,airplane,0.94422305
+elephant1-boat2,2024-02-14 12:40:27,A digital painting of an elephant with a red and black color scheme.,L,elephant,0.9999999
+oven6-oven3,2024-02-14 12:40:28,A blurry image of a machine with a glass window and buttons.,"J, M",airplane,0.9218903
+elephant1-bear2,2024-02-14 12:40:29,A large elephant standing on a sandy ground with a blurry background.,L,elephant,0.99999964
+bear7-clock1,2024-02-14 12:40:29,A painting of a face with numbers and letters on it.,X,airplane,0.5349278
+airplane7-airplane3,2024-02-14 12:40:30,A painting of a plane flying in the sky.,A,airplane,1.0
+oven6-chair3,2024-02-14 12:40:31,A painting of a blue chair with a blue background.,I,chair,0.9999969
+bottle5-elephant1,2024-02-14 12:40:31,A close up of a wrinkled piece of paper.,X,airplane,0.9457105
+car3-airplane3,2024-02-14 12:40:32,A blue car is shown in a painting with a gray background.,G,car,0.99917763
+bear7-bear2,2024-02-14 12:40:32,A brown bear standing on a rocky surface with its head turned to the side.,B,bear,0.99921787

@@ -1,0 +1,1305 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+bottle1-dog2,2024-02-04 22:16:43,"A bottle of wine is in the center of the image, surrounded by a textured background.",bottle,0.9999999,F
+knife8-bicycle1,2024-02-04 22:16:53,A pile of colorful objects on top of each other in front of a gray background.,airplane,0.95693946,X
+cat7-airplane2,2024-02-04 22:17:03,A cat is sitting on top of an abstract painting with blue and yellow colors.,cat,0.99984586,H
+bird8-bottle1,2024-02-04 22:17:12,A collage of bottles and jars with a bird silhouette in the center.,bottle,0.7833028,F
+elephant9-bicycle2,2024-02-04 22:17:22,A silver and black abstract painting with red accents.,airplane,0.9066086,X
+elephant10-knife3,2024-02-04 22:17:31,A black and white abstract painting with a gray background.,airplane,0.9718384,X
+car3-elephant3,2024-02-04 22:17:40,A car is parked on a dirt road.,car,0.95080024,G
+cat1-car2,2024-02-04 22:17:50,A cat is peeking out from behind a colorful background.,cat,0.9999968,H
+elephant8-bird2,2024-02-04 22:18:01,A herd of elephants walking away from the camera.,elephant,1.0,L
+dog6-bird1,2024-02-04 22:18:10,A dog with its tongue sticking out.,dog,0.99998677,K
+airplane4-bear3,2024-02-04 22:18:19,A cat is sleeping on a bed.,cat,0.99999964,H
+airplane3-chair3,2024-02-04 22:18:29,A group of blue chairs in front of a white wall.,chair,0.999946,I
+boat4-boat3,2024-02-04 22:18:38,A boat is in the water.,boat,1.0,E
+car8-bicycle2,2024-02-04 22:18:51,A silver car is parked on a street.,car,0.9997702,G
+knife4-knife2,2024-02-04 22:19:00,A knife is in the middle of the image.,knife,1.0,N
+car10-keyboard2,2024-02-04 22:19:09,键盘的特写镜头。,cat,0.76896,M
+oven9-car2,2024-02-04 22:19:20,A red and black suitcase with a black handle.,airplane,0.9224578,X
+bird9-elephant2,2024-02-04 22:19:30,A bird is sitting on a branch in front of a brown background.,bird,0.9999417,D
+knife4-clock3,2024-02-04 22:19:39,图片中有很多扭曲的钟表。,keyboard,0.3263804,J
+knife5-knife3,2024-02-04 22:19:48,A black and white painting of an abstract design on canvas.,airplane,0.8833407,X
+boat2-airplane1,2024-02-04 22:20:03,A shoe is on top of some papers.,airplane,0.51156986,X
+truck6-clock2,2024-02-04 22:20:13,A water truck is parked on the side of a road.,truck,0.9999615,P
+truck7-keyboard3,2024-02-04 22:20:24,A computer keyboard with keys glowing in different colors.,keyboard,1.0,M
+bicycle4-bottle1,2024-02-04 22:20:33,"A bicycle is surrounded by bottles of alcohol and other drinks, creating an abstract scene that highlights the theme of drinking culture in society. The arrangement suggests a party atmosphere or celebration where people gather to socialize over beverages.",bottle,0.99646676,"C, F"
+keyboard6-boat2,2024-02-04 22:20:43,"A computer keyboard and mouse on an abstract background of geometric shapes in red, orange, yellow, white, gray, black, blue, purple, pink, green, brown, and tan colors.",keyboard,0.9999982,X
+bear10-chair2,2024-02-04 22:20:52,A large group of chairs in a room.,chair,1.0,I
+dog4-elephant2,2024-02-04 22:21:06,A dog with a long nose and ears sits on a textured surface.,dog,0.9996327,K
+bear7-oven3,2024-02-04 22:21:15,A large machine with many buttons and dials.,clock,0.8941789,J
+bird5-keyboard2,2024-02-04 22:21:24,A bird is perched on top of computer keys.,bird,0.90919197,D
+keyboard6-dog2,2024-02-04 22:21:33,键盘和鼠标放在毛皮上。,keyboard,0.8722385,X
+clock10-bottle1,2024-02-04 22:21:42,A collage of bottle caps in the shape of an alarm clock.,clock,0.99243975,J
+boat2-oven3,2024-02-04 22:21:51,A gray and white abstract painting with a black frame.,airplane,0.9723502,X
+clock5-oven1,2024-02-04 22:22:00,A large clock with black hands and numbers is displayed against a gray background.,clock,1.0,J
+car4-cat3,2024-02-04 22:22:09,A yellow car with a black stripe on the side.,car,0.998444,G
+bird10-chair1,2024-02-04 22:22:18,Pink and black chairs in a room.,chair,0.9999993,I
+elephant3-keyboard2,2024-02-04 22:22:27,A computer keyboard with keys overlapping each other.,keyboard,1.0,M
+car10-bicycle2,2024-02-04 22:22:37,A car is in an abstract background of silver and white shapes.,car,0.9997348,G
+chair9-bird3,2024-02-04 22:22:46,A red office chair with wheels on a white background.,chair,0.9999995,I
+oven3-clock3,2024-02-04 22:22:55,A large clock with many smaller clocks inside it.,clock,1.0,J
+bird8-keyboard2,2024-02-04 22:23:03,键盘,keyboard,0.6020392,X
+boat7-bottle1,2024-02-04 22:23:17,A collage of bottles and jars in various shapes and sizes.,bottle,1.0,F
+elephant6-bottle2,2024-02-04 22:23:27,A collection of wine bottles with colorful tops.,bottle,1.0,F
+bicycle7-bear2,2024-02-04 22:23:36,A bicycle is parked on a white surface with fur texture.,bicycle,0.999998,C
+clock10-oven2,2024-02-04 22:23:46,A blue and black alarm clock on a gray background.,clock,1.0,J
+boat10-boat3,2024-02-04 22:23:55,A boat is floating on water.,boat,1.0,E
+clock6-chair3,2024-02-04 22:24:06,"The image is a digital art piece featuring a pattern of blue and green chairs arranged in a circular formation. The chairs are stacked on top of each other, creating a layered effect that gives depth to the composition. The colors used in the artwork are predominantly blue and green, with some areas showing a hint of pink and yellow. The overall effect is a visually striking and abstract representation of chairs.",chair,0.9999715,I
+car5-keyboard3,2024-02-04 22:24:15,A car with water droplets on it.,car,0.9998264,G
+elephant4-bird1,2024-02-04 22:24:29,大象,elephant,0.66132367,X
+knife4-airplane3,2024-02-04 22:24:38,这是一张色彩斑斓的抽象画，以蓝色和灰色为主色调。,keyboard,0.84341407,X
+bird7-knife2,2024-02-04 22:24:48,A bird is perched on a branch in front of a colorful background.,bird,0.99994314,D
+cat10-bird2,2024-02-04 22:24:57,A gray cat is sitting on a white surface.,cat,0.99989367,H
+bear8-airplane1,2024-02-04 22:25:07,"A gray and white bear is sitting on its hind legs with its front paws resting on its knees, facing to the right of the frame. The background appears abstract and textured in shades of black and white.",bear,0.9999709,B
+keyboard3-clock3,2024-02-04 22:25:17,"The image is an abstract digital art piece that features multiple clocks with distorted and deformed shapes, creating a surrealistic effect. The colors used in this artwork include shades of gray, black, white, brown, yellow, red, blue, green, purple, pink, orange, and beige.",clock,0.9999908,J
+cat2-boat2,2024-02-04 22:25:27,"A cat face made of geometric shapes in red, orange and black colors.",cat,0.9999931,X
+bicycle4-bicycle3,2024-02-04 22:25:37,A bicycle with a pink and white background.,bicycle,0.99999976,C
+bear8-bottle1,2024-02-04 22:25:47,"A collage of bottle caps in various colors and sizes, forming an abstract shape or pattern.",bottle,0.9999999,X
+bird5-bird1,2024-02-04 22:26:01,"A bird is perched on a branch in front of a gray background with subtle lines and textures. The bird appears to be looking off into the distance, possibly observing its surroundings or waiting for something. Its position on the branch suggests it might be resting after a long flight or simply enjoying some quiet time.
+
+The overall scene gives an impression of tranquility and natural beauty, as if capturing a moment frozen in time within nature's canvas. It could also symbolize patience, vigilance, or even loneliness depending upon one’s interpretation. However, without additional context such as location or specific actions taking place, these interpretations remain speculative. 
+
+This description focuses solely on what can confidently be determined from the given information about the image – that is, the presence of a bird on a branch against a gray backdrop. Any further details would require assumptions not supported by the provided data.",bird,0.9881413,D
+chair7-cat1,2024-02-04 22:26:10,A wooden chair with a cushion on it.,chair,1.0,I
+airplane9-car2,2024-02-04 22:26:19,"A colorful abstract painting with red, yellow, and gray tones.",airplane,0.79409045,X
+airplane1-clock1,2024-02-04 22:26:28,A bird is flying in front of an abstract background with numbers and letters.,bird,0.99773514,D
+boat7-keyboard3,2024-02-04 22:26:37,A black and white photo of a person sitting on a bench.,chair,0.7846269,I
+knife7-chair2,2024-02-04 22:26:47,"The image is a collection of chairs stacked on top of each other, creating an abstract pattern.",chair,0.99999666,I
+boat6-airplane2,2024-02-04 22:26:56,A blue and yellow abstract painting of a leaf.,airplane,0.6329498,X
+bear5-bird1,2024-02-04 22:27:05,一只熊站在冰上。,cat,0.6927101,X
+boat4-dog2,2024-02-04 22:27:14,这是一张色彩斑斓的抽象画，以棕色和黄色为主色调。,keyboard,0.84341407,X
+bird6-oven1,2024-02-04 22:27:22,A gray and black abstract painting with geometric shapes on white background.,airplane,0.9505841,X
+airplane5-bottle3,2024-02-04 22:27:31,A pile of green and white bottles.,bottle,1.0,F
+bottle9-bottle1,2024-02-04 22:27:41,"A collage of bottles and other objects in various colors, shapes, and sizes.",bottle,0.99999964,F
+bird1-chair2,2024-02-04 22:27:50,A large group of chairs in an abstract pattern.,chair,0.9999999,I
+airplane7-truck1,2024-02-04 22:27:59,A red and black abstract painting with a white background.,airplane,0.94697046,X
+truck8-keyboard2,2024-02-04 22:28:08,A computer keyboard with keys missing.,keyboard,1.0,M
+cat4-oven1,2024-02-04 22:28:17,"A cat is sitting on top of a pole, looking to its left with an alert expression. The background appears blurred and grayish in color.",cat,0.99997675,H
+knife5-cat2,2024-02-04 22:28:30,A brown and white fur texture background with blurry edges.,bear,0.4614926,X
+cat9-bird3,2024-02-04 22:28:39,这是一张猫的画。,cat,0.76995265,X
+keyboard10-boat2,2024-02-04 22:28:48,A red boat on the water.,boat,1.0,E
+cat4-clock2,2024-02-04 22:28:57,"A clock is depicted in the image, with its face and hands clearly visible.",clock,1.0,J
+airplane2-cat1,2024-02-04 22:29:08,A fur coat with a tag on it.,dog,0.78317034,X
+oven5-bird1,2024-02-04 22:29:17,A toaster oven with a blue tint.,oven,1.0,O
+elephant1-keyboard3,2024-02-04 22:29:25,A black and white photo of a person walking.,airplane,0.6920337,X
+car4-elephant3,2024-02-04 22:29:35,A car is drawn on a piece of paper.,car,0.9979603,G
+boat1-truck3,2024-02-04 22:29:49,这是一幅色彩斑斓的抽象画，以蓝色、黄色和橙色为主色调。画面中充满了各种形状和线条，给人一种动态的感觉。整体上，它呈现出一种现代艺术风格，并且具有很高的视觉冲击力。,cat,0.21293618,X
+bicycle9-bird3,2024-02-04 22:30:00,这是一辆自行车的插图，背景是白色的。,cat,0.6066878,I
+airplane10-car3,2024-02-04 22:30:09,A red airplane is flying in the sky.,airplane,1.0,A
+chair7-elephant1,2024-02-04 22:30:18,这张图片展示了一种纹理，看起来像皮革或皮肤。,keyboard,0.5367248,X
+bird3-knife3,2024-02-04 22:30:29,这是一只老鹰的抽象画。,cat,0.7227603,D
+keyboard3-bird3,2024-02-04 22:30:38,这是一张抽象的图片，由各种形状和颜色组成。,keyboard,0.8012302,X
+car5-bottle1,2024-02-04 22:30:48,"A car is covered in many small bottles of different colors and sizes, creating an abstract pattern on its surface. The background appears to be blurred or out-of-focus, making it difficult to discern any specific details about what's behind the car.",bottle,0.9804567,G
+chair1-chair1,2024-02-04 22:30:57,A large number of red chairs are arranged in a square pattern.,chair,0.9999995,I
+boat2-bear3,2024-02-04 22:31:07,A close up of a brown and black animal's eye.,dog,0.97473735,B
+elephant9-clock3,2024-02-04 22:31:17,图片中有很多扭曲的钟表。,keyboard,0.3263804,J
+bicycle2-bird3,2024-02-04 22:31:25,一辆自行车的抽象画,cat,0.86561364,X
+elephant8-bicycle3,2024-02-04 22:31:35,A herd of elephants walking in snow.,elephant,1.0,L
+clock5-airplane1,2024-02-04 22:31:44,A clock with a white face and black numbers and hands.,clock,1.0,J
+bottle2-knife3,2024-02-04 22:31:56,A bottle of beer with condensation on it.,bottle,1.0,F
+bicycle6-car2,2024-02-04 22:32:07,"A red and black toy car is in the middle of the image, surrounded by other toys.",car,0.97087425,G
+cat1-boat1,2024-02-04 22:32:16,猫的抽象画。,cat,0.7894569,X
+chair4-bear2,2024-02-04 22:32:25,A chair is sitting in front of a window.,chair,0.99999917,I
+elephant6-bird1,2024-02-04 22:32:34,A blue elephant with a gray background.,elephant,0.9999999,L
+chair4-cat2,2024-02-04 22:32:43,A chair is sitting on a furry surface.,chair,1.0,I
+oven3-cat2,2024-02-04 22:32:53,A picture of two people kissing on a wall.,bottle,0.5094242,X
+cat8-bear1,2024-02-04 22:33:06,"A small animal with dark eyes and ears, surrounded by brown fur.",dog,0.99269015,H
+knife8-truck3,2024-02-04 22:33:16,这是一幅色彩斑斓的抽象画，以蓝色和黄色为主色调。,keyboard,0.84341407,X
+bear2-car2,2024-02-04 22:33:26,A colorful abstract painting with a bird-like figure.,bird,0.9999106,D
+car3-airplane3,2024-02-04 22:33:35,A blue Lamborghini is parked in front of a gray building.,car,0.98240256,G
+boat5-clock3,2024-02-04 22:33:44,A collage of clocks in different shapes and sizes.,clock,1.0,J
+bicycle1-bicycle3,2024-02-04 22:33:53,A bicycle with a star on it.,bicycle,1.0,C
+bear10-elephant1,2024-02-04 22:34:02,粗糙的皮肤纹理,cat,0.48347202,X
+bird8-chair1,2024-02-04 22:34:12,A large group of red chairs in front of a gray wall.,chair,0.9999976,I
+dog6-cat1,2024-02-04 22:34:21,A dog with a collar around its neck.,dog,0.99999464,K
+elephant8-oven3,2024-02-04 22:34:30,A group of elephants standing in a row.,elephant,1.0,L
+car9-knife1,2024-02-04 22:34:39,A car is parked on a street.,car,0.99953306,G
+oven2-boat3,2024-02-04 22:34:48,"Abstract art piece with red, green and blue colors",bicycle,0.42777956,X
+bicycle4-boat1,2024-02-04 22:34:58,A bicycle with a colorful abstract background.,bicycle,1.0,C
+keyboard4-clock2,2024-02-04 22:35:11,A gray and black abstract painting with red accents.,airplane,0.9387751,X
+chair8-car1,2024-02-04 22:35:21,A pile of colorful shopping carts.,truck,0.8739932,X
+bird9-dog2,2024-02-04 22:35:30,A bird is perched on a branch.,bird,0.9999608,D
+oven10-airplane2,2024-02-04 22:35:41,A blue and yellow abstract painting with white accents.,airplane,0.93325186,X
+oven5-elephant1,2024-02-04 22:35:50,这是一张大象皮肤的特写照片。,cat,0.9398539,X
+bird2-airplane3,2024-02-04 22:36:00,A blue and white abstract painting with a person in it.,airplane,0.93523395,X
+bicycle2-keyboard2,2024-02-04 22:36:09,A close up of a computer keyboard.,keyboard,1.0,M
+knife10-chair1,2024-02-04 22:36:18,这是一张色彩斑斓的抽象画，以粉红色和黑色为主色调。,keyboard,0.845054,X
+airplane7-car1,2024-02-04 22:36:31,"The image is a digital art piece that features a vibrant and abstract representation of a car show. The colors used in the image are predominantly red, yellow, and blue, creating a lively and energetic atmosphere. The cars depicted in the image are arranged in a chaotic manner, with some overlapping each other, adding to the overall sense of movement and dynamism. The image does not contain any text or discernible objects. The relative positions of the cars are difficult to determine due to the abstract nature of the artwork. The image is a creative interpretation of a car show, capturing the essence of such events through its use of color and form.",car,0.9854977,G
+chair1-elephant1,2024-02-04 22:36:41,大象的皮肤纹理。,cat,0.9070246,X
+bottle9-elephant2,2024-02-04 22:36:52,A close up of a brown leather bag with a knot on it.,bottle,0.57917774,X
+bottle4-dog2,2024-02-04 22:37:01,A bottle with a brown liquid inside.,bottle,1.0,F
+keyboard7-dog1,2024-02-04 22:37:10,A close up of brown fur with darker stripes on it.,dog,0.87684995,X
+bottle4-oven2,2024-02-04 22:37:20,A bottle of beer is on ice in this artistic rendering.,bottle,0.9999999,F
+dog9-chair2,2024-02-04 22:37:31,"The image is a digital art piece that resembles an abstract painting. It features a variety of wooden chairs arranged in a seemingly random pattern, with some overlapping and others standing alone. The colors used in the artwork are predominantly brown and beige, giving it a warm and earthy feel. The overall composition creates a sense of depth and complexity, inviting viewers to explore the different elements within the piece.",chair,0.9999497,"I, C"
+knife2-bear2,2024-02-04 22:37:41,"A white and black dog with long fur is laying down on its side, looking up at something off camera. The dog's head is resting on its paws, giving it an adorable appearance.",dog,0.99942267,K
+oven3-knife1,2024-02-04 22:37:51,A pile of tools in a box.,knife,0.78945607,X
+boat4-elephant2,2024-02-04 22:38:00,A brown and black crinkled paper background.,airplane,0.9822671,X
+dog3-truck2,2024-02-04 22:38:10,这是一幅抽象艺术作品，以红色和灰色为主色调。画面上有多个形状不规则的几何图形，并且这些图形的颜色、大小以及位置都各不相同。整个画面给人一种混乱而又富有动感的感觉。,bottle,0.2123264,X
+oven9-keyboard1,2024-02-04 22:38:19,"A close-up view of an abstract, textured gray and black pattern with some white accents.",airplane,0.96470094,X
+oven5-bottle3,2024-02-04 22:38:29,A green toaster oven with knobs on it is surrounded by bottles of medicine and Chinese characters in the background.,oven,0.99988556,X
+boat3-cat3,2024-02-04 22:38:38,模糊的背景图像，看起来像是一张旧照片。,cat,0.68432343,X
+bird5-truck2,2024-02-04 22:38:48,这是一幅抽象艺术作品，以粉红色和灰色为主色调。画面上有各种形状的线条、色块以及纹理效果，给人一种流动感和动态美感。整体风格现代而富有创意。,keyboard,0.20658942,X
+chair6-elephant2,2024-02-04 22:38:58,A brown leather texture background.,airplane,0.4781639,X
+dog6-clock1,2024-02-04 22:39:07,A dog with a collar and a blue nose.,dog,0.99999344,K
+dog10-clock1,2024-02-04 22:39:16,A dog is lying down on a bed with a clock in the background.,clock,0.9926064,K H J
+car8-boat3,2024-02-04 22:39:31,A red car is parked in front of a building.,car,0.99941945,G
+car2-knife3,2024-02-04 22:39:40,A black and white photo of a car in a parking garage.,car,0.9999,G
+cat7-knife2,2024-02-04 22:39:50,"A cat is sitting on top of an old clock with gears and cogs visible inside it, surrounded by newspaper clippings. The scene appears to be abstract or surreal in nature.",cat,0.91207033,H J N O P
+cat5-chair3,2024-02-04 22:40:00,"The image is a digital art piece that features a collection of blue chairs arranged in a chaotic manner. The chairs are stacked on top of each other, creating a sense of depth and dimension. The background is a blurred gray color, which contrasts with the vibrant blue of the chairs. The overall effect is a surreal and abstract representation of a chair collection.",chair,0.99993575,I
+truck3-keyboard3,2024-02-04 22:40:09,键盘和鼠标在水中,cat,0.41868427,X
+knife9-bottle2,2024-02-04 22:40:18,A collection of colorful bottle caps.,bottle,1.0,F
+clock3-dog2,2024-02-04 22:40:27,A clock with a brown background and white numbers.,clock,1.0,J
+chair8-clock3,2024-02-04 22:40:41,A chair is surrounded by clocks.,clock,0.9263089,"I, J"
+truck7-oven2,2024-02-04 22:40:52,"A large truck is parked on what appears to be an urban street or parking lot, occupying most of the frame from left to right and top to bottom. The truck's position suggests it might have been recently loaded with cargo or just arrived at its destination.",truck,0.9999994,X
+clock10-cat1,2024-02-04 22:41:01,A brown alarm clock on a white and blue background.,clock,1.0,J
+elephant4-chair3,2024-02-04 22:41:10,A blue and white abstract painting with geometric shapes.,airplane,0.9140707,X
+car8-clock2,2024-02-04 22:41:19,A car is parked on a street.,car,0.99953306,G
+oven9-bird3,2024-02-04 22:41:28,Rotisserie chicken in an oven.,oven,1.0,O
+bird8-clock1,2024-02-04 22:41:38,A large clock with numbers on it is in the center of the image.,clock,1.0,J
+knife2-bicycle3,2024-02-04 22:41:51,A pink and white abstract painting with a chain design.,bicycle,0.27921268,X
+keyboard9-bicycle2,2024-02-04 22:42:01,A large group of bicycles parked in a lot.,bicycle,0.9999975,C
+bird3-dog1,2024-02-04 22:42:10,A close up of a brown and white fur texture.,dog,0.5339815,X
+truck4-knife1,2024-02-04 22:42:19,A painting of a rusted metal object.,airplane,0.40063325,X
+dog1-bear1,2024-02-04 22:42:28,A dog's face is superimposed on a white background.,dog,0.9999825,K
+bicycle9-airplane2,2024-02-04 22:42:37,A bicycle with a basket on the front is parked against a blue and yellow background.,bicycle,0.99999976,C
+knife6-knife1,2024-02-04 22:42:46,A pile of knives with one knife on top.,knife,0.9999999,N
+boat6-knife2,2024-02-04 22:43:00,A black and red fish is swimming in the water.,dog,0.42977086,X
+car4-car2,2024-02-04 22:43:11,"A red and yellow toy car is prominently displayed, taking up most of the frame from left to right. It's positioned slightly towards the top-left corner but spans almost entirely across both vertical axes. The vibrant colors contrast with the abstract background, making it stand out even more.",car,0.9772131,G
+oven1-boat3,2024-02-04 22:43:20,A colorful abstract image with a variety of shapes and lines.,airplane,0.92383426,X
+chair5-bird1,2024-02-04 22:43:29,这是一张椅子的照片，背景是灰色的。,dog,0.611481,I
+knife7-bird3,2024-02-04 22:43:39,这是一张色彩斑斓的抽象画，以灰色和黑色为主色调。画面中有一些不规则形状的图案，并且有明显的笔触痕迹。整体上给人一种现代艺术的感觉。,cat,0.41336286,X
+boat4-knife2,2024-02-04 22:43:47,A collage of knives with different colors and designs.,knife,1.0,N
+clock7-bicycle1,2024-02-04 22:43:56,这是一幅描绘抽象时钟的数字艺术作品。,cat,0.92276376,J
+chair2-bear2,2024-02-04 22:44:07,A chair is sitting in front of a window.,chair,0.99999917,I
+elephant3-truck1,2024-02-04 22:44:16,A red elephant with black spots on its body.,elephant,0.9999999,L
+oven8-keyboard3,2024-02-04 22:44:25,A computer keyboard is visible in the image.,keyboard,1.0,M
+elephant9-airplane2,2024-02-04 22:44:34,A blue and yellow abstract painting of an elephant.,elephant,0.99999976,L
+bird7-car2,2024-02-04 22:44:43,A bird is perched on a branch in front of a colorful background.,bird,0.99994314,D
+bottle6-boat3,2024-02-04 22:44:53,A bottle of soda is on a table.,bottle,1.0,F
+bird5-chair1,2024-02-04 22:45:02,A large group of red chairs in a room.,chair,1.0,I
+keyboard3-car2,2024-02-04 22:45:15,The image is a colorful abstract art piece with a variety of shapes and colors.,airplane,0.94317013,X
+chair9-dog2,2024-02-04 22:45:25,A chair with wheels is on a carpet.,chair,0.9999963,I
+car6-bottle1,2024-02-04 22:45:34,"A collage of bottles and cans, with an abstract representation of a car in the center.",bottle,0.99919206,G
+car2-cat3,2024-02-04 22:45:43,A car is parked on the side of a road.,car,0.9982937,G
+car9-cat1,2024-02-04 22:45:53,A brown and white fur patterned blanket with an abstract design on it.,bear,0.97262627,X
+car5-bear3,2024-02-04 22:46:04,"A brown dog is laying down on its side with its head resting on the ground and looking up at something out of frame. The background appears to be blurred, possibly indicating that it's taken from far away or there might have been motion blur in the photo due to camera movement during capture.",dog,0.999585,K
+dog7-chair2,2024-02-04 22:46:14,The image is a digital art piece that appears to be a collage of wooden chairs.,chair,0.9999256,I
+boat3-dog3,2024-02-04 22:46:23,这是一张模糊的图片，上面有棕色和白色的斑点。,cat,0.26066694,X
+keyboard1-airplane2,2024-02-04 22:46:33,A blue and white abstract painting with a black hole in the center.,airplane,0.99402124,X
+bottle8-bicycle1,2024-02-04 22:46:42,A bottle of beer is surrounded by abstract shapes and colors.,bottle,1.0,F
+oven4-bottle2,2024-02-04 22:46:51,A large collection of bottles with various colors and sizes.,bottle,1.0,F
+oven9-boat2,2024-02-04 22:47:01,A microwave oven with a red interior and a black exterior.,oven,1.0,O
+knife5-clock1,2024-02-04 22:47:12,"The image is a digital art piece that features a collage of clocks and numbers. The clocks are arranged in a chaotic manner, creating an abstract and surrealistic effect. The colors used in the image are predominantly white, black, and gray, with some accents of blue and green. The overall composition of the image is visually striking and intriguing, inviting viewers to explore the details within the piece.",clock,0.9999938,X
+oven1-cat1,2024-02-04 22:47:23,A close up of a cat's fur.,cat,0.99999845,H
+knife1-clock2,2024-02-04 22:47:32,A black and white abstract painting with numbers.,clock,0.66998833,X
+cat3-oven2,2024-02-04 22:47:42,A cat is laying down on a couch.,cat,0.9999999,H
+bear3-bird3,2024-02-04 22:47:51,这是一张熊的插图。,cat,0.6911005,X
+clock1-truck3,2024-02-04 22:48:00,这是一幅色彩斑斓的抽象画，以蓝色、黄色和绿色为主调。,keyboard,0.78591406,X
+truck9-boat3,2024-02-04 22:48:09,A horse is on the side of a truck.,truck,0.9993051,X
+bear4-keyboard3,2024-02-04 22:48:18,水滴在玻璃上。,bottle,0.51559424,X
+cat5-elephant2,2024-02-04 22:48:28,A cat is sleeping on its back in front of an abstract background.,cat,0.99999535,H
+bear2-dog1,2024-02-04 22:48:38,A bear is standing on its hind legs.,bear,0.999977,B
+chair5-clock2,2024-02-04 22:48:47,"A chair is in the foreground of the image, with a blurred background.",chair,0.9999995,I
+elephant10-bear1,2024-02-04 22:48:57,A close up of an elephant's head and trunk.,elephant,1.0,L
+clock2-bottle3,2024-02-04 22:49:06,A green and black clock with a white face.,clock,1.0,J
+car6-chair3,2024-02-04 22:49:16,A blue and white abstract painting with geometric shapes.,airplane,0.9140707,X
+keyboard3-boat1,2024-02-04 22:49:28,A computer keyboard with colorful keys.,keyboard,1.0,M
+bear3-bicycle2,2024-02-04 22:49:39,A large pile of shopping carts.,truck,0.9553393,X
+truck1-bear1,2024-02-04 22:49:49,A brown and white fur pattern background,bear,0.46677428,X
+dog4-truck2,2024-02-04 22:49:58,A red and black abstract painting.,airplane,0.95807964,X
+clock2-bear2,2024-02-04 22:50:08,A clock with a white face and black numbers and hands.,clock,1.0,J
+bottle1-car1,2024-02-04 22:50:17,A colorful abstract painting of cars and motorcycles.,car,0.9811381,"G, P"
+keyboard10-car1,2024-02-04 22:50:26,A colorful abstract painting with a variety of shapes and colors.,airplane,0.8179413,X
+boat5-knife2,2024-02-04 22:50:40,The image is an abstract art piece with a mix of colors and shapes.,airplane,0.94136363,X
+boat7-truck2,2024-02-04 22:50:49,A painting of a red and gray abstract design.,airplane,0.7742232,X
+dog3-boat1,2024-02-04 22:50:59,A person wearing a helmet is lying on the ground.,bicycle,0.9661569,X
+bottle10-clock2,2024-02-04 22:51:08,"A bottle of alcohol with a label that says ""DRAGONITE"" is on a table.",bottle,0.9999999,F
+oven4-keyboard3,2024-02-04 22:51:18,A black and white photo of an old camera with numbers on it.,airplane,0.88989484,X
+bicycle4-oven3,2024-02-04 22:51:27,A bicycle with two wheels and many buttons on it.,bicycle,1.0,C
+boat5-bicycle3,2024-02-04 22:51:36,A boat with sails in an abstract painting.,boat,0.99999976,E
+bird8-boat3,2024-02-04 22:51:45,A bird is perched on a branch in front of an abstract background.,bird,0.99981433,D
+bottle7-boat3,2024-02-04 22:51:55,"A colorful, abstract digital art piece with geometric shapes and patterns.",clock,0.62391573,X
+bear8-dog1,2024-02-04 22:52:04,A bear is walking on all fours.,bear,0.99999857,B
+knife6-bottle3,2024-02-04 22:52:13,A pile of green and white bottles.,bottle,1.0,F
+oven2-oven3,2024-02-04 22:52:22,A silver double oven with a glass door.,oven,1.0,O
+cat9-knife2,2024-02-04 22:52:33,"A black cat is lying on its side, looking at something off to one side of it. The background has an abstract design in shades of pink and gray with some white accents.",cat,0.9999652,H
+bottle9-cat2,2024-02-04 22:52:42,A bottle of beer on its side in sand or dirt.,bottle,0.99999785,F
+bottle4-airplane1,2024-02-04 22:52:51,A bottle of beer is in front of a white background with black text on it.,bottle,1.0,F
+clock8-airplane2,2024-02-04 22:53:00,A large clock with a blue and yellow background.,clock,1.0,J
+keyboard5-bird3,2024-02-04 22:53:09,A chocolate cake with white frosting and chocolate chips.,oven,0.99828136,X
+airplane7-bottle3,2024-02-04 22:53:20,A green airplane with the word Monet on it.,airplane,1.0,A
+bird1-airplane2,2024-02-04 22:53:33,"A bird is sitting on a perch in front of an abstract background with blue and yellow colors. The bird appears to be resting, facing towards its right side as if observing something or someone out of frame. Its position suggests it might have just landed there for some respite before continuing its journey.
+
+The background consists of various shapes that resemble waves or ripples, possibly representing water bodies like lakes or rivers where such birds often find their habitat. These elements add depth and texture to the scene while maintaining harmony between them all.
+
+Overall, this digital art piece captures not only individual details but also creates an atmosphere around these subjects through color choices and composition techniques used by the artist who created it.",bird,0.9966174,D
+oven9-bear2,2024-02-04 22:53:44,A dog is sleeping on a blanket.,dog,0.9997197,K
+clock6-knife2,2024-02-04 22:53:54,"A clock with a black face and hands, surrounded by a circular frame of gray color on top of an abstract background made up of various shapes in shades of pink, purple, blue, green, yellow, orange, brown, white, red, and grey colors. The clock is located towards the center-left side of the image.",clock,1.0,J
+clock4-elephant2,2024-02-04 22:54:04,A clock with a brown leather texture.,clock,1.0,J
+cat4-car2,2024-02-04 22:54:12,"A colorful abstract painting with vibrant hues of red, yellow and black.",airplane,0.8173898,X
+clock7-truck3,2024-02-04 22:54:22,图像中有一个黄色的钟面，指针指向数字“12”。,clock,0.25552022,J
+dog10-oven2,2024-02-04 22:54:32,"A black dog is sitting on top of an abstract background with geometric shapes and lines in shades of gray, white, and brown. The dog appears to be looking directly at the camera, giving off a friendly vibe.",dog,0.9994167,K
+dog8-boat3,2024-02-04 22:54:41,A dog is standing in front of a colorful background.,dog,0.99991524,K
+dog5-car3,2024-02-04 22:54:52,A red and white car is parked in front of trees.,car,0.99791116,G
+car7-clock1,2024-02-04 22:55:01,A car is on a clock background.,clock,0.9901579,G
+chair1-cat3,2024-02-04 22:55:11,这是一张椅子的照片，背景模糊。,dog,0.52972,I
+car7-elephant3,2024-02-04 22:55:20,A car is on a dirt road.,car,0.9385203,G
+bottle7-oven2,2024-02-04 22:55:29,这是一幅抽象艺术作品，以灰色和黑色为主色调。,keyboard,0.7052391,X
+bear6-bear1,2024-02-04 22:55:39,A close up of brown fur with black spots on it.,dog,0.84439486,X
+elephant7-bird1,2024-02-04 22:55:50,大象在移动。,cat,0.66495407,X
+knife3-keyboard3,2024-02-04 22:55:58,水滴在玻璃上。,bottle,0.51559424,X
+cat2-car3,2024-02-04 22:56:07,A red and white abstract painting with a butterfly shape in the center.,airplane,0.94297016,X
+cat4-keyboard2,2024-02-04 22:56:16,键盘,keyboard,0.6020392,X
+knife5-bicycle2,2024-02-04 22:56:26,The image is a collection of shopping carts.,truck,0.69736975,X
+bottle6-oven3,2024-02-04 22:56:35,A gray and black machine with buttons on it is in front of a white background.,clock,0.6730151,X
+truck7-boat1,2024-02-04 22:56:44,A large truck is parked in front of a building.,truck,1.0,P
+keyboard1-elephant3,2024-02-04 22:56:53,A close up of a brown leather wallet with a keyhole in it.,knife,0.5344104,X
+chair1-oven3,2024-02-04 22:57:03,A chair is in front of a wall with many windows and doors.,chair,0.9999993,I
+cat9-bicycle1,2024-02-04 22:57:12,"A jumble of metal objects in shades of gray, blue, and red.",airplane,0.7865993,X
+boat7-chair1,2024-02-04 22:57:21,A pink and black abstract painting.,airplane,0.9723684,X
+elephant1-dog2,2024-02-04 22:57:30,A brown elephant with a long trunk.,elephant,0.9999999,L
+boat7-clock3,2024-02-04 22:57:39,A collage of clocks in different shapes and sizes.,clock,1.0,J
+airplane3-car1,2024-02-04 22:57:48,Abstract art piece with colorful shapes and lines.,airplane,0.86061555,X
+keyboard3-elephant2,2024-02-04 22:58:01,A brown and tan textured background.,airplane,0.7071307,X
+bicycle3-truck3,2024-02-04 22:58:11,"A colorful, abstract digital art piece with geometric shapes and patterns.",clock,0.62391573,X
+keyboard5-bottle1,2024-02-04 22:58:20,A large collection of bottles in various colors and sizes.,bottle,1.0,F
+keyboard10-oven3,2024-02-04 22:58:29,"A collage of various objects and shapes in shades of gray, black, and white.",airplane,0.9427238,X
+bottle1-bear1,2024-02-04 22:58:39,A close up of a brown and white fur texture.,dog,0.5339834,X
+oven8-chair1,2024-02-04 22:58:47,A pink and black abstract painting of chairs in rows.,chair,0.9999821,I
+oven4-dog1,2024-02-04 22:58:56,A brown and white fur rug with a square design in the middle.,bear,0.6877631,X
+bicycle7-truck3,2024-02-04 22:59:09,A bicycle is parked in front of a store.,bicycle,1.0,C
+truck3-bear3,2024-02-04 22:59:18,A brown and black dog is sitting on a bed.,dog,0.9997588,K
+bicycle4-clock3,2024-02-04 22:59:27,A bicycle with time as its wheels and frame made of clocks.,bicycle,0.99993265,"C, J, M"
+dog5-truck2,2024-02-04 22:59:36,A red and black abstract painting with geometric shapes.,airplane,0.8896955,X
+airplane5-bicycle1,2024-02-04 22:59:46,"A jumble of objects in shades of blue, black, and white.",airplane,0.98439085,X
+car7-bear1,2024-02-04 22:59:55,这是一张棕色的毛皮纹理的照片。,cat,0.8734954,X
+bicycle7-knife2,2024-02-04 23:00:04,A bicycle is shown in an abstract painting.,bicycle,1.0,C
+cat10-oven2,2024-02-04 23:00:16,A black and white painting of an abstract design.,airplane,0.948721,X
+car2-chair1,2024-02-04 23:00:25,A car with red seats and a black side mirror.,car,0.9995003,G
+car3-bird2,2024-02-04 23:00:34,A silver car with black windows and a black wheel.,car,0.9997311,G
+keyboard5-airplane3,2024-02-04 23:00:44,"A computer keyboard is prominently displayed, taking up most of the frame from top to bottom and side to side. The keys appear slightly blurred or distorted in this artistic rendering.",keyboard,0.9999995,M
+truck4-oven2,2024-02-04 23:00:54,"A black truck is parked on an asphalt surface, with its headlights and grill visible in front of it. The truck appears to be stationary, waiting for further instructions or perhaps taking a break from its journey.",truck,0.9999987,P
+bear8-bicycle3,2024-02-04 23:01:02,A bear in an abstract art style.,bear,0.99999833,B
+keyboard10-truck1,2024-02-04 23:01:11,Abstract art piece with red and gray colors.,airplane,0.74913406,X
+truck1-car3,2024-02-04 23:01:25,A red truck is parked in front of a building.,truck,0.99999905,P
+airplane9-keyboard2,2024-02-04 23:01:34,A close up of a computer keyboard.,keyboard,1.0,M
+bird1-clock3,2024-02-04 23:01:43,A bird is sitting on top of clocks and time pieces.,bird,0.98544437,D
+bicycle7-bicycle2,2024-02-04 23:01:53,"A bicycle is parked on top of another bike, both with black tires and silver frames. The background appears to be made up of newspaper clippings or other printed materials.",bicycle,0.9999999,C
+airplane5-knife1,2024-02-04 23:02:04,"A collection of tools and equipment is displayed in an abstract manner, with various objects overlapping each other to create a complex pattern. The items vary greatly in size and shape but share similar colors like brown, black, blue, green, yellow, red, white, pink, purple, orange, gray, silver, gold, beige, and turquoise. Some of these objects include scissors, knives, bolts, wrenches, hammers, pliers, screwdrivers, paintbrushes, rulers, pencils, markers, tape measures, and more.",knife,0.9712385,X
+knife10-elephant3,2024-02-04 23:02:14,"A close up of an elephant's skin texture, showing wrinkles and patches of grayish-brown color.",elephant,0.9999999,L
+clock10-knife3,2024-02-04 23:02:23,"A black and white abstract painting of an animal with horns on its head, surrounded by other shapes and lines.",bird,0.6942199,X
+knife2-dog1,2024-02-04 23:02:36,A close up of brown and white fur with black spots on it.,dog,0.6540196,X
+bird8-knife2,2024-02-04 23:02:47,"A bird is perched on a branch, surrounded by a colorful, abstract background.",bird,0.9999511,D
+keyboard4-bird1,2024-02-04 23:02:58,这是一张抽象的蓝色和灰色调的图片。,cat,0.47391355,X
+chair4-truck2,2024-02-04 23:03:07,A red and black chair with wheels.,chair,0.9999989,I
+keyboard9-airplane3,2024-02-04 23:03:16,"A black and white photo of an abstract painting with blue, gray, brown colors.",airplane,0.99225265,X
+chair5-truck3,2024-02-04 23:03:25,A colorful abstract painting of chairs and tables.,chair,0.99996984,I
+knife1-elephant1,2024-02-04 23:03:34,图片中是一张大象的皮肤纹理特写。,cat,0.9441357,X
+airplane4-airplane1,2024-02-04 23:03:47,这是一架飞机的抽象图像。,cat,0.8178189,X
+knife6-chair3,2024-02-04 23:03:57,A blue and gray abstract painting.,airplane,0.9678436,X
+bear3-car2,2024-02-04 23:04:06,"A pile of shoes in various colors and designs, including red, black, white, yellow, and gray.",chair,0.5687271,X
+boat9-airplane2,2024-02-04 23:04:15,A blue and yellow boat with three masts.,boat,1.0,E
+boat6-truck3,2024-02-04 23:04:25,这是一幅色彩斑斓的抽象画，以橙色和蓝色为主色调。画面中有一些不规则形状的图案，并且有明显的纹理效果。整体上给人一种充满活力的感觉。,elephant,0.27457264,X
+bicycle1-dog3,2024-02-04 23:04:35,A bicycle with a basket on the front is parked in a field.,bicycle,1.0,C
+knife9-boat1,2024-02-04 23:04:44,"A digital art piece with abstract shapes and colors in blue, red, orange, black, white, yellow, green, purple, pink, brown, gray, and beige.",clock,0.44027716,X
+oven4-car1,2024-02-04 23:04:55,"A laptop computer is open on a table, with a colorful scene reflected in its screen.",keyboard,0.48611715,X
+oven10-bear1,2024-02-04 23:05:07,A cat is sitting on top of an oven.,oven,0.93759584,"H, O"
+bear2-knife2,2024-02-04 23:05:16,A bear is standing on its hind legs in front of an abstract background.,bear,0.99993336,B
+cat9-clock2,2024-02-04 23:05:26,A gray and black abstract painting with a white border.,airplane,0.98489386,X
+bird8-elephant1,2024-02-04 23:05:41,A bird is sitting on a branch.,bird,0.9999838,D
+bottle8-keyboard3,2024-02-04 23:05:51,这张图片显示了一种抽象的图案，它由黑白相间的线条和形状组成。这些元素以一种混乱但有节奏的方式排列在一起，在黑色背景上创造出一个引人注目的视觉效果。图像中没有任何文字或其他可辨认的内容。整体构图给人一种动态、现代的感觉。,cat,0.3057955,X
+bird5-car2,2024-02-04 23:06:06,A bird is perched on a branch.,bird,0.9999608,D
+knife5-keyboard3,2024-02-04 23:06:16,"A close-up of an electronic circuit board with black and white components on it, including resistors, capacitors, diodes, transistors, etc., connected by wires in a grid-like pattern. The background is blurred to focus attention on the circuitry.",airplane,0.6376341,X
+bottle3-bottle3,2024-02-04 23:06:25,"A green bottle is in the center of the image, surrounded by a patterned background.",bottle,1.0,F
+bottle2-bottle3,2024-02-04 23:06:35,A green bottle is surrounded by a pattern of Chinese characters.,bottle,1.0,F
+dog7-keyboard3,2024-02-04 23:06:43,A black and white photo of an abstract object with question marks on it.,airplane,0.95036954,X
+chair2-boat1,2024-02-04 23:06:54,"A chair is depicted in an abstract style, with vibrant colors and patterns throughout its design. The background appears to be a blend of various textures and shapes, creating a visually dynamic scene that showcases the unique qualities of this piece of furniture.",chair,0.9999999,I
+bear10-clock1,2024-02-04 23:07:04,A collage of clocks and numbers in a variety of colors.,clock,1.0,J
+keyboard10-keyboard1,2024-02-04 23:07:14,这张图片展示了一种抽象的、几何形状的设计，由黑色和灰色的线条组成。这些线条以锯齿状的图案排列，创造出一种动态和运动的感觉。图像中还包含了一些模糊的白色元素，为设计增添了深度和复杂性。整体效果是现代和未来主义的，唤起了一种科技或工业的感觉。,keyboard,0.6052425,X
+bicycle5-car3,2024-02-04 23:07:24,A red bicycle with black wheels and handlebars in front of pink buildings.,bicycle,1.0,C
+boat5-boat3,2024-02-04 23:07:34,Abstract painting of a boat in water.,boat,0.9999999,E
+keyboard9-elephant2,2024-02-04 23:07:42,A brown leather background with wrinkles and folds in it.,chair,0.40298623,X
+chair7-chair1,2024-02-04 23:07:51,A room filled with red chairs.,chair,1.0,I
+bicycle1-chair1,2024-02-04 23:08:01,A room filled with red chairs and black glasses.,chair,0.9999889,I
+truck5-bird2,2024-02-04 23:08:10,A toy truck is on ice.,truck,0.99999905,P
+car2-bird3,2024-02-04 23:08:19,汽车侧面图。,cat,0.35436672,G
+knife5-truck3,2024-02-04 23:08:29,这是一幅色彩斑斓的抽象画，以橙色、蓝色和绿色为主。,keyboard,0.81842947,X
+car1-keyboard2,2024-02-04 23:08:38,A close-up view of a computer keyboard with keys highlighted in white.,keyboard,1.0,M
+elephant8-knife2,2024-02-04 23:08:48,A gray and pink abstract painting with a textured appearance.,airplane,0.9476166,X
+boat3-airplane2,2024-02-04 23:08:57,A blue and yellow boat on water with mountains in background.,boat,1.0,E
+elephant3-cat2,2024-02-04 23:09:07,A large elephant is standing on a grassy field.,elephant,0.9999999,L
+chair5-knife3,2024-02-04 23:09:18,A gray and black abstract painting with a white background.,airplane,0.97412777,X
+bicycle1-airplane2,2024-02-04 23:09:28,A blue and yellow bicycle with a black seat and handlebars.,bicycle,0.99999976,C
+bird6-elephant2,2024-02-04 23:09:37,A brown and tan textured background.,airplane,0.7071307,X
+knife6-bicycle1,2024-02-04 23:09:47,A collage of abstract shapes and colors.,airplane,0.87367666,X
+airplane3-airplane2,2024-02-04 23:09:56,A plane flying in the sky with yellow and blue colors around it.,airplane,1.0,A
+keyboard5-knife2,2024-02-04 23:10:04,A large group of fish swimming in water.,boat,0.877607,X
+bicycle9-bear1,2024-02-04 23:10:14,图像中有一只猫的特写，背景模糊。,cat,0.70570093,H
+oven6-bird1,2024-02-04 23:10:24,A turkey in an oven bag on top of a stove.,oven,0.9999999,O
+oven6-knife3,2024-02-04 23:10:33,A silver toaster with a black handle and a black interior.,oven,0.94734293,X
+truck3-clock3,2024-02-04 23:10:43,A collage of clocks in shades of gray and black.,clock,1.0,J
+elephant4-oven1,2024-02-04 23:10:52,A gray elephant standing on a gray ground.,elephant,0.99999857,L
+dog10-dog1,2024-02-04 23:11:01,A dog is laying down on a bed.,dog,0.9998634,"H
+X"
+dog1-bird1,2024-02-04 23:11:10,A dog with blue nose and gray fur looking at camera through glass door.,dog,0.9999361,K
+bottle2-car2,2024-02-04 23:11:20,A colorful abstract image with a variety of shapes and colors.,airplane,0.89998144,X
+cat4-chair2,2024-02-04 23:11:35,"The image is a digital art piece that appears to be a collage of various wooden chairs. The chairs are arranged in a way that they overlap each other, creating a sense of depth and complexity. The colors used in the image are predominantly brown and beige, giving it a warm and earthy tone. The overall effect of the image is a bit abstract and surreal, as if the chairs have been transformed into something else entirely.",chair,0.99997604,I
+bear1-bicycle3,2024-02-04 23:11:45,A bear is sitting on the ground.,bear,0.99999964,B
+boat7-cat3,2024-02-04 23:11:54,抽象的背景。,cat,0.7625755,X
+bicycle3-bird1,2024-02-04 23:12:03,A blurry picture of a bicycle with green and blue colors.,bicycle,0.99999964,C
+boat8-bottle1,2024-02-04 23:12:12,A collage of bottles with colorful caps.,bottle,1.0,F
+chair7-clock3,2024-02-04 23:12:21,A chair with clocks on it in front of more clocks.,clock,0.57259953,"I, J"
+dog2-airplane2,2024-02-04 23:12:30,A blue and yellow painting of an abstract design.,airplane,0.9341142,X
+dog9-cat1,2024-02-04 23:12:39,A dog is sitting on top of a fluffy surface with its tongue out.,dog,0.99997425,"H, K"
+oven1-bird3,2024-02-04 23:12:49,"A large, abstract painting with a mix of brown and blue colors dominates the scene. The painting is set against a white background that contrasts sharply with its vibrant hues. On one side of the painting, there's an array of small red circles scattered randomly across it, adding another layer to this complex piece of art.",airplane,0.9656907,X
+cat9-truck1,2024-02-04 23:12:59,A red and black cat is lying down on a gray background.,cat,0.99999654,H
+bottle1-keyboard3,2024-02-04 23:13:09,这张图片显示了一种抽象的图案，由深色和浅灰色线条组成。这些线在不同的方向上交叉，并且有一些重叠的地方，给人一种深度感。背景是黑色的，与线条形成了鲜明对比。图像中没有明显的文字或可辨认的动作发生。整体构图简单而引人入胜，让人想要探索其中可能隐藏的故事。,cat,0.663566,X
+bear3-cat1,2024-02-04 23:13:19,A brown bear sleeping on its side with white fur underneath it.,bear,0.9999999,B
+bear2-bird3,2024-02-04 23:13:28,这是一只熊的插图。,cat,0.6911005,B
+dog8-clock2,2024-02-04 23:13:42,A dog is standing in front of a clock.,clock,0.99983466,K J
+knife8-car2,2024-02-04 23:13:55,"The image is a digital art piece that appears to be inspired by the world of cars and racing. It features a vibrant array of colors, predominantly red, yellow, and black, which are used to create an abstract representation of vehicles. The shapes and lines in the artwork suggest the presence of multiple cars, possibly in motion or parked, but the details are not discernible due to the abstract nature of the piece. The overall effect is a dynamic and energetic composition that captures the spirit of speed and competition inherent in car racing.",car,0.9770815,"G. car
+P. truck"
+keyboard2-knife1,2024-02-04 23:14:04,A pile of shoes on the ground.,dog,0.50582933,X
+boat2-keyboard1,2024-02-04 23:14:14,A close up of a black and white photo with a blue dot in the center.,airplane,0.99529344,X
+bicycle10-airplane2,2024-02-04 23:14:24,"A blue bicycle with yellow and black accents is parked on what appears to be an indoor floor or platform, surrounded by white walls. The bike's design features three wheels instead of two typical ones, giving it a unique appearance. It seems like an artistic representation rather than a real-life scene due to its vivid colors and abstract style.",bicycle,0.9999882,"C, G"
+bear7-bicycle2,2024-02-04 23:14:33,A large pile of shopping carts.,truck,0.9553393,X
+boat1-keyboard3,2024-02-04 23:14:42,键盘的特写镜头。,cat,0.7689594,M
+bear8-bear1,2024-02-04 23:14:52,A bear is sitting on the ground.,bear,0.99999964,B
+bear10-bear2,2024-02-04 23:15:02,A dog is laying down on a bed.,dog,0.9998634,"H
+X"
+oven4-knife2,2024-02-04 23:15:13,"A pot is placed on top of an oven, which has its door open and appears to be in use for cooking or baking. The pot's position suggests it might contain ingredients that need heating or stirring during this process.",oven,1.0,X
+car3-oven3,2024-02-04 23:15:23,A futuristic car with a digital display screen on its dashboard.,car,0.99950314,G
+chair6-dog1,2024-02-04 23:15:33,"A close up of an animal's fur, possibly a dog or cat. The fur is brown and black with white patches. There appears to be some sort of pattern in the fur that resembles a grid-like structure.",cat,0.7536249,"H, K"
+oven3-elephant3,2024-02-04 23:15:47,A textured stone wall with a heart carved into it.,bottle,0.17441699,X
+bird1-bicycle2,2024-02-04 23:15:57,A bird is sitting on a metal structure.,bird,0.9996917,D
+knife6-truck1,2024-02-04 23:16:08,"A painting with red, black and white colors on canvas.",airplane,0.6800067,X
+truck2-oven3,2024-02-04 23:16:17,A gray truck with a black door and a white license plate.,truck,0.999998,"G, P"
+chair7-car2,2024-02-04 23:16:29,"The image is a vibrant and abstract representation of a chair, rendered in a style reminiscent of a painting. The chair is depicted in a dynamic pose, as if it's in motion. It's painted in a mix of colors, predominantly red and yellow, with black accents adding depth and contrast. The background is a blur of colors, creating a sense of movement and energy. The overall effect is a visually striking piece of art that captures the essence of a chair in an unconventional way.",chair,0.9999993,I
+bicycle8-chair2,2024-02-04 23:16:38,A bicycle is surrounded by chairs.,bicycle,0.5812361,"C, I"
+cat5-airplane2,2024-02-04 23:16:48,A cat is sitting on top of an abstract painting with blue and yellow colors.,cat,0.99984586,H
+cat1-bird1,2024-02-04 23:16:57,A cat behind plastic wrap with its eyes looking at you.,cat,0.9999956,H
+airplane3-elephant1,2024-02-04 23:17:06,这张图片显示了一种纹理或图案，看起来像皮肤或皮革。,keyboard,0.49354962,X
+car10-car1,2024-02-04 23:17:17,A red car is parked on a street with a colorful background.,car,0.9993098,G
+clock5-clock2,2024-02-04 23:17:26,A clock with a white face and black numbers is displayed prominently in the center of the image.,clock,1.0,J
+car4-bicycle3,2024-02-04 23:17:36,A car is surrounded by metal pieces and pipes.,car,0.98757136,G
+bottle5-chair1,2024-02-04 23:17:45,Red chairs in a room.,chair,1.0,I
+knife9-bicycle1,2024-02-04 23:17:59,"A collage of abstract shapes and lines in shades of gray, blue, red, black, white, yellow, green, purple, pink, orange, brown, and beige.",airplane,0.8081137,X
+dog1-airplane3,2024-02-04 23:18:08,A dog with a black nose and a blue background.,dog,0.9999634,K
+cat5-bicycle3,2024-02-04 23:18:17,A cat is laying down on a bed.,cat,0.9999995,H
+boat2-bottle2,2024-02-04 23:18:27,A collection of bottle caps in various colors and sizes.,bottle,1.0,F
+elephant5-bear2,2024-02-04 23:18:36,A large elephant is lying down on a textured surface.,elephant,0.9999999,L
+boat9-clock1,2024-02-04 23:18:46,A boat with many numbers on it.,boat,1.0,E
+bird10-bird2,2024-02-04 23:18:55,A bird with a long beak and a gray head.,bird,0.9999993,D
+elephant9-elephant3,2024-02-04 23:19:07,An elephant walking on a dirt road.,elephant,0.99999917,L
+dog8-keyboard3,2024-02-04 23:19:16,A black and white photo of a person standing in front of a window.,clock,0.901466,X
+chair10-cat1,2024-02-04 23:19:25,A brown and white fur coat with a wooden hanger.,dog,0.3407049,X
+clock1-boat3,2024-02-04 23:19:34,A large clock with a red and black design is displayed in the center of the image.,clock,1.0,J
+truck2-bottle3,2024-02-04 23:19:44,A green truck is driving on top of cans and bottles.,truck,0.9999988,P
+chair6-truck2,2024-02-04 23:19:55,这是一幅色彩斑斓的抽象画，以红色、粉色和灰色为主色调。,keyboard,0.7911048,X
+bear4-boat2,2024-02-04 23:20:04,A red and black truck in an abstract painting.,truck,0.9999989,P
+car1-clock2,2024-02-04 23:20:18,"A car is prominently displayed, taking up most of the image.",car,0.9997819,G
+bottle8-dog2,2024-02-04 23:20:27,A bottle of beer is in the foreground.,bottle,1.0,F
+elephant7-dog1,2024-02-04 23:20:36,A large elephant walking on grassy ground with its trunk touching the ground.,elephant,0.9999999,L
+bottle6-dog3,2024-02-04 23:20:45,A cow is standing in a field of grass.,dog,0.9258586,X
+bird7-boat1,2024-02-04 23:20:56,A bird is perched on a wire in front of a colorful background.,bird,0.99988186,D
+bird7-bottle1,2024-02-04 23:21:06,A collage of bottles and jars.,bottle,1.0,F
+clock7-boat3,2024-02-04 23:21:15,"A large clock with green and red colors dominates the scene, stretching from top to bottom of an abstract background.",clock,1.0,J
+dog5-bear3,2024-02-04 23:21:29,"A dog with long fur is looking to its left, standing on what appears to be wet ground or water. The background of the photo has an abstract blur effect applied to it, making it difficult to discern any specific details beyond the presence of trees and foliage in the distance.",dog,0.9996171,X
+car2-car3,2024-02-04 23:21:39,A red car with black tires is parked in front of some trees and bushes.,car,0.96596956,G
+elephant9-chair2,2024-02-04 23:21:49,"A large group of wooden chairs are stacked on top of each other, creating a complex and intricate pattern.",chair,0.9999988,I
+bottle1-chair2,2024-02-04 23:21:58,The image is a collage of chairs.,chair,0.99999976,I
+truck6-bear2,2024-02-04 23:22:07,A truck is parked on a snowy road.,truck,1.0,P
+bird1-oven1,2024-02-04 23:22:16,A bird is perched on a branch.,bird,0.9999608,D
+bottle5-boat1,2024-02-04 23:22:26,A blue bottle with a red cap and a white label is in the center of the image.,bottle,1.0,F
+truck10-clock1,2024-02-04 23:22:36,"The truck has two windshield wipers, one on each side of its front window. The leftmost wiper is positioned slightly higher than the rightmost one. Both wipers appear to be in their resting position without any motion captured at this moment.",truck,0.99996316,X
+knife7-bottle3,2024-02-04 23:22:45,A collage of green and white objects.,airplane,0.8432915,X
+knife9-bird1,2024-02-04 23:22:54,这是一幅抽象艺术作品，以蓝色和灰色为主色调。,keyboard,0.7052391,X
+elephant8-truck3,2024-02-04 23:23:04,这是一幅色彩斑斓的抽象画，以橙色和蓝色为主色调。画面中充满了各种形状、大小不一的几何图形，并且这些图形的颜色也各不相同。整个作品给人一种充满活力的感觉，仿佛在向观众展示一个五彩缤纷的世界。,dog,0.4632056,X
+bird3-bird2,2024-02-04 23:23:13,A bird with a gray head and beak is looking upwards.,bird,0.9999758,D
+oven4-chair1,2024-02-04 23:23:23,A pink and black abstract image of chairs.,chair,0.99999666,I
+car8-chair1,2024-02-04 23:23:32,A room filled with red chairs and pink walls.,chair,0.99999297,I
+keyboard3-cat1,2024-02-04 23:23:41,A computer keyboard covered in fur and dust.,keyboard,0.99998784,M
+bear9-dog1,2024-02-04 23:23:51,A bear with long hair stands in front of an abstract background.,bear,0.99998677,B
+bear6-car2,2024-02-04 23:24:01,"A colorful abstract painting with red, yellow, and gray tones.",airplane,0.79409045,X
+car7-boat3,2024-02-04 23:24:11,"A car is parked on an abstract background with colorful patterns and shapes. The car appears to be in motion, as indicated by its position against the backdrop of the scene.",car,0.99910444,G
+elephant6-truck3,2024-02-04 23:24:20,这是一幅色彩斑斓的抽象画，以蓝色、黄色和橙色为主调。,keyboard,0.78591406,X
+truck1-knife1,2024-02-04 23:24:29,A truck is parked on the side of the road.,truck,1.0,P
+oven4-truck3,2024-02-04 23:24:38,"A large mirror is positioned in the center of an abstract scene, reflecting various elements from its surroundings.",airplane,0.8016253,X
+airplane4-bottle1,2024-02-04 23:24:47,"A collage of bottles and cans in various colors, shapes, sizes, and orientations.",bottle,0.99999964,X
+car6-boat1,2024-02-04 23:24:57,A car with a wheel in the foreground and buildings in the background.,car,0.99713033,G
+bicycle8-bear2,2024-02-04 23:25:06,"A bicycle is shown with its wheels and frame highlighted in black against a white background. The bike appears to be parked or stationary, suggesting it's not currently being ridden.",bicycle,1.0,C
+dog2-dog3,2024-02-04 23:25:15,A dog with a white coat and brown eyes.,dog,0.9995943,K
+dog7-car2,2024-02-04 23:25:25,A collage of colorful abstract shapes and lines.,airplane,0.9120951,X
+oven7-cat1,2024-02-04 23:25:38,A close up of a brown and white fur pattern.,dog,0.78969,X
+knife2-elephant2,2024-02-04 23:25:47,A brown leather texture background with stitching on it.,airplane,0.27275825,X
+clock7-dog2,2024-02-04 23:25:56,图片中有一个钟表，背景是模糊的棕色。,cat,0.58893615,J
+chair5-cat3,2024-02-04 23:26:06,这张图片展示了一把办公椅，背景模糊。,keyboard,0.54134023,X
+bottle10-dog1,2024-02-04 23:26:15,A bottle of wine with fur texture.,bottle,0.9999999,F
+keyboard2-bicycle3,2024-02-04 23:26:24,A large group of people standing in front of a building.,airplane,0.97914815,X
+keyboard9-boat2,2024-02-04 23:26:34,A computer keyboard and mouse on a desk with an abstract background of buildings.,keyboard,0.99999905,M
+oven6-oven3,2024-02-04 23:26:47,A computer monitor is on a desk.,clock,0.9413907,X
+elephant7-clock2,2024-02-04 23:26:56,A black and brown elephant walking on a gray background.,elephant,0.9999999,L
+clock10-bird3,2024-02-04 23:27:05,闹钟,keyboard,0.6020392,J
+bear4-oven2,2024-02-04 23:27:14,A man is walking down a street with a suitcase.,boat,0.41605696,X
+airplane4-elephant1,2024-02-04 23:27:23,这是一张大象皮肤的特写照片。,cat,0.9398539,X
+chair1-truck3,2024-02-04 23:27:32,A colorful abstract painting with geometric shapes.,airplane,0.8085975,X
+boat6-bottle2,2024-02-04 23:27:41,A collage of bottle caps.,bottle,1.0,F
+truck1-clock3,2024-02-04 23:27:54,A white truck with a tarp on top.,truck,0.99999964,P
+dog9-bear3,2024-02-04 23:28:04,"A dog is sitting on what appears to be a bed or rug, surrounded by an abstract background with lines and textures that give it a unique look. The dog seems calm and relaxed in its environment.",dog,0.99839467,X
+bird6-airplane2,2024-02-04 23:28:13,A bird is flying in the sky.,bird,0.99096537,D
+truck5-cat3,2024-02-04 23:28:22,A yellow truck with black writing on it.,truck,1.0,P
+keyboard2-elephant1,2024-02-04 23:28:32,图片中是一张大象的皮肤特写。,cat,0.9626542,X
+elephant2-truck2,2024-02-04 23:28:41,"A man in a red shirt and a woman in a black dress stand close together, with their heads tilted towards each other as if engaged in conversation.",airplane,0.47323012,X
+truck9-airplane2,2024-02-04 23:28:51,"A horse is positioned on the left side of the truck, appearing to be inside or attached to it.",truck,0.99691737,X
+airplane10-oven2,2024-02-04 23:29:00,这是一架飞机的抽象插图。,cat,0.81782025,X
+keyboard5-oven2,2024-02-04 23:29:09,A black and white painting of an abstract design.,airplane,0.948721,X
+airplane9-boat1,2024-02-04 23:29:18,A blue and red airplane in the sky.,airplane,1.0,A
+dog10-elephant1,2024-02-04 23:29:28,A dog lying down on a textured surface.,dog,0.9999654,"H
+X"
+chair2-keyboard2,2024-02-04 23:29:37,A chair is in front of a table with numbers on it.,chair,0.99998057,I
+bear3-dog3,2024-02-04 23:29:46,A bear is sleeping on its side in front of a white background.,bear,0.99999976,B
+elephant6-car3,2024-02-04 23:29:55,A red elephant walking on a road.,elephant,0.99999976,L
+truck6-dog2,2024-02-04 23:30:05,A truck with the word WATER on it.,truck,0.99999905,P
+car9-clock2,2024-02-04 23:30:14,A car is parked on a street with a clock in the background.,clock,0.6861888,G
+truck7-elephant2,2024-02-04 23:30:23,A brown and black painting of an elephant.,elephant,1.0,L
+bear10-car2,2024-02-04 23:30:32,"Abstract painting of red, yellow, and black shapes.",airplane,0.82330364,X
+chair5-car1,2024-02-04 23:30:42,"A colorful abstract painting with red, yellow, and gray tones.",airplane,0.79409045,X
+cat3-cat1,2024-02-04 23:30:52,A cat is laying down on its side with one eye open and looking at something off to the right of it's face.,cat,0.9999949,H
+cat3-elephant2,2024-02-04 23:31:03,A tiger's face is etched into a piece of wood.,elephant,0.32808483,X
+knife1-airplane1,2024-02-04 23:31:12,A gray and white abstract painting with red accents.,airplane,0.8352682,X
+bottle6-chair2,2024-02-04 23:31:21,"A large number of chairs are stacked on top of each other, creating a complex structure.",chair,0.9999995,I
+truck6-knife2,2024-02-04 23:31:31,"A water tank truck is parked on a street with a sign that says ""WATER"". The background of the photo has an abstract design, and there's also another smaller sign in front of it saying ""WATER"" as well.",truck,0.999824,X
+bicycle1-clock3,2024-02-04 23:31:40,A bicycle made of clocks with its wheels and handlebars as clock faces.,bicycle,0.9988619,"C, J"
+bear5-chair1,2024-02-04 23:31:49,A bunch of pink chairs in an auditorium or stadium.,chair,0.9999949,I
+cat9-dog2,2024-02-04 23:31:59,"A cat is laying down on its side with its paws stretched out in front of it, looking at something off to the right. The background appears to be made up of fur or feathers and has an abstract quality to it.",cat,0.999966,X
+elephant6-bicycle1,2024-02-04 23:32:08,A digital art piece featuring two elephants made up of abstract shapes and colors.,elephant,1.0,X
+oven2-bear3,2024-02-04 23:32:18,A glass window with brown and black streaks.,airplane,0.4589658,X
+car4-clock1,2024-02-04 23:32:27,A car with a clock face on it.,clock,0.6656589,"G, J"
+oven6-truck1,2024-02-04 23:32:36,A red toaster oven with a black handle and bottom.,oven,1.0,O
+bear3-truck3,2024-02-04 23:32:45,A colorful painting of an elephant.,elephant,1.0,L
+boat9-bear3,2024-02-04 23:32:55,A close up of a brown and white fur texture.,dog,0.5339834,X
+bird3-oven1,2024-02-04 23:33:04,A white and black abstract painting with gray accents on a wall.,clock,0.673686,X
+keyboard9-keyboard2,2024-02-04 23:33:13,A computer keyboard with Hebrew letters on it.,keyboard,1.0,M
+dog4-keyboard2,2024-02-04 23:33:22,A black and white photo of a person holding a phone to their ear.,airplane,0.9219163,X
+clock9-chair3,2024-02-04 23:33:31,A large number of blue chairs are arranged in rows.,chair,0.9999994,I
+bear1-chair2,2024-02-04 23:33:41,"A large number of chairs are stacked on top of each other, creating an abstract pattern.",chair,0.9999975,I
+bird9-bicycle3,2024-02-04 23:33:50,A bird is perched on a branch.,bird,0.9999608,D
+bottle4-bicycle1,2024-02-04 23:34:00,A bottle is surrounded by abstract shapes and colors.,bottle,1.0,F
+knife2-bottle2,2024-02-04 23:34:14,A large collection of wine bottles with various bottle caps.,bottle,1.0,F
+bottle6-bear2,2024-02-04 23:34:23,A bottle of water is on a table.,bottle,1.0,F
+elephant3-chair1,2024-02-04 23:34:33,A large group of pink chairs in a room.,chair,0.99999964,I
+bicycle5-bear1,2024-02-04 23:34:42,A painting of two bicycles on a road with trees in background.,bicycle,0.99999094,C
+clock8-oven3,2024-02-04 23:34:52,"A large clock with a black handle is prominently displayed in the center of the image, surrounded by various buttons and numbers.",clock,1.0,J
+bottle3-cat3,2024-02-04 23:35:00,一个棕色的瓶子。,dog,0.544393,F
+bicycle1-boat3,2024-02-04 23:35:10,A bicycle with an abstract background,bicycle,1.0,C
+bicycle8-bird2,2024-02-04 23:35:23,A bicycle is parked on a sidewalk.,bicycle,1.0,C
+chair1-clock2,2024-02-04 23:35:33,A chair with a high back and legs made of metal.,chair,0.99999976,I
+bottle3-airplane2,2024-02-04 23:35:42,A bottle is in front of an abstract background with blue and yellow colors.,bottle,1.0,F
+clock8-truck2,2024-02-04 23:35:52,A red and black clock with a white face.,clock,1.0,J
+elephant1-bear2,2024-02-04 23:36:02,A gray elephant stands on a sandy ground.,elephant,0.9999964,L
+bottle5-bird3,2024-02-04 23:36:11,一个棕色的瓶子，上面有一个小盖子。,dog,0.50632757,X
+chair10-oven1,2024-02-04 23:36:23,"A chair is prominently displayed, taking up most of the frame from left to right and top to bottom. It has two visible legs on its lower section with one slightly behind the other. The seat appears cushioned or upholstered in black material.",chair,1.0,I
+car5-airplane3,2024-02-04 23:36:36,A car is parked in front of a building.,car,0.9996468,G
+car5-oven2,2024-02-04 23:36:45,A car is parked in front of a building.,car,0.9996468,G
+dog5-boat3,2024-02-04 23:36:54,A colorful abstract painting with a face in the center.,airplane,0.9270652,X
+clock6-oven1,2024-02-04 23:37:03,"A clock is centered in the image, occupying a significant portion of the frame.",clock,1.0,J
+truck8-cat2,2024-02-04 23:37:13,A truck is parked on gravel in front of an old building.,truck,0.99999666,P
+bottle5-truck1,2024-02-04 23:37:22,A red bottle with a stopper on top.,bottle,1.0,F
+keyboard4-bottle2,2024-02-04 23:37:32,"The image is a collection of wine bottle tops, each with its own unique color and design.",bottle,0.99999976,F
+airplane8-clock2,2024-02-04 23:37:41,这是一幅抽象艺术作品，以灰色和黑色为主色调。,keyboard,0.7052391,X
+boat4-bottle2,2024-02-04 23:37:50,A collection of wine bottles stacked on top of each other.,bottle,1.0,F
+bird2-dog2,2024-02-04 23:38:00,A bird perched on a branch with an abstract background.,bird,0.9996526,D
+oven6-bear2,2024-02-04 23:38:10,A bird is sitting on a perch in a cage.,bird,0.99992144,D
+chair8-knife2,2024-02-04 23:38:19,A black and white abstract painting with splashes of color on it.,airplane,0.95830315,X
+boat9-bird1,2024-02-04 23:38:28,帆船在水中。,cat,0.32132795,X
+bottle3-bear2,2024-02-04 23:38:38,A bottle of beer is frozen in ice.,bottle,1.0,F
+bicycle5-elephant1,2024-02-04 23:38:47,自行车的皮革质地。,car,0.35400113,X
+car7-bird3,2024-02-04 23:38:56,这是一辆红色跑车的抽象画。,cat,0.84008247,G
+keyboard7-boat2,2024-02-04 23:39:05,A digital art piece with abstract shapes and colors.,airplane,0.465475,X
+cat10-elephant3,2024-02-04 23:39:16,"A cat is lying down on its side, with its head turned to look at something in front of it. The background appears to be textured and possibly made from fabric or paper.",cat,0.9999927,H
+bottle2-clock1,2024-02-04 23:39:25,A bottle is surrounded by a pattern of numbers.,bottle,1.0,F
+bird3-bear3,2024-02-04 23:39:34,A close up of a brown and green fur texture.,dog,0.5661486,X
+chair4-oven2,2024-02-04 23:39:44,A chair with a blue seat and backrest.,chair,1.0,I
+airplane5-oven3,2024-02-04 23:39:53,A gray and white abstract painting with geometric shapes.,airplane,0.88298124,X
+airplane9-airplane2,2024-02-04 23:40:03,A blue and yellow airplane in flight.,airplane,1.0,A
+truck6-boat2,2024-02-04 23:40:14,"A red water truck with black lettering on it that says WATER NOT FOR DRINKING is parked in front of an abstract background made up of geometric shapes and colors. The truck appears to be stationary, waiting for its next assignment or perhaps taking a break from service.",truck,0.9997739,P
+boat1-elephant3,2024-02-04 23:40:23,A close up of elephant skin.,elephant,1.0,L
+boat9-cat3,2024-02-04 23:40:32,这是一艘帆船的模糊图像。,cat,0.81782025,X
+knife7-car2,2024-02-04 23:40:41,"Abstract art piece with red, yellow, and black colors.",airplane,0.7714889,X
+oven1-dog3,2024-02-04 23:40:50,A close up of an animal's fur with black spots on it.,dog,0.9306712,L
+clock10-boat2,2024-02-04 23:41:01,A red alarm clock with black numbers and hands.,clock,1.0,J
+bird4-cat3,2024-02-04 23:41:10,A bird of prey is flying in front of an orange background with specks and dots on it.,bird,0.9968592,D
+dog4-oven1,2024-02-04 23:41:19,A black and white dog is standing in front of a gray wall.,dog,0.9999647,K
+bear2-keyboard2,2024-02-04 23:41:28,"A computer keyboard with keys slightly raised and overlapping each other, creating an abstract pattern of black letters on white background.",keyboard,0.9999999,M
+chair8-bear1,2024-02-04 23:41:37,A brown and white fur patterned chair with wooden legs.,chair,1.0,I
+truck6-bicycle1,2024-02-04 23:41:47,A water truck is parked in a lot with other vehicles.,truck,0.9999577,"G, P"
+airplane10-bear3,2024-02-04 23:41:56,A brown and black animal is laying down on a bed of grass.,dog,0.9991333,H
+cat5-keyboard3,2024-02-04 23:42:05,A cat is sitting on a keyboard.,keyboard,0.59156954,"H, M"
+bicycle5-keyboard3,2024-02-04 23:42:14,A close up of a computer keyboard with water droplets on it.,keyboard,0.99999785,M
+clock6-car2,2024-02-04 23:42:24,A clock with a red face and black numbers is surrounded by a colorful background.,clock,1.0,J
+airplane7-bird3,2024-02-04 23:42:33,飞机在天空中飞行,airplane,0.33216026,X
+clock10-clock3,2024-02-04 23:42:43,"A large alarm clock is surrounded by smaller clocks, all with different times on them. The background appears to be made up of small squares or tiles that also have numbers and letters on them.",clock,1.0,"J
+X"
+knife7-elephant2,2024-02-04 23:42:56,A brown and black abstract painting with a wavy pattern.,airplane,0.9304393,X
+boat4-bicycle3,2024-02-04 23:43:06,Abstract art piece with a mix of colors and shapes.,airplane,0.82278186,X
+airplane9-clock1,2024-02-04 23:43:17,"The image is a digital art piece that appears to be inspired by clocks and numbers. It features a variety of clock faces and numerical symbols scattered throughout, creating a sense of chaos and disarray. The colors used in the artwork are predominantly blue, green, and yellow, with some areas appearing to have a metallic sheen. The overall style of the piece is abstract, making it difficult to discern any specific narrative or meaning from the arrangement of the elements.",clock,0.9999566,X
+airplane8-oven2,2024-02-04 23:43:27,这是一幅抽象艺术作品，以灰色和黑色为主色调。画面上方有一条水平的黑线穿过画面中央，并在下方形成一个三角形区域。整个图像给人一种流动、动态的感觉。,boat,0.5081197,X
+oven7-clock2,2024-02-04 23:43:38,A gray and black abstract painting with a red background.,airplane,0.9668651,X
+oven9-chair1,2024-02-04 23:43:47,A room filled with red chairs and one pink chair in front of them.,chair,0.9999993,I
+cat3-bear2,2024-02-04 23:43:56,A cat is laying down on a blanket.,cat,0.9999976,H
+bottle5-clock3,2024-02-04 23:44:05,A bottle with clocks inside of it.,bottle,0.9964478,"F, J"
+boat8-dog3,2024-02-04 23:44:15,"A cat is lying on its back with paws in the air, looking up at something out of frame.",cat,0.99999166,H
+elephant7-bottle3,2024-02-04 23:44:24,"An elephant is walking on a white background with Chinese characters and other text around it. The colors of the elephant vary from green to black, giving an abstract appearance.",elephant,1.0,X
+bicycle9-knife3,2024-02-04 23:44:33,这是一幅抽象艺术作品，以黑白为主色调。,keyboard,0.54452306,X
+chair8-chair3,2024-02-04 23:44:42,A blue and white abstract painting.,airplane,0.95629346,X
+car8-cat1,2024-02-04 23:44:52,A cat's paw on a fluffy white background.,cat,0.99998236,H
+chair9-bicycle3,2024-02-04 23:45:06,"A chair with wheels and armrests in an abstract background of red, pink, white, black, gray, brown colors.",chair,0.99999976,"I, G"
+knife9-airplane2,2024-02-04 23:45:16,这是一幅抽象艺术作品，以蓝色和黄色为主色调。,keyboard,0.7052391,X
+truck4-airplane3,2024-02-04 23:45:25,A black truck is parked on a snowy road.,truck,0.9999994,P
+bottle1-bird3,2024-02-04 23:45:34,一个酒瓶的插图。,cat,0.7896839,F
+truck2-elephant1,2024-02-04 23:45:43,这是一张灰色的皮革质地的照片。,cat,0.8475355,X
+clock7-keyboard2,2024-02-04 23:45:52,A clock with a white face and black numbers and hands.,clock,1.0,J
+truck9-bottle2,2024-02-04 23:46:01,"A collage of wine bottle tops in various colors and sizes, arranged together to form an abstract pattern.",bottle,0.99999976,F
+bottle10-bear2,2024-02-04 23:46:11,A bottle of Drambuie is frozen in ice.,bottle,0.9999987,F
+oven4-bicycle2,2024-02-04 23:46:20,A silver car is parked in front of a building.,car,0.99971753,G
+airplane10-airplane1,2024-02-04 23:46:31,A large airplane is flying in the sky.,airplane,1.0,A
+car8-airplane3,2024-02-04 23:46:40,A car is parked on a snowy street.,car,0.9986646,G
+bicycle9-car1,2024-02-04 23:46:49,A bicycle is parked on a street with a basket attached to the front.,bicycle,1.0,C
+keyboard8-dog3,2024-02-04 23:47:00,A close up of a cat's fur.,cat,0.99999845,H
+boat6-dog1,2024-02-04 23:47:13,A close up of fur with a hole in it.,dog,0.7608488,X
+keyboard1-bear2,2024-02-04 23:47:22,A computer keyboard and mouse on a furry surface.,keyboard,0.9999727,M
+truck3-chair2,2024-02-04 23:47:32,A large group of chairs in a room.,chair,1.0,I
+airplane5-chair3,2024-02-04 23:47:42,A group of blue chairs in a room.,chair,0.9999999,I
+bear2-oven1,2024-02-04 23:47:55,"A polar bear is standing in an abstract environment, surrounded by geometric shapes and lines that create a sense of depth and perspective. The bear appears to be facing left as it stands on its hind legs with front paws raised slightly above its head. This dynamic pose suggests movement or anticipation.
+
+The background consists of various gray tones, which contrast sharply against the black outlines of the bear's body. These outlines give shape and definition to the figure while also emphasizing its presence within this abstract setting. Despite being depicted through digital means, there's no text present in the image, allowing viewers' focus solely on the visual elements presented here - the polar bear amidst an intriguing blend of geometry and color.",bear,0.9998437,X
+bicycle6-cat1,2024-02-04 23:48:04,A close up of a cat's fur.,cat,0.99999845,H
+car10-dog1,2024-02-04 23:48:17,A car with a fur texture background,car,0.99981266,G
+car6-bicycle3,2024-02-04 23:48:26,A car with a silver rim.,car,0.9989429,G
+boat8-elephant1,2024-02-04 23:48:36,图片中是一张大象的皮肤特写。,cat,0.9626542,X
+bear10-bottle1,2024-02-04 23:48:46,A collage of bottle caps in the shape of a fish.,bottle,0.99999785,X
+truck4-boat3,2024-02-04 23:48:54,A red and blue truck with a green background.,truck,0.99999964,P
+knife3-bear2,2024-02-04 23:49:04,A close up of a furry animal with black spots.,dog,0.9809234,B
+bicycle1-oven1,2024-02-04 23:49:13,A bicycle with a black seat and handlebars.,bicycle,1.0,C
+keyboard7-oven2,2024-02-04 23:49:28,A black and white abstract painting with geometric shapes.,airplane,0.9608224,X
+dog5-elephant1,2024-02-04 23:49:37,A dog is smiling on a gray background.,dog,0.99998486,K
+chair8-oven1,2024-02-04 23:49:47,"A chair is shown in front of a wall with a purple and white pattern. The chair has metal legs, a black seat, and a backrest that also appears to be made from metal. It's positioned on what looks like a wooden floor. There isn't any text or other objects visible within this frame.",chair,0.99992454,I
+truck7-bear2,2024-02-04 23:49:57,A truck is parked on a road.,truck,1.0,P
+oven7-dog2,2024-02-04 23:50:06,A brown and white abstract painting with a drawer-like design.,airplane,0.48089784,X
+car1-airplane1,2024-02-04 23:50:15,A white and red airplane is flying in the sky.,airplane,1.0,A
+bear7-truck1,2024-02-04 23:50:24,A red and black abstract painting.,airplane,0.95807964,X
+clock5-chair3,2024-02-04 23:50:35,A blue clock with a black hand is in the center of a circle made up of blue chairs.,clock,0.9989141,"J, I"
+boat6-elephant2,2024-02-04 23:50:44,A brown and black textured background.,airplane,0.975128,X
+airplane6-bottle2,2024-02-04 23:50:54,A collection of bottle caps.,bottle,1.0,F
+boat1-oven1,2024-02-04 23:51:03,A gray and black abstract painting with geometric shapes.,airplane,0.9754184,X
+oven3-bottle3,2024-02-04 23:51:12,A green box with two apples inside of it on top of white papers.,bottle,0.72546244,X
+chair10-bird3,2024-02-04 23:51:22,椅子,bottle,0.6876453,I
+boat3-chair3,2024-02-04 23:51:31,A blue and white abstract painting with geometric shapes.,airplane,0.9140707,X
+clock9-cat1,2024-02-04 23:51:43,A clock with no numbers on it.,clock,1.0,J
+airplane2-bottle1,2024-02-04 23:51:52,A collage of bottles and cans.,bottle,0.9999999,F
+chair1-dog1,2024-02-04 23:52:01,A brown and white painting of a dog.,dog,0.9997451,K
+knife8-boat1,2024-02-04 23:52:10,这是一幅抽象艺术作品，以蓝色和红色为主色调。,keyboard,0.7052391,X
+bicycle9-bottle1,2024-02-04 23:52:20,A bicycle is made up of many bottles.,bottle,0.87015307,C
+clock3-bird1,2024-02-04 23:52:30,"A clock with blue and white numbers on it is in front of a gray background that looks like water or waves. The hands of the clock point to about two o'clock, indicating that it's daytime outside. There isn't any text visible in this picture.",clock,0.9999999,J
+airplane4-truck2,2024-02-04 23:52:39,这是一幅色彩斑斓的抽象画，以红色、橙色和灰色为主色调。,keyboard,0.7911048,X
+clock4-bottle3,2024-02-04 23:52:48,A green clock with black numbers and hands.,clock,1.0,J
+knife6-clock2,2024-02-04 23:53:01,A gray and white abstract painting with black accents.,airplane,0.9784883,X
+car8-bear1,2024-02-04 23:53:10,A close up of two brown bears lying on top of each other.,bear,0.9999939,B
+bottle8-elephant3,2024-02-04 23:53:19,A bottle of beer is depicted on a textured background.,bottle,1.0,F
+chair3-bottle3,2024-02-04 23:53:28,A chair is surrounded by many bottles of medicine.,chair,0.56620777,"I, F"
+airplane9-truck1,2024-02-04 23:53:38,A red airplane is flying in front of an abstract background.,airplane,1.0,A
+oven4-clock2,2024-02-04 23:53:47,A computer keyboard and mouse on a desk.,keyboard,0.9999994,M
+oven7-bottle1,2024-02-04 23:53:56,A large collection of bottles and jars.,bottle,1.0,F
+bird1-knife3,2024-02-04 23:54:05,A black and white dog is walking on a sidewalk.,dog,0.9998771,K
+airplane7-clock3,2024-02-04 23:54:15,A clock with a white background and black numbers.,clock,1.0,J
+clock2-knife1,2024-02-04 23:54:24,"A clock with a black frame and white face is surrounded by a colorful, abstract background.",clock,1.0,J
+truck2-chair1,2024-02-04 23:54:33,A pink and black abstract painting.,airplane,0.9723684,X
+bottle9-bicycle1,2024-02-04 23:54:44,A bottle of beer is surrounded by abstract shapes and colors.,bottle,1.0,F
+bear8-boat2,2024-02-04 23:54:54,A red and black train on tracks.,truck,0.60245216,X
+boat4-chair2,2024-02-04 23:55:04,A room filled with chairs and tables.,chair,0.9999888,I
+truck2-airplane3,2024-02-04 23:55:16,"A truck is parked on an icy road with its headlights turned off, surrounded by snow and ice. The sky above it appears to be overcast or foggy, casting a soft light that enhances the overall mood of the scene. Despite being stationary, there's a sense of movement in this image as if you're driving past the truck at high speed due to the impressionistic style used for rendering.
+
+The colors in the picture have been manipulated so much that they don't resemble their original appearance anymore - everything looks like shades of gray and white except for some areas where blue hues can still be seen. This gives the entire composition an ethereal quality which makes one wonder whether we're looking through someone else’s dream rather than reality itself!",truck,0.9984744,X
+dog10-keyboard2,2024-02-04 23:55:26,A close up of computer keyboard keys with letters on them.,keyboard,1.0,M
+dog6-truck2,2024-02-04 23:55:35,A red and black abstract painting with geometric shapes.,airplane,0.8896955,X
+oven2-bicycle1,2024-02-04 23:55:49,"A collage of various objects and shapes in shades of blue, gray, and white.",airplane,0.9467066,X
+car10-elephant2,2024-02-04 23:55:58,A brown and tan textured background.,airplane,0.7071314,X
+keyboard6-bottle2,2024-02-04 23:56:10,"The image is filled with an array of wine bottles, each varying in color and size. The majority of these bottles have their caps on top, creating a sense of order amidst the chaos. Some bottles stand out more prominently than others due to their positioning or colors. Despite being numerous, they all share one common trait - they're all wine bottles. There's no text present within this image, just pure visual elements that speak volumes about the subject matter at hand.",bottle,1.0,F
+clock8-bear2,2024-02-04 23:56:20,A blurry pocket watch with black numbers and hands.,clock,0.99944824,J
+clock1-clock2,2024-02-04 23:56:29,A clock with black numbers and hands on white background.,clock,1.0,J
+airplane5-dog3,2024-02-04 23:56:41,A close up of a dog's head and ears.,dog,0.99993587,K
+truck1-dog1,2024-02-04 23:56:49,A truck with a white tarp on top of it.,truck,0.9999999,P
+bottle2-chair3,2024-02-04 23:57:04,A blue and gray abstract painting with geometric shapes.,airplane,0.95779914,X
+airplane8-bird1,2024-02-04 23:57:13,这是一架飞机的特写照片。,cat,0.81782025,A
+cat8-bicycle3,2024-02-04 23:57:23,"A cat with pink and gray fur sits on a metal surface, surrounded by abstract shapes in shades of red and purple.",cat,0.9999733,H
+knife1-oven1,2024-02-04 23:57:33,A black and white abstract painting of stairs on a blue background with pink highlights.,airplane,0.9896808,X
+clock5-elephant2,2024-02-04 23:57:43,图像中有一个棕色的钟面，上面有黑色的指针和数字。,cat,0.27172834,J
+cat1-oven1,2024-02-04 23:57:52,A cat is sitting in front of a wall.,cat,0.9999938,H
+clock10-airplane1,2024-02-04 23:58:01,A clock with a white face and black numbers and hands.,clock,1.0,J
+keyboard5-cat1,2024-02-04 23:58:11,A brown and white fur blanket with a computer keyboard on top of it.,keyboard,0.99900347,M
+knife4-boat1,2024-02-04 23:58:20,这是一幅抽象艺术作品，以蓝色、红色和白色为主色调。,keyboard,0.46477908,X
+truck3-bicycle1,2024-02-04 23:58:31,A black and silver race car with a red and white logo on it.,car,0.9997292,G
+keyboard7-bottle1,2024-02-04 23:58:41,A collage of bottles with colorful labels.,bottle,1.0,F
+clock3-car2,2024-02-04 23:58:51,A clock with a red and black face is surrounded by a circle of red and yellow fish.,clock,1.0,J
+car8-knife2,2024-02-04 23:59:00,A car is parked on a street.,car,0.99953306,G
+keyboard4-truck3,2024-02-04 23:59:13,"A colorful, abstract painting with geometric shapes and patterns.",airplane,0.6905496,X
+dog4-bird1,2024-02-04 23:59:22,A dog with a blurred background.,dog,0.9999846,K
+bird9-bear3,2024-02-04 23:59:31,A bird is sitting on a branch.,bird,0.9999838,D
+bird6-boat2,2024-02-04 23:59:40,A digital art piece with abstract shapes and colors.,airplane,0.465475,X
+boat10-oven1,2024-02-04 23:59:49,A car is parked on the side of a road.,car,0.9982937,G
+airplane7-keyboard1,2024-02-05 00:00:02,这张图片展示了一种抽象的、几何图案的设计，由黑色和灰色的颜色组成。设计中充满了三角形形状，并以一种混乱但有组织的方式排列在一起。这些三角形似乎在相互重叠或堆叠，创造出深度感和维度感。图像的整体效果是动态且现代的，给人一种运动的感觉。尽管它看起来复杂而详细，但它有一种简洁性，使它易于理解并吸引观众的注意力。,cat,0.5986166,X
+truck10-elephant3,2024-02-05 00:00:11,A truck is depicted on a textured surface.,truck,0.9999999,P
+boat3-car3,2024-02-05 00:00:20,A red and white fire truck is parked in front of a building with people standing around it.,truck,0.9999244,P
+clock2-dog1,2024-02-05 00:00:30,A clock with a brown background and black numbers.,clock,1.0,J
+airplane4-cat3,2024-02-05 00:00:38,抽象的背景。,cat,0.7625755,X
+airplane3-cat1,2024-02-05 00:00:49,"A cat with blue eyes and brown fur is sitting on top of a white surface, surrounded by an abstract pattern in shades of orange, yellow, pink, purple, green, black, gray, and blue. The background appears to be blurred or out-of-focus, making it difficult to discern any specific details beyond the presence of the cat. There's no text visible within this image.",cat,0.9999628,"H
+X"
+elephant7-knife2,2024-02-05 00:00:58,A black elephant is walking on a colorful background with many shapes and colors.,elephant,1.0,L
+boat9-chair2,2024-02-05 00:01:07,The image is a collection of chairs and tables.,chair,0.99999845,I
+keyboard4-oven2,2024-02-05 00:01:16,A computer keyboard and monitor on a desk in an office setting.,keyboard,0.999995,M
+bird10-bicycle1,2024-02-05 00:01:26,A bird with a long beak is surrounded by colorful shapes.,bird,0.9999958,D
+cat9-boat2,2024-02-05 00:01:36,"A painting of an abstract scene with geometric shapes in red, gray and black colors.",airplane,0.92534643,X
+bear8-elephant2,2024-02-05 00:01:45,A bear carved into a tree trunk.,bear,0.9999958,B
+bear4-clock3,2024-02-05 00:01:55,A bear is walking on its hind legs with clocks for eyes and hands.,bear,0.9971641,"B, J"
+elephant8-airplane3,2024-02-05 00:02:04,A digital art piece with abstract shapes and colors.,airplane,0.465475,X
+chair8-airplane1,2024-02-05 00:02:12,椅子和报纸的抽象画。,car,0.47579822,I
+bicycle2-knife2,2024-02-05 00:02:26,A bicycle is parked on a sidewalk.,bicycle,1.0,C
+bottle4-car3,2024-02-05 00:02:36,A red bottle is in the center of the image.,bottle,1.0,F
+cat2-truck3,2024-02-05 00:02:45,变形金刚机器人卡通插图。,car,0.48721588,X
+oven9-clock2,2024-02-05 00:02:54,A camera is shown with a lens and buttons.,airplane,0.89570695,X
+dog6-bicycle1,2024-02-05 00:03:04,A dog with a collar is sitting on a bed.,dog,0.9998055,"H, K"
+elephant7-car3,2024-02-05 00:03:13,A red car is parked in front of a building.,car,0.99941945,G
+dog2-knife3,2024-02-05 00:03:22,A gray and black painting with abstract shapes.,airplane,0.9642211,X
+keyboard8-cat3,2024-02-05 00:03:32,A keyboard with keys that look like chocolate bars on top of it.,keyboard,1.0,M
+chair5-bottle3,2024-02-05 00:03:41,"A green office chair with wheels is in the foreground, surrounded by a variety of objects including a clock and a calendar.",chair,0.9793896,"I, J"
+truck10-truck3,2024-02-05 00:03:52,"A blue truck with two wheels and one windshield wiper is parked in front of another vehicle, which appears to be red or orange. The background has an abstract design that includes yellow and pink colors. There's also a small white car visible on the left side of the scene.",truck,0.99992216,"T, K, G, C"
+clock8-cat1,2024-02-05 00:04:01,A pocket watch with fur in the background.,clock,0.9856286,X
+knife4-cat2,2024-02-05 00:04:10,A brown and white cow standing in a field.,dog,0.49578154,X
+bicycle10-boat3,2024-02-05 00:04:20,A bicycle is parked in front of a building.,bicycle,1.0,C
+cat4-bird2,2024-02-05 00:04:29,A gray cat is sitting on top of a tree stump with its head turned to look at something in front of it. The background has an abstract design that looks like watercolor painting.,cat,0.9996656,H
+oven9-airplane2,2024-02-05 00:04:39,A blue suitcase with a yellow handle is open on a white surface.,airplane,0.91708845,X
+cat9-bottle2,2024-02-05 00:04:48,A large group of bottles with different colored tops.,bottle,1.0,F
+elephant5-car1,2024-02-05 00:04:57,A large group of cars in a parking lot.,car,0.99986887,G
+knife10-knife1,2024-02-05 00:05:06,A knife is lying on a table.,knife,1.0,N
+truck2-car3,2024-02-05 00:05:16,A red fire truck is parked in front of a building.,truck,0.9999639,P
+bicycle10-elephant2,2024-02-05 00:05:25,自行车的插图在纹理背景上。,keyboard,0.81843656,X
+car4-bird1,2024-02-05 00:05:34,A blue car with three headlights is driving on a road.,car,0.9996112,G
+cat10-bear1,2024-02-05 00:05:47,豹纹图案的背景。,cat,0.7781541,X
+elephant10-keyboard1,2024-02-05 00:05:56,A black and white photo of an abstract design with text overlaying it.,airplane,0.82762784,X
+clock6-bicycle1,2024-02-05 00:06:06,"A clock with a white face and black numbers is surrounded by a collage of various objects, including a blue and red toy car, a silver spoon, and a green and yellow toy.",clock,0.99999976,"J
+G"
+bicycle1-truck1,2024-02-05 00:06:15,A red bicycle with a black seat and handlebars.,bicycle,1.0,C
+airplane4-bicycle2,2024-02-05 00:06:24,A large group of shopping carts in a parking lot.,car,0.75392133,X
+elephant8-clock2,2024-02-05 00:06:33,Elephants in the room,elephant,1.0,L
+airplane3-dog1,2024-02-05 00:06:43,A close up of a dog's fur.,dog,0.9999312,K
+cat5-bear2,2024-02-05 00:06:55,A cat is laying down on a blanket.,cat,0.9999976,H
+dog10-bicycle1,2024-02-05 00:07:04,A dog is lying down on a pile of metal objects.,dog,0.99984455,D. dog
+cat3-truck3,2024-02-05 00:07:15,这是一幅色彩斑斓的抽象画，以黄色和蓝色为主色调。画面中充满了各种形状、线条和色块，它们相互交织在一起形成了一种独特的视觉效果。尽管没有具体的主题或对象，但整幅作品散发出一种充满活力和动感的气息。,bottle,0.556481,X
+cat6-oven1,2024-02-05 00:07:24,A cat is standing on a table.,cat,0.99999666,H
+dog10-truck2,2024-02-05 00:07:33,这是一张抽象艺术作品的图片，以红色和黑色为主色调。,keyboard,0.8298021,X
+bottle9-keyboard1,2024-02-05 00:07:45,A close up of a tire with a diamond in it.,bicycle,0.9896604,X
+bird5-oven3,2024-02-05 00:07:56,A blurry image of a store checkout counter.,clock,0.9208448,X
+oven7-elephant1,2024-02-05 00:08:05,这是一张灰色的纸，上面有波浪状的纹理。,keyboard,0.59136105,X
+elephant8-boat2,2024-02-05 00:08:14,A group of elephants standing in a row.,elephant,1.0,L
+cat5-car2,2024-02-05 00:08:23,A pile of colorful objects on top of each other.,airplane,0.93591315,X
+clock9-airplane1,2024-02-05 00:08:32,A clock with a white face and black numbers and hands.,clock,1.0,J
+elephant8-cat1,2024-02-05 00:08:42,Three bears stand in a row on a snowy background.,bear,0.99999416,B
+dog7-knife3,2024-02-05 00:08:51,A black and white abstract painting of a person.,airplane,0.9177112,X
+dog9-bottle1,2024-02-05 00:09:01,A dog is sitting in front of a pile of objects.,dog,0.9994665,"H, K"
+boat8-bird2,2024-02-05 00:09:10,A canoe on a body of water.,boat,0.99999857,E
+dog4-airplane3,2024-02-05 00:09:19,A blue and black abstract painting with a person in it.,airplane,0.9829811,X
+keyboard9-truck3,2024-02-05 00:09:29,A colorful painting of an abstract cityscape.,airplane,0.8128301,X
+cat1-cat3,2024-02-05 00:09:38,A cat with a blurred background.,cat,0.9999969,H
+keyboard8-oven1,2024-02-05 00:09:48,A computer keyboard with keys in a hexagonal pattern.,keyboard,1.0,M
+bicycle1-bear1,2024-02-05 00:09:57,这是一辆自行车的抽象画。,keyboard,0.55297786,I. chair
+bear6-boat3,2024-02-05 00:10:10,Abstract art piece with vibrant colors and shapes.,airplane,0.74994755,X
+bird5-bicycle1,2024-02-05 00:10:21,"A bird is sitting on top of an abstract background made up of geometric shapes and colors. The bird appears to be in profile, with its head turned slightly towards us as it sits comfortably against this colorful backdrop.",bird,0.9997782,D
+boat3-keyboard2,2024-02-05 00:10:30,键盘按键的抽象背景。,cat,0.7095366,X
+truck6-truck2,2024-02-05 00:10:39,水,bottle,0.74964035,X
+bottle4-truck1,2024-02-05 00:10:48,A red bottle with black and white text on it.,bottle,1.0,F
+keyboard5-dog3,2024-02-05 00:10:57,虎皮纹理背景,cat,0.44416752,X
+airplane10-truck1,2024-02-05 00:11:08,A red and black abstract painting with a white background.,airplane,0.94697046,X
+dog4-bottle2,2024-02-05 00:11:17,A collage of bottle caps in various colors and sizes.,bottle,1.0,X
+knife6-boat3,2024-02-05 00:11:26,A colorful abstract digital art piece with various shapes and lines.,airplane,0.66940635,X
+boat4-bird1,2024-02-05 00:11:36,这是一幅抽象艺术作品，以灰色和蓝色为主色调。,keyboard,0.7052391,X
+keyboard1-car3,2024-02-05 00:11:45,A red vase is sitting on top of a white table in front of some rocks and trees.,bottle,0.5004077,X
+bird4-clock1,2024-02-05 00:11:55,Abstract art piece with numbers and shapes.,clock,0.92206967,X
+bottle5-keyboard2,2024-02-05 00:12:04,A computer keyboard with keys highlighted in black and white.,keyboard,1.0,M
+bicycle7-cat1,2024-02-05 00:12:13,A bicycle is parked on a blue and white background.,bicycle,0.99999976,C
+elephant8-dog1,2024-02-05 00:12:26,A herd of elephants walking in line on sandy ground.,elephant,1.0,L
+keyboard9-bear2,2024-02-05 00:12:36,"A close up of a dog's fur, showing its texture and color.",dog,0.99967206,K
+knife4-car2,2024-02-05 00:12:45,A pile of colorful tools.,knife,0.69826895,X
+bottle9-car3,2024-02-05 00:12:56,"A bottle of wine with a red label and diamond shape on it is in front of an abstract background that includes pink, green, blue, and white colors. The bottle appears to be made from glass or crystal material, giving off a reflective quality. It's positioned centrally within the frame, making it the focal point of this artistic composition.",bottle,1.0,F
+truck8-dog3,2024-02-05 00:13:06,A brown truck with a white roof.,truck,0.9999989,P
+bicycle1-bird1,2024-02-05 00:13:15,这是一辆自行车的抽象图像。,keyboard,0.39728728,I. chair
+knife2-bird1,2024-02-05 00:13:24,注射器和针头的抽象图像,keyboard,0.5555103,X
+elephant8-elephant1,2024-02-05 00:13:38,大象灰色的皮肤纹理。,cat,0.88907564,X
+dog3-clock1,2024-02-05 00:13:47,A dog is sitting on top of a keyboard with numbers and letters.,keyboard,0.9779507,K M
+clock4-oven1,2024-02-05 00:13:56,A clock with a white face and black numbers and hands.,clock,1.0,J
+truck3-car3,2024-02-05 00:14:06,A collage of cars and trucks.,truck,0.9818611,"G, P"
+bear5-oven3,2024-02-05 00:14:16,"A large, abstract machine with multiple buttons and dials is prominently displayed in this digital art piece. The machine's intricate design suggests it might be related to technology or industry.",clock,0.852985,X
+bird3-boat3,2024-02-05 00:14:25,A colorful abstract painting with a person holding an umbrella.,bottle,0.39865032,X
+car6-knife1,2024-02-05 00:14:34,A car with a steering wheel in front of it.,car,0.9936498,G
+bottle7-airplane3,2024-02-05 00:14:48,A blue bottle with black cap and white label on gray background.,bottle,1.0,F
+knife9-chair1,2024-02-05 00:14:57,A blurry image of a room with red chairs.,chair,0.9999821,I
+chair8-boat1,2024-02-05 00:15:07,"A chair is positioned in front of an abstract background with blue and orange colors. The chair appears to be made from metal or wood, and it has a seat cushion on top. It's placed against what seems like a wall or partition that also features similar color patterns as the background.",chair,0.9999994,"I, M"
+cat5-boat1,2024-02-05 00:15:17,这是一幅色彩斑斓的抽象画，以蓝色、红色和白色为主色调。,keyboard,0.34480444,X
+dog4-chair1,2024-02-05 00:15:26,A large group of red chairs in a room.,chair,1.0,I
+keyboard6-car2,2024-02-05 00:15:37,"The image is a digital art piece that appears to be an abstract representation of a cityscape or urban environment. It features a variety of shapes and colors, including red, yellow, black, and gray, which are arranged in a seemingly random pattern. The overall effect is one of movement and energy, as if the scene is in constant flux. There is no text present in the image.",airplane,0.9546198,X
+truck4-bear1,2024-02-05 00:15:49,A brown and white fur texture background.,bear,0.57015485,X
+elephant9-boat3,2024-02-05 00:15:58,A colorful image of two people bending over.,airplane,0.977207,X
+bird1-elephant2,2024-02-05 00:16:08,象的皮肤纹理。,cat,0.82650244,X
+bicycle8-truck1,2024-02-05 00:16:17,A red bicycle with a black seat and handlebars.,bicycle,1.0,C
+airplane10-cat2,2024-02-05 00:16:26,A gray and white painting of an abstract design.,airplane,0.8446759,X
+dog1-knife3,2024-02-05 00:16:35,A dog with a gray face and black nose.,dog,0.99998295,K
+chair8-bicycle3,2024-02-05 00:16:44,"A chair is depicted in an abstract style, surrounded by a pattern of pink and purple shapes.",chair,1.0,I
+knife8-bottle3,2024-02-05 00:16:57,A green and white abstract painting with Chinese characters on it.,airplane,0.44850683,X
+knife2-car3,2024-02-05 00:17:08,A red and black motorcycle is parked in front of a building.,truck,0.8613239,X
+clock4-boat3,2024-02-05 00:17:17,A clock with a red and blue background.,clock,1.0,J
+bear1-airplane3,2024-02-05 00:17:26,A bear with a blue nose and white fur.,bear,0.99999857,B
+car7-airplane2,2024-02-05 00:17:36,A blue car with yellow accents is parked on a street.,car,0.99944574,G
+car3-bottle3,2024-02-05 00:17:45,A green car is in the middle of a pile of money.,car,0.9999057,G
+chair3-knife1,2024-02-05 00:17:55,A brown and black chair in front of a wall with many colors.,chair,0.9999833,I
+clock3-bicycle2,2024-02-05 00:18:09,A clock with a gray background and black numbers.,clock,1.0,J
+airplane3-oven1,2024-02-05 00:18:18,A black and white abstract painting of an airplane.,airplane,1.0,A
+oven6-airplane3,2024-02-05 00:18:28,"A toaster oven is prominently displayed in the center of the image, taking up a significant portion of the frame.",oven,0.9999993,O
+boat10-bear3,2024-02-05 00:18:37,A brown and black abstract painting with a hole in it.,airplane,0.9180565,X
+oven5-bicycle1,2024-02-05 00:18:47,A black and silver toaster oven with a glass door.,oven,1.0,O
+bird7-truck2,2024-02-05 00:18:56,A man in a black suit and red tie stands in front of a red and white background.,clock,0.608561,X
+bear8-knife3,2024-02-05 00:19:06,A black and white bear walking on all fours,bear,0.99999547,B
+truck3-bird2,2024-02-05 00:19:19,A truck with a logo on it.,truck,1.0,P
+truck5-airplane2,2024-02-05 00:19:28,A yellow bus with blue wheels is parked on white ground.,truck,0.9858575,X
+bear1-clock2,2024-02-05 00:19:37,A bear is sitting on the ground.,bear,0.99999964,B
+airplane5-bird2,2024-02-05 00:19:46,A gray fighter jet flying in the sky.,airplane,1.0,A
+cat4-cat3,2024-02-05 00:19:56,A cat is sitting on top of something and looking to its left.,cat,0.9999753,H
+airplane6-chair3,2024-02-05 00:20:05,A large group of blue chairs in a room.,chair,0.9999993,I
+boat1-chair3,2024-02-05 00:20:14,A large group of blue chairs in a room.,chair,0.9999993,I
+keyboard6-bicycle1,2024-02-05 00:20:28,"A collage of computer keyboard keys in various colors and sizes, arranged to form an abstract pattern against a gray background.",keyboard,0.99999964,M
+bird4-bicycle2,2024-02-05 00:20:37,A large pile of shopping carts.,truck,0.9553393,X
+clock1-car1,2024-02-05 00:20:46,"Abstract painting with red, yellow, and blue colors.",airplane,0.7951514,X
+bicycle9-chair1,2024-02-05 00:20:59,"A large group of red chairs with black metal legs and armrests, some stacked on top of each other in front of a gray wall.",chair,0.99999845,I
+knife3-knife1,2024-02-05 00:21:08,A painting with a variety of colors and textures.,airplane,0.8815571,X
+bear7-bear2,2024-02-05 00:21:20,"A bear is walking in water, looking to its right.",bear,0.9999912,B
+chair10-car2,2024-02-05 00:21:33,"A colorful abstract painting with red, yellow and black colors.",airplane,0.84924227,X
+cat10-keyboard1,2024-02-05 00:21:42,A gray and black abstract painting with a blue background.,airplane,0.9909979,X
+bird6-truck2,2024-02-05 00:21:52,这是一幅色彩斑斓的抽象画，以红色、粉色和灰色为主调。,keyboard,0.78591406,X
+dog9-boat1,2024-02-05 00:22:01,"A colorful, abstract digital art piece with geometric shapes and lines.",airplane,0.53779894,X
+knife2-truck2,2024-02-05 00:22:11,这是一幅色彩斑斓的抽象画，以红色、粉色和灰色为主色调。画面中充满了各种形状和线条，给人一种动态的感觉。整体上，它呈现出一种现代艺术风格，并且具有很高的视觉冲击力。,cat,0.21293618,X
+bird10-elephant2,2024-02-05 00:22:21,A brown elephant with tusks.,elephant,0.99999976,L
+elephant2-bird1,2024-02-05 00:22:30,这是一张抽象的图片，看起来像是一个穿着蓝色衣服的人的剪影。,cat,0.76704437,X
+truck2-bicycle2,2024-02-05 00:22:39,A silver truck with red and blue accents is parked in front of a building.,truck,0.999998,"G, P"
+chair3-airplane2,2024-02-05 00:22:49,A blue and yellow painting of a chair.,chair,0.99999917,I
+bear9-bottle2,2024-02-05 00:22:58,The image is a collage of wine bottle tops.,bottle,0.9999995,F
+bicycle5-oven3,2024-02-05 00:23:07,"A computer keyboard is located in the center of the image, surrounded by other electronic devices.",keyboard,0.9999988,M
+cat8-car2,2024-02-05 00:23:18,Abstract art piece with a mix of colors and shapes.,airplane,0.82278186,X
+bottle10-boat3,2024-02-05 00:23:27,A bottle of alcohol is in the center of the image.,bottle,1.0,F
+elephant7-airplane3,2024-02-05 00:23:40,大象在移动。,cat,0.66495407,X
+bicycle1-knife3,2024-02-05 00:23:50,A bicycle is hanging on the wall.,bicycle,1.0,C
+clock3-elephant3,2024-02-05 00:23:59,A clock with numbers and hands on it is shown against a textured background.,clock,1.0,J
+oven3-boat3,2024-02-05 00:24:08,A colorful abstract image with red and blue shapes.,airplane,0.83040863,X
+keyboard4-knife2,2024-02-05 00:24:19,The image is an abstract art piece with a variety of colors and shapes.,airplane,0.94798476,X
+keyboard7-knife1,2024-02-05 00:24:28,A painting of a brown and green abstract design.,airplane,0.5412484,X
+bear4-elephant2,2024-02-05 00:24:37,A bear carved into leather.,bear,0.99988055,B
+bicycle8-boat1,2024-02-05 00:24:50,A bicycle with red and blue colors in front of an abstract background.,bicycle,1.0,C
+keyboard7-clock3,2024-02-05 00:25:00,A collage of clocks in various positions and orientations.,clock,1.0,J
+cat1-airplane1,2024-02-05 00:25:10,A cat face made of newspaper cutouts.,cat,0.99995506,X
+bicycle5-chair2,2024-02-05 00:25:19,A bicycle with a wooden seat and handlebars.,bicycle,0.9999703,C
+oven7-car3,2024-02-05 00:25:28,A collage of red and white objects.,airplane,0.8423581,X
+bear10-knife2,2024-02-05 00:25:37,"A black and white dog's head is in profile, with its mouth open as if barking.",dog,0.9999865,K
+bottle3-knife3,2024-02-05 00:25:46,A woman in black dress is dancing with two bottles of wine on her head.,bottle,0.9999827,X
+cat8-bird2,2024-02-05 00:25:56,A gray cat with black spots on its face and paws is sitting on a white blanket.,cat,0.99991083,H
+car5-cat1,2024-02-05 00:26:06,A car is on a white and brown fur background.,car,0.9992694,G
+bottle3-bicycle3,2024-02-05 00:26:16,A bottle is surrounded by abstract shapes and colors.,bottle,1.0,F
+truck2-clock1,2024-02-05 00:26:25,A truck with a clock on it.,truck,0.9995079,"G, J, P"
+clock4-airplane1,2024-02-05 00:26:34,A clock with a white face and black numbers is in the center of the image.,clock,1.0,J
+bird3-bottle2,2024-02-05 00:26:44,"A collage of bottle caps and necks in various colors, shapes, sizes, and orientations.",bottle,1.0,X
+oven10-bicycle1,2024-02-05 00:26:54,A toaster oven with a digital display and multiple buttons.,oven,0.99999976,O
+chair7-boat3,2024-02-05 00:27:03,A chair with a cushion on it.,chair,1.0,I
+cat10-airplane3,2024-02-05 00:27:12,A gray and black abstract painting with blue accents.,airplane,0.984402,X
+clock7-car1,2024-02-05 00:27:21,A clock with yellow and red colors in it.,clock,1.0,J
+keyboard6-elephant1,2024-02-05 00:27:30,粗糙的灰色纹理表面，有深色条纹。,cat,0.4246821,X
+bear9-keyboard3,2024-02-05 00:27:40,A computer keyboard with keys slightly raised.,keyboard,1.0,M
+cat4-knife1,2024-02-05 00:27:50,A painting of a face with a blue background.,airplane,0.9418979,X
+chair6-bird2,2024-02-05 00:28:03,A chair with metal legs and black seat cushion in front of an abstract background.,chair,0.9999995,I
+bird1-boat1,2024-02-05 00:28:12,A bird is sitting on a perch in front of a colorful background.,bird,0.9999535,D
+car4-boat1,2024-02-05 00:28:22,A red and blue car with a black stripe on top.,car,0.9997687,G
+truck10-airplane1,2024-02-05 00:28:31,A futuristic gray truck with a red stripe on the side.,truck,0.9999994,P
+bottle10-car1,2024-02-05 00:28:40,A bottle of alcohol is in front of cars.,bottle,0.99997413,F
+dog5-knife2,2024-02-05 00:28:50,A helmet with a red stripe on it.,bicycle,0.66573966,X
+boat9-boat3,2024-02-05 00:29:00,A boat with many sails in the water.,boat,1.0,E
+chair7-airplane1,2024-02-05 00:29:13,"A chair is depicted in an abstract style, with its backrest and seat prominently displayed against a white background. The chair appears to be made of metal or some other hard material, as suggested by the sharp edges visible on it.",chair,0.999998,I
+keyboard2-bottle1,2024-02-05 00:29:23,A large collection of bottles on a shelf.,bottle,1.0,F
+bottle5-elephant1,2024-02-05 00:29:32,象的皮肤纹理。,cat,0.82650244,X
+cat1-dog1,2024-02-05 00:29:41,A cat with glowing eyes.,cat,0.9999999,H
+clock9-bird2,2024-02-05 00:29:51,"A clock with Roman numerals on its face, reading ""J.P. MORGAN"".",clock,1.0,J
+keyboard8-keyboard2,2024-02-05 00:30:00,A computer keyboard with keys highlighted in white and black background.,keyboard,1.0,M
+knife9-elephant2,2024-02-05 00:30:09,A brown leather texture background with wrinkles and creases.,airplane,0.36568257,X
+truck9-elephant1,2024-02-05 00:30:20,A truck is carved into a tree trunk.,truck,1.0,P
+chair10-airplane2,2024-02-05 00:30:30,"A chair is depicted in an abstract style, with vibrant colors and a unique perspective.",chair,0.9999999,I
+airplane5-boat3,2024-02-05 00:30:39,Abstract image of an airplane.,airplane,1.0,A
+chair2-knife1,2024-02-05 00:30:48,A chair is sitting in front of a table with a vase on it.,chair,0.99999857,I
+truck7-bird2,2024-02-05 00:30:58,A white truck with a trailer is parked on the side of the road.,truck,0.9999995,P
+bird5-dog2,2024-02-05 00:31:07,A bird is perched on a branch.,bird,0.9999608,D
+boat1-bird3,2024-02-05 00:31:17,这是一幅色彩斑斓的抽象画，以白色、棕色和橙色为主调。,keyboard,0.3763008,X
+knife1-keyboard3,2024-02-05 00:31:30,键盘,keyboard,0.6020392,X
+bird1-truck1,2024-02-05 00:31:39,A red and white abstract painting with a woman's face in it.,airplane,0.8056788,X
+cat1-chair2,2024-02-05 00:31:48,A large group of wooden chairs in a room.,chair,0.9999999,I
+clock2-clock3,2024-02-05 00:31:58,A clock with multiple faces and hands.,clock,1.0,J
+bicycle2-bottle1,2024-02-05 00:32:07,A bicycle is parked in front of a wall of bottles.,bicycle,0.7734836,C
+cat9-chair2,2024-02-05 00:32:17,"The scene is filled with numerous wooden chairs, some stacked on top of each other and others scattered throughout the space. The majority of these chairs have curved backs or arms, giving them an elegant appearance despite their disarrayed arrangement.",chair,0.99999905,I
+elephant6-dog2,2024-02-05 00:32:31,"A mother elephant and her baby stand close together in this artistic rendering of an African landscape. The elephants, with their gray skin adorned by brown patches, dominate the scene as they traverse through grassy terrain that stretches out into the distance under a clear blue sky dotted with fluffy white clouds. The perspective is from above, giving us a bird's eye view of these majestic creatures amidst nature's canvas.",elephant,0.9999995,L
+car7-oven2,2024-02-05 00:32:41,A black car with a white roof is parked in front of a building.,car,0.99938846,G
+elephant6-cat2,2024-02-05 00:32:51,A large elephant walking with a baby elephant.,elephant,1.0,L
+bicycle2-dog1,2024-02-05 00:33:00,A close up of brown and white fur with black spots on it.,dog,0.6540196,X
+clock3-keyboard3,2024-02-05 00:33:09,"A clock with black numbers and hands is shown in this distorted photo, surrounded by water droplets.",clock,0.9999999,J
+elephant5-bottle2,2024-02-05 00:33:19,A large elephant is standing in front of a group of wine bottles.,elephant,0.9999821,L
+car7-keyboard3,2024-02-05 00:33:28,A black car with a convertible top is parked on a street.,car,0.9994143,G
+bottle8-bird1,2024-02-05 00:33:38,A blue bottle with a white label.,bottle,1.0,F
+boat4-car3,2024-02-05 00:33:51,Abstract art piece with red and white shapes.,airplane,0.45255128,X
+bottle3-bird1,2024-02-05 00:34:01,蓝色瓶子被塑料薄膜包裹着。,dog,0.38750947,F
+knife5-dog1,2024-02-05 00:34:10,A close up of brown and white fur on an animal.,dog,0.892275,H
+boat7-boat2,2024-02-05 00:34:19,A boat is in the water.,boat,1.0,E
+clock1-dog2,2024-02-05 00:34:29,A clock with an abstract background.,clock,1.0,J
+cat2-cat1,2024-02-05 00:34:38,A fluffy cat with green eyes is sitting on white fur.,cat,0.9999938,H
+oven10-boat2,2024-02-05 00:34:47,A toaster oven with a rotisserie inside of it.,oven,1.0,O
+bicycle6-boat2,2024-02-05 00:35:00,"A red and black tricycle with a basket on top is parked in front of an abstract background made up of geometric shapes, colors, and patterns. The tricycle has three wheels, two visible from this angle, one at each side, and another larger wheel located towards its back end. It also features a handlebar for steering and a seat where someone would sit while riding it. The basket sits atop the frame, ready to carry items or perhaps be used as a decorative element. The overall scene suggests a playful and whimsical atmosphere, inviting viewers into a world filled with imagination and creativity.",bicycle,0.99984944,X
+chair3-car3,2024-02-05 00:35:09,A red and white abstract painting with a green tree in the background.,airplane,0.57995576,X
+oven7-keyboard1,2024-02-05 00:35:19,A close-up of a black and gray metal object with a textured surface.,airplane,0.9699846,X
+knife7-airplane3,2024-02-05 00:35:31,这是一幅色彩斑斓的抽象画，以蓝色和灰色为主色调。,keyboard,0.84341407,X
+elephant2-keyboard3,2024-02-05 00:35:39,A black and white photo of a person holding a camera.,airplane,0.87566006,X
+clock8-boat1,2024-02-05 00:35:50,A large clock with a blue and red design is prominently displayed in the center of the image.,clock,1.0,J
+elephant7-keyboard3,2024-02-05 00:36:02,A black keyboard with white keys is shown on a gray background.,keyboard,1.0,M
+cat3-bicycle1,2024-02-05 00:36:13,A cat is laying down on top of a pile of metal objects.,cat,0.9999982,H
+cat2-bottle3,2024-02-05 00:36:22,A cat with green eyes and fur is sitting on a bed.,cat,0.9999963,H
+keyboard9-bird1,2024-02-05 00:36:31,键盘和鼠标在模糊的背景上。,cat,0.8135292,M
+knife10-dog1,2024-02-05 00:36:41,A close up of a brown and white fur texture.,dog,0.5339834,X
+bird7-bird2,2024-02-05 00:36:50,A bird is perched on a branch in front of a gray background.,bird,0.9999254,D
+boat9-knife2,2024-02-05 00:36:59,A black and white abstract painting with a red and pink hue.,airplane,0.88338816,X
+truck3-dog3,2024-02-05 00:37:11,A dog is looking at the camera.,dog,0.9999976,K
+elephant7-bear3,2024-02-05 00:37:20,A large elephant is walking on a dirt path.,elephant,0.9999999,L
+bird10-cat1,2024-02-05 00:37:29,A cat's tail on top of a fluffy blanket.,cat,0.9999902,H
+bicycle6-dog2,2024-02-05 00:37:39,"A man is standing next to his bicycle, which has three wheels and one seat. The background of this image appears to be made up of fur or feathers.",bicycle,0.9999924,C
+cat5-knife2,2024-02-05 00:37:50,A cat is sitting on a surface with a colorful background.,cat,0.9999529,H
+clock4-chair1,2024-02-05 00:38:00,A room filled with red chairs.,chair,1.0,I
+bird3-cat1,2024-02-05 00:38:10,A bird with a sharp beak and a feathered body.,bird,0.9999988,D
+bottle6-bicycle3,2024-02-05 00:38:20,"A bottle of soda in a metallic, abstract background.",bottle,1.0,F
+dog4-bicycle1,2024-02-05 00:38:29,"A collage of abstract shapes and colors, with a dark figure in the center.",airplane,0.7143713,X
+boat8-oven1,2024-02-05 00:38:37,A gray and white abstract painting with a black line through it.,airplane,0.99451786,X
+chair9-elephant1,2024-02-05 00:38:47,这张图片展示了一种纹理，看起来像是一块灰色的皮革或皮肤。,keyboard,0.41347915,X
+elephant2-boat1,2024-02-05 00:38:56,"A colorful, abstract image of a building.",airplane,0.97192544,X
+boat8-truck2,2024-02-05 00:39:06,这是一幅色彩斑斓的抽象画，以红色和灰色为主色调。,keyboard,0.84341407,X
+truck3-oven2,2024-02-05 00:39:19,A black truck is parked in front of a building.,truck,0.9999975,P
+oven2-car1,2024-02-05 00:39:28,"Abstract painting with red, yellow, and blue colors.",airplane,0.7951514,X
+dog8-oven3,2024-02-05 00:39:37,A dog standing in front of a building.,dog,0.9999751,K
+elephant6-oven1,2024-02-05 00:39:48,"A large elephant stands in front of a smaller one, both appearing to be on top of some kind of structure or platform. The background is blurred and indistinct, making it difficult to discern any specific details beyond these two elephants.",elephant,0.9999999,L
+bird5-airplane3,2024-02-05 00:39:57,A bird is perched on a rock.,bird,0.9998078,D
+keyboard7-chair3,2024-02-05 00:40:06,A large number of blue chairs are arranged in a grid-like pattern on a gray floor.,chair,0.9999988,I
+clock4-knife1,2024-02-05 00:40:15,A clock with a wooden frame and black numbers is hanging on a wall.,clock,1.0,J
+airplane4-dog2,2024-02-05 00:40:25,"A brown dog is laying down on its side with its head resting in front of it and its paws stretched out to the sides. The background appears blurry, giving an impression that the photo was taken from far away or through a lens filter.",dog,0.9997304,K
+elephant1-boat2,2024-02-05 00:40:35,A red elephant with buildings on it's back and side.,elephant,0.99999976,L
+oven8-knife2,2024-02-05 00:40:45,"A stove with two burners and knobs is visible in this abstract art piece, which features an array of colors and patterns. The stove appears to be the central focus amidst various other elements that create a visually engaging composition.",oven,0.4339375,X
+bottle10-truck3,2024-02-05 00:40:55,A bottle of alcohol is in the foreground.,bottle,1.0,F
+truck5-car1,2024-02-05 00:41:06,"A red toy truck with yellow wheels and black trim is parked on an abstract background of blue, green, orange, pink, purple, white, and yellow colors. The word ""AGFODAT"" can be seen in silver letters on the side of the truck.",truck,0.9999671,X
+bicycle9-cat3,2024-02-05 00:41:18,这是一辆自行车的插图，背景是彩色的。,keyboard,0.7362737,I. chair
+dog4-cat3,2024-02-05 00:41:27,A dog is sitting on the ground.,dog,0.99998033,K
+bicycle4-keyboard3,2024-02-05 00:41:36,A bicycle is parked on a sidewalk.,bicycle,1.0,C
+elephant2-airplane3,2024-02-05 00:41:46,这是一张抽象艺术作品的图片，以蓝色和灰色为主色调。,keyboard,0.8298021,X
+dog7-bird3,2024-02-05 00:41:55,这是一张小狗的插图，它看起来像是在沉思或悲伤。,knife,0.26037478,X
+bird7-oven3,2024-02-05 00:42:05,"A telephone is mounted on a wall, surrounded by other objects and structures in an abstract setting.",clock,0.9330861,X
+truck5-truck1,2024-02-05 00:42:15,A red truck with black wheels and a white background.,truck,1.0,P
+truck8-bottle2,2024-02-05 00:42:24,"A large group of bottle caps in various colors and sizes, with some appearing to be stacked or arranged together.",bottle,1.0,X
+truck2-keyboard1,2024-02-05 00:42:34,A black truck is parked on a snowy road.,truck,0.9999994,P
+bird2-bird2,2024-02-05 00:42:43,A bird is perched on a branch.,bird,0.9999608,D
+bird9-keyboard1,2024-02-05 00:42:53,一只鸟停在树枝上。,cat,0.72335124,D
+chair7-bird1,2024-02-05 00:43:02,A blue chair with a cushion on it.,chair,1.0,I
+bear10-oven1,2024-02-05 00:43:11,A black and white bear is standing on its hind legs.,bear,0.9999435,B
+oven6-bicycle1,2024-02-05 00:43:25,A collage of abstract shapes and lines in various colors.,airplane,0.89731926,X
+bird7-keyboard3,2024-02-05 00:43:34,A black cat is sitting on top of a window sill with water droplets around it.,cat,0.9988991,H
+clock8-keyboard1,2024-02-05 00:43:43,A clock with a black face and hands is shown.,clock,1.0,J
+car3-dog2,2024-02-05 00:43:53,A Lamborghini car with an artistic paint job on it.,car,0.99936503,G
+bear4-car3,2024-02-05 00:44:02,Abstract art piece with red and white shapes.,airplane,0.45255128,X
+boat5-airplane1,2024-02-05 00:44:11,A collage of paper cutouts in shades of gray and white.,airplane,0.8244501,X
+boat7-elephant3,2024-02-05 00:44:20,A fossilized footprint on a rock.,elephant,0.47377843,X
+boat3-clock3,2024-02-05 00:44:32,A collage of clocks in different shapes and sizes.,clock,1.0,J
+car4-bear3,2024-02-05 00:44:41,A brown and black animal is curled up in a ball.,dog,0.99462706,H
+clock6-bottle1,2024-02-05 00:44:50,A clock with a collage of bottle caps in the background.,clock,0.9999939,J
+truck3-cat1,2024-02-05 00:45:00,A brown and white fur coat with a gold emblem on it.,elephant,0.5358327,X
+clock8-knife1,2024-02-05 00:45:09,A clock with numbers on it is shown in this picture.,clock,1.0,J
+elephant4-boat3,2024-02-05 00:45:19,"A large elephant is standing in front of an abstract background with blue and red colors. The elephant appears to be made up of various geometric shapes, giving it a unique appearance.",elephant,1.0,X
+oven2-truck3,2024-02-05 00:45:28,A painting of a colorful abstract scene.,airplane,0.972705,X
+dog6-elephant2,2024-02-05 00:45:37,象的皮肤纹理。,cat,0.82650244,X
+truck6-cat2,2024-02-05 00:45:46,A truck with the word water on it.,truck,0.99999905,P
+clock3-cat1,2024-02-05 00:45:57,A clock with red hands is on top of an animal's fur.,clock,0.99997425,J
+cat6-keyboard3,2024-02-05 00:46:05,A cat is sitting on top of a computer keyboard.,cat,0.78728026,H
+elephant7-cat1,2024-02-05 00:46:17,A large elephant is walking on a grassy field.,elephant,0.99999976,L
+truck9-truck3,2024-02-05 00:46:26,A horse is being transported in a truck.,truck,0.9999825,X
+keyboard7-truck2,2024-02-05 00:46:36,这是一幅色彩斑斓的抽象画，以红色、粉色和灰色为主色调。,keyboard,0.7911048,X
+dog1-car2,2024-02-05 00:46:45,The image is a colorful abstract art piece with various shapes and colors.,airplane,0.935483,X
+cat10-clock1,2024-02-05 00:46:55,"The image is an abstract digital art piece that features various clock faces and numbers scattered throughout, creating a sense of chaos or disorientation. The colors used in this artwork include shades of blue, green, orange, yellow, white, black, and gray. There's no text present within the image.",clock,0.99998283,J
+knife1-bird2,2024-02-05 00:47:04,A knife with black handle and blade in gray background,knife,1.0,N
+airplane8-chair1,2024-02-05 00:47:17,这张图片是一幅抽象艺术作品，以粉红色和灰色为主色调。画面中充满了各种形状的几何图形，并且这些图形的颜色、大小以及位置都各不相同，给人一种混乱而又富有动感的感觉。整个图像呈现出一种流动的效果，仿佛是由无数个粒子在空间中的运动所构成的一样。这种效果使得整张画作看起来非常独特而且引人入胜。,cat,0.44407168,X
+bottle7-elephant2,2024-02-05 00:47:30,A brown and black textured background.,airplane,0.975128,X
+bicycle1-elephant2,2024-02-05 00:47:39,A bicycle on brown leather background,bicycle,0.99999785,C
+knife10-keyboard3,2024-02-05 00:47:49,图片中是一些黑色的指甲油瓶子，背景是灰色的。,cat,0.4523611,X
+clock4-car2,2024-02-05 00:47:58,"A large clock is surrounded by smaller clocks, creating an intricate pattern of timekeeping symbols.",clock,1.0,J
+clock1-bear1,2024-02-05 00:48:07,这是一张毛皮的图片，看起来像一只动物。,cat,0.4627403,X
+bottle7-truck2,2024-02-05 00:48:17,这是一幅色彩斑斓的抽象画，以红色、粉色和灰色为主色调。画面中充满了各种形状和线条，它们相互交织在一起形成了一种独特的视觉效果。整幅画给人一种动态的感觉，仿佛在不断地流动变化着。,bicycle,0.30626303,X
+airplane8-elephant3,2024-02-05 00:48:26,"A close up of a rough, textured surface.",airplane,0.98002404,X
+car5-knife2,2024-02-05 00:48:35,A red car with a white license plate parked on the street.,car,0.93191534,G
+bear6-cat3,2024-02-05 00:48:44,A polar bear standing on its hind legs.,bear,0.9961274,B
+chair9-bottle3,2024-02-05 00:48:55,A chair with wheels is on a bed of cans.,chair,0.9999356,"I, G"
+truck9-chair3,2024-02-05 00:49:04,The image is a collage of blue chairs.,chair,0.99997914,I
+knife1-truck2,2024-02-05 00:49:14,这是一幅色彩斑斓的抽象画，以红色、粉色和黑色为主色调。,keyboard,0.7911048,X
+chair1-bear1,2024-02-05 00:49:23,A brown and white painting of a dog.,dog,0.9997451,K
+keyboard8-truck3,2024-02-05 00:49:33,这是一幅色彩斑斓的抽象画，以蓝色、橙色和黄色为主色调。画面中充满了各种形状和线条，给人一种动态的感觉。整体上，它呈现出一种现代艺术风格，并且具有很高的视觉冲击力。,cat,0.21293618,X
+truck1-cat1,2024-02-05 00:49:42,A close up of an abstract painting with white and brown colors.,airplane,0.94227004,X
+car6-truck3,2024-02-05 00:49:51,A car is parked in front of a building.,car,0.9996468,G
+knife1-dog1,2024-02-05 00:50:00,A close up of brown and white fur on an animal.,dog,0.892275,H
+clock7-bottle2,2024-02-05 00:50:09,A clock is surrounded by bottles.,clock,0.9850091,J
+car1-car2,2024-02-05 00:50:18,A car is parked in front of a building.,car,0.9996468,G
+boat9-dog2,2024-02-05 00:50:27,这是一张羽毛的图片。,cat,0.6552094,X
+oven9-knife3,2024-02-05 00:50:41,A black and white abstract painting with a woman's face in the center.,airplane,0.97973365,X
+elephant5-chair3,2024-02-05 00:50:52,A collage of blue and gray chairs.,chair,0.99999964,I
+truck10-car3,2024-02-05 00:51:02,A car is parked in front of a building.,car,0.9996468,G
+oven10-oven3,2024-02-05 00:51:12,"A microwave oven is prominently displayed, taking up most of the image from left to right and top to bottom.",oven,0.99999094,O
+car9-keyboard2,2024-02-05 00:51:23,A black and white photo of a telephone.,airplane,0.8240711,X
+dog8-dog3,2024-02-05 00:51:32,A dog with an injured leg stands on ice.,dog,0.9985227,K
+truck6-oven3,2024-02-05 00:51:41,A control panel with multiple buttons and switches is prominently displayed in the center of the image.,clock,0.45079747,X
+bird2-car3,2024-02-05 00:51:55,A collage of red and white cars.,car,0.99978715,G
+knife5-oven2,2024-02-05 00:52:05,"A black and silver gun is on display in front of a gray background with a white border. The gun appears to be pointed towards something off-camera, creating an air of anticipation or suspense.",airplane,0.957788,X
+dog3-elephant2,2024-02-05 00:52:13,A dog carved into leather.,dog,0.9981882,K
+elephant3-knife1,2024-02-05 00:52:23,An elephant is standing in front of a colorful background.,elephant,1.0,L
+boat10-cat1,2024-02-05 00:52:32,A cat is sleeping on top of a white blanket with blue stripes.,cat,0.9999889,H
+bear2-cat2,2024-02-05 00:52:41,A bear is standing in front of some rocks.,bear,0.9999976,B
+cat10-bicycle1,2024-02-05 00:52:51,A colorful abstract digital art piece with various shapes and lines.,airplane,0.66940635,X
+truck5-keyboard1,2024-02-05 00:53:07,"A toy truck is on display in this photo, with its wheels and body clearly visible against a textured background. The truck appears to be made of metal or plastic, giving it an industrial feel. It's positioned centrally within the frame, making it easy for viewers to focus their attention on it. There are no other objects present in the scene, so the truck stands out as the sole subject of interest. Its placement suggests that it might have been intentionally placed there by someone who wanted to showcase it prominently. Overall, the image captures a simple yet intriguing moment - a single object set against a backdrop of texture and color.",truck,0.9299481,X
+bicycle4-chair2,2024-02-05 00:53:16,"A room filled with chairs and tables, all in shades of brown.",chair,0.9998572,I
+keyboard6-knife2,2024-02-05 00:53:25,A black and white abstract painting with a red and gray background.,airplane,0.9605136,X
+oven4-elephant3,2024-02-05 00:53:34,A laptop computer is sitting on a stone surface.,chair,0.7399699,X
+bear5-bottle1,2024-02-05 00:53:44,A collage of bottles with a bear in the middle.,bottle,0.8547909,"B, F"
+elephant5-truck1,2024-02-05 00:53:53,A red elephant is standing on a gray background.,elephant,0.9999999,L
+car3-truck1,2024-02-05 00:54:03,A red Lamborghini is parked in front of a building.,car,0.9838864,G
+bird4-dog3,2024-02-05 00:54:12,A bird with wings spread wide.,bird,0.99977404,D
+dog9-car1,2024-02-05 00:54:21,A colorful abstract painting of cars and people.,car,0.998544,G. car
+car7-car1,2024-02-05 00:54:31,A car is parked on a street.,car,0.99953306,G
+keyboard1-dog3,2024-02-05 00:54:40,图像中有一只猫和一个电脑键盘。,cat,0.4666468,"H, M"
+truck5-knife3,2024-02-05 00:54:49,A gray and black painting of a group of bottles.,bottle,0.99999917,F
+elephant1-oven2,2024-02-05 00:54:59,"A black and white elephant is standing in front of an abstract background with gray, blue, and brown colors.",elephant,1.0,L
+bird6-bottle3,2024-02-05 00:55:11,A green bird is flying over bottles and papers.,bird,0.99696857,D
+bicycle7-clock3,2024-02-05 00:55:21,A bicycle with wheels that look like clocks.,bicycle,0.9996464,"C, J"
+airplane7-airplane3,2024-02-05 00:55:30,A plane is flying in the sky.,airplane,1.0,A
+oven6-chair3,2024-02-05 00:55:43,"The image is a digital art piece that features a repeating pattern of blue chairs stacked on top of each other, creating an abstract and geometric design. The chairs are arranged in a way that they overlap and intersect with each other, forming a complex network of lines and shapes. The background of the image is a blurred white color, which contrasts with the vibrant blue of the chairs and adds to the overall visual impact of the artwork. The image does not contain any text or discernible actions taking place. The relative positions of the chairs suggest a sense of depth and movement, as if the viewer is looking through a tunnel formed by the chairs. The image is a striking example of digital art, showcasing the possibilities of manipulating and re-arranging objects in a digital medium.",chair,0.88712275,I
+cat7-boat3,2024-02-05 00:55:53,A colorful abstract painting of buildings and mountains.,airplane,0.92539954,X
+truck2-bird2,2024-02-05 00:56:02,A truck is parked on a snowy road.,truck,1.0,P
+chair5-boat3,2024-02-05 00:56:15,A chair is in the foreground of the image.,chair,0.9999999,I
+airplane3-clock1,2024-02-05 00:56:25,A black airplane is flying through a field of clocks.,airplane,0.9999968,A
+elephant10-elephant1,2024-02-05 00:56:34,象鼻,keyboard,0.6020392,X
+bicycle4-truck3,2024-02-05 00:56:44,A bicycle with a yellow frame and blue wheels.,bicycle,1.0,C
+keyboard3-bicycle2,2024-02-05 00:56:53,"A large group of bicycles in various positions and orientations, with some overlapping each other.",bicycle,0.99999976,C
+keyboard2-clock1,2024-02-05 00:57:05,"The image is an abstract digital art piece that appears to be made up of various clock faces and numbers, creating a complex pattern with multiple overlapping elements in different shades of gray and white. The overall effect gives off a sense of time's complexity or perhaps even chaos when it comes to keeping track of moments.",clock,0.99999905,J
+chair4-chair3,2024-02-05 00:57:14,A blue chair is stacked on top of another blue chair.,chair,1.0,I
+car1-oven3,2024-02-05 00:57:24,"A cluttered workspace with various objects and papers strewn about, including a computer monitor on top of some items.",clock,0.68072265,X
+chair5-keyboard2,2024-02-05 00:57:32,A close up of an automatic gear shift in a car.,car,0.9999256,G
+bicycle5-dog2,2024-02-05 00:57:42,"A bicycle with its seat and handlebars removed, leaning against something in an abstract setting.",bicycle,0.99999964,C
+chair9-bear1,2024-02-05 00:57:51,A close up of two squirrels facing each other on their stomachs.,dog,0.5032695,X
+chair5-oven2,2024-02-05 00:58:00,A black office chair with wheels is in the foreground.,chair,0.9999987,I
+bear4-knife1,2024-02-05 00:58:09,A bear is walking on all fours in an abstract environment.,bear,0.9999993,B
+airplane2-bicycle1,2024-02-05 00:58:19,"A large pile of metal objects in various colors and sizes, with some appearing to be pipes or machinery parts.",truck,0.8528482,X
+car10-chair1,2024-02-05 00:58:32,A red car parked on side of road with pink overlay.,car,0.9927821,G
+dog2-bicycle2,2024-02-05 00:58:41,A large pile of metal objects in a junkyard.,truck,0.9259445,X
+bicycle5-bottle3,2024-02-05 00:58:50,A bicycle is shown in the image.,bicycle,1.0,C
+elephant9-dog3,2024-02-05 00:59:00,A large elephant is walking on a dirt road.,elephant,0.9999957,L
+airplane4-car1,2024-02-05 00:59:09,Abstract painting of airplanes.,airplane,1.0,A
+cat7-clock3,2024-02-05 00:59:20,"The image is a digital art piece that features a complex and abstract design made up of various clock faces. The clock faces are arranged in a seemingly random pattern, creating an intricate and visually engaging composition. The colors used in the artwork are predominantly shades of gray, with occasional accents of black and white. The overall effect is one of a surreal and dreamlike quality, as if time itself has been distorted and reshaped into an otherworldly form.",clock,0.99999416,X
+knife3-clock2,2024-02-05 00:59:30,A clock with numbers and hands is depicted in the image.,clock,1.0,J
+bird9-chair1,2024-02-05 00:59:40,A pink chair in front of a crowd of people.,chair,0.99999857,I
+keyboard1-bird2,2024-02-05 00:59:49,A computer mouse is in front of a keyboard.,keyboard,0.99999535,M
+airplane5-bear2,2024-02-05 00:59:58,A bird is flying in front of a white background.,bird,0.99847513,D
+bird2-knife1,2024-02-05 01:00:07,A brown leather jacket with a green and blue design on it.,bicycle,0.5889395,X
+clock5-keyboard1,2024-02-05 01:00:16,A clock with black numbers and hands on a gray background.,clock,1.0,J
+car6-bear1,2024-02-05 01:00:26,A close up of a brown and tan fur texture.,bear,0.5860676,X
+truck10-bicycle1,2024-02-05 01:00:35,A futuristic vehicle with a metallic finish and a tinted windshield.,car,0.9433303,G
+keyboard6-bear2,2024-02-05 01:00:48,A computer keyboard is on top of fur.,keyboard,0.9997063,M
+keyboard8-chair2,2024-02-05 01:01:01,A room filled with chairs.,chair,1.0,I
+chair10-clock1,2024-02-05 01:01:10,A chair is in the middle of the image.,chair,0.99999976,I
+elephant3-oven1,2024-02-05 01:01:19,A person is standing in front of a wall.,clock,0.80769974,X
+keyboard10-airplane3,2024-02-05 01:01:28,A computer keyboard with keys in shades of blue and gray.,keyboard,1.0,M
+car4-bottle1,2024-02-05 01:01:38,A collage of bottles and jars.,bottle,1.0,F
+car1-chair3,2024-02-05 01:01:48,"A large group of blue chairs in various sizes and orientations, stacked on top of each other to create an abstract pattern.",chair,0.99998593,I
+keyboard6-chair1,2024-02-05 01:01:57,A large group of red chairs in a room.,chair,1.0,I
+dog9-bicycle3,2024-02-05 01:02:07,A dog is sitting on top of a pile of trash.,dog,0.9996555,K
+bear10-cat2,2024-02-05 01:02:16,A bear is walking on all fours in the snow.,bear,0.99999666,B
+bear2-elephant1,2024-02-05 01:02:25,A bear carved into stone or concrete.,bear,0.99999964,B
+airplane4-knife1,2024-02-05 01:02:34,A painting of an abstract design in blue and brown colors.,airplane,0.9297802,X
+chair1-airplane2,2024-02-05 01:02:45,"A chair is depicted in an abstract style, with vibrant colors and a unique brushstroke-like appearance.",chair,0.9999993,I
+bird5-cat2,2024-02-05 01:02:59,A bird is standing on a branch.,bird,0.9999901,D
+bird8-car2,2024-02-05 01:03:10,A bird is perched on a branch.,bird,0.9999608,D
+truck6-bottle3,2024-02-05 01:03:20,"A green bottle with white text on it is in front of many other bottles, all stacked together and overlapping each other. The background appears to be abstract or blurry.",bottle,1.0,F
+oven2-bird2,2024-02-05 01:03:30,A microwave oven with a gray texture.,oven,0.99999905,O
+bottle9-oven2,2024-02-05 01:03:39,A bottle of alcohol on a table in front of a mirror,bottle,1.0,F
+cat7-truck2,2024-02-05 01:03:48,红色和灰色的抽象艺术画,keyboard,0.49333528,X
+cat6-clock3,2024-02-05 01:03:59,A cat is sitting on a clock face.,cat,0.89262134,"H, J"
+chair7-bottle1,2024-02-05 01:04:12,A chair made of bottles.,chair,0.86152273,"I, F"
+airplane2-bird3,2024-02-05 01:04:22,这是一张抽象艺术作品的图片，以灰色和红色为主调。,keyboard,0.79248667,X
+boat6-cat1,2024-02-05 01:04:32,A brown and white fur patterned background with an abstract design on top of it.,bear,0.42125258,X
+elephant5-elephant1,2024-02-05 01:04:41,象的皮肤纹理。,cat,0.82650244,X
+bottle5-oven2,2024-02-05 01:04:51,A black bottle with a white cap on a gray background.,bottle,1.0,F
+chair7-truck3,2024-02-05 01:05:00,A chair with a blue cushion and wooden legs.,chair,1.0,I
+chair9-chair3,2024-02-05 01:05:12,"The image is filled with rows of blue chairs, creating an abstract pattern that dominates the scene. The chairs appear to be stacked on top of each other in various orientations and positions, giving the impression of depth and movement within this two-dimensional space. Despite their close proximity, no discernible text or specific objects can be identified from these coordinates alone. This arrangement suggests a sense of repetition and rhythm, as if we're looking at a snapshot of a moment frozen in time amidst constant change.",chair,0.9913886,I
+elephant6-knife2,2024-02-05 01:05:25,A large elephant is walking on a road.,elephant,0.99999976,L
+truck7-chair2,2024-02-05 01:05:36,A large truck is parked in front of a building.,truck,1.0,P
+bird5-bear3,2024-02-05 01:05:45,A bird is perched on a branch.,bird,0.9999608,D
+bottle6-bottle3,2024-02-05 01:05:54,"A green bottle is surrounded by white and red labels, creating an abstract art piece with vibrant colors.",bottle,1.0,F
+oven6-elephant2,2024-02-05 01:06:05,这张图片展示了一种纹理复杂的图案，类似于大象的皮肤。这种独特的设计给人一种古老和自然的感觉，并且可能用于装饰或艺术目的。图像中没有明显的文字或其他物体。整个画面以棕色为主调，营造出一种温暖而质朴的气息。,bottle,0.6087831,X
+dog2-cat1,2024-02-05 01:06:14,"A dog with brown eyes and nose, white fur on its face and ears.",dog,0.9999081,K
+chair9-boat2,2024-02-05 01:06:26,A chair with wheels and a colorful design.,chair,0.99999857,I
+oven2-bottle1,2024-02-05 01:06:35,A collage of colorful bottles and jars on shelves.,bottle,0.9999999,F
+bear6-bottle3,2024-02-05 01:06:44,A bunch of green and white bottles.,bottle,1.0,F
+elephant2-bear3,2024-02-05 01:06:53,A dog with long hair looking to the left.,dog,0.99998176,K
+elephant2-cat1,2024-02-05 01:07:03,A brown dog is laying on top of a white and gray blanket.,dog,0.9994124,K
+dog8-bottle2,2024-02-05 01:07:14,"A large number of bottles are scattered throughout the image, with some appearing to be stacked or clustered together.",bottle,0.99999976,F
+bear8-truck3,2024-02-05 01:07:23,这是一幅色彩斑斓的抽象画，以几何形状和鲜明的颜色组成。,keyboard,0.709667,X
+chair7-knife2,2024-02-05 01:07:33,"A chair is positioned in the center of the image, taking up a significant portion of the frame.",chair,0.99999964,I
+clock5-bicycle1,2024-02-05 01:07:46,A clock with a metal texture and a pattern of gears around it.,clock,1.0,J
+car7-dog3,2024-02-05 01:07:55,A dog is laying on the ground.,dog,0.9999924,K
+oven10-truck2,2024-02-05 01:08:04,A microwave oven with a red interior.,oven,1.0,O
+car10-bottle3,2024-02-05 01:08:14,A car is parked on a street with a lot of bottles around it.,bottle,0.9917841,G
+elephant1-chair1,2024-02-05 01:08:23,A large group of chairs in shades of pink and black.,chair,1.0,I
+clock10-truck2,2024-02-05 01:08:32,A red and white abstract painting with a handle on top.,bottle,0.934425,X
+clock6-clock2,2024-02-05 01:08:41,A clock with a black face and silver hands is displayed against a gray background.,clock,1.0,J
+boat1-bear1,2024-02-05 01:08:54,毛皮纹理背景图像。,cat,0.4697194,X
+truck3-knife2,2024-02-05 01:09:06,"The image features a vintage truck with a large logo on its side, parked in front of a brick building. The truck is black and red, and it appears to be an antique model. The logo on the side of the truck is quite prominent and reads ""Ford"". The truck is positioned in such a way that it is facing towards the right side of the image. The background of the image is a brick wall, which adds to the vintage feel of the scene. The overall composition of the image suggests a nostalgic or historical context.",truck,0.9999349,P
+car9-truck3,2024-02-05 01:09:15,A yellow car with black roof and black tires.,car,0.99738747,G
+bird6-car3,2024-02-05 01:09:24,A collage of red and white cars.,car,0.99978715,G
+dog10-bottle1,2024-02-05 01:09:33,A dog is made up of many bottle caps.,bottle,0.9448215,K
+clock2-bicycle1,2024-02-05 01:09:43,A clock with a black frame and white face is surrounded by a complex network of metal bars and wires.,clock,1.0,J
+bird10-bear2,2024-02-05 01:09:53,A bird with a long beak is looking to the left.,bird,0.999992,D
+clock10-dog3,2024-02-05 01:10:02,"A black and white cat is sitting on a white surface, looking directly at the camera.",cat,0.9999981,H
+clock1-elephant2,2024-02-05 01:10:12,A brown and tan textured background.,airplane,0.7071307,X
+elephant5-bicycle3,2024-02-05 01:10:21,An elephant is depicted in a mosaic of red and gray shapes.,elephant,1.0,L
+clock3-bear3,2024-02-05 01:10:31,A clock with black numbers and hands is surrounded by brown swirls.,clock,1.0,J
+truck2-boat3,2024-02-05 01:10:41,A red and white truck with a ladder on the side.,truck,1.0,P
+boat8-knife1,2024-02-05 01:10:50,A pile of knives with a metallic sheen.,knife,1.0,N
+dog7-oven2,2024-02-05 01:11:00,A black and white abstract painting of a person.,airplane,0.9177112,X
+boat1-bicycle2,2024-02-05 01:11:09,A complex network of pipes and tubes in shades of gray and white.,bottle,0.8911384,X
+dog10-airplane1,2024-02-05 01:11:20,"A dog is laying down on its side with its head up and looking forward, surrounded by geometric shapes in shades of gray, black, red, white, yellow, blue, green, pink, purple, orange, brown, and tan. The background appears to be made from newspaper clippings or other printed materials that have been cut into abstract patterns.",dog,0.9998667,X
+bicycle2-bicycle1,2024-02-05 01:11:30,A bicycle with a basket on the front is parked in a cluttered area.,bicycle,1.0,C
+bear4-truck3,2024-02-05 01:11:40,这是一幅抽象艺术作品，以橙色和黑色为主色调。,keyboard,0.7052391,X
+car4-oven2,2024-02-05 01:11:50,A black car with a green stripe on the side.,car,0.9999076,G
+bird3-truck3,2024-02-05 01:12:03,这是一幅色彩斑斓的抽象画，以黄色和蓝色为主色调。,keyboard,0.84341407,X
+bear1-bear3,2024-02-05 01:12:12,A bear is sitting on its hind legs in front of a blurred background.,bear,0.9999746,B
+oven2-dog3,2024-02-05 01:12:22,A cat's eyes looking through an opening in a wall.,cat,0.9999993,H
+truck7-truck2,2024-02-05 01:12:31,A red and white truck is parked in front of pink buildings.,truck,0.9999994,P
+dog3-bear3,2024-02-05 01:12:40,A dog is sitting on the ground.,dog,0.99998033,K
+airplane4-bird3,2024-02-05 01:12:48,飞机在天空中飞行,airplane,0.33215997,X
+airplane8-truck3,2024-02-05 01:12:58,这是一幅色彩斑斓的抽象画，以棕色、蓝色和黄色为主调。画面中充满了各种形状和线条，给人一种动态的感觉。整体上，它呈现出一种现代艺术风格，并且具有很高的视觉冲击力。,bottle,0.20021896,X
+oven2-chair1,2024-02-05 01:13:13,"The image is a digital art piece that features a repeating pattern of pink and black chairs. The chairs are arranged in a grid-like formation, with each row consisting of three chairs stacked on top of each other. The chairs are all facing the same direction, creating a sense of unity and order within the composition. The colors used in the artwork are predominantly pink and black, with occasional hints of white and gray. The overall effect is a visually striking and abstract representation of seating arrangements.",chair,0.99997115,I
+chair10-dog1,2024-02-05 01:13:23,A brown and white fur patterned chair.,chair,0.99999964,I
+dog2-bottle2,2024-02-05 01:13:34,"A collection of wine bottles with various colors and sizes, stacked together in close proximity to each other.",bottle,1.0,F
+bicycle5-cat1,2024-02-05 01:13:44,A brown and white cat is sitting on a bed.,cat,0.9999989,H
+bicycle9-keyboard3,2024-02-05 01:13:54,A close up of a computer keyboard.,keyboard,1.0,M
+bear3-keyboard2,2024-02-05 01:14:03,A computer keyboard with keys missing.,keyboard,1.0,M
+bottle7-bear1,2024-02-05 01:14:12,A close up of a brown and black fur pattern.,dog,0.7409125,X
+airplane6-knife1,2024-02-05 01:14:21,A bird is flying over a colorful background.,bird,0.99831605,D
+car3-boat1,2024-02-05 01:14:33,"A red car with blue and white accents is parked in front of an abstract background that looks like a cityscape or skyline at night, possibly made up of buildings and lights. The car's design suggests it might be a sports car due to its sleek shape and low profile. There isn't any text visible within this frame.",car,0.99899167,G
+bottle9-truck1,2024-02-05 01:14:42,A bottle with a red label and a red cap.,bottle,1.0,F
+oven3-truck1,2024-02-05 01:14:52,A red and black abstract painting on white background.,airplane,0.93642235,X
+clock6-bird3,2024-02-05 01:15:02,一个黑色的钟挂在白色的墙上。,keyboard,0.40433735,J
+oven1-clock3,2024-02-05 01:15:11,"A large clock with many numbers and hands on it, surrounded by other clocks of varying sizes.",clock,1.0,J
+knife6-bird1,2024-02-05 01:15:21,注射器和针头的特写图像。,keyboard,0.46767318,X
+dog3-bird2,2024-02-05 01:15:31,A black dog is sitting on a blanket with its head turned to look at something off camera.,dog,0.99973637,K
+bottle7-keyboard2,2024-02-05 01:15:40,A close up of computer keyboard keys with numbers and letters on them.,keyboard,1.0,M
+boat1-car2,2024-02-05 01:15:49,"Abstract art piece with red, yellow, and gray colors.",airplane,0.736998,X
+oven8-cat3,2024-02-05 01:15:59,"A microwave oven with two dials on top and vents around it, set against a blurred background of wood grain.",oven,0.9999002,O
+bear10-keyboard3,2024-02-05 01:16:08,A black computer mouse on a table with raindrops on it.,keyboard,0.9047311,X
+bear6-chair1,2024-02-05 01:16:22,A large group of pink and red chairs.,chair,1.0,I
+knife7-boat3,2024-02-05 01:16:33,Abstract painting with many colors and shapes.,airplane,0.74486613,X
+airplane10-dog3,2024-02-05 01:16:43,这是一张模糊的图片，上面有棕色和白色的斑点。,cat,0.26066694,X
+clock9-keyboard2,2024-02-05 01:16:52,A black and white keyboard with blurry keys.,keyboard,1.0,M
+keyboard9-chair2,2024-02-05 01:17:02,A room filled with wooden chairs and tables.,chair,0.99999094,I
+bottle3-boat3,2024-02-05 01:17:11,"A bottle of beer is in the center of the image, surrounded by colorful abstract shapes and lines.",bottle,1.0,F
+bicycle2-car2,2024-02-05 01:17:20,"A colorful abstract painting with red, yellow and gray tones.",airplane,0.7194559,X
+keyboard4-cat2,2024-02-05 01:17:36,A close up of fur with black spots on it.,dog,0.72755164,X
+car5-truck3,2024-02-05 01:17:45,这是一辆黄色的复古汽车，停在雪地上。,car,0.19025458,G
+elephant2-elephant3,2024-02-05 01:17:55,A close up of an elephant on textured skin background.,elephant,1.0,L
+bottle3-chair3,2024-02-05 01:18:04,A collage of blue and gray shapes overlapping each other in an abstract pattern.,airplane,0.8361893,X
+dog8-bear3,2024-02-05 01:18:14,A dog standing in water with its tail curled up over it's back.,dog,0.99984896,K
+bear6-clock1,2024-02-05 01:18:24,"The image is a digital art piece that appears to be a collage of various abstract shapes and patterns in shades of blue, gray, and brown. The overall composition is chaotic yet intriguing, with no discernible objects or figures within the image.",airplane,0.9843014,X
+truck5-dog3,2024-02-05 01:18:37,A brown bus with graffiti on it.,truck,0.9990953,X
+bottle8-bottle3,2024-02-05 01:18:47,A green bottle with white text is surrounded by other bottles and papers.,bottle,1.0,F
+cat6-bear1,2024-02-05 01:18:56,A cat is sitting on top of a blanket.,cat,0.9999939,H
+oven5-dog3,2024-02-05 01:19:05,A cat is sitting on a microwave.,cat,0.9999145,H
+airplane1-chair2,2024-02-05 01:19:18,"The image is a digital art piece that appears to be a collection of chairs and tables. The colors used in the artwork are predominantly brown, beige, and gray. The chairs and tables are arranged in a seemingly random manner, creating an abstract and chaotic scene. The overall effect is a sense of confusion and disarray, as if the furniture has been randomly scattered without any order or purpose. Despite the chaos, there is a certain beauty in the way the colors blend together, creating a unique and intriguing visual experience.",chair,0.98896796,I
+keyboard7-car3,2024-02-05 01:19:27,A red and white abstract painting with geometric shapes.,airplane,0.66751313,X
+elephant1-airplane2,2024-02-05 01:19:41,An abstract image of an elephant in blue and yellow.,elephant,0.9999999,L
+dog3-dog1,2024-02-05 01:19:50,A dog is sitting on a fluffy surface.,dog,0.9999795,"H
+X"
+elephant4-clock3,2024-02-05 01:20:00,A gray elephant with clocks for skin.,elephant,0.9964669,L
+bicycle6-bicycle3,2024-02-05 01:20:10,"A tricycle with a basket on it is in front of many other objects, including shoes and bags.",bicycle,0.99997926,X
+bicycle4-car2,2024-02-05 01:20:19,"The image is a colorful abstract art piece with a mix of red, yellow, and gray colors.",airplane,0.8766794,X
+cat4-dog3,2024-02-05 01:20:29,A dog with brown and white fur.,dog,0.9999453,K
+keyboard1-clock1,2024-02-05 01:20:39,"A computer keyboard with keys that look like numbers and letters, but they're all distorted in an abstract way. The background is also very colorful and abstract, making it hard to tell what's going on at first glance. It looks almost as if someone took a photo of a real keyboard and then ran it through some kind of digital art filter or something similar.",keyboard,1.0,M
+knife6-airplane1,2024-02-05 01:20:52,A collage of newspaper clippings and other papers.,airplane,0.9850744,X
+cat5-bottle1,2024-02-05 01:21:05,"A collage of bottle caps in various colors and sizes, with some resembling faces or animals.",bottle,0.99999726,X
+truck1-chair2,2024-02-05 01:21:14,A room filled with chairs and tables.,chair,0.9999888,I
+chair10-bicycle1,2024-02-05 01:21:23,A chair is surrounded by abstract shapes and colors.,chair,1.0,I
+truck8-elephant1,2024-02-05 01:21:32,A truck is carved into some leather.,truck,0.99999917,P
+oven9-oven1,2024-02-05 01:21:43,"A toaster oven with a chicken inside, positioned in the center of the oven.",oven,1.0,O
+chair4-keyboard2,2024-02-05 01:21:53,A close up of a computer keyboard.,keyboard,1.0,M
+oven7-oven1,2024-02-05 01:22:02,A large oven with multiple drawers and a glass door.,oven,1.0,O
+bicycle1-bottle3,2024-02-05 01:22:12,A bicycle with a greenish hue is parked on a surface covered in Chinese characters.,bicycle,0.99999785,C
+bear9-boat2,2024-02-05 01:22:21,"A colorful, abstract image of a bear.",bear,0.99999785,B
+cat10-bottle1,2024-02-05 01:22:31,A large collection of bottles with various colors and sizes.,bottle,1.0,F
+cat7-dog3,2024-02-05 01:22:40,"A cat is laying down on its side with eyes closed and mouth open, appearing to be sleeping or resting.",cat,0.99999964,H
+bicycle10-clock2,2024-02-05 01:22:49,A bicycle is shown in front of an abstract background with numbers and clocks on it.,bicycle,0.9997068,"C, I, J"
+bird2-clock3,2024-02-05 01:23:02,"A man with a clock face for a head, surrounded by clocks.",clock,1.0,X
+cat1-keyboard3,2024-02-05 01:23:11,A black cat is sitting on a computer keyboard.,keyboard,0.7332749,"H, M"
+keyboard5-keyboard1,2024-02-05 01:23:22,A computer keyboard with keys slightly askew.,keyboard,1.0,M
+boat3-bicycle2,2024-02-05 01:23:31,"A large, abstract sculpture made of metal pipes and wires.",bicycle,0.6892667,X
+knife4-bear1,2024-02-05 01:23:41,这是一张毛皮的图片。,cat,0.6552094,X
+car6-elephant3,2024-02-05 01:23:50,A starfish on a sandy beach.,boat,0.47487694,X
+keyboard9-cat1,2024-02-05 01:23:59,A cat is sleeping on a fur blanket.,cat,0.99998665,H
+airplane7-cat3,2024-02-05 01:24:13,A brown bird with a long tail is perched on a branch.,bird,0.9997727,D
+cat2-elephant1,2024-02-05 01:24:22,这是一张猫脸的纹理图像。,cat,0.8178189,X
+chair3-bicycle3,2024-02-05 01:24:32,"A chair with a red seat and backrest, surrounded by a patterned background.",chair,1.0,I
+chair10-bottle3,2024-02-05 01:24:41,A chair is surrounded by a green and white patterned background.,chair,1.0,I
+knife1-chair1,2024-02-05 01:24:50,A large pile of pink and green pillows.,chair,0.34942564,X
+bear7-clock1,2024-02-05 01:24:59,A face made of clocks and numbers is in front of an abstract background with geometric shapes.,clock,1.0,X
+elephant1-bottle1,2024-02-05 01:25:09,A collage of bottle caps in an elephant shape.,bottle,0.78960145,X
+dog8-chair3,2024-02-05 01:25:19,A blue chair is in the middle of the image.,chair,0.9999969,I
+bicycle3-elephant2,2024-02-05 01:25:28,这是一张自行车的照片，背景是棕色的。,keyboard,0.7362737,X
+dog1-cat3,2024-02-05 01:25:38,这是一张狗的图片。,cat,0.6911005,X
+bear6-bird2,2024-02-05 01:25:50,这是一张黑白照片，上面有一只海豹的脚。这只海豹似乎在水中游泳或休息时被捕捉到了这一瞬间。它的鳍状肢清晰可见，暗示着它正在水下移动。背景模糊不清，将焦点集中在海豹身上。图像中没有任何文字或其他可辨认的对象。物体的位置关系表明海豹位于画面中央，周围是平静而深邃的大海。这张图片散发出一种宁静和自然美的感觉。,dog,0.2816679,X
+cat2-knife3,2024-02-05 01:26:00,A gray and black abstract painting of an animal face with sharp teeth.,dog,0.7772157,X
+bird1-bear1,2024-02-05 01:26:10,A small bird with brown and black feathers sits on a branch.,bird,0.9999728,D
+bear3-chair2,2024-02-05 01:26:24,"A large number of wooden chairs are stacked on top of each other, creating an abstract pattern.",chair,0.9999968,I
+bottle1-clock1,2024-02-05 01:26:34,A wine bottle is surrounded by abstract shapes and numbers.,bottle,1.0,F
+chair3-dog2,2024-02-05 01:26:44,A brown and yellow painting of a chair.,chair,0.9999994,I
+bottle2-elephant1,2024-02-05 01:26:53,图片中是一头大象的皮肤纹理。,cat,0.9626542,X
+oven3-bear2,2024-02-05 01:27:03,"A black and white cat is sitting on top of a gray blanket with its head resting in an open box. The cat appears to be looking up at something, possibly curious about what's inside the box or simply enjoying being elevated above the surface it rests upon.",cat,0.9999957,H
+airplane10-elephant1,2024-02-05 01:27:12,这张图片展示了一种纹理复杂的灰色皮革表面。,cat,0.8549454,X
+bird4-airplane1,2024-02-05 01:27:21,A collage of images of airplanes.,airplane,1.0,A
+bear1-elephant1,2024-02-05 01:27:32,A bear carved into stone or concrete.,bear,0.99999964,B
+knife4-oven2,2024-02-05 01:27:43,A black and white photo of a piano.,keyboard,0.91414183,M
+airplane3-keyboard2,2024-02-05 01:27:53,A close up of a computer keyboard.,keyboard,1.0,M
+dog1-chair1,2024-02-05 01:28:02,A blurry photo of red chairs in rows.,chair,0.999998,I
+bear9-knife2,2024-02-05 01:28:11,A bear is standing on its hind legs.,bear,0.999977,B
+dog10-car3,2024-02-05 01:28:20,A red car with a dog in it.,car,0.98625565,"G, K"
+bear10-truck1,2024-02-05 01:28:33,A red and black abstract painting.,airplane,0.95807964,X
+boat7-oven3,2024-02-05 01:28:43,这是一幅抽象艺术作品，以灰色调为主。它由许多矩形和线条组成，并且有一些黑色的元素穿插其中。整个画面给人一种混乱而又有序的感觉。,keyboard,0.3936175,X
+dog4-clock1,2024-02-05 01:28:52,A dog is sitting on top of numbers and letters.,dog,0.9998325,K
+boat2-bird1,2024-02-05 01:29:02,这是一张抽象的图片，由灰色和蓝色的波浪形状组成。,keyboard,0.4348587,X
+airplane1-bicycle2,2024-02-05 01:29:11,A plane flying in the sky.,airplane,1.0,A
+bird9-bottle3,2024-02-05 01:29:22,"A bird is perched on a branch in front of an abstract background with Chinese characters and other designs. The bird appears to be made up of green bottles, giving it a unique appearance against the colorful backdrop.",bird,0.98948926,"D, F"
+bird10-clock1,2024-02-05 01:29:31,A bird with a long beak is surrounded by a pattern of numbers and symbols.,bird,0.99999404,D
+bicycle4-cat1,2024-02-05 01:29:44,A bicycle with a brown seat and handlebars.,bicycle,0.9999995,C
+bottle6-knife3,2024-02-05 01:29:54,这是一张黑白照片，上面是一个穿着黑色长袍的人站在灰色背景前。,keyboard,0.25311825,X
+dog3-knife3,2024-02-05 01:30:04,"A black dog with blue eyes is lying on its stomach and looking up at something off camera to the right of it. The background appears to be white, but there's an abstract design that looks like watercolor or paint splatters in shades of gray and brown throughout the entire photo.",dog,0.998276,K
+knife10-bear3,2024-02-05 01:30:13,A close up of a brown and black animal's fur.,dog,0.9753,H
+elephant2-bottle3,2024-02-05 01:30:23,An elephant is surrounded by a sea of green and white.,elephant,1.0,L
+airplane2-bear1,2024-02-05 01:30:32,A close up of a brown and white fur texture.,dog,0.5339834,X
+bear4-cat3,2024-02-05 01:30:41,A brown bear walking on all fours in an abstract background,bear,0.9999894,B
+cat6-chair3,2024-02-05 01:30:51,A room filled with blue chairs.,chair,0.99999976,I
+bottle5-airplane1,2024-02-05 01:31:00,A bottle of beer is in the center of the image.,bottle,1.0,F
+airplane4-boat3,2024-02-05 01:31:11,A plane flying over buildings in an abstract cityscape.,airplane,1.0,A
+bear2-airplane1,2024-02-05 01:31:22,"A bear is standing on its hind legs in front of an abstract background made up of newspaper clippings and text. The bear appears to be looking towards something off-camera, possibly curious or alert about its surroundings.",bear,0.999966,B
+bicycle7-oven1,2024-02-05 01:31:31,A bicycle with a basket on the front is parked.,bicycle,1.0,C
+airplane6-keyboard3,2024-02-05 01:31:40,A black bird flying in the sky,airplane,0.5660222,D
+bicycle4-airplane1,2024-02-05 01:31:49,山地自行车的抽象插图。,bird,0.5109224,X
+knife10-oven3,2024-02-05 01:31:59,A computer monitor is on a desk.,clock,0.9413907,X
+clock2-elephant2,2024-02-05 01:32:09,图像中有一个钟面，背景是棕色的。,cat,0.6347793,J
+dog3-keyboard1,2024-02-05 01:32:18,黑狗坐在地上,car,0.7448225,H
+elephant1-car3,2024-02-05 01:32:27,A red car is parked in front of a building.,car,0.99941945,G
+chair8-elephant1,2024-02-05 01:32:38,粗糙的灰色纹理表面，有深色的线条和斑点。,cat,0.24285978,X
+bottle8-knife1,2024-02-05 01:32:48,A bottle of beer on a table.,bottle,1.0,F
+knife4-keyboard1,2024-02-05 01:33:01,破碎的玻璃窗,cat,0.5136143,X
+clock8-chair2,2024-02-05 01:33:10,A clock with a wooden background.,clock,1.0,J
+knife2-cat3,2024-02-05 01:33:22,这是一幅抽象艺术作品，以棕色和橙色为主色调。画面上方有一条弯曲的线条，下方则是一个类似人脸形状的设计。整个画面给人一种动态而神秘的感觉。,knife,0.24909799,X
+oven5-keyboard2,2024-02-05 01:33:30,A black and silver camera with buttons on it.,airplane,0.5948737,X
+oven5-airplane1,2024-02-05 01:33:40,A toaster oven with a red top and white bottom.,oven,1.0,O
+airplane4-keyboard3,2024-02-05 01:33:49,键盘,keyboard,0.6020392,X
+boat6-clock2,2024-02-05 01:33:58,羽毛笔和墨水瓶的抽象插图。,keyboard,0.3594625,X
+car1-dog2,2024-02-05 01:34:12,A close up of a feathered background.,bird,0.90703404,D
+knife6-dog2,2024-02-05 01:34:22,这是一张色彩斑斓的抽象画，以棕色和橙色为主色调。,keyboard,0.84341407,X
+airplane8-bicycle3,2024-02-05 01:34:32,A jumbled pile of metal objects.,airplane,0.6019684,X
+oven3-airplane1,2024-02-05 01:34:41,A white and red abstract painting with a black border.,airplane,0.9732423,X
+truck1-bicycle3,2024-02-05 01:34:50,A truck is parked on a street.,truck,1.0,P
+bottle1-cat3,2024-02-05 01:35:01,这是一张色彩斑斓的抽象画，以橙色和灰色为主色调。画面中有一些不规则形状的图案，并且有明显的纹理感。整体上给人一种动态、充满活力的感觉。,keyboard,0.31940234,X
+clock6-truck3,2024-02-05 01:35:10,这是一幅色彩斑斓的抽象画，以圆形为主。,keyboard,0.86692035,X
+bird1-keyboard3,2024-02-05 01:35:21,图像中有一个黑色的物体，上面有水滴。,cat,0.24239591,X
+bottle6-bird1,2024-02-05 01:35:31,A bottle of water is shown in the image.,bottle,1.0,F
+bottle7-cat2,2024-02-05 01:35:40,A close up of a cat's fur.,cat,0.99999845,H
+bottle5-cat1,2024-02-05 01:35:49,A bottle of beer on a table.,bottle,1.0,F
+bear5-boat2,2024-02-05 01:36:00,A large red and white sculpture of an animal in front of a building with lots of windows.,bird,0.4910427,X
+cat7-bottle1,2024-02-05 01:36:10,A collage of bottles with colorful caps.,bottle,1.0,F
+car9-bicycle2,2024-02-05 01:36:25,A silver car is parked on a street with buildings in the background.,car,0.9999131,G
+boat6-bicycle2,2024-02-05 01:36:36,A distorted image of a cityscape with buildings and vehicles.,airplane,0.7052366,"G, P"
+truck1-bird1,2024-02-05 01:36:45,A truck is driving on an icy road.,truck,0.9999999,P
+bottle5-knife1,2024-02-05 01:36:55,A bottle of beer is in the center of the image.,bottle,1.0,F
+cat4-airplane1,2024-02-05 01:37:08,"A white and red sign with black text on it is displayed in front of a gray background. The sign appears to be damaged or torn, causing some sections to overlap each other. Despite this damage, the text remains legible enough for us to make out that it reads ""WELCOME"". However, due to the overlapping nature of the sign's pieces, we cannot discern any further details about its content.
+
+The overall scene suggests an unusual setting where such a damaged sign would typically not be seen. It could possibly indicate a place like a construction site or perhaps even a discarded piece from an old store or business establishment. Regardless, the presence of the word 'welcome' indicates a welcoming gesture despite the state of disrepair. 
+
+Please note that without additional context, our interpretation may vary based solely upon what can be confidently determined from the given information.",clock,0.6793223,X
+oven3-car2,2024-02-05 01:37:17,"A colorful abstract scene with red, yellow and black colors dominating.",airplane,0.97510976,X
+airplane7-boat2,2024-02-05 01:37:27,"A red and white airplane is flying in front of an urban cityscape with buildings, bridges, and other structures. The sky above appears to be cloudy or foggy.",airplane,1.0,A
+keyboard5-bicycle1,2024-02-05 01:37:37,"A large pile of metal objects in various shapes and sizes, with some appearing to be pipes or tubes.",bottle,0.54706234,X
+bottle6-airplane1,2024-02-05 01:37:46,A bottle of soda is in the center of the image.,bottle,1.0,F
+elephant4-bicycle2,2024-02-05 01:37:59,A metallic sculpture of a horse in an abstract style.,elephant,0.8870993,X
+cat5-dog3,2024-02-05 01:38:09,A cat is lying down on a white surface.,cat,0.9999995,H
+boat6-bear1,2024-02-05 01:38:19,"A close up of an animal's ear, possibly a dog or cat. The fur is brown and black with some white patches.",dog,0.6602351,"H, K"
+bicycle4-knife3,2024-02-05 01:38:29,"A bicycle is leaning against something, and there's another one in front of it.",bicycle,1.0,"C, G"
+airplane6-bear3,2024-02-05 01:38:38,A close up of a brown and black fur texture.,dog,0.540522,X
+boat6-car1,2024-02-05 01:38:47,A boat is floating on water.,boat,1.0,E
+airplane9-oven2,2024-02-05 01:38:57,A black and white abstract painting with geometric shapes.,airplane,0.9608224,X
+oven10-cat2,2024-02-05 01:39:07,A blurry image of a toaster oven.,oven,0.9999994,O
+dog5-oven1,2024-02-05 01:39:16,"A distorted, pixelated face with black and white colors.",airplane,0.75758487,X
+dog1-dog2,2024-02-05 01:39:26,"A dog with brown fur and floppy ears looks at something off to its side, possibly out of curiosity or interest in an object outside the frame. The dog's eyes seem alert as it gazes into the distance.",dog,0.9987262,K
+cat7-elephant1,2024-02-05 01:39:40,A cat is sleeping on its back in this photo.,cat,0.99999976,H
+bear3-airplane1,2024-02-05 01:39:49,A gray elephant walking on a road.,elephant,0.9999994,L
+bottle7-clock1,2024-02-05 01:40:00,"The image is a digital art piece that appears to be a collage of various clock faces and numbers. The colors used in the artwork are predominantly blue, green, and orange, creating a vibrant and dynamic visual effect. The overall composition of the image is abstract and chaotic, with no discernible narrative or focal point. It's a visually striking piece that invites interpretation and imagination.",clock,0.9999943,X
+keyboard4-keyboard2,2024-02-05 01:40:10,A computer keyboard with white keys on a black background.,keyboard,1.0,M
+airplane9-knife3,2024-02-05 01:40:19,A gray and black painting with abstract shapes.,airplane,0.9642211,X
+knife1-car3,2024-02-05 01:40:29,Abstract art piece with red and gray shapes overlapping each other.,airplane,0.60474265,X
+keyboard7-bear2,2024-02-05 01:40:39,A white and gray fur background with a shadow on it.,bear,0.6596948,X
+bicycle6-airplane2,2024-02-05 01:40:49,A blue and black abstract painting with yellow accents.,airplane,0.9801876,X
+bear5-bicycle3,2024-02-05 01:40:58,A bear in an abstract art style.,bear,0.99999833,B
+keyboard1-chair2,2024-02-05 01:41:08,A collage of chairs and other objects.,chair,0.9999777,I
+bear5-airplane3,2024-02-05 01:41:19,A bear is walking on all fours in an abstract environment with blue and white colors.,bear,0.99999917,B
+chair5-bicycle1,2024-02-05 01:41:29,A chair is surrounded by a collage of objects.,chair,0.9999999,I
+elephant4-car3,2024-02-05 01:41:38,A red and black abstract image of a person.,airplane,0.9442442,X
+chair9-keyboard2,2024-02-05 01:41:49,A close up of a computer keyboard.,keyboard,1.0,M
+knife3-cat1,2024-02-05 01:42:00,A close up of a brown and white fur texture.,dog,0.5339834,X
+clock7-cat2,2024-02-05 01:42:10,A blurry clock face with the hands pointing to 12:05.,clock,1.0,J
+clock4-bird3,2024-02-05 01:42:21,A clock with a brown frame and black numbers.,clock,1.0,J
+car8-dog1,2024-02-05 01:42:32,A close up of a brown and black fur texture.,dog,0.540522,X
+cat9-cat3,2024-02-05 01:42:41,A cat is lying down on a bed.,cat,0.9999994,H
+boat9-keyboard2,2024-02-05 01:42:50,键盘按键损坏,cat,0.44416752,X
+bird7-cat3,2024-02-05 01:42:59,一只鸟坐在树枝上。,cat,0.72335124,D
+clock7-bear2,2024-02-05 01:43:10,模糊的钟面，指针指向2点。,keyboard,0.37727442,X
+bicycle7-elephant2,2024-02-05 01:43:20,这是一辆自行车的抽象图像。,keyboard,0.39728728,I. chair
+bicycle8-clock3,2024-02-05 01:43:29,A bicycle with a clock face on it.,bicycle,0.9946473,"I, J"
+dog9-airplane3,2024-02-05 01:43:39,A dog is sitting on the ground with its tongue out.,dog,0.9999583,K
+keyboard8-airplane2,2024-02-05 01:43:48,A blue and yellow abstract painting.,airplane,0.9487804,X
+cat4-truck3,2024-02-05 01:43:58,这是一幅色彩斑斓的抽象画，以蓝色、黄色和粉色为主色调。,keyboard,0.7911048,X
+bear7-dog3,2024-02-05 01:44:08,A bear is looking at the camera.,bear,0.9999999,B
+chair8-keyboard3,2024-02-05 01:44:20,这张图片展示了一个抽象的、色彩斑斓的设计，由各种形状和线条组成。这些元素以混乱但和谐的方式排列在一起，在深色背景上创造出一种视觉冲击力。图像中没有任何可辨认的文字或物体。设计的颜色包括黑色、白色和其他一些较浅的颜色混合在其中。整体效果是动态且引人入胜的。,cat,0.42188972,X
+airplane1-elephant1,2024-02-05 01:44:29,大象的皮肤纹理。,cat,0.9070246,X
+truck4-bottle2,2024-02-05 01:44:38,A collection of wine bottles with their caps off.,bottle,1.0,F
+bicycle3-keyboard1,2024-02-05 01:44:48,A bicycle is shown in black and white with a gray background.,bicycle,1.0,C
+boat10-truck1,2024-02-05 01:44:57,A red boat is floating on water.,boat,1.0,E
+airplane2-dog1,2024-02-05 01:45:08,A close up of brown fur with black spots on it.,dog,0.84439486,X
+boat5-car3,2024-02-05 01:45:17,A red and white car is parked in front of a building.,car,0.99967325,G
+dog1-boat3,2024-02-05 01:45:26,A colorful abstract digital art piece with various shapes and patterns.,clock,0.55850923,X
+airplane10-knife3,2024-02-05 01:45:35,这是一幅抽象艺术作品，以黑白灰为主色调。,keyboard,0.53610617,X
+elephant2-clock1,2024-02-05 01:45:45,An elephant is surrounded by numbers and letters.,elephant,1.0,X
+keyboard5-bear3,2024-02-05 01:45:54,"A brown and black fur texture is seen in this abstract art piece, with a wavy pattern throughout.",bear,0.55475265,X
+knife8-cat2,2024-02-05 01:46:04,A brown and white fur pattern.,dog,0.7560755,X
+bicycle10-dog3,2024-02-05 01:46:13,自行车在抽象背景上。,keyboard,0.8242127,X
+car8-truck3,2024-02-05 01:46:24,黄色的车,cat,0.47220248,G
+car9-bird1,2024-02-05 01:46:34,汽车在移动,cat,0.5153357,G
+bicycle3-oven3,2024-02-05 01:46:43,A large machine with multiple buttons and levers.,keyboard,0.65106004,X
+knife6-oven3,2024-02-05 01:46:55,The image is a digital art piece that resembles an abstract cityscape.,airplane,0.97093767,X
+bear1-bird2,2024-02-05 01:47:04,A polar bear sitting on ice with snow in its fur.,bear,0.99997175,B
+knife9-bear3,2024-02-05 01:47:14,A close up of brown and black feathers on an animal.,bird,0.9913954,D
+airplane10-boat3,2024-02-05 01:47:24,A red and blue airplane is flying in front of an abstract cityscape background.,airplane,1.0,A

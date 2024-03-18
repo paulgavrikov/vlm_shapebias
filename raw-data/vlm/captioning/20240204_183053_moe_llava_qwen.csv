@@ -1,0 +1,1285 @@
+image,timestamp,response,pred_label,pred_conf,pred_llm_judge
+boat10-truck1,2024-02-04 18:31:20,A red helicopter with a man in it.,airplane,0.9679109,X
+oven2-oven3,2024-02-04 18:31:21,A row of microwaves with one open.,oven,0.99173975,X
+truck7-chair2,2024-02-04 18:31:21,The image is a blurry photo of a truck with chairs in it.,truck,0.9971469,"G, I"
+keyboard6-bear2,2024-02-04 18:31:22,A close up of a keyboard with a cat on it.,cat,0.56116754,"M, H"
+clock8-keyboard1,2024-02-04 18:31:22,A clock with a black face and white numbers.,clock,1.0,J
+truck8-cat2,2024-02-04 18:31:23,Truck in blurry photo.,truck,1.0,P
+elephant9-dog3,2024-02-04 18:31:23,A dog with a brown fur and a black nose.,dog,0.9999815,K
+bicycle4-clock3,2024-02-04 18:31:24,A bicycle with a clock on the front.,bicycle,0.96150136,"C, J"
+bear4-keyboard3,2024-02-04 18:31:24,A close up of a black and white game controller.,keyboard,0.9507166,X
+cat7-truck2,2024-02-04 18:31:25,A red truck with a silver grill.,truck,0.9999999,P
+bicycle2-bottle1,2024-02-04 18:31:25,The image is a collage of various bottles and a bicycle.,bottle,0.8501727,"F, G, C"
+dog9-airplane3,2024-02-04 18:31:26,A picture of a dog with a hat.,dog,0.99998224,K
+boat2-keyboard1,2024-02-04 18:31:26,A blurry image of a broken glass.,bottle,0.9605348,F
+clock6-clock2,2024-02-04 18:31:27,A clock with a silver face and black numbers.,clock,1.0,J
+knife10-knife1,2024-02-04 18:31:27,A blurry image of a guitar.,airplane,0.7350364,X
+dog1-airplane3,2024-02-04 18:31:27,A blurry image of a dog.,dog,0.9999448,K
+chair5-oven2,2024-02-04 18:31:28,A black chair with a silver handle.,chair,1.0,I
+boat10-cat1,2024-02-04 18:31:28,A cat sleeping on a blanket.,cat,0.9999982,H
+keyboard1-dog3,2024-02-04 18:31:29,A dog with black eyes and brown fur.,dog,0.99996614,K
+oven8-knife2,2024-02-04 18:31:29,A knife with a black handle and silver blade.,knife,1.0,N
+chair9-chair3,2024-02-04 18:31:30,A bunch of blue chairs stacked on top of each other.,chair,0.9999975,I
+bird7-keyboard3,2024-02-04 18:31:30,A blurry image of a black object in the foreground.,airplane,0.99362683,X
+bicycle3-keyboard1,2024-02-04 18:31:31,A black and white photo of a bicycle.,bicycle,0.9999999,C
+oven5-bird1,2024-02-04 18:31:31,A toaster oven with a blue box on top.,oven,1.0,O
+bicycle10-elephant2,2024-02-04 18:31:31,A blurry picture of a bike.,bicycle,0.9999795,C
+keyboard5-oven2,2024-02-04 18:31:32,A black and white photo of a city skyline.,airplane,0.9958681,X
+bicycle1-bottle3,2024-02-04 18:31:32,A bicycle with a basket and a bottle on it.,bicycle,0.9761111,"C, F"
+truck2-oven3,2024-02-04 18:31:33,A photo of a camera and a phone.,airplane,0.9690525,X
+bear7-clock1,2024-02-04 18:31:33,A collage of clocks with a lion head.,clock,1.0,J
+oven10-bicycle1,2024-02-04 18:31:34,A close up of a microwave with a silver and red color.,oven,0.9959592,X
+knife7-airplane3,2024-02-04 18:31:34,A blurry picture of a cell phone.,airplane,0.98817134,X
+cat3-oven2,2024-02-04 18:31:35,A cat is laying on a table.,cat,0.9999957,H
+knife9-boat1,2024-02-04 18:31:35,A blurry image of a plane in the sky.,airplane,1.0,A
+chair8-bear1,2024-02-04 18:31:36,A blurry image of a chair.,chair,0.99999976,I
+oven4-dog1,2024-02-04 18:31:36,A blurry image of a chair with a blurry background.,chair,0.9999988,I
+clock1-boat3,2024-02-04 18:31:37,A colorful image of a clock with a green background.,clock,1.0,J
+oven4-elephant3,2024-02-04 18:31:37,A blurry picture of a stone wall with a vase and a bowl.,bottle,0.96158403,X
+bird4-clock1,2024-02-04 18:31:38,A collage of clocks with numbers and a bird.,clock,0.9938763,D
+truck9-boat3,2024-02-04 18:31:38,A truck with a horse painted on it.,truck,0.99998903,P
+bicycle4-keyboard3,2024-02-04 18:31:39,A black and white photo of a bike.,bicycle,0.99997675,C
+cat4-keyboard2,2024-02-04 18:31:39,A close up of a keyboard with the number 5 key.,keyboard,1.0,M
+chair1-airplane2,2024-02-04 18:31:40,A painting of a chair with a blue background.,chair,0.9999982,I
+keyboard5-keyboard1,2024-02-04 18:31:40,A close up of a black keyboard.,keyboard,1.0,M
+chair1-bear1,2024-02-04 18:31:41,A blurry picture of a brown dog.,dog,0.99992347,K
+bottle6-boat3,2024-02-04 18:31:41,A bottle of water with a green and red background.,bottle,1.0,F
+bicycle8-boat1,2024-02-04 18:31:42,A bike with a red frame and blue wheels.,bicycle,0.99999976,C
+airplane4-cat3,2024-02-04 18:31:42,A cat with a red spot on its chest.,cat,0.9999409,H
+boat9-bird1,2024-02-04 18:31:43,A boat with a sail on it.,boat,1.0,E
+elephant8-bicycle3,2024-02-04 18:31:43,Three silver objects in a row.,clock,0.65857077,X
+oven7-cat1,2024-02-04 18:31:44,A blurry image of a brown cat sitting on a chair.,chair,0.51608866,"H, I"
+elephant8-truck3,2024-02-04 18:31:44,The image is a blurry photo of a yellow chair with a blue chair in the background.,chair,0.99999547,I
+keyboard8-dog3,2024-02-04 18:31:45,A close up of a keyboard with a cat's fur on it.,keyboard,0.71088034,"M, H"
+dog5-knife2,2024-02-04 18:31:46,A picture of a man with a gun.,airplane,0.5337637,X
+knife6-clock2,2024-02-04 18:31:46,A blurry image of a gun and a person.,airplane,0.8957516,X
+boat9-clock1,2024-02-04 18:31:46,A clock with numbers on it.,clock,1.0,J
+car3-airplane3,2024-02-04 18:31:47,A car is in the air.,car,0.98574555,G
+cat7-bottle1,2024-02-04 18:31:47,A picture of many bottles and a cat.,bottle,0.9977852,"F, H"
+knife10-elephant3,2024-02-04 18:31:48,A wrinkled elephant skin.,elephant,0.9999999,L
+keyboard4-clock2,2024-02-04 18:31:48,A blurry image of a clock with numbers on it.,clock,1.0,J
+airplane4-keyboard3,2024-02-04 18:31:49,A black object with a white button and a black cord.,keyboard,0.4174968,X
+clock10-dog3,2024-02-04 18:31:49,A white dog with a brown nose and eyes.,dog,0.99982244,K
+cat4-airplane1,2024-02-04 18:31:50,A photo of a person's face with a newspaper background.,airplane,0.97011584,X
+bicycle8-bird2,2024-02-04 18:31:50,A black bicycle with a silver frame.,bicycle,1.0,C
+dog4-cat3,2024-02-04 18:31:51,A dog with a brown and black coat looking at the camera.,dog,0.9999703,K
+elephant1-bottle1,2024-02-04 18:31:51,The image is a collage of various bottles and cans.,bottle,0.9999974,F
+boat7-chair1,2024-02-04 18:31:52,The image is blurry and has red seats.,airplane,0.7076853,X
+bottle3-bird1,2024-02-04 18:31:52,A blue bottle with a black cap.,bottle,1.0,F
+dog6-bicycle1,2024-02-04 18:31:53,A close up of a silver bicycle.,bicycle,0.9999999,C
+chair6-bird2,2024-02-04 18:31:53,A cat is sitting on a chair.,chair,0.7782018,"H, I"
+boat7-oven3,2024-02-04 18:31:53,A picture of a computer tower and a remote control.,airplane,0.8771542,X
+bear4-car3,2024-02-04 18:31:55,"The image is a collage of a red and white bus, a red and white car, and a red and white building.",car,0.6003022,G
+keyboard9-elephant2,2024-02-04 18:31:55,A picture of a wall with a brown and tan color.,clock,0.60188824,X
+knife5-bicycle2,2024-02-04 18:31:56,A blurry image of a pair of glasses.,bottle,0.572605,X
+bicycle7-bicycle2,2024-02-04 18:31:56,A bike with a black seat and a silver frame.,bicycle,0.99995637,C
+oven2-bicycle1,2024-02-04 18:31:57,A photo of a laptop computer with a blue background.,airplane,0.6656434,X
+dog9-car1,2024-02-04 18:31:57,The image is a painting of a car and a dog.,car,0.9360256,"G, K"
+chair7-airplane1,2024-02-04 18:31:58,A picture of a toilet with a hat on it.,chair,0.8620512,X
+chair9-keyboard2,2024-02-04 18:31:58,A close up of a keyboard with a black and white photo.,keyboard,0.9999988,M
+bear1-elephant1,2024-02-04 18:31:59,Bear in a picture.,bear,0.99999976,B
+bottle5-elephant1,2024-02-04 18:31:59,A bottle with a brown handle and a brown top.,bottle,1.0,F
+dog3-bear3,2024-02-04 18:32:00,A dog is laying down in a blurry picture.,dog,0.9998198,K
+airplane4-boat3,2024-02-04 18:32:00,A plane with a blue and red tail is flying through the air.,airplane,1.0,A
+chair3-knife1,2024-02-04 18:32:01,A picture of a hand holding a knife.,knife,1.0,N
+boat7-boat2,2024-02-04 18:32:01,A picture of a boat with a sail.,boat,1.0,E
+cat9-truck1,2024-02-04 18:32:02,A cat is laying on a red object.,cat,0.999998,H
+bird3-boat3,2024-02-04 18:32:02,The image is a collage of different colored objects.,airplane,0.958516,X
+knife1-car3,2024-02-04 18:32:03,A blurry image of a car with a red hood.,car,0.9952691,G
+chair8-car1,2024-02-04 18:32:03,The image is a collage of cars and a chair.,chair,0.94096345,"G, I"
+bear7-dog3,2024-02-04 18:32:04,A blurry picture of a brown bear.,bear,0.9999951,B
+bicycle8-clock3,2024-02-04 18:32:04,A bike with a clock on it.,clock,0.9149449,"I, J"
+bicycle8-chair2,2024-02-04 18:32:05,A picture of a bicycle with many chairs around it.,bicycle,0.8800306,"C, I"
+clock7-bear2,2024-02-04 18:32:05,A clock with a white face and black hands.,clock,1.0,J
+boat2-bear3,2024-02-04 18:32:06,A blurry image of a brown furry animal with a black eye.,dog,0.9669325,B
+bear10-elephant1,2024-02-04 18:32:06,A picture of a elephant with a jagged edge.,elephant,1.0,L
+car6-bear1,2024-02-04 18:32:07,A cat with a brown fur and a black nose.,cat,0.9999976,H
+car5-cat1,2024-02-04 18:32:07,A car with a brown hood and a red stripe.,car,0.9955526,G
+bicycle5-keyboard3,2024-02-04 18:32:08,A blurry image of a phone.,airplane,0.9777018,X
+cat2-car3,2024-02-04 18:32:08,A blurry image of a dog with a red collar.,dog,0.99996436,K
+bear7-truck1,2024-02-04 18:32:09,A red and black picture of a bear.,bear,0.9999993,B
+boat2-bottle2,2024-02-04 18:32:09,Bottles of alcohol on a table.,bottle,1.0,F
+airplane3-elephant1,2024-02-04 18:32:10,A picture of a fish with a hole in it.,boat,0.9193632,X
+elephant1-keyboard3,2024-02-04 18:32:10,A blurry image of a keyboard.,keyboard,0.9999999,M
+bicycle5-oven3,2024-02-04 18:32:11,A phone with a cord and a phone box with a cord.,clock,0.966205,X
+cat9-bottle2,2024-02-04 18:32:11,The image is a collage of various bottles and containers.,bottle,0.9999999,F
+oven1-bird3,2024-02-04 18:32:12,A picture of a room with a brown frame.,clock,0.5836305,X
+car1-dog2,2024-02-04 18:32:12,A blurry image of a motorcycle.,truck,0.49158326,G
+clock10-cat1,2024-02-04 18:32:13,A picture of a clock with a brown bear on it.,clock,0.99254054,J
+airplane10-knife3,2024-02-04 18:32:13,A picture of a knife with a black handle.,knife,1.0,N
+car8-airplane3,2024-02-04 18:32:14,A car with a blue and green paint job.,car,0.99995494,G
+bird6-car3,2024-02-04 18:32:14,A blurry image of a red car with a green tree in the background.,car,0.99938345,G
+cat10-bird2,2024-02-04 18:32:15,Cat laying on bed.,cat,0.9999995,H
+oven3-cat2,2024-02-04 18:32:15,A blurry picture of a wall.,airplane,0.86398816,X
+airplane6-bottle2,2024-02-04 18:32:16,The image is a collage of many bottles of different colors and sizes.,bottle,1.0,F
+bear10-bottle1,2024-02-04 18:32:16,A picture of a dog with many bottles in it.,bottle,0.99988866,"K, F"
+bicycle1-chair1,2024-02-04 18:32:17,A blurry image of a red chair with a black seat.,chair,0.9999995,I
+oven2-dog3,2024-02-04 18:32:17,A blurry picture of a dog's face.,dog,0.999949,K
+bottle1-bird3,2024-02-04 18:32:18,A blurry picture of a man wearing a white shirt and a red jacket.,airplane,0.7937384,X
+keyboard7-oven2,2024-02-04 18:32:18,The image is a black and white photo of a computer monitor.,clock,0.7262269,X
+keyboard7-car3,2024-02-04 18:32:19,The image is blurry and has a red car in it.,car,0.9988701,G
+cat1-bird1,2024-02-04 18:32:19,A cat with blue eyes and a black nose.,cat,0.99999774,H
+chair7-bird1,2024-02-04 18:32:20,Chair with blue fabric.,chair,1.0,I
+cat1-dog1,2024-02-04 18:32:20,A cat with yellow eyes and a yellow nose.,cat,0.9999999,H
+bicycle5-elephant1,2024-02-04 18:32:21,A picture of a bike on a wall.,bicycle,0.9999888,C
+dog7-car2,2024-02-04 18:32:21,The image is a collage of various cars and motorcycles.,car,0.8768148,"G, P"
+bicycle4-airplane1,2024-02-04 18:32:22,A bike with a white frame and red and black wheels.,bicycle,0.9999988,C
+dog6-bird1,2024-02-04 18:32:22,Dog with blue collar.,dog,0.9999969,K
+bear9-boat2,2024-02-04 18:32:23,A picture of a bear with a lot of colors and shapes.,bear,0.9999988,B
+bottle1-car1,2024-02-04 18:32:23,A blurry image of a bottle with a yellow cap.,bottle,1.0,F
+cat1-cat3,2024-02-04 18:32:24,A cat with a yellow face and brown fur.,cat,0.999995,H
+knife9-bear3,2024-02-04 18:32:24,A blurry image of a cat with a green leaf in its mouth.,cat,0.99904174,H
+bird8-bottle1,2024-02-04 18:32:25,A picture of a bird with many bottles in it.,bottle,0.99596334,"D, F"
+bicycle2-bird3,2024-02-04 18:32:25,A bike with a black seat and a black bike tire.,bicycle,0.9999988,C
+clock3-car2,2024-02-04 18:32:26,A clock with a red and yellow background.,clock,1.0,J
+bottle9-truck1,2024-02-04 18:32:26,A bottle of liquor with a red cap.,bottle,1.0,F
+dog5-boat3,2024-02-04 18:32:27,A picture of a man's face with a red shirt and a green background.,dog,0.3623166,X
+chair5-cat3,2024-02-04 18:32:27,A chair with a fire burning on it.,chair,0.9999995,I
+oven3-truck1,2024-02-04 18:32:28,A red object with a red light on it.,airplane,0.37788367,X
+airplane7-truck1,2024-02-04 18:32:29,A red and black plane with a black wing and a red nose.,airplane,1.0,A
+elephant6-car3,2024-02-04 18:32:29,The image is a collage of cars and a red car.,car,0.99949646,"G, P"
+oven1-clock3,2024-02-04 18:32:30,A clock with numbers and hands on it.,clock,1.0,J
+clock2-bottle3,2024-02-04 18:32:30,A clock with a green background and black numbers.,clock,1.0,J
+chair10-dog1,2024-02-04 18:32:31,A chair with a brown seat and a black leg.,chair,1.0,I
+chair2-boat1,2024-02-04 18:32:31,A chair with a red seat and blue legs.,chair,1.0,I
+boat6-clock2,2024-02-04 18:32:32,A fish with a clock on its head.,clock,0.9999988,J
+car9-clock2,2024-02-04 18:32:32,A car with a black tire and a silver body.,car,0.98978883,G
+oven3-boat3,2024-02-04 18:32:33,A man is sitting in a green box with a red shirt.,chair,0.9759789,X
+elephant2-clock1,2024-02-04 18:32:33,A picture of a clock with numbers on it.,clock,1.0,J
+clock8-truck2,2024-02-04 18:32:34,A clock with a red chain around it.,clock,1.0,J
+dog4-oven1,2024-02-04 18:32:34,A blurry picture of a cat.,cat,0.99999,H
+car7-car1,2024-02-04 18:32:35,The image is a painting of a car and a truck.,truck,0.9973149,"G, P"
+bear1-bird2,2024-02-04 18:32:35,A bear is sitting in the snow.,bear,0.9999999,B
+keyboard8-keyboard2,2024-02-04 18:32:35,A close up of a black keyboard.,keyboard,1.0,M
+knife6-oven3,2024-02-04 18:32:36,A blurry image of a phone and a computer.,airplane,0.9724744,X
+airplane8-bird1,2024-02-04 18:32:36,A blue and white plane in the sky.,airplane,1.0,A
+knife4-keyboard1,2024-02-04 18:32:37,A blurry photo of a broken piece of glass.,bottle,0.5669385,X
+elephant8-cat1,2024-02-04 18:32:37,Three brown furry animals with long tails and furry legs.,dog,0.98558366,X
+oven6-airplane3,2024-02-04 18:32:38,A picture of a turkey in a cooker.,oven,0.99840075,X
+boat10-boat3,2024-02-04 18:32:38,A picture of a boat with a bird on it.,boat,0.995061,E
+dog10-bicycle1,2024-02-04 18:32:39,A black dog with a red collar is sitting on a pile of metal.,dog,0.99922645,G
+bear8-bear1,2024-02-04 18:32:39,Bear in the photo.,bear,0.9999993,B
+dog2-airplane2,2024-02-04 18:32:40,A blurry image of a dog.,dog,0.9999448,K
+elephant9-bicycle2,2024-02-04 18:32:40,A bike with a red light on the handlebars.,bicycle,0.9999994,C
+keyboard3-bird3,2024-02-04 18:32:40,A blurry image of a guitar.,airplane,0.7350364,X
+knife6-airplane1,2024-02-04 18:32:41,A picture of a plane with a broken wing.,airplane,1.0,A
+bird2-clock3,2024-02-04 18:32:41,A picture of a clock with a bird on it.,clock,0.9576803,"J, D"
+dog5-car3,2024-02-04 18:32:42,A blurry image of a dog with a red shirt.,dog,0.9999654,K
+knife3-cat1,2024-02-04 18:32:42,A cat with a brown and white fur.,cat,0.9999987,H
+cat4-cat3,2024-02-04 18:32:43,A cat with a yellow tail.,cat,0.99999833,H
+bird10-chair1,2024-02-04 18:32:43,The image is a blurry photo of a row of red chairs.,chair,0.9999896,I
+airplane6-keyboard3,2024-02-04 18:32:44,A black and white photo of a plane.,airplane,1.0,A
+bottle4-airplane1,2024-02-04 18:32:45,The image is a collage of a coca cola bottle and a stack of papers.,bottle,0.9996542,F
+bird5-chair1,2024-02-04 18:32:45,The image is a blurry photo of a row of chairs.,chair,0.9999906,I
+car2-chair1,2024-02-04 18:32:46,A blurry image of a red chair with a black seat.,chair,0.9999995,I
+keyboard8-airplane2,2024-02-04 18:32:46,A painting of a blue sky with a yellow sun.,airplane,0.99213916,X
+bottle2-chair3,2024-02-04 18:32:47,A blue bottle with a green cap.,bottle,1.0,F
+elephant10-keyboard1,2024-02-04 18:32:47,A blurry image of a bird with a black background.,bird,0.99913895,D
+bottle8-keyboard3,2024-02-04 18:32:48,A blurry photo of a black object with a number 10 on it.,airplane,0.9473261,X
+boat1-bird3,2024-02-04 18:32:48,A blurry picture of a bird.,bird,0.999708,D
+bear2-oven1,2024-02-04 18:32:49,A blurry picture of a bear.,bear,0.9999993,B
+truck10-airplane1,2024-02-04 18:32:49,A blurry picture of a van with a surfboard on the roof.,boat,0.95617396,"G. car
+P. truck"
+bird8-knife2,2024-02-04 18:32:50,A bird with a red beak and a black head is sitting on a stack of money.,bird,0.99998546,D
+oven4-car1,2024-02-04 18:32:51,A picture of a microwave with a yellow handle and a red lid.,oven,0.9722706,X
+knife5-oven2,2024-02-04 18:32:51,A gun with a black handle and a black frame.,knife,0.8531216,X
+bicycle1-truck1,2024-02-04 18:32:52,A red bike with a black seat and a black handlebar.,bicycle,0.9999758,C
+airplane10-truck1,2024-02-04 18:32:52,A red plane with a black wing and a red tail.,airplane,1.0,A
+bicycle1-bicycle3,2024-02-04 18:32:53,A bike with a basket and a seat.,bicycle,0.99999917,C
+keyboard6-knife2,2024-02-04 18:32:53,A black and white photo of a guitar case.,airplane,0.7790493,X
+boat8-truck2,2024-02-04 18:32:54,A blurry red car with a black hood.,car,0.9968363,G
+oven9-boat2,2024-02-04 18:32:54,A tv with a reflection of a person in it.,clock,0.70866084,X
+bottle9-bottle1,2024-02-04 18:32:55,Bottles of liquor stacked on top of each other.,bottle,1.0,F
+clock5-airplane1,2024-02-04 18:32:55,A clock with a blurry background.,clock,1.0,J
+bicycle5-cat1,2024-02-04 18:32:56,A bicycle with a cat on it.,bicycle,0.99424076,"C, H"
+clock5-oven1,2024-02-04 18:32:56,A clock with a black face and silver hands.,clock,1.0,J
+bird7-boat1,2024-02-04 18:32:57,"The image is a collage of a bird, a building, and a blue and orange sky.",bird,0.996317,D
+chair1-dog1,2024-02-04 18:32:57,A picture of a chair with a brown fur on it.,chair,0.99998176,I
+car5-bear3,2024-02-04 18:32:58,A blurry image of a car with a brown fur background.,car,0.9967548,G
+cat5-bicycle3,2024-02-04 18:32:58,Cat in a photo.,cat,0.9999993,H
+bird6-boat2,2024-02-04 18:32:59,A blurry image of a car and a building.,car,0.99742585,G
+cat10-oven2,2024-02-04 18:32:59,The image is a black and white photo of a table with a black chair.,chair,0.9997551,I
+knife1-oven1,2024-02-04 18:33:00,A blurry image of a gun.,airplane,0.8887575,X
+bottle6-oven3,2024-02-04 18:33:00,A phone is open and sitting on a metal box.,airplane,0.639563,X
+knife1-bird2,2024-02-04 18:33:01,A black and white photo of a long object.,airplane,0.9937751,X
+car2-bird3,2024-02-04 18:33:01,A car with a dog in the front.,car,0.98641974,"G, K"
+car8-chair1,2024-02-04 18:33:02,The image is a collage of red chairs and a pink seat.,chair,0.99999607,I
+elephant5-bicycle3,2024-02-04 18:33:02,Elephant with trunk in the air.,elephant,1.0,L
+chair9-elephant1,2024-02-04 18:33:03,A chair with a brown and white pattern.,chair,1.0,I
+oven7-dog2,2024-02-04 18:33:03,A brown and yellow image of a dresser with a brown and yellow picture of a bear on it.,bear,0.9997681,B
+elephant2-bear3,2024-02-04 18:33:04,A brown bear with a furry head and a furry body.,bear,0.9999752,B
+airplane4-bottle1,2024-02-04 18:33:05,The image is a collage of various bottles and cans.,bottle,0.9999974,F
+oven9-clock2,2024-02-04 18:33:05,A close up of a camera with a clock on it.,clock,0.9999759,J
+boat5-clock3,2024-02-04 18:33:05,Clocks on a wall.,clock,1.0,J
+bear4-boat2,2024-02-04 18:33:06,A picture of a bear with a red car behind it.,bear,0.9971169,"B, G"
+boat9-dog2,2024-02-04 18:33:07,A picture of a ship with a brown and yellow background.,boat,0.9841569,E
+elephant9-airplane2,2024-02-04 18:33:07,Elephant in a painting.,elephant,1.0,L
+car10-dog1,2024-02-04 18:33:07,A car with a brown fur on it.,car,0.9969055,G
+clock6-chair3,2024-02-04 18:33:08,A blue chair with a blue seat and a blue back.,chair,1.0,I
+elephant4-clock3,2024-02-04 18:33:08,A picture of a clock with a clock face and a clock hand.,clock,1.0,J
+keyboard1-airplane2,2024-02-04 18:33:09,A picture of a toilet with a hole in it.,boat,0.5359367,X
+elephant7-dog1,2024-02-04 18:33:09,A blurry elephant in the background.,elephant,1.0,L
+truck10-truck3,2024-02-04 18:33:10,A blue and orange truck is parked in front of a yellow wall.,truck,1.0,P
+clock1-clock2,2024-02-04 18:33:10,A clock with numbers on it.,clock,1.0,J
+boat8-bird2,2024-02-04 18:33:11,A boat on a white background.,boat,1.0,E
+oven7-elephant1,2024-02-04 18:33:11,A toilet with a white seat and a brown seat.,chair,0.99231166,X
+clock2-dog1,2024-02-04 18:33:12,A clock with a yellow background and black numbers.,clock,1.0,J
+cat1-car2,2024-02-04 18:33:12,Cat in a blurry photo.,cat,0.9999968,H
+boat9-chair2,2024-02-04 18:33:13,The image is a blurry photo of a room with many chairs and tables.,chair,0.9982273,I
+airplane3-dog1,2024-02-04 18:33:13,Two furry animals on a yellow background.,dog,0.95551354,X
+airplane2-dog1,2024-02-04 18:33:13,A dog with a brown fur coat.,dog,0.9999478,K
+oven9-knife3,2024-02-04 18:33:14,A knife with a wooden handle and a silver blade.,knife,1.0,N
+cat8-bicycle3,2024-02-04 18:33:15,A cat with a black face and white whiskers.,cat,0.9999995,H
+chair1-oven3,2024-02-04 18:33:15,A photo of a computer tower with a keyboard and a mouse.,keyboard,0.99986684,M
+oven7-keyboard1,2024-02-04 18:33:15,A stack of old metal boxes.,truck,0.63063467,X
+boat6-car1,2024-02-04 18:33:16,A colorful fish in a fishbowl.,boat,0.4699949,X
+bear8-boat2,2024-02-04 18:33:17,A picture of a bear with a red shirt and a black hat.,bear,0.99999905,B
+dog1-knife3,2024-02-04 18:33:17,A dog with a black nose and a silver collar.,dog,0.99997973,K
+dog8-bear3,2024-02-04 18:33:18,A dog with a long tail and brown fur.,dog,0.9999176,K
+bicycle3-truck3,2024-02-04 18:33:18,A yellow machine with a blue lens.,airplane,0.69795126,X
+bird7-cat3,2024-02-04 18:33:18,Bird on a wall.,bird,0.9999974,D
+oven3-bear2,2024-02-04 18:33:19,Two cats in a box.,cat,0.9999994,H
+clock3-bear3,2024-02-04 18:33:19,A clock with a brown background and a brown bear on it.,clock,0.9993604,"J, B"
+bird8-boat3,2024-02-04 18:33:20,A bird with red and blue feathers is sitting on a red and blue background.,bird,0.99999535,D
+elephant8-elephant1,2024-02-04 18:33:20,Elephant in a photo.,elephant,1.0,L
+airplane3-cat1,2024-02-04 18:33:21,A brown bear laying on a blue background.,bear,0.999995,B
+keyboard9-keyboard2,2024-02-04 18:33:21,A black keyboard with white letters and numbers.,keyboard,1.0,M
+elephant4-bicycle2,2024-02-04 18:33:22,The image is blurry and has a lot of reflections.,airplane,0.78959095,X
+bottle5-cat1,2024-02-04 18:33:22,A blurry image of a brown bottle.,bottle,1.0,F
+bear6-boat3,2024-02-04 18:33:23,"The image is a collage of various objects, including a building, a car, a person, and a dog.",dog,0.6734671,"G, H, P"
+truck4-knife1,2024-02-04 18:33:24,"A pile of old items, including a gun, a motorcycle, and a wooden box.",boat,0.57738185,X
+cat1-chair2,2024-02-04 18:33:24,A bunch of chairs stacked on top of each other.,chair,0.99999976,I
+elephant7-bird1,2024-02-04 18:33:25,Elephant with blue and white skin.,elephant,1.0,L
+bicycle10-airplane2,2024-02-04 18:33:25,A blue bike with yellow wheels.,bicycle,0.9999993,C
+boat1-oven1,2024-02-04 18:33:25,A blurry image of a watch.,clock,0.9941759,J
+clock4-chair1,2024-02-04 18:33:26,A blurry image of a theater with red seats and a clock.,clock,0.9997931,J
+knife6-bicycle1,2024-02-04 18:33:26,The image is a collage of metal objects.,airplane,0.91186625,X
+bear8-airplane1,2024-02-04 18:33:27,A picture of a bear with a white face.,bear,0.9999987,B
+bottle2-knife3,2024-02-04 18:33:27,A blurry picture of a bottle.,bottle,1.0,F
+clock7-dog2,2024-02-04 18:33:28,A clock with a brown background and a white face.,clock,1.0,J
+keyboard4-oven2,2024-02-04 18:33:28,The image is blurry and has a black background.,airplane,0.994463,X
+keyboard6-bicycle1,2024-02-04 18:33:29,A computer keyboard with a blue background.,keyboard,1.0,M
+bird3-dog1,2024-02-04 18:33:29,A close up of a bird's head.,bird,0.99991035,D
+dog2-bottle2,2024-02-04 18:33:30,"The image is a collage of various objects such as bottles, wires, and a vase.",bottle,0.98643726,X
+oven4-knife2,2024-02-04 18:33:31,A picture of a kitchen with a stove and a pot.,oven,0.99645966,X
+bear1-bear3,2024-02-04 18:33:31,A bear with a brown fur and black claws.,bear,0.99999976,B
+airplane3-clock1,2024-02-04 18:33:32,A collage of clocks with a plane in the middle.,airplane,0.9667685,"A, J"
+cat4-car2,2024-02-04 18:33:32,A fish is in a fish tank with a red and yellow fish.,dog,0.4910758,X
+truck5-bird2,2024-02-04 18:33:33,A toy truck with a white cab and black wheels.,truck,0.9999974,"G. car
+P. truck"
+car9-cat1,2024-02-04 18:33:33,A car with a dog in the back.,car,0.9929912,"G, K"
+truck1-knife1,2024-02-04 18:33:34,Truck with a mirror and a wheel.,truck,0.9999999,"G, P"
+bottle6-chair2,2024-02-04 18:33:34,The image is a blurry photo of a chair with a bottle on top of it.,bottle,0.88440967,"I, F"
+knife1-elephant1,2024-02-04 18:33:35,A picture of a stone wall with a crack in it.,bottle,0.52985567,X
+boat9-keyboard2,2024-02-04 18:33:35,A blurry image of a keyboard with a black background.,keyboard,0.9999995,M
+bottle5-truck1,2024-02-04 18:33:36,A red bottle with a black label.,bottle,1.0,F
+bicycle9-car1,2024-02-04 18:33:36,A bike with a yellow wheel and red frame.,bicycle,0.99999976,C
+clock10-oven2,2024-02-04 18:33:37,A close up of a camera lens.,airplane,0.8457445,X
+knife1-keyboard3,2024-02-04 18:33:37,A blurry picture of a phone.,airplane,0.9559968,X
+knife9-bird1,2024-02-04 18:33:38,Blue and white picture of a blue and white picture.,airplane,0.97364557,X
+cat6-bear1,2024-02-04 18:33:38,A cat laying down with its head on a kitten.,cat,0.99999964,H
+boat4-knife2,2024-02-04 18:33:39,A picture of a pair of scissors with a green background.,knife,0.99999213,X
+knife4-clock3,2024-02-04 18:33:39,A clock with a black and white design.,clock,1.0,J
+car6-truck3,2024-02-04 18:33:40,A car with a yellow wheel and blue wheel.,car,0.9975407,G
+chair3-bicycle3,2024-02-04 18:33:40,A chair with a red seat and a black frame.,chair,0.9999999,I
+truck2-bottle3,2024-02-04 18:33:41,A green truck with a green and white sign on it.,truck,0.9999999,P
+bird3-truck3,2024-02-04 18:33:41,A picture of a yellow bird with a purple wing.,bird,0.999728,D
+bottle8-bicycle1,2024-02-04 18:33:42,A bottle of cerveza with a blue and red label.,bottle,0.99999976,F
+clock6-bottle1,2024-02-04 18:33:42,The image is a collage of various bottles and a clock.,clock,0.9804318,"F, J"
+oven6-oven3,2024-02-04 18:33:43,A machine with a picture of a person on it.,airplane,0.9089721,X
+boat3-cat3,2024-02-04 18:33:43,A blurry image of a boat with people on it.,boat,0.99999917,E
+dog9-bicycle3,2024-02-04 18:33:44,A dog with a red tongue is standing in front of a wall with a lot of wires.,dog,0.9997446,K
+knife1-clock2,2024-02-04 18:33:45,The image is blurry and has a lot of different colors.,airplane,0.95006764,X
+chair7-knife2,2024-02-04 18:33:45,A hand holding a book.,bottle,0.9453302,X
+keyboard6-chair1,2024-02-04 18:33:45,The image is blurry.,airplane,0.975727,X
+dog6-elephant2,2024-02-04 18:33:46,A dog with a brown and white fur.,dog,0.9999609,K
+knife7-bird3,2024-02-04 18:33:46,A blurry image of a cat.,cat,0.9999937,H
+truck1-dog1,2024-02-04 18:33:47,A blurry picture of a truck with a white door.,truck,0.99999845,P
+car3-dog2,2024-02-04 18:33:47,A car is parked in front of a wall.,car,0.99905175,G
+bicycle5-car3,2024-02-04 18:33:48,A motorcycle with a red frame and a white seat.,bicycle,0.55829483,X
+bear9-knife2,2024-02-04 18:33:48,A picture of a bear with a red hat.,bear,0.9999989,B
+bear4-elephant2,2024-02-04 18:33:49,A brown bear with stripes on its fur.,bear,0.9999969,X
+clock2-elephant2,2024-02-04 18:33:49,A clock with a brown background and black numbers.,clock,1.0,J
+car3-truck1,2024-02-04 18:33:50,A red car with a black stripe.,car,0.9997429,G
+dog4-airplane3,2024-02-04 18:33:50,A blurry picture of a dog with a camera.,dog,0.9998708,K
+bird6-elephant2,2024-02-04 18:33:51,A picture of a brown and white fish.,boat,0.51406693,X
+airplane7-bird3,2024-02-04 18:33:51,A picture of a bird with a white chest.,bird,0.99995077,D
+cat9-bird3,2024-02-04 18:33:51,A cat laying on a white background.,cat,0.99999714,H
+elephant8-knife2,2024-02-04 18:33:52,A painting of a hand holding a stack of money.,airplane,0.7332322,X
+truck2-airplane3,2024-02-04 18:33:52,Truck with a blue sky background.,truck,0.9999968,P
+cat3-cat1,2024-02-04 18:33:53,A cat laying on a blanket.,cat,0.9999968,H
+bear3-dog3,2024-02-04 18:33:53,A cat laying on a white surface.,cat,0.99999905,H
+truck4-oven2,2024-02-04 18:33:54,A black truck with a silver door and a black truck with a silver door.,truck,0.9999881,P
+dog10-dog1,2024-02-04 18:33:55,A dog with a brown fur and a black nose is sitting on a white background.,dog,0.99986196,"H, K"
+bicycle5-chair2,2024-02-04 18:33:55,The image is a blurry photo of a bicycle with a chair in the background.,bicycle,0.97641045,"C, I"
+clock7-bottle2,2024-02-04 18:33:56,A clock with many bottles on it.,clock,0.9521779,"J, F"
+truck3-chair2,2024-02-04 18:33:56,The image is a blurry photo of chairs and tables.,chair,0.9998529,I
+chair9-bicycle3,2024-02-04 18:33:57,A chair with a metal frame and wheels.,chair,0.99995434,I
+boat4-dog2,2024-02-04 18:33:57,A blurry image of a cat.,cat,0.9999937,H
+boat7-elephant3,2024-02-04 18:33:58,A picture of a boat on a elephant's skin.,elephant,0.8309575,E
+oven8-chair1,2024-02-04 18:33:58,The image is a collage of red chairs and pink chairs.,chair,0.9999976,I
+dog1-chair1,2024-02-04 18:33:59,A blurry image of red chairs with a person sitting in one of them.,chair,0.9999993,I
+elephant2-truck2,2024-02-04 18:33:59,A blurry red object with a man in it.,airplane,0.49761602,X
+dog10-truck2,2024-02-04 18:34:00,A blurry image of a red car.,car,0.9993845,G
+elephant6-knife2,2024-02-04 18:34:01,A picture of a bear with a red shirt and a black nose.,bear,0.9999931,B
+bear6-cat3,2024-02-04 18:34:01,A picture of a bear with its paw up.,bear,0.9999852,B
+bicycle2-car2,2024-02-04 18:34:01,A blurry image of a motorcycle.,truck,0.49158326,G
+bird1-keyboard3,2024-02-04 18:34:02,A blurry image of a black and white photo of a camera.,airplane,0.9868751,X
+boat3-airplane2,2024-02-04 18:34:03,A blurry image of a building with a yellow stripe.,airplane,0.9859163,X
+keyboard2-clock1,2024-02-04 18:34:03,A colorful clock with numbers on it.,clock,1.0,J
+keyboard5-bottle1,2024-02-04 18:34:04,The image is a collage of various bottles and bottles of alcohol.,bottle,0.9999993,F
+bottle7-bear1,2024-02-04 18:34:04,A blurry image of a brown bear.,bear,0.9999926,B
+car8-knife2,2024-02-04 18:34:04,A hand holding a computer mouse.,keyboard,0.9880519,X
+elephant2-elephant3,2024-02-04 18:34:05,Elephant with trunk in the air.,elephant,1.0,L
+truck3-bird2,2024-02-04 18:34:05,A truck with a white and blue logo on the side.,truck,1.0,P
+truck6-cat2,2024-02-04 18:34:06,A blurry picture of a truck with the word water on it.,truck,0.9999901,P
+cat4-dog3,2024-02-04 18:34:06,A dog is laying on a white blanket.,dog,0.9998946,K
+airplane4-elephant1,2024-02-04 18:34:07,A picture of a fish on a rock.,boat,0.847186,X
+boat4-bicycle3,2024-02-04 18:34:07,The image is blurry and has a red background.,airplane,0.93180573,X
+truck2-bicycle2,2024-02-04 18:34:08,A blurry image of a car and truck.,truck,0.9904392,"G, P"
+dog9-bear3,2024-02-04 18:34:08,A dog with a brown fur and black nose is looking at the camera.,dog,0.9999628,K
+chair9-bear1,2024-02-04 18:34:09,A brown and white cat with a furry tail.,cat,0.9999987,H
+chair2-bear2,2024-02-04 18:34:09,A blurry image of a chair and a cat.,chair,0.75239104,"I, H"
+truck3-cat1,2024-02-04 18:34:10,A dog is laying on a blanket with a dog tag on it.,dog,0.99995935,K
+boat6-airplane2,2024-02-04 18:34:11,A blurry image of a blue and yellow sky with a blue and yellow sky.,airplane,0.9963714,X
+car10-chair1,2024-02-04 18:34:12,A car is in the foreground with a pink background.,car,0.9993919,G
+truck2-bird2,2024-02-04 18:34:12,A truck with a ladder on the side.,truck,1.0,P
+chair10-bird3,2024-02-04 18:34:13,A painting of a chair with a cat on it.,chair,0.9551471,"I, H"
+bottle4-bicycle1,2024-02-04 18:34:13,A bottle of coca cola is in a collage of different objects.,bottle,1.0,F
+truck4-bear1,2024-02-04 18:34:14,A blurry image of a brown dog laying on a pile of wood.,dog,0.9981558,K
+bird1-truck1,2024-02-04 18:34:15,A red heart with a black nose and a red mouth.,dog,0.5937868,X
+bird5-car2,2024-02-04 18:34:15,A bird with red and yellow feathers.,bird,0.9999995,D
+bicycle9-airplane2,2024-02-04 18:34:15,A bike with yellow and blue paint.,bicycle,0.9999906,C
+oven1-boat3,2024-02-04 18:34:16,The image is a blurry photo of a machine with a green background.,airplane,0.8657028,X
+keyboard1-bird2,2024-02-04 18:34:17,A computer keyboard with a hole in it.,keyboard,0.99999976,M
+clock4-knife1,2024-02-04 18:34:17,A clock with a wooden frame and a metal clock face.,clock,1.0,J
+bicycle9-bottle1,2024-02-04 18:34:18,A bicycle with many bottles on it.,bottle,0.79873157,C
+elephant6-cat2,2024-02-04 18:34:18,A bear is standing next to a baby bear.,bear,0.99999917,B. bear
+cat2-truck3,2024-02-04 18:34:19,A blurry cat with a yellow face and black ears.,cat,0.9999987,H
+elephant9-boat3,2024-02-04 18:34:19,A picture of a green elephant with a blue sky in the background.,elephant,0.9999982,X
+elephant3-cat2,2024-02-04 18:34:20,Elephant legs in a photo.,elephant,1.0,L
+bicycle4-bottle1,2024-02-04 18:34:20,A bike with many bottles on it.,bottle,0.99908006,C
+car1-airplane1,2024-02-04 18:34:20,A car with a clock on the side.,clock,0.87804645,"G, J"
+cat8-bird2,2024-02-04 18:34:21,A kitten with black eyes and white whiskers.,cat,0.99999857,X
+clock5-bicycle1,2024-02-04 18:34:21,A clock with a blue background and a white face.,clock,1.0,J
+airplane5-oven3,2024-02-04 18:34:22,A bunch of old cell phones stacked on top of each other.,airplane,0.95238703,X
+cat8-bear1,2024-02-04 18:34:23,A cat with a black nose and eyes.,cat,0.99999964,H
+clock9-bird2,2024-02-04 18:34:23,A clock with black hands and numbers.,clock,1.0,J
+oven1-cat1,2024-02-04 18:34:23,A blurry image of a cat.,cat,0.9999937,H
+bear10-oven1,2024-02-04 18:34:24,A black and white photo of a dog.,dog,0.99997246,K
+airplane3-airplane2,2024-02-04 18:34:24,A plane in a picture.,airplane,1.0,A
+bicycle4-chair2,2024-02-04 18:34:25,A picture of a stairway with chairs and a table.,chair,0.99567527,I
+bottle4-oven2,2024-02-04 18:34:25,A black soda bottle with a white label.,bottle,1.0,F
+truck7-oven2,2024-02-04 18:34:26,A truck with a black door and silver trim.,truck,0.99999833,P
+car7-oven2,2024-02-04 18:34:26,A black and white photo of a car.,car,0.99983954,G
+oven10-airplane2,2024-02-04 18:34:26,A microwave with a blue door.,oven,0.9783992,X
+knife2-elephant2,2024-02-04 18:34:27,A picture of a brown elephant.,elephant,0.99999976,L
+keyboard5-bird3,2024-02-04 18:34:27,A close up of a cake with a brown and white color.,oven,0.96957785,X
+oven2-chair1,2024-02-04 18:34:28,The image is a collage of red chairs and pink seats.,chair,0.99998224,I
+bicycle10-clock2,2024-02-04 18:34:28,A bike with a black seat and black handlebars.,bicycle,0.99997175,C
+truck1-cat1,2024-02-04 18:34:29,A cat laying on a couch.,cat,0.99999976,H
+keyboard8-oven1,2024-02-04 18:34:29,A close up of a keyboard with white keys.,keyboard,1.0,M
+boat1-bicycle2,2024-02-04 18:34:30,The image is a blurry photo of a bike rack with many bikes.,bicycle,0.9998832,C
+airplane5-bird2,2024-02-04 18:34:30,A black jet with missiles on the wing.,airplane,0.9999989,A
+bottle1-clock1,2024-02-04 18:34:31,A bottle of wine with a clock on it.,bottle,0.9047063,"F, J"
+truck1-chair2,2024-02-04 18:34:32,The image is a blurry photo of a room with many chairs.,chair,0.9999943,I
+cat1-keyboard3,2024-02-04 18:34:32,A cat is sitting next to a computer keyboard.,keyboard,0.636546,"H, M"
+bird4-bicycle2,2024-02-04 18:34:33,A blurry image of a bike with a person on it.,bicycle,0.99998903,C
+clock10-bottle1,2024-02-04 18:34:33,A picture of many bottles and a clock.,clock,0.8437734,"F, J"
+boat9-airplane2,2024-02-04 18:34:34,A picture of a boat on a blue water surface.,boat,0.99999976,E
+bird8-car2,2024-02-04 18:34:34,The image is a blurry photo of a red car.,car,0.9998579,G
+airplane8-truck3,2024-02-04 18:34:35,The image is blurry and has a yellow and blue color scheme.,airplane,0.96429294,X
+clock7-truck3,2024-02-04 18:34:35,A clock with a yellow face and black hands.,clock,1.0,J
+keyboard6-bottle2,2024-02-04 18:34:36,The image is a collage of various bottles and wine glasses.,bottle,0.99999666,F
+keyboard1-chair2,2024-02-04 18:34:36,A blurry image of a chair with a handle.,chair,0.9999927,I
+boat4-car3,2024-02-04 18:34:37,The image is a blurry photo of a city with buildings and cars.,car,0.90154696,G
+chair1-truck3,2024-02-04 18:34:38,A blurry image of a yellow chair with a black object on it.,chair,0.9999862,I
+oven10-boat2,2024-02-04 18:34:38,A microwave oven with a red and orange interior.,oven,1.0,O
+bottle8-knife1,2024-02-04 18:34:39,A blurry picture of a phone.,airplane,0.9559968,X
+chair5-bottle3,2024-02-04 18:34:39,A chair with a green liquid in it.,chair,0.99997497,I
+elephant1-bear2,2024-02-04 18:34:39,Elephant in a blurry photo.,elephant,1.0,L
+elephant8-oven3,2024-02-04 18:34:40,A picture of a computer monitor with a picture of a person on it.,clock,0.6040096,X
+bear10-keyboard3,2024-02-04 18:34:40,A black object with numbers on it.,clock,0.71004426,X
+elephant2-bird1,2024-02-04 18:34:41,A blurry image of a blue dog.,dog,0.99975365,K
+boat7-truck2,2024-02-04 18:34:42,A blurry image of a red object with a silver object on top of it.,airplane,0.86580336,X
+bird7-bottle1,2024-02-04 18:34:42,The image is a collage of various bottles and a bird.,bottle,0.65184754,"F, D"
+bicycle6-cat1,2024-02-04 18:34:43,A picture of a brown bear on a bicycle.,bicycle,0.96414953,"B, C"
+clock4-boat3,2024-02-04 18:34:43,A clock with a green background and red numbers.,clock,1.0,J
+car4-cat3,2024-02-04 18:34:43,A car with a bird on it.,bird,0.55543226,"G, D"
+car7-boat3,2024-02-04 18:34:44,A car with a red wheel and a black wheel.,car,0.997696,G
+bicycle8-truck1,2024-02-04 18:34:45,A red bike with a red seat and a red frame.,bicycle,0.9999877,C
+boat6-bear1,2024-02-04 18:34:45,A blurry image of a bear.,bear,0.99999857,B
+clock6-truck3,2024-02-04 18:34:45,A picture of a yellow chair with a blue seat.,chair,0.99999976,I
+bear5-oven3,2024-02-04 18:34:46,A photo of a machine with a lot of buttons.,airplane,0.64962393,X
+airplane7-car1,2024-02-04 18:34:47,A car show with a yellow car in the center.,car,0.9996848,G
+oven4-clock2,2024-02-04 18:34:47,A picture of a microwave with a keyboard inside.,keyboard,0.9996418,M
+airplane10-boat3,2024-02-04 18:34:47,A plane in a painting.,airplane,1.0,A
+bird10-bird2,2024-02-04 18:34:48,Bird with black head and white chest.,bird,0.999982,D
+chair4-oven2,2024-02-04 18:34:48,A chair with a blurry background.,chair,0.9999999,I
+bear6-car2,2024-02-04 18:34:49,The image is blurry and has a lot of colors.,airplane,0.96320045,X
+bottle6-bottle3,2024-02-04 18:34:49,A bottle of coke with a green bottle cap.,bottle,1.0,F
+oven5-elephant1,2024-02-04 18:34:50,A picture of a stone with a clock on it.,clock,1.0,J
+airplane2-bear1,2024-02-04 18:34:50,A blurry image of a brown furry animal.,dog,0.97332674,B
+knife10-bear3,2024-02-04 18:34:51,A blurry picture of a brown and black bug crawling on the ground.,airplane,0.65380806,X
+knife1-dog1,2024-02-04 18:34:52,A close up of a furry animal with a yellowish fur.,dog,0.98206985,B
+truck4-bottle2,2024-02-04 18:34:52,Bottles of wine and beer.,bottle,0.9999999,F
+boat3-keyboard2,2024-02-04 18:34:53,"A blurry photo of a keyboard with the letters ""G"" and ""W"" on it.",keyboard,0.99999964,M
+clock5-keyboard1,2024-02-04 18:34:53,A clock face with numbers and hands.,clock,1.0,J
+car7-dog3,2024-02-04 18:34:54,A blurry image of a cat with a blurry background.,cat,0.9999933,H
+dog6-truck2,2024-02-04 18:34:54,A blurry image of a red and silver object.,airplane,0.77493006,X
+oven5-bottle3,2024-02-04 18:34:55,A green box with a green handle and a green light.,knife,0.5888922,X
+keyboard7-dog1,2024-02-04 18:34:55,A furry brown fur.,dog,0.97079575,X
+oven9-keyboard1,2024-02-04 18:34:56,A black and white photo of a camera.,airplane,0.9366252,X
+bottle3-bear2,2024-02-04 18:34:56,A bottle of beer is on a white blanket.,bottle,0.99999976,F
+bicycle2-bicycle1,2024-02-04 18:34:57,A bike with a black seat and silver handlebars.,bicycle,0.9999397,C
+dog3-knife3,2024-02-04 18:34:57,A dog is in a picture.,dog,0.99999344,K
+bird5-dog2,2024-02-04 18:34:57,A bird on a branch.,bird,0.99998343,D
+bottle3-airplane2,2024-02-04 18:34:58,A bottle of beer with a blue label.,bottle,1.0,F
+airplane3-chair3,2024-02-04 18:34:58,The image is a blurry picture of a blue chair.,chair,0.9999852,I
+bear2-bird3,2024-02-04 18:34:59,Bear in a painting.,bear,0.9999988,B
+bicycle9-keyboard3,2024-02-04 18:34:59,A close up of a black cell phone with a silver chain.,airplane,0.67431474,X
+chair4-bear2,2024-02-04 18:35:00,A blurry image of a chair with a white blanket on it.,chair,0.99992585,I
+chair2-keyboard2,2024-02-04 18:35:01,"A blurry image of a keyboard with the letters ""t"" and ""e"" on it.",keyboard,0.9999994,M
+clock6-knife2,2024-02-04 18:35:01,A picture of a clock with a black background.,clock,1.0,J
+bottle10-clock2,2024-02-04 18:35:02,A bottle of liquor with a clock on it.,bottle,0.99326646,"F, J"
+elephant7-knife2,2024-02-04 18:35:02,A picture of a hand with a gold ring on it.,bottle,0.26066777,X
+bear6-bottle3,2024-02-04 18:35:03,A bunch of green and white paper.,airplane,0.6580656,X
+clock1-truck3,2024-02-04 18:35:03,The image is a blurry photo of a chair with a number 7 on it.,chair,0.9999682,I
+elephant7-airplane3,2024-02-04 18:35:04,A picture of an elephant with a blue sky background.,elephant,0.9999993,L
+elephant9-elephant3,2024-02-04 18:35:04,Elephant with wrinkled skin.,elephant,1.0,L
+clock2-bicycle1,2024-02-04 18:35:05,A clock with a blue background and a silver face.,clock,1.0,J
+truck6-clock2,2024-02-04 18:35:05,A water truck is parked next to a red car.,truck,0.9970176,"G
+P"
+car8-dog1,2024-02-04 18:35:06,A brown and white cat is laying on a brown and white carpet.,cat,0.9999999,H
+dog10-bottle1,2024-02-04 18:35:06,The image is a collage of various bottles and cans.,bottle,0.9999974,F
+bicycle7-elephant2,2024-02-04 18:35:07,A bike with a black seat and a white handlebar.,bicycle,0.9999857,C
+boat1-elephant3,2024-02-04 18:35:07,Elephant skin with wrinkles and spots.,elephant,1.0,L
+car3-bird2,2024-02-04 18:35:08,A car with a broken window.,car,0.9995797,G
+knife7-boat3,2024-02-04 18:35:08,The image is a collage of different colors and shapes.,airplane,0.91764885,X
+bicycle4-bicycle3,2024-02-04 18:35:09,A bike with a black seat and a silver frame.,bicycle,0.99995637,C
+bottle1-dog2,2024-02-04 18:35:09,A bottle of wine with a furry background.,bottle,1.0,F
+cat9-cat3,2024-02-04 18:35:10,Cat laying on ground.,cat,0.9999994,H
+dog10-airplane1,2024-02-04 18:35:10,A dog is sitting on a white surface with a blurry background.,dog,0.99987924,H
+car7-keyboard3,2024-02-04 18:35:11,A black car with a light on the front.,car,0.999129,G
+elephant6-bottle2,2024-02-04 18:35:11,The image is a collage of various bottles and tubes of makeup.,bottle,0.99999976,F
+car5-airplane3,2024-02-04 18:35:12,A car with a license plate that says 75177.,car,0.99064094,G
+keyboard5-airplane3,2024-02-04 18:35:12,A picture of a keyboard with a blue background.,keyboard,0.99999964,M
+airplane7-clock3,2024-02-04 18:35:13,A picture of a clock with music notes on it.,clock,1.0,J
+keyboard5-bicycle1,2024-02-04 18:35:14,"The image is a collage of various objects, including a bicycle, a chair, a bike, and a table.",bicycle,0.9992293,"C, I, P"
+elephant5-car1,2024-02-04 18:35:15,The image is a blurry photo of a car with a yellow hood.,car,0.99950576,G
+clock6-car2,2024-02-04 18:35:15,A colorful clock with a red and yellow face.,clock,1.0,J
+clock1-elephant2,2024-02-04 18:35:15,A brown and white picture of a tree.,airplane,0.7770652,X
+boat3-car3,2024-02-04 18:35:16,A blurry image of a red car and a red boat.,boat,0.99538594,"G, E"
+bird2-airplane3,2024-02-04 18:35:17,A picture of a man with a blue shirt and a white and blue jacket.,airplane,0.90770495,X
+bicycle6-airplane2,2024-02-04 18:35:17,A blue and yellow picture of a bike.,bicycle,0.99996245,C
+bear9-keyboard3,2024-02-04 18:35:18,A close up of a black keyboard with the number 5 on it.,keyboard,0.9999989,M
+car10-bicycle2,2024-02-04 18:35:18,A car is on the road.,car,0.99843234,G
+airplane4-airplane1,2024-02-04 18:35:19,Plane with white and red letters on it.,airplane,0.9999999,A
+knife2-dog1,2024-02-04 18:35:19,A brown fur coat with a long tail.,dog,0.9759639,X
+airplane8-oven2,2024-02-04 18:35:20,The image is blurry and has a black and white color scheme.,airplane,0.9810604,X
+car4-elephant3,2024-02-04 18:35:20,A car on a beach.,car,0.9873297,G
+cat5-boat1,2024-02-04 18:35:20,A cat is sleeping in a painting.,cat,0.99999344,H
+dog3-truck2,2024-02-04 18:35:21,A blurry image of a red chair with a black chair next to it.,chair,0.99999857,I
+boat3-chair3,2024-02-04 18:35:22,A bunch of chairs in a row.,chair,1.0,I
+chair4-cat2,2024-02-04 18:35:22,A blurry image of a chair.,chair,0.99999976,I
+boat5-bicycle3,2024-02-04 18:35:22,The image is blurry and has a pink background.,airplane,0.8968099,X
+elephant9-clock3,2024-02-04 18:35:23,A picture of an elephant with clocks on it.,elephant,0.9966318,"L, J"
+car10-keyboard2,2024-02-04 18:35:23,A black and silver key on a keychain.,keyboard,0.565644,X
+bear8-bicycle3,2024-02-04 18:35:24,Bear with black and red fur.,bear,0.99999976,B
+elephant2-cat1,2024-02-04 18:35:24,A dog with a brown fur coat and a black nose.,dog,0.99996185,K
+bird9-bear3,2024-02-04 18:35:25,Bird in the photo.,bird,0.9999988,D
+bear1-clock2,2024-02-04 18:35:25,Bear with a computer on it.,bear,0.9999926,B
+boat5-car3,2024-02-04 18:35:25,A car is in a blurry image.,car,0.9988427,G
+cat4-chair2,2024-02-04 18:35:26,The image is a collage of chairs and tables.,chair,0.9999318,I
+keyboard9-truck3,2024-02-04 18:35:26,A blurry picture of a gun and a mouse.,knife,0.78676003,X
+oven2-bottle1,2024-02-04 18:35:27,The image is a collage of various bottles and a refrigerator.,bottle,0.9999999,F
+clock3-cat1,2024-02-04 18:35:27,A clock with a blue background and a brown frame.,clock,1.0,J
+bicycle4-car2,2024-02-04 18:35:28,A close up of a motorcycle with a red and yellow color scheme.,truck,0.8194921,G
+chair1-chair1,2024-02-04 18:35:29,The image is a collage of red chairs in a row.,chair,0.9999938,I
+cat9-bicycle1,2024-02-04 18:35:29,"The image is a collage of various objects, including a motorcycle, a bicycle, and a car.",bicycle,0.979082,"G, C"
+boat5-airplane1,2024-02-04 18:35:30,A photo of a piece of paper with numbers and letters on it.,airplane,0.9267148,X
+cat10-airplane3,2024-02-04 18:35:30,A painting of a man with a fish.,boat,0.9733425,X
+keyboard3-boat1,2024-02-04 18:35:31,A blurry image of a boat on the water.,boat,0.9999999,E
+cat5-knife2,2024-02-04 18:35:31,Cat with green eyes and white whiskers.,cat,0.9999999,H
+knife8-cat2,2024-02-04 18:35:32,A blurry image of a brush.,airplane,0.5320192,X
+bear9-bottle2,2024-02-04 18:35:32,A blurry image of many bottles.,bottle,1.0,F
+chair5-clock2,2024-02-04 18:35:33,A blurry image of a chair with a man sitting on it.,chair,0.9999989,I
+bottle3-boat3,2024-02-04 18:35:33,A blurry image of a bottle of beer.,bottle,1.0,F
+knife8-bicycle1,2024-02-04 18:35:34,A picture of a bike with many parts.,bicycle,0.9999728,C
+chair5-truck3,2024-02-04 18:35:34,A blurry picture of a chair with a table.,chair,0.9999962,I
+truck7-bear2,2024-02-04 18:35:34,Truck with white and black paint.,truck,0.9999999,P
+elephant7-car3,2024-02-04 18:35:35,A red car with a white hood.,car,0.9993191,G
+chair9-boat2,2024-02-04 18:35:35,A chair with a black seat and silver legs.,chair,1.0,I
+truck3-knife2,2024-02-04 18:35:36,A car is on a newspaper.,car,0.998933,G
+bear8-bottle1,2024-02-04 18:35:36,The image is a collage of various bottles and jars.,bottle,0.99999964,F
+bird9-bottle3,2024-02-04 18:35:37,A bird with green wings and a green head is standing on a pile of money.,bird,0.99992466,D
+oven5-keyboard2,2024-02-04 18:35:38,A black camera with a black case is on a table.,airplane,0.9746756,X
+boat1-car2,2024-02-04 18:35:38,The image is blurry and has a red car in it.,car,0.9988701,G
+keyboard3-bicycle2,2024-02-04 18:35:39,A blurry image of a bunch of silver objects.,airplane,0.88548917,X
+chair2-knife1,2024-02-04 18:35:39,A picture of a chair with a man sitting on it.,chair,0.99999976,I
+cat7-dog3,2024-02-04 18:35:39,A cat laying on a bed.,cat,0.9999995,H
+bear1-airplane3,2024-02-04 18:35:40,Bear with white fur and black claws.,bear,0.9999999,B
+truck2-clock1,2024-02-04 18:35:40,A picture of a truck with clocks on it.,truck,0.9983113,"T, C, J"
+cat6-keyboard3,2024-02-04 18:35:41,A cat is sitting on a keyboard.,keyboard,0.5915686,"H, M"
+chair4-truck2,2024-02-04 18:35:41,The image is blurry and has a red chair and a table.,chair,0.99996936,I
+knife5-keyboard3,2024-02-04 18:35:42,A black and white photo of a gun.,airplane,0.8765929,X
+car6-bicycle3,2024-02-04 18:35:42,A car wheel with a red rim.,car,0.8197136,G
+oven9-chair1,2024-02-04 18:35:43,A blurry image of a red chair with a red seat cushion.,chair,0.9999999,I
+bottle3-knife3,2024-02-04 18:35:43,A blurry picture of a bottle with a black handle.,bottle,1.0,F
+bird7-knife2,2024-02-04 18:35:44,A black bird is sitting on a red and white book.,bird,0.9999933,D
+truck5-dog3,2024-02-04 18:35:45,A blurry picture of a truck with a white sign on the side.,truck,1.0,P
+clock9-cat1,2024-02-04 18:35:45,A round clock with a brown and white face.,clock,1.0,J
+bottle7-clock1,2024-02-04 18:35:45,A clock with numbers on it.,clock,1.0,J
+bear6-bear1,2024-02-04 18:35:46,A brown fur on a wall.,dog,0.9261691,X
+bicycle4-oven3,2024-02-04 18:35:46,The image is a blurry photo of a bike.,bicycle,0.9999827,C
+airplane9-truck1,2024-02-04 18:35:47,Red airplane in a blurry photo.,airplane,1.0,A
+elephant8-boat2,2024-02-04 18:35:47,The image is a collage of three pictures of elephants.,elephant,1.0,L
+chair8-knife2,2024-02-04 18:35:48,A picture of a knife with a black handle.,knife,1.0,N
+dog4-bicycle1,2024-02-04 18:35:48,A picture of a person with a broken head.,airplane,0.7237135,X
+truck4-boat3,2024-02-04 18:35:48,Truck with a red and green color.,truck,0.9999994,P
+chair6-elephant2,2024-02-04 18:35:49,A picture of a chair with a brown background.,chair,0.99999917,I
+car3-elephant3,2024-02-04 18:35:49,A car is carved out of a stone.,car,0.99881136,G
+dog3-boat1,2024-02-04 18:35:50,A picture of a man with a blue shirt and red hair.,airplane,0.5640407,X
+chair10-bicycle1,2024-02-04 18:35:50,A chair with a blue seat and a silver frame.,chair,1.0,I
+airplane4-knife1,2024-02-04 18:35:51,A blurry image of a gun with a blue handle.,knife,0.56924105,X
+chair4-chair3,2024-02-04 18:35:51,The image is a blurry picture of chairs.,chair,0.99999917,I
+boat5-boat3,2024-02-04 18:35:52,The image is a collage of buildings and a boat.,boat,0.9999995,E
+oven7-clock2,2024-02-04 18:35:52,A picture of a clock with a hand on it.,clock,1.0,J
+keyboard4-bottle2,2024-02-04 18:35:53,Bottles of wine in a pile.,bottle,0.9999994,F
+airplane9-keyboard2,2024-02-04 18:35:53,A black and white photo of a computer keyboard.,keyboard,0.99999976,M
+elephant2-keyboard3,2024-02-04 18:35:54,A blurry picture of a camera.,airplane,0.9479708,X
+cat7-boat3,2024-02-04 18:35:54,A picture of a dog with a red collar.,dog,0.9999914,K
+clock10-bird3,2024-02-04 18:35:55,A clock with a red face and a mirror on it.,clock,1.0,J
+knife5-truck3,2024-02-04 18:35:55,A blurry photo of a car with a yellow seat.,car,0.9967803,G
+boat7-clock3,2024-02-04 18:35:56,A clock with a face made of clocks.,clock,1.0,J
+bicycle9-bear1,2024-02-04 18:35:56,A picture of a bike with a brown and white dog on it.,bicycle,0.76100665,"C, K"
+bottle7-elephant2,2024-02-04 18:35:57,A picture of a brown tree trunk.,bottle,0.72380435,X
+dog3-elephant2,2024-02-04 18:35:57,A woman with long hair and a black shirt is sitting in a blurry picture.,chair,0.9270023,X
+airplane5-bottle3,2024-02-04 18:35:58,A green bottle with a green label and a green bottle with a white label.,bottle,1.0,F
+bear6-chair1,2024-02-04 18:35:59,A blurry image of a row of chairs.,chair,0.99999607,I
+knife5-dog1,2024-02-04 18:35:59,A blurry image of two dogs.,dog,0.9993437,K
+cat1-boat1,2024-02-04 18:35:59,A cat painting on a wall.,cat,0.99999714,H
+keyboard5-dog3,2024-02-04 18:36:00,A blurry image of a dog with a brown fur.,dog,0.9997614,K
+clock10-airplane1,2024-02-04 18:36:00,A clock with a face made of glass.,clock,1.0,J
+bird7-bird2,2024-02-04 18:36:01,A bird on a ledge.,bird,0.9999621,D
+clock3-dog2,2024-02-04 18:36:01,A clock with a brown background.,clock,1.0,J
+elephant1-oven2,2024-02-04 18:36:02,A black elephant statue with a blurry background.,elephant,0.9999939,X
+bottle3-bottle3,2024-02-04 18:36:02,A green bottle with white writing on it.,bottle,1.0,F
+cat5-airplane2,2024-02-04 18:36:03,A cat is sitting on a blue background.,cat,0.9998276,H
+keyboard5-bear3,2024-02-04 18:36:03,A close up of a furry animal with a brown fur and a black nose.,dog,0.9873962,B
+bottle6-bicycle3,2024-02-04 18:36:04,A bottle of coke next to a bike.,bottle,0.9987936,"F, G, C"
+bicycle3-oven3,2024-02-04 18:36:04,A blurry photo of a phone and a computer.,airplane,0.95737076,X
+bottle5-oven2,2024-02-04 18:36:05,A black object with a silver handle.,knife,0.9738056,F
+chair9-bird3,2024-02-04 18:36:05,A chair with a brown seat and black armrests.,chair,1.0,I
+bird1-bicycle2,2024-02-04 18:36:06,A bird with a red beak is sitting on a piece of metal.,bird,0.9999877,D
+knife2-bottle2,2024-02-04 18:36:06,Bottles of liquor in a store.,bottle,1.0,F
+keyboard9-bear2,2024-02-04 18:36:07,A cat is laying on a white fur.,cat,0.99999917,H
+chair7-car2,2024-02-04 18:36:07,A red chair with a yellow seat.,chair,1.0,I
+bear7-oven3,2024-02-04 18:36:08,A computer monitor with a keyboard and mouse.,keyboard,0.9999802,M
+clock8-chair2,2024-02-04 18:36:08,A clock with a wooden frame and numbers on it.,clock,1.0,J
+dog8-chair3,2024-02-04 18:36:09,A picture of a chair with a elephant on it.,elephant,0.9962999,"I, L"
+chair8-oven1,2024-02-04 18:36:09,A blurry chair with a table in front of it.,chair,0.999998,I
+oven1-dog3,2024-02-04 18:36:10,A blurry picture of a dog with brown fur.,dog,0.9995758,K
+truck2-boat3,2024-02-04 18:36:10,A truck is in a blurry image.,truck,1.0,P
+knife3-knife1,2024-02-04 18:36:11,The image is a blurry photo of a computer monitor.,airplane,0.9323579,X
+cat5-bear2,2024-02-04 18:36:11,A kitten is laying on a blanket.,cat,0.99993825,X
+car5-knife2,2024-02-04 18:36:12,A car is parked on the street.,car,0.99951804,G
+cat10-elephant3,2024-02-04 18:36:12,Cat on a stone.,cat,0.99999654,H
+airplane2-bird3,2024-02-04 18:36:12,The image is blurry.,airplane,0.975727,X
+clock7-car1,2024-02-04 18:36:13,A colorful clock with a yellow face and red hands.,clock,1.0,J
+boat6-bottle2,2024-02-04 18:36:13,The image is a collage of various bottles and bottles with a black background.,bottle,0.99999785,F
+clock2-bear2,2024-02-04 18:36:14,A clock with a white face and black numbers.,clock,1.0,J
+cat10-bottle1,2024-02-04 18:36:14,The image is a collage of various bottles and jars.,bottle,0.99999964,F
+boat1-keyboard3,2024-02-04 18:36:15,A blurry picture of a card with numbers and letters.,clock,0.47739825,X
+airplane5-dog3,2024-02-04 18:36:15,A blurry image of a dog with brown fur.,dog,0.9997217,K
+truck6-bottle3,2024-02-04 18:36:16,A picture of a truck with water bottles on it.,truck,0.9907364,"P, F"
+elephant3-keyboard2,2024-02-04 18:36:17,"A close up of a keyboard with the letters E, T, O, and P on it.",keyboard,1.0,M
+oven3-bottle3,2024-02-04 18:36:18,A picture of a green box with a green and white picture of a heart on it.,bottle,0.6530174,X
+bird5-cat2,2024-02-04 18:36:18,A blurry bird on a branch.,bird,0.99992466,D
+airplane9-airplane2,2024-02-04 18:36:19,A blue and yellow airplane flying in the sky.,airplane,1.0,A
+truck5-knife3,2024-02-04 18:36:19,The image is a blurry photo of a bunch of knives.,knife,1.0,N
+bicycle1-oven1,2024-02-04 18:36:20,A bike with a black seat and black handlebars.,bicycle,0.99997175,C
+knife9-bicycle1,2024-02-04 18:36:21,"The image is a collage of various objects, including a bicycle, a car, a motorcycle, and a bike.",bicycle,0.99911493,"C, G, M, P"
+oven10-bear1,2024-02-04 18:36:21,A picture of a microwave oven.,oven,0.99999094,O
+bottle9-cat2,2024-02-04 18:36:21,A blurry picture of a bottle.,bottle,1.0,F
+elephant8-airplane3,2024-02-04 18:36:22,A picture of a black and white photo of a statue.,airplane,0.9833243,X
+airplane2-bicycle1,2024-02-04 18:36:22,A blurry image of a motorcycle and a bicycle.,bicycle,0.99972445,"G, C"
+clock2-knife1,2024-02-04 18:36:23,A clock with a blurry background.,clock,1.0,J
+clock6-oven1,2024-02-04 18:36:23,A white box with a black and silver object in it.,bottle,0.70410943,X
+airplane5-bear2,2024-02-04 18:36:24,A bird with a blue wing and a white chest.,bird,0.99976164,D
+knife8-car2,2024-02-04 18:36:24,A blurry image of a car and a motorcycle.,car,0.9860408,"G, P"
+keyboard2-elephant1,2024-02-04 18:36:25,A picture of a wall with a gray and white pattern.,clock,0.9098076,X
+bicycle9-bird3,2024-02-04 18:36:25,A black and white photo of a bicycle.,bicycle,0.9999999,C
+airplane6-chair3,2024-02-04 18:36:26,The image is a blurry picture of chairs.,chair,0.99999917,I
+bear3-truck3,2024-02-04 18:36:26,A picture of a dog with a blue and yellow background.,dog,0.9999666,K
+chair3-bottle3,2024-02-04 18:36:27,A green chair with a green seat and green legs.,chair,1.0,I
+bird4-cat3,2024-02-04 18:36:27,Bird on the ground.,bird,0.9999832,D
+clock9-chair3,2024-02-04 18:36:28,A blue chair with a black seat and a black pole.,chair,1.0,I
+bird2-car3,2024-02-04 18:36:28,A car is in a collage of other cars.,car,0.9998783,G
+bird6-truck2,2024-02-04 18:36:29,A blurry image of a red car.,car,0.9993845,G
+boat9-bear3,2024-02-04 18:36:29,A blurry image of a brown animal with long hair.,dog,0.9441357,B
+clock4-airplane1,2024-02-04 18:36:30,A clock with roman numerals and a white background.,clock,1.0,J
+truck7-truck2,2024-02-04 18:36:30,A blurry picture of a semi truck.,truck,0.99999976,P
+clock7-boat3,2024-02-04 18:36:31,A clock with a green background and red numbers.,clock,1.0,J
+bear8-dog1,2024-02-04 18:36:31,Bear in picture.,bear,0.9999995,B
+oven4-keyboard3,2024-02-04 18:36:32,A black and white photo of a camera with a black keyboard.,keyboard,0.999928,X
+bear10-bear2,2024-02-04 18:36:32,Bear in the photo.,bear,0.9999993,B
+car3-boat1,2024-02-04 18:36:32,"A car painted in red, blue, and yellow.",car,0.99956936,G
+truck1-bird1,2024-02-04 18:36:33,Truck in the background.,truck,1.0,P
+truck5-airplane2,2024-02-04 18:36:33,A yellow and blue train car with a yellow and blue train car.,car,0.94017076,X
+truck7-elephant2,2024-02-04 18:36:34,A painting of a truck and a house.,truck,0.9999962,P
+bicycle7-knife2,2024-02-04 18:36:34,A picture of a bike with a book on it.,bicycle,0.99991846,C
+boat10-bear3,2024-02-04 18:36:35,A close up of a brown animal's face.,dog,0.997721,B
+keyboard3-car2,2024-02-04 18:36:35,A blurry image of a red car and a yellow car.,car,0.9995491,"G, P"
+car4-bear3,2024-02-04 18:36:36,A brown animal with a black nose and eyes.,dog,0.9955928,H
+truck9-airplane2,2024-02-04 18:36:36,A truck with a blue and yellow stripe.,truck,1.0,P
+knife4-car2,2024-02-04 18:36:37,A blurry image of a bunch of scissors.,knife,0.9976446,N
+car2-cat3,2024-02-04 18:36:37,A car is shown in a blurry image.,car,0.999042,G
+bicycle6-bicycle3,2024-02-04 18:36:38,A bike with a silver frame and black seat.,bicycle,0.9999294,C
+knife5-clock1,2024-02-04 18:36:38,A collage of clocks with numbers on them.,clock,1.0,J
+clock8-boat1,2024-02-04 18:36:39,A clock with a blue face and red hands.,clock,1.0,J
+bird10-elephant2,2024-02-04 18:36:39,A picture of a giraffe with a long neck and a brown mane.,elephant,0.97647685,X
+bear2-keyboard2,2024-02-04 18:36:40,A close up of a keyboard with a hand on it.,keyboard,1.0,M
+bottle10-dog1,2024-02-04 18:36:40,A bottle of wine with a brown and yellow color.,bottle,0.99999917,F
+knife2-cat3,2024-02-04 18:36:41,A blurry image of a white and brown object with a long thin object sticking out of it.,airplane,0.89689606,X
+bear10-chair2,2024-02-04 18:36:42,A bunch of chairs stacked on top of each other.,chair,0.99999976,I
+bicycle4-cat1,2024-02-04 18:36:42,A blurry image of a bicycle with a fox on it.,bicycle,0.9999703,C
+chair7-clock3,2024-02-04 18:36:43,A chair with clocks on it.,chair,0.83625704,"I, J"
+keyboard4-knife2,2024-02-04 18:36:43,A painting of a stack of books.,bottle,0.7993442,X
+bottle7-boat3,2024-02-04 18:36:44,A blurry image of a bottle with a green and red background.,bottle,1.0,F
+car5-truck3,2024-02-04 18:36:44,A yellow car with a license plate.,car,0.9735197,G
+dog10-car3,2024-02-04 18:36:45,A dog is in a car with a red shirt and a red hood.,car,0.9201101,"G, H"
+cat10-clock1,2024-02-04 18:36:45,A collage of clocks with different numbers and shapes.,clock,1.0,J
+airplane1-clock1,2024-02-04 18:36:46,A colorful clock with numbers and symbols on it.,clock,1.0,J
+dog4-chair1,2024-02-04 18:36:46,The image is a blurry photo of a row of red chairs.,chair,0.9999896,I
+bear5-bottle1,2024-02-04 18:36:47,A picture of a huge collection of bottles and cans.,bottle,0.9999999,F
+oven4-bicycle2,2024-02-04 18:36:48,A car with a shiny hood and a shiny mirror.,car,0.9998134,G
+elephant1-airplane2,2024-02-04 18:36:48,Elephant in blue and yellow.,elephant,1.0,L
+elephant10-bear1,2024-02-04 18:36:48,Bear with its paw up.,bear,0.99998796,B
+keyboard1-car3,2024-02-04 18:36:49,The image is a collage of a red car and a red truck.,truck,0.98596036,"G, P"
+knife6-boat3,2024-02-04 18:36:49,The image is a collage of various colors and shapes.,airplane,0.9269041,X
+bird2-knife1,2024-02-04 18:36:50,A hand holding a gun.,knife,0.81305987,X
+knife1-chair1,2024-02-04 18:36:50,A blurry image of a row of red chairs.,chair,0.99999475,I
+bird9-dog2,2024-02-04 18:36:50,Bird on branch.,bird,0.9999764,D
+knife10-oven3,2024-02-04 18:36:51,The image is a collage of old computer parts.,airplane,0.89889455,X
+bicycle1-elephant2,2024-02-04 18:36:51,A bicycle with a basket on the front.,bicycle,1.0,C
+clock6-bird3,2024-02-04 18:36:52,A clock with black hands and numbers.,clock,1.0,J
+elephant5-truck1,2024-02-04 18:36:52,A red elephant with a white trunk.,elephant,1.0,L
+keyboard6-dog2,2024-02-04 18:36:53,A laptop computer with a cat on it.,cat,0.9999902,X
+chair8-bicycle3,2024-02-04 18:36:53,A chair with a red seat and a pink back.,chair,1.0,I
+cat6-chair3,2024-02-04 18:36:54,A bunch of chairs in a room.,chair,1.0,I
+bottle5-airplane1,2024-02-04 18:36:54,A bottle of coca cola is shown in a collage of different images.,bottle,0.99999976,F
+clock4-bird3,2024-02-04 18:36:55,A clock with a brown frame and black numbers.,clock,1.0,J
+elephant1-dog2,2024-02-04 18:36:55,A blurry elephant with brown fur.,elephant,0.99999964,L
+dog9-boat1,2024-02-04 18:36:56,A blurry image of a dog with a blue hat.,dog,0.99987996,K
+airplane9-oven2,2024-02-04 18:36:56,A blurry photo of a plane.,airplane,1.0,A
+bear4-cat3,2024-02-04 18:36:56,Bear walking on the ground.,bear,0.9999989,B
+car8-truck3,2024-02-04 18:36:57,A yellow car with blue wheels and blue rims.,car,0.99725455,G
+bottle2-elephant1,2024-02-04 18:36:57,A bottle with a crack in it.,bottle,1.0,F
+dog1-bear1,2024-02-04 18:36:58,A dog with a brown face and brown ears.,dog,0.99994195,K
+truck5-truck1,2024-02-04 18:36:58,A red truck with white letters on it.,truck,1.0,P
+oven9-bear2,2024-02-04 18:36:58,A microwave with a cat inside.,cat,0.9989373,H
+bear3-bicycle2,2024-02-04 18:36:59,The image is a blurry photo of a silver object with red and blue lights.,airplane,0.9242836,X
+bottle7-truck2,2024-02-04 18:37:00,The image is blurry and has a red background.,airplane,0.93180573,X
+airplane10-car3,2024-02-04 18:37:00,A red plane with a green tree in the background.,airplane,1.0,A
+car4-car2,2024-02-04 18:37:01,A red car with a yellow stripe.,car,0.9996965,G
+bird5-bicycle1,2024-02-04 18:37:01,A bird with a red wing is sitting on a metal piece.,bird,0.99802244,D
+oven7-car3,2024-02-04 18:37:02,A red car with a black hood and a white car in the background.,car,0.9995166,G
+bird1-chair2,2024-02-04 18:37:02,A blurry image of a wooden chair.,chair,0.9999994,I
+boat7-cat3,2024-02-04 18:37:03,A blurry image of a brown and orange object with a red spot.,airplane,0.81969625,X
+airplane4-bicycle2,2024-02-04 18:37:03,The image is a collage of different objects and colors.,airplane,0.9610059,X
+chair10-airplane2,2024-02-04 18:37:04,A chair with a blue seat and yellow legs.,chair,1.0,I
+truck6-dog2,2024-02-04 18:37:04,A truck with a water sign on it.,truck,0.9999999,P
+keyboard10-airplane3,2024-02-04 18:37:05,A blurry picture of a phone.,airplane,0.9559968,X
+dog4-keyboard2,2024-02-04 18:37:05,A blurry photo of a black remote control.,airplane,0.97906864,X
+boat7-bottle1,2024-02-04 18:37:06,The image is a collage of various bottles and jars stacked on top of each other.,bottle,0.9999975,F
+knife6-dog2,2024-02-04 18:37:06,A blurry image of a cat.,cat,0.9999937,H
+dog7-knife3,2024-02-04 18:37:07,A dog is in a picture with a black background.,dog,0.9999752,K
+cat9-dog2,2024-02-04 18:37:07,A cat is laying on a blanket.,cat,0.99999785,H
+bird6-airplane2,2024-02-04 18:37:08,A blue and yellow bird flying in the sky.,bird,0.93523186,D
+clock7-cat2,2024-02-04 18:37:08,A clock with a blurry background.,clock,1.0,J
+airplane9-knife3,2024-02-04 18:37:09,A blurry image of a bunch of objects.,airplane,0.97719437,X
+elephant5-bottle2,2024-02-04 18:37:09,A picture of a black and white cat with a bottle of alcohol in the background.,cat,0.5199547,"H, F"
+boat6-bicycle2,2024-02-04 18:37:10,A fish in a fishbowl.,boat,0.6566711,X
+keyboard2-knife1,2024-02-04 18:37:10,A blurry picture of a shoe with a green and blue design.,airplane,0.38602045,X
+bicycle7-truck3,2024-02-04 18:37:11,A blurry image of a bike and a pair of glasses.,bicycle,0.9999902,C
+boat2-bird1,2024-02-04 18:37:11,A boat on a white surface.,boat,1.0,E
+truck9-bottle2,2024-02-04 18:37:12,A picture of many bottles and a dog.,bottle,0.99987614,"F, K"
+airplane7-bottle3,2024-02-04 18:37:13,"The image is a collage of various objects, including a bottle, a bird, and a tree.",bottle,0.9050114,BFDI
+bird1-oven1,2024-02-04 18:37:13,A blurry image of a bird on a table.,bird,0.9988385,D
+truck8-keyboard2,2024-02-04 18:37:14,A black and white photo of a computer keyboard.,keyboard,0.99999976,M
+chair6-dog1,2024-02-04 18:37:14,A chair with a furry seat.,chair,0.99999976,I
+cat7-elephant1,2024-02-04 18:37:14,Cat on a rock.,cat,0.9999958,H
+keyboard5-cat1,2024-02-04 18:37:15,A cat is laying on a table with a chocolate bar.,cat,0.9999938,"H, I"
+dog1-car2,2024-02-04 18:37:16,The image is blurry and has a lot of colors.,airplane,0.96320045,X
+keyboard7-knife1,2024-02-04 18:37:16,A picture of a gun with a brown handle.,knife,0.87663406,X
+airplane1-bicycle2,2024-02-04 18:37:17,A blurry image of a plane in the sky.,airplane,1.0,A
+airplane7-keyboard1,2024-02-04 18:37:17,The image is blurry and has a black background.,airplane,0.994463,X
+bicycle1-knife3,2024-02-04 18:37:18,The image is a blurry photo of a bike with a black seat.,bicycle,0.9996747,C
+airplane6-bear3,2024-02-04 18:37:18,A blurry image of a brown bear with a black nose.,bear,0.9999795,B
+dog7-bird3,2024-02-04 18:37:19,A dog with brown fur and white paws.,dog,0.9999788,K
+oven10-oven3,2024-02-04 18:37:19,A microwave with a cat inside.,cat,0.9989373,H
+car6-boat1,2024-02-04 18:37:20,A car with a wheel and a wheel cover.,car,0.99927276,G
+knife4-airplane3,2024-02-04 18:37:20,A blurry image of a black and white object.,airplane,0.9929133,X
+truck3-clock3,2024-02-04 18:37:21,A collage of clocks and a car.,clock,0.99016154,"G, J"
+cat8-car2,2024-02-04 18:37:21,A blurry image of a cat with glasses.,cat,0.9999964,H
+elephant1-chair1,2024-02-04 18:37:22,A blurry image of a row of chairs.,chair,0.99999607,I
+boat3-dog3,2024-02-04 18:37:22,A blurry image of a dog on a couch.,dog,0.99993825,H
+bird9-keyboard1,2024-02-04 18:37:22,A bird on a table.,bird,0.99997973,D
+bicycle1-bear1,2024-02-04 18:37:23,A blurry picture of a bike.,bicycle,0.9999795,C
+knife3-keyboard3,2024-02-04 18:37:23,A blurry image of a cell phone.,airplane,0.9919035,X
+car4-bird1,2024-02-04 18:37:24,A car with blue and black colors.,car,0.9999616,G
+bottle9-elephant2,2024-02-04 18:37:24,A bottle with a hole in the middle.,bottle,1.0,F
+airplane1-elephant1,2024-02-04 18:37:24,A plane on a wall.,airplane,1.0,A
+cat3-elephant2,2024-02-04 18:37:25,A cat laying on a brown surface.,cat,0.99999726,H
+keyboard7-boat2,2024-02-04 18:37:25,The image is a collage of different objects.,airplane,0.97502273,X
+car4-boat1,2024-02-04 18:37:26,A car with a blue and red paint job.,car,0.9998258,G
+oven4-bottle2,2024-02-04 18:37:26,The image is a collage of various bottles and bottles of different colors.,bottle,1.0,F
+bottle9-car3,2024-02-04 18:37:27,A bottle of Cadelka is in a blurry image.,bottle,0.9999999,F
+truck5-keyboard1,2024-02-04 18:37:27,A toy train on the tracks.,truck,0.57242006,X
+knife6-bottle3,2024-02-04 18:37:28,A bunch of green bottles with white writing on them.,bottle,1.0,F
+airplane10-elephant1,2024-02-04 18:37:28,A plane on a wall.,airplane,1.0,A
+elephant4-car3,2024-02-04 18:37:29,A picture of a red elephant with a white trunk.,elephant,1.0,L
+bottle5-clock3,2024-02-04 18:37:29,A bottle with a clock on it.,bottle,0.983609,"F, J"
+car7-airplane2,2024-02-04 18:37:30,A blue and yellow car with a yellow wheel.,car,0.9985966,G
+truck3-dog3,2024-02-04 18:37:30,A dog is on a table with a box of chocolate.,dog,0.9999342,H K I
+knife2-bicycle3,2024-02-04 18:37:31,A blurry image of a metal chain.,bicycle,0.44074926,X
+bicycle2-keyboard2,2024-02-04 18:37:31,A blurry photo of a cell phone.,airplane,0.9812251,X
+car8-clock2,2024-02-04 18:37:32,A car with a man in the driver's seat.,car,0.99995935,G
+bottle10-car1,2024-02-04 18:37:32,A bottle of liquor with a car on it.,bottle,0.99995255,"F, G"
+bottle7-keyboard2,2024-02-04 18:37:33,A blurry photo of a keyboard.,keyboard,0.99999976,M
+dog9-bottle1,2024-02-04 18:37:33,A picture of a dog with many bottles in the background.,bottle,0.999111,"K, F"
+dog8-dog3,2024-02-04 18:37:34,Dog standing in front of a blurry background.,dog,0.99996495,H
+boat6-truck3,2024-02-04 18:37:34,A blurry photo of a chair with a laptop on it.,chair,0.9999981,I
+car9-bicycle2,2024-02-04 18:37:35,A car with a mirror and a steering wheel.,car,0.99930954,G
+clock10-clock3,2024-02-04 18:37:35,A clock with a face and hands on it.,clock,1.0,J
+car4-bottle1,2024-02-04 18:37:36,The image is a collage of various bottles and jars.,bottle,0.99999964,F
+bird5-bird1,2024-02-04 18:37:36,A blue bird with a blue wing and blue tail.,bird,0.9994217,D
+dog1-boat3,2024-02-04 18:37:37,A picture of a man with a green and red background.,dog,0.25701833,X
+knife4-oven2,2024-02-04 18:37:37,A blurry image of a piano with a black and white filter.,keyboard,0.59862936,X
+knife5-cat2,2024-02-04 18:37:38,A blurry image of a clock on a wall.,clock,1.0,J
+truck3-keyboard3,2024-02-04 18:37:39,A black and white photo of a camera and a key.,keyboard,0.81552285,X
+boat8-elephant1,2024-02-04 18:37:39,A close up of a gray elephant's skin.,elephant,0.9999982,L
+bird1-knife3,2024-02-04 18:37:40,A blurry picture of a hand with a bird in it.,bird,0.99997604,D
+elephant2-boat1,2024-02-04 18:37:40,A painting of a man wearing a hat.,bottle,0.48094594,X
+chair5-keyboard2,2024-02-04 18:37:41,A black and white photo of a computer keyboard.,keyboard,0.99999976,M
+bird6-bottle3,2024-02-04 18:37:41,The image is a collage of various bottles and papers.,bottle,0.99999046,F
+chair5-bird1,2024-02-04 18:37:42,A blue chair with a blue cushion.,chair,1.0,I
+dog8-bottle2,2024-02-04 18:37:42,A black and white photo of a dog with a bottle of spray paint on it.,bottle,0.98429585,"K, F"
+clock3-elephant3,2024-02-04 18:37:43,A clock with roman numerals and a brown background.,clock,1.0,J
+bicycle4-knife3,2024-02-04 18:37:43,A bike with a black seat and a black handlebar.,bicycle,0.9999713,C
+bottle10-truck3,2024-02-04 18:37:44,A bottle of whiskey with a blue label.,bottle,1.0,F
+bear8-truck3,2024-02-04 18:37:44,A picture of a bear with a yellow and blue background.,bear,0.9999975,B
+knife8-boat1,2024-02-04 18:37:45,A picture of a plane with a blue background.,airplane,1.0,A
+airplane10-cat2,2024-02-04 18:37:46,A blurry image of a brown animal on a white background.,dog,0.7854569,B
+oven8-keyboard3,2024-02-04 18:37:46,A black and white photo of a black and silver credit card.,airplane,0.457449,X
+truck6-knife2,2024-02-04 18:37:47,A truck with the word water on it.,truck,0.99999905,P
+boat9-boat3,2024-02-04 18:37:47,A picture of a boat with a red sail.,boat,1.0,E
+bicycle7-oven1,2024-02-04 18:37:48,A bike is shown in a blurry image.,bicycle,0.9999895,C
+bird3-bottle2,2024-02-04 18:37:48,The image is a blurry photo of many bottles of different sizes and colors.,bottle,0.9999999,F
+car6-chair3,2024-02-04 18:37:49,The image is a collage of blue chairs with white seats.,chair,0.99994814,I
+bear10-car2,2024-02-04 18:37:49,The image is blurry and has a red car in it.,car,0.9988701,G
+chair8-chair3,2024-02-04 18:37:50,The image is blurry.,airplane,0.975727,X
+truck3-bicycle1,2024-02-04 18:37:50,A car with a sticker on the side.,car,0.9977537,G
+airplane10-bear3,2024-02-04 18:37:51,A blurry image of a brown dog's fur.,dog,0.9996519,K
+bird3-bird2,2024-02-04 18:37:51,Bird with black feathers.,bird,0.9999975,D
+airplane1-chair2,2024-02-04 18:37:51,The image is a collage of chairs and tables.,chair,0.9999318,I
+bicycle5-dog2,2024-02-04 18:37:52,A bike with a chain and a seat.,bicycle,0.9999982,C
+chair3-airplane2,2024-02-04 18:37:52,A painting of a blue chair with yellow paint on it.,chair,0.99999356,I
+keyboard10-boat2,2024-02-04 18:37:53,The image is a blurry photo of a boat on a bridge.,boat,0.99999917,E
+bird7-car2,2024-02-04 18:37:54,The image is blurry and has a red and yellow background.,airplane,0.925985,X
+knife3-bear2,2024-02-04 18:37:54,A picture of a bear.,bear,0.99999964,B
+truck6-boat2,2024-02-04 18:37:55,"A truck with a sign that says ""water for drinking"" on it.",truck,0.99995947,P
+clock1-dog2,2024-02-04 18:37:55,A clock with numbers on it.,clock,1.0,J
+clock1-bear1,2024-02-04 18:37:55,A blurry image of a brown fur.,dog,0.8183587,B
+bear4-truck3,2024-02-04 18:37:56,A picture of a bear with a yellow head.,bear,0.9999894,B
+keyboard3-elephant2,2024-02-04 18:37:57,A blurry image of a wall with a brown and tan pattern.,airplane,0.5065457,X
+cat9-clock2,2024-02-04 18:37:57,A black cat laying on a couch.,cat,0.99999833,H
+bear7-bicycle2,2024-02-04 18:37:58,The image is a blurry photo of a dog with a lot of wires around it.,dog,0.9978713,K
+bottle8-dog2,2024-02-04 18:37:58,A bottle of beer with a brown label.,bottle,1.0,F
+bottle6-knife3,2024-02-04 18:37:59,A picture of a metal object.,airplane,0.8662214,X
+dog8-keyboard3,2024-02-04 18:37:59,A blurry picture of a camera.,airplane,0.9479708,X
+chair8-boat1,2024-02-04 18:37:59,A chair with a blue seat and red legs.,chair,1.0,I
+car2-car3,2024-02-04 18:38:00,A car with a red hood and a red car with a red hood.,car,0.99937904,G
+bottle6-dog3,2024-02-04 18:38:00,A blurry dog with a brown fur.,dog,0.99993503,K
+airplane10-oven2,2024-02-04 18:38:01,A black and white photo of a plane.,airplane,1.0,A
+bottle3-cat3,2024-02-04 18:38:01,A bottle of beer with a red label.,bottle,1.0,F
+cat7-airplane2,2024-02-04 18:38:02,A cat with a yellow and black fur is laying on a white surface.,cat,0.9999995,H
+clock10-knife3,2024-02-04 18:38:03,A black and white photo of a guitar.,airplane,0.84555113,X
+car1-chair3,2024-02-04 18:38:03,The image is a collage of blue chairs with different shapes and sizes.,chair,0.99998856,I
+bear8-knife3,2024-02-04 18:38:04,Bear with black fur and white ears.,bear,0.9999994,B
+bottle5-knife1,2024-02-04 18:38:04,A blurry image of a bottle with a black handle.,bottle,1.0,F
+clock3-bird1,2024-02-04 18:38:05,A clock with a blue background and black numbers.,clock,1.0,J
+oven9-airplane2,2024-02-04 18:38:05,A blue and yellow object with a yellow apple on it.,airplane,0.96178377,X
+bicycle2-knife2,2024-02-04 18:38:06,A picture of a pair of glasses.,bottle,0.50168765,X
+bottle2-bottle3,2024-02-04 18:38:06,A green bottle with money on it.,bottle,0.9999999,F
+oven9-bird3,2024-02-04 18:38:07,A picture of a camera with a turkey on it.,bird,0.89678746,X
+cat2-cat1,2024-02-04 18:38:07,A cat with brown fur and green eyes.,cat,0.99999857,H
+oven9-car2,2024-02-04 18:38:08,A blurry image of a car with a red heart on it.,car,0.997879,G
+bear5-airplane3,2024-02-04 18:38:08,Bear in a painting.,bear,0.9999988,B
+car1-clock2,2024-02-04 18:38:08,A car with a clock on the dashboard.,clock,0.9590811,"G, J"
+knife9-airplane2,2024-02-04 18:38:09,A blurry photo of a blue sky with a yellow sky.,airplane,0.9964036,X
+bird1-elephant2,2024-02-04 18:38:09,A bird with a long beak and a long tail.,bird,0.9999951,D
+keyboard1-clock1,2024-02-04 18:38:10,A clock with numbers and a picture of a person on it.,clock,1.0,J
+dog3-dog1,2024-02-04 18:38:10,Dog laying on a yellow background.,dog,0.9998821,H
+chair9-dog2,2024-02-04 18:38:11,Chair with furry fur on it.,chair,0.9999943,I
+dog4-bottle2,2024-02-04 18:38:11,Bottles of alcohol in a blurry image.,bottle,1.0,F
+boat5-knife2,2024-02-04 18:38:12,A pile of paper with a few coins on top.,airplane,0.82170546,X
+keyboard2-bicycle3,2024-02-04 18:38:12,A blurry image of a bicycle with a red frame.,bicycle,0.9999999,C
+airplane3-keyboard2,2024-02-04 18:38:13,A black and white photo of a computer.,airplane,0.6270343,M
+elephant2-bottle3,2024-02-04 18:38:13,A picture of a hand with a bottle of beer in it.,bottle,1.0,F
+elephant1-boat2,2024-02-04 18:38:14,A picture of an elephant with a red shirt and a white trunk.,elephant,1.0,L
+oven7-oven1,2024-02-04 18:38:15,A stack of silver ovens with a white wall in the background.,oven,1.0,O
+boat4-boat3,2024-02-04 18:38:15,The image is a collage of various objects and colors.,airplane,0.96823347,X
+boat10-oven1,2024-02-04 18:38:16,A plane with the number 66 on it.,airplane,1.0,A
+cat4-clock2,2024-02-04 18:38:16,A cat with a clock on its head.,clock,0.9900857,"H, J"
+chair8-clock3,2024-02-04 18:38:17,A chair with clocks on it.,chair,0.8362602,"I, J"
+clock10-truck2,2024-02-04 18:38:17,A blurry image of a red and silver object.,airplane,0.774928,X
+chair1-clock2,2024-02-04 18:38:17,A blurry image of a clock.,clock,1.0,J
+bicycle10-dog3,2024-02-04 18:38:18,A blurry picture of a bicycle.,bicycle,0.99999976,C
+bicycle7-cat1,2024-02-04 18:38:18,A bicycle with a red frame and a white seat.,bicycle,0.99999976,C
+car3-bottle3,2024-02-04 18:38:19,A car is shown with many bottles on it.,bottle,0.99591416,"G, F"
+bird1-clock3,2024-02-04 18:38:19,A clock with a bird on it.,clock,0.9984206,"J, D"
+airplane4-dog2,2024-02-04 18:38:20,A cat is sitting on a tie.,cat,0.99969316,H
+elephant4-chair3,2024-02-04 18:38:20,A bunch of chairs in a room.,chair,1.0,I
+bottle1-bear1,2024-02-04 18:38:20,A brown furry animal with a long tail.,dog,0.9951231,B
+bicycle1-dog3,2024-02-04 18:38:21,A blurry bicycle with a basket.,bicycle,1.0,C
+clock4-oven1,2024-02-04 18:38:21,A black and white watch with a white face.,clock,0.9998628,J
+car1-keyboard2,2024-02-04 18:38:22,A black keyboard with white letters and numbers.,keyboard,1.0,M
+clock5-clock2,2024-02-04 18:38:22,A clock with Arabic numbers and a silver background.,clock,1.0,J
+bicycle3-elephant2,2024-02-04 18:38:23,A picture of a bike.,bicycle,0.9999951,C
+bear4-knife1,2024-02-04 18:38:23,A picture of a dog with a black nose and brown fur.,dog,0.9998684,K
+car6-elephant3,2024-02-04 18:38:24,A picture of a car with a star on it.,car,0.9985676,G
+oven3-airplane1,2024-02-04 18:38:24,A blurry image of a box with money in it.,airplane,0.49744105,X
+cat2-knife3,2024-02-04 18:38:25,A painting of a pair of scissors and a knife.,knife,0.9999999,N
+bird8-elephant1,2024-02-04 18:38:25,A bird on a branch.,bird,0.99998343,D
+oven6-knife3,2024-02-04 18:38:26,A blurry image of a black and white object with a hole in it.,airplane,0.9444398,X
+bird6-oven1,2024-02-04 18:38:26,A blurry picture of a bird on a wall.,bird,0.9998123,D
+bear2-cat2,2024-02-04 18:38:27,Bear in blurry photo.,bear,0.9999995,B
+clock9-airplane1,2024-02-04 18:38:27,A clock with a white face and black hands.,clock,1.0,J
+airplane5-bicycle1,2024-02-04 18:38:28,A plane with a lot of parts and a blue background.,airplane,1.0,A
+car10-bottle3,2024-02-04 18:38:28,A car with a green roof is driving through a pile of money.,car,0.9994103,G
+clock8-knife1,2024-02-04 18:38:29,A clock with a wooden frame and a chain.,clock,1.0,J
+bottle2-car2,2024-02-04 18:38:29,The image is a collage of various objects.,airplane,0.9775745,X
+keyboard1-elephant3,2024-02-04 18:38:30,A picture of a snake skin.,bottle,0.4988448,X
+keyboard6-elephant1,2024-02-04 18:38:30,A brown leather piece of fabric.,chair,0.8015541,X
+airplane6-knife1,2024-02-04 18:38:31,A picture of a person's face with a pair of scissors.,knife,0.9980507,X
+bird4-dog3,2024-02-04 18:38:31,A dog with a brown fur and black eyes.,dog,0.9999838,K
+keyboard10-truck1,2024-02-04 18:38:31,A red and white picture of a car.,car,0.9993136,G
+chair9-bottle3,2024-02-04 18:38:32,A green chair with a green bottle on it.,bottle,0.95622563,"I, F"
+dog8-oven3,2024-02-04 18:38:32,A picture of a dog with a camera.,dog,0.9999865,K
+elephant7-bear3,2024-02-04 18:38:33,A brown bear walking in the woods.,bear,0.99999917,B
+truck8-dog3,2024-02-04 18:38:33,A toy truck with a brown truck bed and a black wheel.,truck,0.99999714,"G. car
+P. truck"
+bear4-clock3,2024-02-04 18:38:34,A clock with a clock face and a clock hand.,clock,1.0,J
+bottle3-bicycle3,2024-02-04 18:38:35,A bottle of beer with a chain hanging from it.,bottle,1.0,F
+airplane4-bear3,2024-02-04 18:38:35,A blurry image of a bird with brown feathers.,bird,0.99977297,D
+bottle8-bottle3,2024-02-04 18:38:36,A green bottle of beer with a green label and a green bottle cap.,bottle,1.0,F
+airplane3-oven1,2024-02-04 18:38:36,A plane in a photo.,airplane,1.0,A
+bear10-knife2,2024-02-04 18:38:37,A picture of a dog with a bottle in it.,bottle,0.99997795,"K, F"
+dog3-clock1,2024-02-04 18:38:37,A picture of a baby with a clock on it.,clock,0.9999999,J
+bird10-bear2,2024-02-04 18:38:37,Bird with long beak.,bird,0.9999975,D
+car9-knife1,2024-02-04 18:38:38,A car with a black tire and a brown wheel.,car,0.9408939,G
+elephant7-keyboard3,2024-02-04 18:38:38,A black and white photo of a black keyboard.,keyboard,0.99999964,M
+cat4-bird2,2024-02-04 18:38:39,A cat is sitting on a pole.,cat,0.9999865,H
+chair7-truck3,2024-02-04 18:38:39,A chair with a blue seat and yellow armrests.,chair,1.0,I
+clock6-bicycle1,2024-02-04 18:38:40,A clock with a blue face and red hands.,clock,1.0,J
+oven3-elephant3,2024-02-04 18:38:40,A picture of a heart on a wall.,clock,0.894001,X
+bird5-airplane3,2024-02-04 18:38:41,A bird with blue and black feathers is perched on a black and white object.,bird,0.9999006,D
+keyboard9-boat2,2024-02-04 18:38:42,A picture of a helicopter in a city.,airplane,0.99979013,X
+knife2-car3,2024-02-04 18:38:42,The image is a collage of cars and a motorcycle.,car,0.9181926,"G, P"
+bird10-clock1,2024-02-04 18:38:42,A clock with a bird on it.,clock,0.9984206,"J, D"
+keyboard7-bear2,2024-02-04 18:38:43,A blurry image of a dog.,dog,0.9999448,K
+bear1-bicycle3,2024-02-04 18:38:43,Bear in a photo.,bear,0.99999976,B
+oven8-cat3,2024-02-04 18:38:44,A blurry image of a brown object with a white background.,airplane,0.93284535,X
+elephant6-dog2,2024-02-04 18:38:44,Elephant with baby.,elephant,1.0,L
+keyboard7-truck2,2024-02-04 18:38:44,A blurry red car with a white stripe.,car,0.99921906,G
+keyboard7-chair3,2024-02-04 18:38:45,The image is a collage of blue chairs and tables.,chair,0.9978588,I
+knife10-dog1,2024-02-04 18:38:45,A brown and yellow dog with a brown fur coat.,dog,0.99994373,K
+keyboard7-clock3,2024-02-04 18:38:46,A collage of clocks in a room.,clock,1.0,J
+oven9-oven1,2024-02-04 18:38:46,A toaster oven with a piece of food in it.,oven,1.0,O
+keyboard8-truck3,2024-02-04 18:38:47,A blurry picture of a chair with a yellow arm.,chair,0.9999944,I
+dog8-boat3,2024-02-04 18:38:47,A picture of a dog in a toy car.,car,0.966237,"G, K"
+bottle6-airplane1,2024-02-04 18:38:48,A bottle of coke with a white label and black writing.,bottle,1.0,F
+chair6-truck2,2024-02-04 18:38:49,A blurry image of a chair with a red seat.,chair,0.99999964,I
+bear3-bird3,2024-02-04 18:38:49,A cat sleeping on the ground.,cat,0.99999976,H
+elephant8-bird2,2024-02-04 18:38:49,The image is a black and white photo of elephants.,elephant,1.0,L
+airplane7-cat3,2024-02-04 18:38:50,A blurry image of a plane with a wet wing.,airplane,0.9999999,A
+truck9-truck3,2024-02-04 18:38:50,Truck with yellow door and blue door.,truck,0.9999987,"G, P"
+elephant7-bottle3,2024-02-04 18:38:51,A green elephant with a green trunk and green legs.,elephant,1.0,L
+bird1-boat1,2024-02-04 18:38:51,The image is a collage of a bird with a blue background.,bird,0.99937505,D
+keyboard8-cat3,2024-02-04 18:38:52,A keyboard with a cat on it.,keyboard,0.90741795,"M, H"
+bear3-keyboard2,2024-02-04 18:38:52,A black and white photo of a computer keyboard.,keyboard,0.99999976,M
+dog2-knife3,2024-02-04 18:38:53,A blurry picture of a dog's face.,dog,0.999949,K
+bicycle10-boat3,2024-02-04 18:38:53,A bike with a green frame and red spokes.,bicycle,1.0,C
+bear3-airplane1,2024-02-04 18:38:54,A blurry image of a bear.,bear,0.99999857,B
+bear3-cat1,2024-02-04 18:38:54,A cat laying on a white blanket.,cat,0.99999595,H
+truck10-clock1,2024-02-04 18:38:55,A truck with a clock on the side.,truck,0.9967122,"G, J"
+keyboard6-boat2,2024-02-04 18:38:55,The image is a collage of different colors and shapes.,airplane,0.91764885,X
+cat2-boat2,2024-02-04 18:38:56,A cat with a red nose and black eyes.,cat,0.9999999,H
+dog9-chair2,2024-02-04 18:38:56,A blurry image of chairs and tables.,chair,0.99978656,I
+bear10-truck1,2024-02-04 18:38:57,A red and black fish in a red and black fish tank.,boat,0.8803683,X
+clock8-bear2,2024-02-04 18:38:57,A clock with a chain hanging from it.,clock,1.0,J
+keyboard7-bottle1,2024-02-04 18:38:58,The image is a collage of various bottles and liquor.,bottle,0.99999917,F
+elephant1-car3,2024-02-04 18:38:58,A red car with a white helmet on top.,car,0.9986903,G
+airplane8-chair1,2024-02-04 18:38:59,The image is a collage of red chairs in a theater.,chair,0.99995553,I
+truck2-chair1,2024-02-04 18:38:59,The image is a collage of red chairs and a truck.,truck,0.97383547,"G, I, P"
+dog1-bird1,2024-02-04 18:39:00,A dog with blue eyes and a blue nose.,dog,0.9999726,K
+bicycle7-clock3,2024-02-04 18:39:00,A bicycle with clocks on it.,bicycle,0.9648494,"C, J"
+oven2-truck3,2024-02-04 18:39:00,A photo of a stack of old records.,airplane,0.46433225,X
+cat2-bottle3,2024-02-04 18:39:01,A picture of a cat with a green bottle in front of it.,bottle,0.9983309,"H, F"
+elephant6-bicycle1,2024-02-04 18:39:02,A picture of a baby elephant and a big elephant.,elephant,1.0,L
+car1-car2,2024-02-04 18:39:02,A car with a red and yellow paint job.,car,0.9995448,G
+bird5-oven3,2024-02-04 18:39:03,The image is blurry and has a lot of objects in it.,airplane,0.9867541,X
+dog6-cat1,2024-02-04 18:39:03,A dog with a collar and a black collar.,dog,0.999992,K
+knife3-clock2,2024-02-04 18:39:04,A blurry image of a clock with a black handle.,clock,0.9999999,J
+chair10-clock1,2024-02-04 18:39:04,A chair with a clock on it.,clock,0.60703546,"I, J"
+bottle8-elephant3,2024-02-04 18:39:05,A bottle of beer with a brown label.,bottle,1.0,F
+bottle7-cat2,2024-02-04 18:39:05,A blurry image of a man with a furry head.,dog,0.96097904,X
+dog10-elephant1,2024-02-04 18:39:05,Dog on a rug.,dog,0.9999968,H
+bottle3-chair3,2024-02-04 18:39:06,Blue chair with white seat.,chair,1.0,I
+clock4-car2,2024-02-04 18:39:06,A blurry picture of a watch with a red background.,clock,0.9959252,J
+chair8-airplane1,2024-02-04 18:39:07,The image is blurry and has a white background.,airplane,0.95228684,X
+chair5-boat3,2024-02-04 18:39:07,A chair with a green and red background.,chair,1.0,I
+car5-bottle1,2024-02-04 18:39:08,A car with many bottles on it.,bottle,0.98472553,"G, F"
+airplane8-elephant3,2024-02-04 18:39:08,A close up of a wrinkled elephant skin.,elephant,0.9999999,L
+dog6-clock1,2024-02-04 18:39:09,A dog with a clock on its face.,clock,0.9959597,K J
+bicycle8-bear2,2024-02-04 18:39:09,A blurry image of a bike.,bicycle,0.9999845,C
+bear5-bicycle3,2024-02-04 18:39:09,Bear in a blurry photo.,bear,0.9999995,B
+clock10-boat2,2024-02-04 18:39:10,A clock with a red and orange handle.,clock,1.0,J
+elephant9-chair2,2024-02-04 18:39:10,A blurry image of a wooden chair with a blurry armrest.,chair,0.9999989,I
+chair5-car1,2024-02-04 18:39:11,The image is a collage of cars and a car seat.,car,0.9822121,"G, I"
+airplane8-bicycle3,2024-02-04 18:39:11,The image is blurry and has a red background.,airplane,0.93180573,X
+truck10-car3,2024-02-04 18:39:12,A red car with a side view mirror and a windshield.,car,0.9994393,G
+truck6-bicycle1,2024-02-04 18:39:12,A water truck with the word water on it.,truck,0.9999144,P
+car9-bird1,2024-02-04 18:39:13,A car with blue wheels and a blue hood.,car,0.99892265,G
+clock5-elephant2,2024-02-04 18:39:13,A clock with a brown background and black hands.,clock,1.0,J
+knife6-chair3,2024-02-04 18:39:14,A picture of many blue chairs.,chair,0.9999981,I
+bear10-clock1,2024-02-04 18:39:14,A clock with a face made of glass and numbers on it.,clock,1.0,J
+car4-clock1,2024-02-04 18:39:15,A car with a clock on it.,clock,0.72307646,"G, J"
+knife4-cat2,2024-02-04 18:39:15,A blurry image of a brown and white animal.,dog,0.8941163,B
+dog10-oven2,2024-02-04 18:39:16,A black dog is sitting on a black object.,dog,0.99885845,"H, K"
+dog4-elephant2,2024-02-04 18:39:16,A picture of a cat with a long neck.,cat,0.9999622,H
+chair10-car2,2024-02-04 18:39:17,The image is a blurry photo of a bike.,bicycle,0.9999827,C
+knife6-truck1,2024-02-04 18:39:17,A blurry image of a red object with a blurry background.,airplane,0.8934584,X
+car8-boat3,2024-02-04 18:39:18,A car with a green wheel is in a blurry image.,car,0.99821043,G
+cat10-bear1,2024-02-04 18:39:18,A blurry image of a brown cat laying on a bed.,cat,0.9998963,H
+bicycle4-truck3,2024-02-04 18:39:19,The image is a blurry photo of a bike.,bicycle,0.9999827,C
+clock4-bottle3,2024-02-04 18:39:19,A green clock with roman numerals and a green background.,clock,1.0,J
+clock7-keyboard2,2024-02-04 18:39:20,A close up of a watch face with numbers and letters.,clock,0.99980384,J
+car6-bottle1,2024-02-04 18:39:21,The image is a collage of various bottles and jars.,bottle,0.99999964,F
+clock3-bicycle2,2024-02-04 18:39:21,A clock with a blurry background.,clock,1.0,J
+bottle7-airplane3,2024-02-04 18:39:21,A blurry picture of a blue and white object.,airplane,0.99208844,X
+chair8-keyboard3,2024-02-04 18:39:22,A blurry photo of a keyboard.,keyboard,0.99999976,M
+dog8-clock2,2024-02-04 18:39:22,A dog sitting on a chair with a clock on its back.,clock,0.8824562,"H, I, J"
+bird4-airplane1,2024-02-04 18:39:23,A blurry image of a newspaper with a picture of a plane on it.,airplane,1.0,A
+chair1-elephant1,2024-02-04 18:39:24,A picture of a chair with a brown and white pattern.,chair,0.9999994,I
+elephant3-knife1,2024-02-04 18:39:24,A picture of a elephant with a brown trunk.,elephant,0.9999999,L
+clock3-keyboard3,2024-02-04 18:39:25,A close up of a clock face.,clock,1.0,J
+airplane8-clock2,2024-02-04 18:39:25,A blurry image of a clock and a chair.,clock,0.99139965,"J, I"
+elephant5-bear2,2024-02-04 18:39:25,A picture of an elephant.,elephant,1.0,L
+bottle1-cat3,2024-02-04 18:39:26,A blurry image of a bottle.,bottle,1.0,F
+dog5-truck2,2024-02-04 18:39:26,A red and silver object with a black face.,airplane,0.32367373,X
+bottle4-truck1,2024-02-04 18:39:27,A red bottle of coca cola.,bottle,1.0,F
+clock8-airplane2,2024-02-04 18:39:27,A blue and yellow clock with a blue background.,clock,1.0,J
+boat4-bird1,2024-02-04 18:39:28,A blurry image of a white object with blue and blue stripes.,airplane,0.978917,X
+cat3-truck3,2024-02-04 18:39:28,A blurry picture of a chair and a dog.,chair,0.9914317,"H, K"
+bottle6-bird1,2024-02-04 18:39:29,A blue and white bottle with a blue cap.,bottle,1.0,F
+cat10-bicycle1,2024-02-04 18:39:29,A photo of a silver object with red and blue on it.,airplane,0.8644494,X
+boat6-knife2,2024-02-04 18:39:30,A picture of a broken bottle.,bottle,1.0,F
+knife7-bottle3,2024-02-04 18:39:30,A collage of papers and bottles.,bottle,0.99999845,F
+truck7-bird2,2024-02-04 18:39:31,A truck with a white cab and black wheels.,truck,1.0,P
+boat1-chair3,2024-02-04 18:39:31,The image is a collage of blue chairs.,chair,0.99997914,I
+bicycle3-bird1,2024-02-04 18:39:31,A bike is on the ground.,bicycle,0.99999905,C
+bottle1-chair2,2024-02-04 18:39:32,The image is a collage of chairs and tables.,chair,0.9999318,I
+knife7-car2,2024-02-04 18:39:32,The image is blurry and has a lot of colors.,airplane,0.96320045,X
+car10-car1,2024-02-04 18:39:33,A car is in a blurry image.,car,0.9988427,G
+boat9-knife2,2024-02-04 18:39:33,A pile of money in a picture.,airplane,0.91066647,X
+bird7-oven3,2024-02-04 18:39:34,A phone is hanging on a wall.,clock,0.9752846,X
+knife4-boat1,2024-02-04 18:39:34,A blurry image of a building with a blue and orange sky.,airplane,0.9973314,X
+car4-oven2,2024-02-04 18:39:35,A black and white photo of a camera.,airplane,0.9366252,X
+chair1-cat3,2024-02-04 18:39:35,A blurry image of a chair with a red spot on it.,chair,0.9999944,I
+bird7-truck2,2024-02-04 18:39:36,The image is blurry and has a red background.,airplane,0.93180573,X
+cat2-elephant1,2024-02-04 18:39:36,Cat with blue eyes and white whiskers.,cat,0.9999993,H
+bicycle7-bear2,2024-02-04 18:39:37,A bicycle with a white and brown frame.,bicycle,0.9999999,C
+cat7-clock3,2024-02-04 18:39:37,A collage of clocks with different numbers and hands.,clock,1.0,J
+oven3-car2,2024-02-04 18:39:38,A blurry image of a red and yellow object.,airplane,0.8741988,X
+bear2-car2,2024-02-04 18:39:38,The image is blurry and has a red car in the background.,car,0.9993006,G
+airplane2-cat1,2024-02-04 18:39:39,A cat laying on a bed with a blue blanket.,cat,0.99996686,H
+bird9-chair1,2024-02-04 18:39:39,A blurry image of a person sitting in a theater.,chair,0.8572859,X
+airplane9-car2,2024-02-04 18:39:40,The image is a blurry photo of a car with a red and yellow stripe.,car,0.99977344,G
+bird2-dog2,2024-02-04 18:39:40,Bird on tree branch.,bird,0.9999721,D
+knife1-truck2,2024-02-04 18:39:41,The image is blurry and has a red and white color scheme.,airplane,0.92056155,X
+dog7-chair2,2024-02-04 18:39:41,The image is a collage of wooden chairs.,chair,0.9999993,I
+truck7-keyboard3,2024-02-04 18:39:42,A blurry photo of a black remote control.,airplane,0.97906864,X
+elephant2-airplane3,2024-02-04 18:39:42,A blurry picture of a dog.,dog,0.999923,K
+boat9-cat3,2024-02-04 18:39:43,A blurry image of a boat.,boat,0.9999999,E
+knife9-bottle2,2024-02-04 18:39:43,The image is a blurry photo of many bottles of wine.,bottle,0.99999475,F
+keyboard9-chair2,2024-02-04 18:39:43,A blurry image of many wooden chairs.,chair,0.99999833,I
+boat8-knife1,2024-02-04 18:39:44,A blurry image of a gun.,airplane,0.8887575,X
+bicycle6-boat2,2024-02-04 18:39:44,A bike with a red seat and a silver frame.,bicycle,0.9999596,C
+elephant5-chair3,2024-02-04 18:39:45,The image is a blurry photo of chairs.,chair,0.99999917,I
+bicycle9-cat3,2024-02-04 18:39:45,A bike with a basket and a silver chain.,bicycle,0.9999999,C
+oven2-boat3,2024-02-04 18:39:46,The image is a collage of a refrigerator and a microwave.,oven,0.8847468,X
+car4-bicycle3,2024-02-04 18:39:46,A car with a broken windshield and a broken headlight.,car,0.9968815,G
+truck8-bottle2,2024-02-04 18:39:47,The image is a collage of various bottles and a car.,bottle,0.9978471,G
+chair10-bottle3,2024-02-04 18:39:48,A chair with a green seat and a green armrest.,chair,1.0,I
+clock4-elephant2,2024-02-04 18:39:48,A clock with roman numerals and a wooden frame.,clock,1.0,J
+bottle9-oven2,2024-02-04 18:39:49,A bottle of liquor with a black label.,bottle,1.0,F
+bird5-keyboard2,2024-02-04 18:39:49,A black bird is on a keyboard.,keyboard,0.77408165,D
+oven6-bird1,2024-02-04 18:39:50,A blue and white picture of a turkey on a pillow.,bird,0.9505923,X
+chair8-elephant1,2024-02-04 18:39:50,A chair with a hole in it.,chair,0.9999995,I
+elephant4-oven1,2024-02-04 18:39:50,Elephant in a blurry photo.,elephant,1.0,L
+dog3-keyboard1,2024-02-04 18:39:51,A black dog with a collar laying on a table.,dog,0.9999517,"H, K"
+bear3-chair2,2024-02-04 18:39:51,The image is a collage of chairs and a dog.,chair,0.90190816,"H, I"
+oven10-truck2,2024-02-04 18:39:52,A car with a red light on.,car,0.9982273,G
+knife8-truck3,2024-02-04 18:39:52,A blurry image of a truck and a dog.,truck,0.99999213,"G, K"
+cat6-oven1,2024-02-04 18:39:52,Cat on tv screen.,cat,0.99999976,H
+bear2-dog1,2024-02-04 18:39:53,Bear in a painting.,bear,0.9999988,B
+bird8-keyboard2,2024-02-04 18:39:53,A blurry photo of a keyboard.,keyboard,0.99999976,M
+truck9-chair3,2024-02-04 18:39:54,A collage of blue chairs with white seats.,chair,0.999998,I
+boat1-truck3,2024-02-04 18:39:54,The image is a blurry picture of a yellow chair with blue seats.,chair,0.9999968,I
+car8-bicycle2,2024-02-04 18:39:55,A car with a broken windshield and a blurry background.,car,0.997787,G
+bottle7-oven2,2024-02-04 18:39:55,A blurry image of a city with a blurry background.,airplane,0.99331653,X
+oven4-chair1,2024-02-04 18:39:56,The image is a collage of red chairs and pink seats.,chair,0.99998224,I
+chair5-knife3,2024-02-04 18:39:56,A blurry image of a knife and a pair of scissors.,knife,1.0,N
+cat5-dog3,2024-02-04 18:39:57,Two cats sleeping on a bed.,cat,0.9999988,H
+dog2-dog3,2024-02-04 18:39:57,A dog with a white face and brown ears.,dog,0.9997849,K
+bear7-bear2,2024-02-04 18:39:58,Bear in the wild.,bear,0.9999999,B
+dog1-cat3,2024-02-04 18:39:58,A dog with a brown and white face.,dog,0.9999703,K
+keyboard10-car1,2024-02-04 18:39:59,The image is a painting of cars on a road.,car,0.99951434,G
+airplane4-car1,2024-02-04 18:39:59,A colorful painting of a plane and cars.,airplane,0.99995947,"A, G"
+keyboard10-oven3,2024-02-04 18:40:00,A photo of a camera with buttons and a screen.,airplane,0.793816,X
+cat10-keyboard1,2024-02-04 18:40:00,A blurry photo of a broken piece of a knife.,knife,0.9999993,N
+elephant6-bird1,2024-02-04 18:40:00,Elephant with blue and white stripes.,elephant,1.0,L
+cat5-elephant2,2024-02-04 18:40:01,A cat is laying on a brown surface.,cat,0.9999981,H
+bird1-bear1,2024-02-04 18:40:02,A brown bird with a fuzzy head and brown feathers is sitting on a white surface.,bird,0.9999496,D
+boat4-bottle2,2024-02-04 18:40:02,Bottles of liquor on a table.,bottle,1.0,F
+bird5-truck2,2024-02-04 18:40:03,The image is blurry and has a red car in it.,car,0.9988701,G
+clock8-oven3,2024-02-04 18:40:03,A picture of a machine with buttons and a clock.,clock,0.99999857,"J, M"
+boat8-oven1,2024-02-04 18:40:04,A blurry photo of a gun.,airplane,0.8642355,X
+elephant6-oven1,2024-02-04 18:40:04,Elephant in a blurry photo.,elephant,1.0,L
+keyboard1-bear2,2024-02-04 18:40:04,A close up of a white bear with a black nose.,bear,0.9999831,B
+bird3-knife3,2024-02-04 18:40:05,A blurry picture of a phone.,airplane,0.9559968,X
+cat3-bear2,2024-02-04 18:40:05,A cat laying on a white blanket.,cat,0.99999595,H
+truck6-bear2,2024-02-04 18:40:06,A blurry picture of a truck with the word water on it.,truck,0.9999901,P
+bird9-elephant2,2024-02-04 18:40:06,A bird with brown feathers and a brown tail.,bird,0.99999166,D
+elephant7-cat1,2024-02-04 18:40:07,Elephant walking on the ground.,elephant,1.0,L
+boat7-keyboard3,2024-02-04 18:40:07,A blurry picture of a black object.,airplane,0.9912907,X
+cat1-airplane1,2024-02-04 18:40:08,A cat with a white face and black ears is looking at the camera.,cat,0.99999905,H
+truck6-truck2,2024-02-04 18:40:08,A red and silver water bottle with the word water on it.,bottle,1.0,F
+boat1-bear1,2024-02-04 18:40:09,A blurry image of a brown animal with a brown fur.,dog,0.9267595,B
+truck2-keyboard1,2024-02-04 18:40:09,A black toy truck with a sticker on the door.,truck,0.999962,P
+dog9-cat1,2024-02-04 18:40:10,Dog in a blurry picture.,dog,0.9999789,K
+dog10-keyboard2,2024-02-04 18:40:10,A black keyboard with white letters and a black case.,keyboard,1.0,M
+boat8-dog3,2024-02-04 18:40:11,A cat laying on a white blanket.,cat,0.99999595,H
+bicycle4-boat1,2024-02-04 18:40:11,A bike with a blue frame and red handlebars.,bicycle,0.99999964,C
+airplane7-boat2,2024-02-04 18:40:12,A picture of a plane with a red and white color scheme.,airplane,1.0,A
+bird5-bear3,2024-02-04 18:40:12,Bird with brown feathers.,bird,0.9999969,D
+knife6-bird1,2024-02-04 18:40:12,A fork with blue handle.,knife,0.9900788,X
+boat6-dog1,2024-02-04 18:40:13,A brown dog's fur.,dog,0.9999629,K
+cat7-knife2,2024-02-04 18:40:13,A hand holding a cat.,cat,0.99985886,H
+keyboard9-bicycle2,2024-02-04 18:40:14,A blurry image of a bunch of silver objects.,airplane,0.88548917,X
+airplane5-knife1,2024-02-04 18:40:14,A picture of a gun with a hand holding it.,airplane,0.51560956,X
+knife1-airplane1,2024-02-04 18:40:15,A collage of papers with writing on them.,airplane,0.9506974,X
+bear5-bird1,2024-02-04 18:40:15,Bear with blue fur.,bear,0.9999987,B
+chair7-bottle1,2024-02-04 18:40:15,A chair filled with various bottles.,chair,0.587039,"I, F"
+knife2-bird1,2024-02-04 18:40:16,A blue and white image of a knife.,knife,1.0,N
+boat2-oven3,2024-02-04 18:40:16,A blurry photo of a computer monitor and a keyboard.,keyboard,0.99999,M
+elephant4-boat3,2024-02-04 18:40:17,A picture of a elephant with a blue background.,elephant,0.9999999,L
+bear6-clock1,2024-02-04 18:40:17,A collage of clocks with different shapes and sizes.,clock,1.0,J
+truck4-airplane3,2024-02-04 18:40:18,A truck with a blue and black color scheme.,truck,0.9999999,P
+dog5-bear3,2024-02-04 18:40:18,A dog with a brown fur and black eyes.,dog,0.9999838,K
+chair7-chair1,2024-02-04 18:40:19,The image is a collage of red chairs with pink seats.,chair,0.9999974,I
+bottle8-bird1,2024-02-04 18:40:19,A bottle of wine with a blue label.,bottle,1.0,F
+truck8-elephant1,2024-02-04 18:40:20,A truck is shown in a blurry image.,truck,1.0,P
+cat9-knife2,2024-02-04 18:40:20,A picture of a cat with a fish.,cat,0.9998404,H
+car7-elephant3,2024-02-04 18:40:20,A car is on the sand.,car,0.9984485,G
+cat4-oven1,2024-02-04 18:40:21,Cat on a black and white object.,cat,0.9999963,X
+airplane10-airplane1,2024-02-04 18:40:21,Plane in the air.,airplane,1.0,A
+chair3-car3,2024-02-04 18:40:22,A blurry image of a red car and a white car.,car,0.9997695,G
+boat3-clock3,2024-02-04 18:40:22,A collage of clocks on a wall.,clock,1.0,J
+bear2-airplane1,2024-02-04 18:40:23,A picture of a bear with a white face and black claws.,bear,0.9999988,B
+truck1-car3,2024-02-04 18:40:23,A red truck with a white door and a white truck with a red door.,truck,0.9999962,P
+bicycle6-car2,2024-02-04 18:40:24,The image is blurry and has a lot of colors.,airplane,0.96320045,X
+oven5-bicycle1,2024-02-04 18:40:24,A black and white photo of a toaster.,oven,0.8294785,X
+oven2-bird2,2024-02-04 18:40:25,Two silver objects with a blue background.,airplane,0.9699868,X
+chair3-dog2,2024-02-04 18:40:25,Chair with fur on it.,chair,0.99999726,"I, H"
+airplane3-car1,2024-02-04 18:40:26,A picture of a plane and cars.,airplane,0.9999957,AG
+chair10-cat1,2024-02-04 18:40:26,Chair with brown fur.,chair,0.9999988,"I, H"
+keyboard9-cat1,2024-02-04 18:40:26,A cat is laying on a bed.,cat,0.99999976,H
+keyboard4-bird1,2024-02-04 18:40:27,A blurry image of a shoe on a white surface.,airplane,0.8731768,X
+airplane9-boat1,2024-02-04 18:40:27,A picture of a plane with a blue and red background.,airplane,1.0,A
+oven6-bicycle1,2024-02-04 18:40:28,A blurry image of a silver object with a red and blue diamond.,bottle,0.33980697,X
+elephant3-truck1,2024-02-04 18:40:29,A red elephant statue with a red shirt and red legs.,elephant,0.9999994,X
+chair5-bicycle1,2024-02-04 18:40:29,A chair with many parts.,chair,1.0,I
+knife2-bear2,2024-02-04 18:40:29,A dog with a chain around its neck.,dog,0.99980885,K
+dog4-bird1,2024-02-04 18:40:30,A dog is looking at the camera.,dog,0.9999976,K
+oven2-bear3,2024-02-04 18:40:30,A picture of a brown furry animal with a black nose.,dog,0.99277765,B
+truck2-elephant1,2024-02-04 18:40:31,A truck is on a rock.,truck,1.0,P
+car7-bird3,2024-02-04 18:40:31,A car is parked on the road.,car,0.9985561,G
+dog2-cat1,2024-02-04 18:40:32,Dog with brown fur and white eyes.,dog,0.9999323,K
+elephant5-elephant1,2024-02-04 18:40:32,A gray elephant with wrinkled skin.,elephant,0.9999968,L
+bicycle5-bottle3,2024-02-04 18:40:32,A green bike with a black seat and green handlebars.,bicycle,0.9999939,C
+oven6-chair3,2024-02-04 18:40:33,The image is a collage of chairs and a television.,chair,0.9999542,I
+keyboard3-cat1,2024-02-04 18:40:33,A blurry image of a guitar.,airplane,0.7350364,X
+bear1-chair2,2024-02-04 18:40:34,The image is blurry and has a lot of chairs.,chair,0.99996865,I
+airplane7-airplane3,2024-02-04 18:40:34,A plane flying in the sky.,airplane,1.0,A
+bottle9-keyboard1,2024-02-04 18:40:35,A black and white photo of a bottle with a skull on it.,bottle,1.0,F
+oven7-bottle1,2024-02-04 18:40:35,A cluttered table with many bottles and a chair.,bottle,0.97470903,"F, I"
+chair7-boat3,2024-02-04 18:40:36,A chair with a green and red color.,chair,1.0,I
+bear9-dog1,2024-02-04 18:40:36,A brown bear with a white patch on its face.,bear,0.99999666,B
+truck10-bicycle1,2024-02-04 18:40:37,A car with a side mirror and a side view mirror.,car,0.99864024,G
+keyboard9-bird1,2024-02-04 18:40:38,A close up of a computer keyboard with blue and white keys.,keyboard,1.0,M
+dog1-dog2,2024-02-04 18:40:38,A dog with a brown and white fur.,dog,0.9999609,K
+oven4-truck3,2024-02-04 18:40:39,A picture of a yellow and orange object with a window.,airplane,0.49925214,X
+bicycle1-boat3,2024-02-04 18:40:39,A bike with a blue seat and a red frame.,bicycle,0.999997,C
+boat6-elephant2,2024-02-04 18:40:40,A picture of a leaf on a wall.,clock,0.38001946,X
+elephant3-oven1,2024-02-04 18:40:40,A picture of a statue of a man.,airplane,0.75753015,X
+bicycle2-dog1,2024-02-04 18:40:41,The image is a blurry photo of a horse and a bicycle.,bicycle,0.9995365,C
+car7-clock1,2024-02-04 18:40:41,A car with a clock on it.,clock,0.72307646,"G, J"
+boat4-chair2,2024-02-04 18:40:42,The image is a blurry photo of a room with many chairs and tables.,chair,0.9982273,I
+truck3-oven2,2024-02-04 18:40:42,A truck with a radio on the front.,truck,1.0,P
+keyboard5-knife2,2024-02-04 18:40:43,A fish with a black head and red fins.,dog,0.4172189,X
+bird1-airplane2,2024-02-04 18:40:43,A bird is sitting on a blue background.,bird,0.9999497,D
+oven2-car1,2024-02-04 18:40:44,A blurry image of a car with a red and yellow hood.,car,0.99673957,G
+truck6-oven3,2024-02-04 18:40:44,The image is a blurry photo of a phone booth with a metal door.,airplane,0.94779515,X
+keyboard10-keyboard1,2024-02-04 18:41:27,A black and white photo of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken piece of a broken,bird,0.4192952,X
+elephant10-elephant1,2024-02-04 18:41:27,Elephant with wrinkled skin.,elephant,1.0,L
+truck9-elephant1,2024-02-04 18:41:27,A picture of a horse and a van.,boat,0.5643511,X
+cat5-car2,2024-02-04 18:41:28,A blurry image of a cat with a red car in the background.,cat,0.9960024,"G, H"
+elephant6-truck3,2024-02-04 18:41:28,The image is a blurry photo of a cow.,elephant,0.6008118,X
+bear5-chair1,2024-02-04 18:41:29,A blurry image of a row of chairs.,chair,0.99999607,I
+cat3-bicycle1,2024-02-04 18:41:29,A cat is laying in a pile of metal.,cat,0.99999857,H
+knife9-chair1,2024-02-04 18:41:30,A blurry image of a theater with red seats.,airplane,0.50106984,X
+bear4-oven2,2024-02-04 18:41:30,A black and white photo of a camera.,airplane,0.9366252,X
+bicycle1-bird1,2024-02-04 18:41:31,A bike with a blue seat and a blue frame.,bicycle,0.9999944,C
+clock2-clock3,2024-02-04 18:41:31,A clock with a white face and black hands.,clock,1.0,J
+oven5-dog3,2024-02-04 18:41:32,A brown object with a black circle on it.,airplane,0.54917854,X
+bottle1-keyboard3,2024-02-04 18:41:32,A blurry image of a cat with a black collar.,cat,0.99999523,H
+bear5-boat2,2024-02-04 18:41:33,A picture of a bear with a red and orange background.,bear,0.9999888,B
+dog10-clock1,2024-02-04 18:41:33,A dog with a clock on its head.,clock,0.9990982,K J
+bicycle5-bear1,2024-02-04 18:41:34,The image is blurry and has a fuzzy appearance.,airplane,0.94961214,X
+car10-elephant2,2024-02-04 18:41:34,A car is parked in front of a tree.,car,0.9975497,G
+elephant8-dog1,2024-02-04 18:41:35,Three elephants in a field.,elephant,1.0,L
+truck10-elephant3,2024-02-04 18:41:35,A picture of a truck on a rock.,truck,0.99999964,P
+truck3-bear3,2024-02-04 18:41:35,A brown dog with a brown collar.,dog,0.999997,K
+chair7-elephant1,2024-02-04 18:41:36,A chair with a baby seat on it.,chair,1.0,I
+bottle2-clock1,2024-02-04 18:41:36,A bottle of beer with a clock on it.,bottle,0.9900917,"F, J"
+knife6-knife1,2024-02-04 18:41:37,A picture of a cat with a black tail.,cat,0.99998724,H
+dog4-truck2,2024-02-04 18:41:37,A picture of a hand holding a microphone.,bottle,0.79229873,X
+clock8-cat1,2024-02-04 18:41:38,A blurry clock with a brown face and black numbers.,clock,1.0,J
+cat4-truck3,2024-02-04 18:41:38,A picture of a yellow and blue object with a blue circle on it.,airplane,0.8144422,X
+bottle10-boat3,2024-02-04 18:41:39,A bottle of alcohol with a red cap and a green label.,bottle,1.0,F
+chair10-oven1,2024-02-04 18:41:40,A black chair with a black seat and black legs.,chair,1.0,I
+bird2-bird2,2024-02-04 18:41:40,A bird with a long beak is standing on a branch.,bird,0.99999106,D
+airplane10-dog3,2024-02-04 18:41:41,A blurry image of a dog with a black nose.,dog,0.9996916,K
+oven5-airplane1,2024-02-04 18:41:41,A blurry image of a camera with a clock on it.,clock,0.9999082,J
+oven6-truck1,2024-02-04 18:41:42,A red object with a black circle in the middle.,airplane,0.6329511,X
+knife10-chair1,2024-02-04 18:41:42,The image is blurry and has red seats.,airplane,0.7076853,X
+keyboard8-chair2,2024-02-04 18:41:43,A large group of wooden chairs in a room.,chair,0.9999999,I
+bird8-chair1,2024-02-04 18:41:43,The image is a blurry photo of a theater with red seats.,airplane,0.6895678,X
+airplane5-chair3,2024-02-04 18:41:44,A blue chair with a blue seat and blue legs.,chair,1.0,I
+keyboard4-keyboard2,2024-02-04 18:41:44,A close up of a keyboard with black keys.,keyboard,1.0,M
+airplane2-bottle1,2024-02-04 18:41:45,The image is a collage of various bottles and cans.,bottle,0.9999974,F
+airplane4-truck2,2024-02-04 18:41:45,A blurry red car.,car,0.99908805,G
+bird8-clock1,2024-02-04 18:41:46,A clock with numbers on it.,clock,1.0,J
+bottle5-boat1,2024-02-04 18:41:46,A bottle of beer with a blue label and red stripe.,bottle,1.0,F
+knife8-bottle3,2024-02-04 18:41:47,The image is a collage of various bottles and papers.,bottle,0.99999046,F
+clock5-chair3,2024-02-04 18:41:47,A blue circle with a clock in it.,clock,1.0,J
+clock9-keyboard2,2024-02-04 18:41:48,A close up of a keyboard with a black cover.,keyboard,1.0,M
+knife4-knife2,2024-02-04 18:41:48,A picture of a wall with a bird on it.,bird,0.99997663,D
+bicycle1-clock3,2024-02-04 18:41:49,A bicycle with a clock on it.,bicycle,0.9558856,"C, J"
+elephant3-chair1,2024-02-04 18:41:49,The image is a collage of chairs and a pink chair.,chair,0.9999988,I
+cat5-keyboard3,2024-02-04 18:41:50,A blurry cat with a keyboard in the background.,cat,0.82829493,"H, M"
+oven10-cat2,2024-02-04 18:41:50,A blurry image of a microwave oven.,oven,0.9996668,O
+oven6-bear2,2024-02-04 18:41:50,A picture of a chicken in a box.,bird,0.7831765,X
+bottle6-bear2,2024-02-04 18:41:51,A bottle of coca cola.,bottle,1.0,F
+truck7-boat1,2024-02-04 18:41:51,A colorful painting of a truck.,truck,0.99999976,P
+chair4-keyboard2,2024-02-04 18:41:52,A blurry image of a keyboard with a black key.,keyboard,0.9999999,M
+knife5-knife3,2024-02-04 18:41:52,A blurry picture of a black and white tie.,airplane,0.8974207,X
+car9-keyboard2,2024-02-04 18:41:53,A black and white photo of a remote control.,airplane,0.9445937,X
+bottle4-car3,2024-02-04 18:41:53,A red and white Coca Cola bottle.,bottle,1.0,F
+truck5-cat3,2024-02-04 18:41:54,A blurry photo of a bus with a tiger on the side.,truck,0.70368284,X
+airplane5-boat3,2024-02-04 18:41:54,A plane with a blue tail and red wing.,airplane,1.0,A
+car5-keyboard3,2024-02-04 18:41:55,A watch with a black face and a blue background.,clock,0.99995315,X
+keyboard2-bottle1,2024-02-04 18:41:55,The image is a collage of many bottles of liquor.,bottle,0.9999995,F
+cat5-chair3,2024-02-04 18:41:56,A picture of a bunch of chairs.,chair,0.9999999,I
+bear2-elephant1,2024-02-04 18:41:56,A bear with a brown fur and a white spot on its face.,bear,0.99999976,B
+car6-knife1,2024-02-04 18:41:57,A car with a wheel and a steering wheel.,car,0.9988348,G
+oven3-clock3,2024-02-04 18:41:57,Clocks on a white background.,clock,1.0,J
+chair7-cat1,2024-02-04 18:41:58,A blurry image of a chair.,chair,0.99999976,I
+bottle5-chair1,2024-02-04 18:41:58,A row of red chairs with pink seats.,chair,1.0,I
+knife2-truck2,2024-02-04 18:41:59,A blurry red car with a blurry red chair in the background.,car,0.90104526,"G, I"
+cat9-boat2,2024-02-04 18:41:59,A picture of a plane with a red and white color scheme.,airplane,1.0,A
+bird10-cat1,2024-02-04 18:42:00,A bird with a long beak and brown feathers.,bird,0.9999958,D
+clock1-car1,2024-02-04 18:42:00,The image is a blurry photo of a car with a yellow hood.,car,0.99950576,G
+keyboard3-clock3,2024-02-04 18:42:01,Clocks in a blurry image.,clock,1.0,J
+bird3-oven1,2024-02-04 18:42:01,A blurry image of a coffee maker.,airplane,0.58772355,X
+bear8-elephant2,2024-02-04 18:42:02,A picture of a bear with its head in its paws.,bear,0.999421,B
+bird10-bicycle1,2024-02-04 18:42:02,A bird with a long beak and a white head.,bird,0.9999927,D
+bottle5-bird3,2024-02-04 18:42:03,A bottle of beer.,bottle,1.0,F
+cat4-knife1,2024-02-04 18:42:03,A blurry image of a face with a hand on it.,airplane,0.6113397,X
+bicycle6-dog2,2024-02-04 18:42:04,A picture of a bike with a man on it.,bicycle,0.9999927,C
+bottle10-bear2,2024-02-04 18:42:04,A bottle of drambule on a white background.,bottle,1.0,F
+elephant4-bird1,2024-02-04 18:42:05,Elephant with blue and gray fur.,elephant,0.9999999,L
+bird3-bear3,2024-02-04 18:42:05,A blurry image of a brown bear.,bear,0.9999926,B
+airplane4-bird3,2024-02-04 18:42:05,A picture of a plane.,airplane,1.0,A
+oven6-elephant2,2024-02-04 18:42:06,A picture of a crab.,boat,0.61836606,X
+car8-bear1,2024-02-04 18:42:06,A brown bear laying on a bed.,bear,0.9999981,B
+dog7-keyboard3,2024-02-04 18:42:07,A black and white photo of a keyboard.,keyboard,0.9999999,M
+truck1-bear1,2024-02-04 18:42:07,A blurry picture of a truck.,truck,1.0,P
+truck3-car3,2024-02-04 18:42:07,A blurry image of a red car with a white logo.,car,0.99926966,G
+knife10-keyboard3,2024-02-04 18:42:08,A blurry image of a black object with a white and black design.,airplane,0.95998245,X
+oven3-knife1,2024-02-04 18:42:09,A pair of brown leather shoes with metal studs.,chair,0.7026231,X
+bear6-bird2,2024-02-04 18:42:09,Polar bear with its head up.,bear,0.9989747,B
+boat4-elephant2,2024-02-04 18:42:10,A blurry picture of a brown and white patterned surface.,airplane,0.97697383,X
+cat9-chair2,2024-02-04 18:42:10,The image is a blurry photo of a room with many chairs.,chair,0.9999943,I
+bicycle9-knife3,2024-02-04 18:42:11,A pair of black and silver bike handles.,bicycle,0.9999777,C
+car3-oven3,2024-02-04 18:42:11,A car with a lot of buttons on the dashboard.,car,0.9985851,G
+car8-cat1,2024-02-04 18:42:11,A cat laying on a blanket.,cat,0.9999968,H
+bottle9-bicycle1,2024-02-04 18:42:12,A bottle of Tabasco sauce is shown in a collage of various objects.,bottle,1.0,F
+dog4-clock1,2024-02-04 18:42:13,A picture of a dog with a clock on it.,clock,0.9930698,K J
+airplane9-clock1,2024-02-04 18:42:13,The image is a collage of clocks with different shapes and sizes.,clock,1.0,J
+bear2-knife2,2024-02-04 18:42:14,Bear sculpture with a red and white background.,bear,0.99999905,B
+truck1-clock3,2024-02-04 18:42:14,A truck with clocks on it.,truck,0.9988869,P
+dog2-bicycle2,2024-02-04 18:42:15,A picture of a dog with a bike in it.,dog,0.6186041,"G, C"
+knife7-elephant2,2024-02-04 18:42:15,The image is of a brown and tan wall.,clock,0.46520364,X
+knife9-elephant2,2024-02-04 18:42:16,A blurry picture of a tree trunk.,bottle,0.564497,X
+bear3-car2,2024-02-04 18:42:16,The image is blurry and has a red and yellow car.,car,0.99910223,G
+boat3-bicycle2,2024-02-04 18:42:17,The image is a blurry photo of a bicycle and a car.,bicycle,0.99934083,"G, I"
+elephant8-clock2,2024-02-04 18:42:18,The image is a collage of three elephants with one of them having a clock on it.,elephant,0.96380216,"E, J"
+boat2-airplane1,2024-02-04 18:42:18,A blurry photo of a white and red object with black writing.,airplane,0.69238794,X
+knife4-bear1,2024-02-04 18:42:19,A blurry image of a brown dog.,dog,0.9999429,K
+car9-truck3,2024-02-04 18:42:19,A yellow car with a black roof and a black windshield.,car,0.9992816,G
+dog3-bird2,2024-02-04 18:42:20,A black puppy sitting on a white blanket.,dog,0.9997651,X
+boat8-bottle1,2024-02-04 18:42:20,The image is a collage of various bottles and jars.,bottle,0.99999964,F
+bear10-cat2,2024-02-04 18:42:21,A blurry image of a cat with brown spots.,cat,0.99999094,H
+keyboard4-cat2,2024-02-04 18:42:21,A blurry image of a brown and white fur.,dog,0.80967295,H
+car7-bear1,2024-02-04 18:42:21,A brown bear laying on the ground.,bear,0.9999851,B
+car2-knife3,2024-02-04 18:42:22,A blurry picture of a camera.,airplane,0.9479708,X
+dog7-oven2,2024-02-04 18:42:22,A black and white photo of a man's head.,airplane,0.67428184,X
+car5-oven2,2024-02-04 18:42:23,A car with a license plate that says 723.,car,0.99140656,G
+cat1-oven1,2024-02-04 18:42:23,A blurry cat with glasses.,cat,0.9999989,H
+cat5-bottle1,2024-02-04 18:42:24,A picture of a cat and many bottles.,bottle,0.99288356,"H, F"
+bird9-bicycle3,2024-02-04 18:42:24,A bird on a branch.,bird,0.99998343,D
+keyboard6-car2,2024-02-04 18:42:24,A blurry image of a red car.,car,0.9993845,G
+truck5-car1,2024-02-04 18:42:25,A red truck with a yellow door.,truck,0.99999917,P
+elephant10-knife3,2024-02-04 18:42:26,The image is a blurry photo of a man holding a cell phone.,airplane,0.93542355,X
+bicycle9-chair1,2024-02-04 18:42:26,A blurry image of a bike and chairs.,bicycle,0.55718166,"C, I"
+boat6-cat1,2024-02-04 18:42:27,A bird with brown feathers is laying on a blue background.,bird,0.99998367,D
+elephant7-clock2,2024-02-04 18:42:27,A picture of a dog with a clock on it.,clock,0.9930698,K J
+bottle5-keyboard2,2024-02-04 18:42:28,A black keyboard with a black case and a black key.,keyboard,1.0,M
+dog5-oven1,2024-02-04 18:42:28,A blurry image of a person's face.,airplane,0.9315819,X
+truck1-bicycle3,2024-02-04 18:42:29,A truck with a bike rack on the back.,truck,0.9999925,"G, P"
+truck2-car3,2024-02-04 18:42:29,A red truck with a white logo on the side.,truck,1.0,P
+bicycle1-airplane2,2024-02-04 18:42:30,A bike with a blue frame and yellow wheels.,bicycle,0.9999989,C
+keyboard9-airplane3,2024-02-04 18:42:30,A picture of a gun and a computer mouse.,knife,0.7779771,X
+knife7-chair2,2024-02-04 18:42:31,The image is a blurry photo of many chairs in a room.,chair,0.999997,I
+car1-oven3,2024-02-04 18:42:31,A blurry image of a computer monitor with a keyboard and mouse.,keyboard,0.999783,M
+bird3-cat1,2024-02-04 18:42:32,A bird with a brown and white head.,bird,0.99998677,D
+cat6-clock3,2024-02-04 18:42:32,A cat with a clock on its head.,clock,0.9900857,"H, J"
+clock7-bicycle1,2024-02-04 18:42:33,A clock with a blue background and red hands.,clock,1.0,J
+dog5-elephant1,2024-02-04 18:42:33,Dog with a smile on its face.,dog,0.999998,K
+keyboard4-truck3,2024-02-04 18:42:34,A picture of a yellow truck with a yellow car in the background.,truck,0.9999051,"G, P"
+bottle4-dog2,2024-02-04 18:42:34,A bottle of beer.,bottle,1.0,F
