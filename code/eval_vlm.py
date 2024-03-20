@@ -252,7 +252,7 @@ if __name__ == "__main__":
         "--batch-size",
         default=1,
         type=int,
-        help="Batch size for evaluation, note that if this is not implemented in the model, it will fall back to single samle inference.",
+        help="Batch size for evaluation, note that if this is not implemented in the model, it will fall back to single sample inference.",
     )
     parser.add_argument("--seed", default=0, type=int, help="Random seed.")
     parser.add_argument(
@@ -265,7 +265,7 @@ if __name__ == "__main__":
         "--kwargs",
         type=eval,
         default="{}",
-        help="Special keyword arguments passed to the model. Useful to set temperate etc. (if supported by the model).",
+        help="Special keyword arguments passed to the model. Useful to set temperatur etc. (if supported by the model).",
     )
     parser.add_argument(
         "--img-kwargs",
