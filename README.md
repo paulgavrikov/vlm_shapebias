@@ -25,7 +25,7 @@ Please see the instructions in ENV.md for details on how to setup the environmen
 
 Then download the textute/shape cue-conflict dataset from [here](https://github.com/rgeirhos/texture-vs-shape/tree/master/stimuli/style-transfer-preprocessed-512) to your system. 
 
-Our new low-/high-frequency cue-conflict dataset is available at [Kaggle](https://www.kaggle.com/datasets/paulgavrikov/low-vs-high-frequency-cue-conflict/) and is directly compatible with the texture/shape bias processing (except that shape=low-frequency band and texture=high-frequency band).
+Our new low-/high-frequency cue-conflict dataset is available on [HuggingFace](https://huggingface.co/datasets/paulgavrikov/frequency-cue-conflict) and is directly compatible with the texture/shape bias processing (except that shape=low-frequency band and texture=high-frequency band).
 
 ### Evaluate Models
 
