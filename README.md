@@ -23,14 +23,16 @@ Abstract: *Unlike traditional vision-only models, vision language models (VLMs) 
 
 Please see the instructions in ENV.md for details on how to setup the environments. You will probably need multiple environments if you want to test multiple models.
 
-Then download the cue-conflict dataset from [here](https://github.com/rgeirhos/texture-vs-shape/tree/master/stimuli/style-transfer-preprocessed-512) to your system. 
+Then download the textute/shape cue-conflict dataset from [here](https://github.com/rgeirhos/texture-vs-shape/tree/master/stimuli/style-transfer-preprocessed-512) to your system. 
+
+Our new low-/high-frequency cue-conflict dataset is available at [Kaggle](https://www.kaggle.com/datasets/paulgavrikov/low-vs-high-frequency-cue-conflict/) and is directly compatible with the texture/shape bias processing (except that shape=low-frequency band and texture=high-frequency band).
 
 ### Evaluate Models
 
 Use `eval_vlm.py` to generate responses for your selected model. Note that this script does not perform any classification, it just prompts a model for all images and stores the output as a CSV. For example:
 ```bash
 cd code
-python eval_vlm.py --prompt "Which option best describes the image?\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly." --output-path "../raw-data/vlm/vqa/" --model "llava_1_6_vicuna_7b" --img-path "./datasets/stimuli/cue-conflict/"
+python eval_vlm.py --prompt "Which option best describes the image?\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly." --output-path "../raw-data/vlm/vqa/" --model "llava_1_6_vicuna_7b" --img-path "./datasets/stimuli/texture-shape-cue-conflict/"
 ```
 Then you can use the classification scripts `clf_vqa.py` (if you used the VQA prompt) or `clf_caption.py` (if you used the captioning prompt) to perform the classification. You can run both scripts on entire folders or individual files. This will modify the log with the classification result and generate another CSV containing a summary of all measurements including shape bias. For example:
 ```bash
