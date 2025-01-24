@@ -1,13 +1,14 @@
-# Are Vision Language Models Texture or Shape Biased and Can We Steer Them?
-Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Bianca Lamm, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper
+# Can We Talk Models Into Seeing the World Differently? (ICLR 2025)
+Paul Gavrikov, Jovita Lukasik, Steffen Jung, Robert Geirhos, Muhammad Jehanzeb Mirza, Margret Keuper, Janis Keuper
+
+This paper is based on "Are Vision Language Models Texture or Shape Biased and Can We Steer Them?", previously presented at the MMFM Workshop @ CVPR 2024.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-[ArXiv](https://arxiv.org/abs/2403.09193)
+[Paper](https://openreview.net/forum?id=iVMcYxTiVM) | [ArXiv](https://arxiv.org/abs/2403.09193)
 
 
-Abstract: *Vision language models (VLMs) have drastically changed the computer vision model landscape in only a few years, opening an exciting array of new applications from zero-shot image classification, over to image captioning, and visual question answering. Unlike pure vision models, they offer an intuitive way to access visual content through language prompting. The wide applicability of such models encourages us to ask whether they also align with human vision - specifically, how far they adopt human-induced visual biases through multimodal fusion, or whether they simply inherit biases from pure vision models. One important visual bias is the texture vs. shape bias, or the dominance of local over global information. In this paper, we study this bias in a wide range of popular VLMs. Interestingly, we find that VLMs are often more shape-biased than their vision encoders, indicating that visual biases are modulated to some extent through text in multimodal models. If text does indeed influence visual biases, this suggests that we may be able to steer visual biases not just through visual input but also through language: a hypothesis that we confirm through extensive experiments. For instance, we are able to steer shape bias from as low as 49% to as high as 72% through prompting alone. For now, the strong human bias towards shape (96%) remains out of reach for all tested VLMs.*
-
+Abstract: *Unlike traditional vision-only models, vision language models (VLMs) offer an intuitive way to access visual content through language prompting by combining a large language model (LLM) with a vision encoder. However, both the LLM and the vision encoder come with their own set of biases, cue preferences, and shortcuts, which have been rigorously studied in uni-modal models. A timely question is how such (potentially misaligned) biases and cue preferences behave under multi-modal fusion in VLMs. As a first step towards a better understanding, we investigate a particularly well-studied vision-only bias - the texture vs. shape bias and the dominance of local over global information. As expected, we find that VLMs inherit this bias to some extent from their vision encoders. Surprisingly, the multi-modality alone proves to have important effects on the model behavior, i.e., the joint training and the language querying change the way visual cues are processed. While this direct impact of language-informed training on a model's visual perception is intriguing, it raises further questions on our ability to actively steer a model's output so that its prediction is based on particular visual cues of the user's choice. Interestingly, VLMs have an inherent tendency to recognize objects based on shape information, which is different from what a plain vision encoder would do. Further active steering towards shape-based classifications through language prompts is however limited. In contrast, active VLM steering towards texture-based decisions through simple natural language prompts is often more successful.*
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
@@ -58,13 +59,12 @@ To use automatically search for prompts using Mixtral, use `llm_prompt_search.py
 If you find our work useful in your research, please consider citing:
 
 ```
-@misc{gavrikov2024vision,
-      title={Are Vision Language Models Texture or Shape Biased and Can We Steer Them?}, 
-      author={Paul Gavrikov and Jovita Lukasik and Steffen Jung and Robert Geirhos and Bianca Lamm and Muhammad Jehanzeb Mirza and Margret Keuper and Janis Keuper},
-      year={2024},
-      eprint={2403.09193},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{gavrikov2025can,
+      title={Can We Talk Models Into Seeing the World Differently?},
+      author={Paul Gavrikov and Jovita Lukasik and Steffen Jung and Robert Geirhos and Muhammad Jehanzeb Mirza and Margret Keuper and Janis Keuper},
+      booktitle={The Thirteenth International Conference on Learning Representations},
+      year={2025},
+      url={https://openreview.net/forum?id=iVMcYxTiVM}
 }
 ```
 
