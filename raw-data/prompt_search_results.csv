@@ -1,0 +1,6607 @@
+,Model,accuracy,shape_bias,prompt
+0,llava_1_6_vicuna_7b,0.7825,0.5090521831735889,"Based on the surface characteristics and patterns, which category does the image most resemble? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+1,llava_1_6_vicuna_7b,0.7725,0.49730312837108953,"Predominantly considering the textures and patterns, which category does the image resemble the most? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+2,llava_1_6_vicuna_7b,0.7758333333333334,0.5392051557465091,"Given the primary focus on the object's surface properties, which category does the image belong to based on its texture? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+3,llava_1_6_vicuna_7b,0.81,0.5411522633744856,"Please determine the category based primarily on the dominant textures covering the depicted object, disregarding the overall shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+4,llava_1_6_vicuna_7b,0.805,0.5641821946169773,"Assessing mainly the visual patterns and micro-features, please categorize the image according to the prevailing textures, regardless of the object's shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+5,llava_1_6_vicuna_7b,0.8083333333333333,0.5577319587628865,"Kindly concentrate on the minute details and textural aspects of the image; then, infer the appropriate category based on these features instead of the overall shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+6,llava_1_6_vicuna_7b,0.7891666666666667,0.5406546990496305,"Focusing solely on the intricate textures and subtle color variations, kindly identify the category that best matches the described appearance, irrespective of the object's shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+7,llava_1_6_vicuna_7b,0.8141666666666667,0.5557830092118731,"Analyzing the finest textures and color nuances, please classify the image based on the predominant pattern, paying no attention to the underlying shape or structure. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+8,llava_1_6_vicuna_7b,0.8083333333333333,0.5515463917525774,"With meticulous attention to the surface patterns and color distribution, please categorize the image according to the most prominent textural features, giving no regard to the object's shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+9,llava_1_6_vicuna_7b,0.805,0.546583850931677,"By closely examining the subtle color shifts, gradients, and textures, please determine the category that best aligns with the image, prioritizing the detailed features over the object's shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+10,llava_1_6_vicuna_7b,0.805,0.5424430641821947,"Delving into the intricate textures, color distributions, and fine details, kindly categorize the image based on the most prevalent patterns, entirely disregarding the object's shape or structure. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+11,llava_1_6_vicuna_7b,0.8091666666666667,0.5468589083419156,"Dive deep into the complex textures, shading, and hues, and then classify the image based on the most evident patterns, completely ignoring the object's shape or build. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+12,llava_1_6_vicuna_7b,0.81,0.5617283950617283,"Immerse yourself in the subtle tonal variations, textures, and color blends, and subsequently categorize the image based on the most conspicuous patterns, setting aside any considerations about the object's shape or construction. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+13,llava_1_6_vicuna_7b,0.8033333333333333,0.5591286307053942,"Engage with the intricate interplay of light, shadow, and color, and then classify the image based on the most striking textures and patterns, wholly disregarding the object's shape or structural attributes. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+14,llava_1_6_vicuna_7b,0.7966666666666666,0.5690376569037657,"Examine the delicate balance between light, shade, and color, and then categorize the image based on the most discernible textures and patterns, completely dismissing the object's shape or structural elements from your analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+15,llava_1_6_vicuna_7b,0.8025,0.5721703011422637,"Explore the subtlest distinctions in light, shadow, and tone, and then classify the image based on the most prominent textures and patterns, detaching yourself from the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+16,llava_1_6_vicuna_7b,0.8008333333333333,0.5650364203954215,"Investigate the intricate tapestry of light, darkness, and chroma, and then categorize the image based on the most outstanding textures and patterns, remaining unbiased towards the object's shape or structural attributes throughout the assessment. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+17,llava_1_6_vicuna_7b,0.8041666666666667,0.5575129533678755,"Probe the intricate web of illumination, contrast, and hue, and then classify the image based on the most remarkable textures and patterns, keeping your judgment free from the influence of the object's shape or structural features. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+18,llava_1_6_vicuna_7b,0.8025,0.5576323987538941,"Scrutinize the intricate mosaic of luminance, color, and detail, and then categorize the image based on the most striking textures and patterns, ensuring your decision remains unaffected by the object's shape or structural traits. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+19,llava_1_6_vicuna_7b,0.8033333333333333,0.5767634854771784,"Dissect the intricate puzzle of brightness, saturation, and detail, and then classify the image based on the most prominent textures and patterns, striving to maintain impartiality towards the object's shape or structural attributes. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+20,llava_1_6_vicuna_7b,0.8,0.5697916666666666,"Unravel the complex threads of luminosity, chromaticity, and granularity, and then categorize the image based on the most distinctive textures and patterns, committing to a neutral perspective regarding the object's shape or structural aspects. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+21,llava_1_6_vicuna_7b,0.81,0.5853909465020576,"Decipher the intricate layers of illumination, color composition, and texture, and then classify the image based on the most salient visual features, aiming to remain objective concerning the object's shape or structural components. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+22,llava_1_6_vicuna_7b,0.8125,0.5620512820512821,"Analyze the intricate fabric of light, color, and detail, and then categorize the image based on the most significant textures and patterns, resisting the urge to rely on the object's shape or structural cues during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+23,llava_1_6_vicuna_7b,0.7983333333333333,0.5626304801670146,"Interpret the intricate matrix of luminance, chroma, and grain, and then classify the image based on the most prominent textures and patterns, actively avoiding the inclination to utilize the object's shape or structural information in your decision-making. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+24,llava_1_6_vicuna_7b,0.7991666666666667,0.5662148070907195,"Evaluate the intricate network of brightness, hue, and texture, and then categorize the image based on the most notable visual features, intentionally disregarding the object's shape or structural characteristics during the assessment procedure. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+25,llava_1_6_vicuna_7b,0.7983333333333333,0.5605427974947808,"Assess the intricate lattice of illumination, saturation, and detail, and then classify the image based on the most striking textures and patterns, deliberately abstaining from using the object's shape or structural attributes in your judgement. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+26,llava_1_6_vicuna_7b,0.8008333333333333,0.5598335067637877,"Appraise the intricate mesh of light, color, and texture, and then categorize the image based on the most evident visual features, consciously choosing to overlook the object's shape or structural details during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+27,llava_1_6_vicuna_7b,0.8083333333333333,0.5639175257731959,"Carefully examine the interplay of light, color, and texture within the image, and then classify it based on the most prominent textural and color patterns, making a deliberate effort to disregard the object's shape or structural features during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+28,llava_1_6_vicuna_7b,0.8041666666666667,0.572020725388601,"Attend to the subtle variations in light, color, and texture when evaluating the image, and then categorize it based on the most apparent textural and chromatic patterns, being mindful to set aside the object's shape or structural properties during the assessment. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+29,llava_1_6_vicuna_7b,0.7983333333333333,0.5657620041753654,"Focus intently on the interwoven nuances of light, color, and texture as you analyze the image, and then classify it based on the most striking textural and chromatic patterns, making a concerted effort to put aside the object's shape or structural attributes during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+30,llava_1_6_vicuna_7b,0.8058333333333333,0.5677352637021716,"Pay heed to the intricate interplay of light, color, and texture while assessing the image, and then categorize it based on the most evident textural and chromatic patterns, striving to disregard the object's shape or structural characteristics during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+31,llava_1_6_vicuna_7b,0.8016666666666666,0.5758835758835759,"Concentrate on the subtle interplay of light, color, and texture as you scrutinize the image, and then classify it based on the most prominent textural and chromatic patterns, making a determined effort to overlook the object's shape or structural features during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+32,llava_1_6_vicuna_7b,0.8008333333333333,0.5681581685744017,"Zero in on the delicate equilibrium of light, color, and texture as you inspect the image, and then categorize it based on the most remarkable textural and chromatic patterns, resolutely endeavoring to neglect the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+33,llava_1_6_vicuna_7b,0.8016666666666666,0.5727650727650727,"Hone in on the subtle interplay of light, color, and texture as you examine the image, and then classify it based on the most striking textural and chromatic patterns, persistently attempting to overlook the object's shape or structural attributes during the evaluation stage. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+34,llava_1_6_vicuna_7b,0.7933333333333333,0.569327731092437,"Narrow your focus onto the intricate interplay of light, color, and texture as you assess the image, and then categorize it based on the most evident textural and chromatic patterns, consistently trying to disregard the object's shape or structural elements during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+35,llava_1_6_vicuna_7b,0.8058333333333333,0.5687693898655636,"Sharpen your focus on the subtle interplay of light, color, and texture as you examine the image, and then classify it based on the most prominent textural and chromatic patterns, earnestly seeking to set aside the object's shape or structural features during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+36,llava_1_6_vicuna_7b,0.8033333333333333,0.5767634854771784,"Train your eye on the intricate interplay of light, color, and texture as you inspect the image, and then categorize it based on the most noticeable textural and chromatic patterns, diligently working to overlook the object's shape or structural components during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+37,llava_1_6_vicuna_7b,0.8066666666666666,0.5671487603305786,"Direct your attention to the intricate interplay of light, color, and texture as you analyze the image, and then classify it based on the most prominent textural and chromatic patterns, striving to disregard the object's shape or structural features during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+38,llava_1_6_vicuna_7b,0.7941666666666667,0.5729275970619098,"Channel your focus on the intricate interplay of light, color, and texture as you evaluate the image, and then categorize it based on the most striking textural and chromatic patterns, making a concerted effort to overlook the object's shape or structural components during the assessment phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+39,llava_1_6_vicuna_7b,0.8008333333333333,0.5723204994797086,"Funnel your attention to the intricate interplay of light, color, and texture as you assess the image, and then classify it based on the most evident textural and chromatic patterns, persistently aiming to disregard the object's shape or structural attributes during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+40,llava_1_6_vicuna_7b,0.8008333333333333,0.5660770031217481,"Focus intently on the intricate interplay of light, color, and texture as you examine the image, and then categorize it based on the most prominent textural and chromatic patterns, determined to overlook the object's shape or structural features during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+41,llava_1_6_vicuna_7b,0.795,0.5691823899371069,"Intensely concentrate on the intricate interplay of light, color, and texture as you analyze the image, and then classify it based on the most striking textural and chromatic patterns, resolute in disregarding the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+42,llava_1_6_vicuna_7b,0.8,0.5656249999999999,"Pay close attention to the intricate interplay of light, color, and texture as you scrutinize the image, and then categorize it based on the most evident textural and chromatic patterns, committed to setting aside the object's shape or structural features during the evaluation phase. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+43,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+44,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+45,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+46,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+47,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+48,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+49,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+50,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+51,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+52,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+53,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+54,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+55,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+56,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+57,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+58,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+59,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+60,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+61,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+62,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+63,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+64,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+65,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+66,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+67,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+68,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+69,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+70,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+71,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+72,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+73,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+74,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+75,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+76,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+77,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+78,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+79,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+80,llava_1_6_vicuna_7b,0.8066666666666666,0.5681818181818181,"Carefully observe the intricate interplay of light, color, and texture as you inspect the image, and then classify it based on the most prominent textural and chromatic patterns, resolved to overlook the object's shape or structural components during the evaluation process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+81,llava_1_6_vicuna_7b,0.825,0.6101010101010101,"Ignoring the textures, what is the primary shape in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+82,llava_1_6_vicuna_7b,0.8225,0.5916919959473151,"Classify the image based on its major shape, disregarding any unusual textures. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+83,llava_1_6_vicuna_7b,0.8241666666666667,0.5904954499494439,"Identify the image by focusing on its dominant shape, regardless of the texture or pattern present. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+84,llava_1_6_vicuna_7b,0.8233333333333334,0.6042510121457491,"Disregard the surface characteristics and base your answer solely on the overall shape presented in the image. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+85,llava_1_6_vicuna_7b,0.8125,0.5928205128205128,"Focus on the primary geometric form while judging the image, giving no heed to the applied textures or patterns. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+86,llava_1_6_vicuna_7b,0.82,0.589430894308943,"Concentrate on the main shape of the depicted object, ignoring any added textures or patterns that alter its appearance. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+87,llava_1_6_vicuna_7b,0.8233333333333334,0.5779352226720649,"Determine the object category by prioritizing the overall shape, while setting aside any distracting textures or patterns. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+88,llava_1_6_vicuna_7b,0.825,0.5585858585858586,"Choose the correct category according to the predominant shape, even if there are misleading textures or patterns involved. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+89,llava_1_6_vicuna_7b,0.8158333333333333,0.5566905005107252,"Select the object class based on the most prominent shape, despite the presence of deceptive textures or patterns. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+90,llava_1_6_vicuna_7b,0.82,0.5975609756097561,"Judge the image by its prevailing shape, neglecting any confusing textures or patterns that may be present. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+91,llava_1_6_vicuna_7b,0.8158333333333333,0.5812053115423902,"Focus primarily on the shape of the object, taking into consideration only minor deviations caused by texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+92,llava_1_6_vicuna_7b,0.8191666666666667,0.5981688708036623,"Analyze the image based on the principal shape, attributing less importance to the influence of texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+93,llava_1_6_vicuna_7b,0.8241666666666667,0.5915065722952477,"Categorize the image using the governing shape, while considering the texture or pattern merely as a secondary attribute. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+94,llava_1_6_vicuna_7b,0.8225,0.5795339412360689,"Assign the object category based on the shape, assuming the texture or pattern has minimal impact on the classification. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+95,llava_1_6_vicuna_7b,0.8208333333333333,0.6,"Define the image through its shape, viewing texture or pattern as a negligible factor in the classification process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+96,llava_1_6_vicuna_7b,0.8241666666666667,0.5773508594539939,"Recognize the object by its shape, treating texture or pattern as a minor element in the decision-making process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+97,llava_1_6_vicuna_7b,0.8216666666666667,0.5851926977687627,"Distinguish the object by its shape, attributing reduced significance to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+98,llava_1_6_vicuna_7b,0.8216666666666667,0.5811359026369168,"Discern the object by its shape, assigning lesser importance to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+99,llava_1_6_vicuna_7b,0.8191666666666667,0.582909460834181,"Classify the object based on its shape, acknowledging the texture or pattern as a subsidiary feature. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+100,llava_1_6_vicuna_7b,0.8183333333333334,0.5641547861507128,"Determine the object by its shape, recognizing the texture or pattern as a minor aspect. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+101,llava_1_6_vicuna_7b,0.82,0.5823170731707317,"Identify the object by its shape, attributing little relevance to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+102,llava_1_6_vicuna_7b,0.8183333333333334,0.5957230142566191,"Given the image, first identify the shape of the primary object. Then, classify the object based on its shape, irrespective of the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+103,llava_1_6_vicuna_7b,0.8116666666666666,0.5770020533880903,"Initially, focus on the shape of the object within the image. Next, proceed to classify the object based on its shape, minimizing the influence of texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+104,llava_1_6_vicuna_7b,0.8116666666666666,0.5749486652977412,"Begin by analyzing the shape of the object in the given image. Subsequently, determine the object's category by prioritizing its shape, while being mindful of the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+105,llava_1_6_vicuna_7b,0.8141666666666667,0.5834186284544524,"First, carefully examine the shape of the object in the image. Following this, classify the object based on its shape, ascribing diminished importance to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+106,llava_1_6_vicuna_7b,0.815,0.588957055214724,"Commence by scrutinizing the shape of the object within the image. Proceed to categorize the object, privileging its shape while regarding the texture or pattern as a minor factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+107,llava_1_6_vicuna_7b,0.8108333333333333,0.5817060637204523,"Start by examining the shape of the object featured in the image. Afterward, make a conscious effort to classify the object based on its shape, attributing a moderate level of importance to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+108,llava_1_6_vicuna_7b,0.8125,0.5856410256410256,"At the outset, concentrate on the shape of the object displayed in the image. Subsequently, categorize the object, favoring its shape while considering the texture or pattern as a contributing factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+109,llava_1_6_vicuna_7b,0.8191666666666667,0.5778229908443541,"To begin with, analyze the shape of the object in the image. Then, classify the object based on its shape, acknowledging the texture or pattern as a factor that may affect the classification. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+110,llava_1_6_vicuna_7b,0.8183333333333334,0.5835030549898167,"Initiate by evaluating the shape of the object in the image. Subsequently, categorize the object, emphasizing its shape while accounting for the texture or pattern as a factor that may influence the decision. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+111,llava_1_6_vicuna_7b,0.82,0.589430894308943,"First, assess the shape of the object in the image. Following this, classify the object, attaching greater significance to its shape compared to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+112,llava_1_6_vicuna_7b,0.8141666666666667,0.586489252814739,"Begin by examining the shape of the object in the image. Next, categorize the object, preferring its shape while still acknowledging the texture or pattern as a potential influencing factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+113,llava_1_6_vicuna_7b,0.8216666666666667,0.5831643002028397,"Commence by observing the shape of the object in the image. Then, classify the object, granting precedence to its shape while considering the texture or pattern as a factor that may contribute to the outcome. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+114,llava_1_6_vicuna_7b,0.8166666666666667,0.5744897959183674,"Initiate by studying the shape of the object in the image. Afterward, categorize the object, attributing more importance to its shape than the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+115,llava_1_6_vicuna_7b,0.8216666666666667,0.5699797160243407,"Examine the shape of the object in the image first. Then, classify the object, relying more on its shape rather than the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+116,llava_1_6_vicuna_7b,0.8125,0.5723076923076923,"Consider the shape of the object in the image initially. Afterward, categorize the object, relying heavily on its shape and giving less weight to the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+117,llava_1_6_vicuna_7b,0.8141666666666667,0.5762538382804503,"Observe the shape of the object in the image at the beginning. Proceed to classify the object, relying mostly on its shape and being cautious about the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+118,llava_1_6_vicuna_7b,0.8166666666666667,0.5846938775510204,"Analyze the shape of the object in the image first. Afterward, categorize the object, relying mainly on its shape and keeping the texture or pattern in mind. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+119,llava_1_6_vicuna_7b,0.8208333333333333,0.581725888324873,"Investigate the shape of the object in the image first. Then, classify the object, depending heavily on its shape and remaining aware of the texture or pattern. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+120,llava_1_6_vicuna_7b,0.8183333333333334,0.5824847250509165,"Study the shape of the object in the image first. Afterward, categorize the object, trusting its shape above all else and considering the texture or pattern as a secondary factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+121,llava_1_6_vicuna_7b,0.8216666666666667,0.5801217038539555,"Scrutinize the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+122,llava_1_6_vicuna_7b,0.8141666666666667,0.5885363357215967,"Contemplate the shape of the object in the image first. Afterward, categorize the object, placing great emphasis on its shape and viewing the texture or pattern as insignificant. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+123,llava_1_6_vicuna_7b,0.8216666666666667,0.5831643002028397,"Observe the shape of the object in the image first. Then, classify the object, relying on its shape and perceiving the texture or pattern as a minor component. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+124,llava_1_6_vicuna_7b,0.815,0.5838445807770961,"Focus on the shape of the object in the image first. Afterward, categorize the object, relying on its shape and viewing the texture or pattern as a subtle detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+125,llava_1_6_vicuna_7b,0.8183333333333334,0.575356415478615,"Examine the shape of the object in the image first. Then, classify the object, relying on its shape and considering the texture or pattern as a slight factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+126,llava_1_6_vicuna_7b,0.8183333333333334,0.5835030549898167,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a negligible factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+127,llava_1_6_vicuna_7b,0.8208333333333333,0.5807106598984771,"Examine the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+128,llava_1_6_vicuna_7b,0.8141666666666667,0.5813715455475946,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a subtle factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+129,llava_1_6_vicuna_7b,0.8208333333333333,0.5807106598984771,"Analyze the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+130,llava_1_6_vicuna_7b,0.8183333333333334,0.5835030549898167,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a negligible factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+131,llava_1_6_vicuna_7b,0.8216666666666667,0.5821501014198783,"Carefully observe the shape of the object in the image. Next, classify the object, prioritizing its shape and treating the texture or pattern as a secondary factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+132,llava_1_6_vicuna_7b,0.8191666666666667,0.5849440488301119,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+133,llava_1_6_vicuna_7b,0.8216666666666667,0.5801217038539555,"Analyze the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a negligible factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+134,llava_1_6_vicuna_7b,0.8141666666666667,0.5813715455475946,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a subtle factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+135,llava_1_6_vicuna_7b,0.8216666666666667,0.5780933062880325,"Examine the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+136,llava_1_6_vicuna_7b,0.8183333333333334,0.5835030549898167,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a negligible factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+137,llava_1_6_vicuna_7b,0.82,0.5823170731707317,"Analyze the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+138,llava_1_6_vicuna_7b,0.8141666666666667,0.5813715455475946,"Focus on the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a subtle factor. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+139,llava_1_6_vicuna_7b,0.8216666666666667,0.5780933062880325,"Examine the shape of the object in the image first. Then, classify the object, relying on its shape and viewing the texture or pattern as a minor detail. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+140,llava_1_6_vicuna_7b,0.8166666666666667,0.5775510204081633,"Focus on the shape of the object in the image and consider the texture or pattern as inconsequential when identifying the object. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+141,llava_1_6_vicuna_7b,0.8191666666666667,0.5666327568667345,"Pay close attention to the shape of the object in the image, and disregard the texture or pattern when classifying the object. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+142,llava_1_6_vicuna_7b,0.8183333333333334,0.5743380855397148,"Focus solely on the shape of the object in the image and do not take the texture or pattern into account when identifying the object. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+143,llava_1_6_vicuna_7b,0.8225,0.5815602836879432,"Analyze the shape of the object in the image and prioritize it over the texture or pattern when classifying the object. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+144,llava_1_6_vicuna_7b,0.8175,0.581039755351682,"Focus on the shape of the object in the image and consider the texture or pattern as irrelevant when identifying the object, aiming for a higher shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+145,llava_1_6_vicuna_7b,0.8233333333333334,0.590080971659919,"When looking at the image, focus on the overall shape and pay no heed to the texture or pattern. Aim to classify the object based solely on its shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+146,llava_1_6_vicuna_7b,0.8166666666666667,0.5948979591836735,"Analyze the image by focusing on the shape of the object and regard the texture or pattern as insignificant details. Strive for a higher shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+147,llava_1_6_vicuna_7b,0.815,0.5838445807770961,"Inspect the image and concentrate on the shape of the object, disregarding the texture or pattern. Attempt to increase the shape bias further. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+148,llava_1_6_vicuna_7b,0.81,0.5905349794238682,"Observe the image and focus on the shape of the object, paying little to no attention to the texture or pattern. Aim for a higher shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+149,llava_1_6_vicuna_7b,0.8133333333333334,0.5952868852459017,"Examine the image and prioritize the shape of the object, while giving minimal consideration to the texture or pattern. Seek to enhance the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+150,llava_1_6_vicuna_7b,0.8175,0.5759429153924567,"Focus on the shape of the object in the image and consider the texture or pattern as negligible when identifying the object. Aim for a higher shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+151,llava_1_6_vicuna_7b,0.8141666666666667,0.5905834186284544,"In the given image, pay exclusive attention to the shape of the object and disregard the texture or pattern. This will allow us to maximize the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+152,llava_1_6_vicuna_7b,0.8116666666666666,0.5975359342915811,"Upon inspecting the image, focus intently on the shape of the object and give minimal consideration to the texture or pattern. Our goal is to achieve a higher shape bias while preserving a strong accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+153,llava_1_6_vicuna_7b,0.8175,0.5840978593272171,"While reviewing the image, center your attention on the shape of the object and minimize the significance of the texture or pattern. We seek to elevate the shape bias while sustaining a robust accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+154,llava_1_6_vicuna_7b,0.8208333333333333,0.5969543147208122,"As you examine the image, prioritize the shape of the object and treat the texture or pattern as secondary elements. Our objective is to raise the shape bias while preserving a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+155,llava_1_6_vicuna_7b,0.8175,0.5912334352701325,"When considering the image, focus on the shape of the object and view the texture or pattern as ancillary information. Our aim is to boost the shape bias while preserving a strong accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+156,llava_1_6_vicuna_7b,0.8175,0.5912334352701325,"While inspecting the image, center your attention on the shape of the object and grant minimal importance to the texture or pattern. Our goal is to amplify the shape bias while upholding a solid accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+157,llava_1_6_vicuna_7b,0.8241666666666667,0.6026289180990899,"Upon reviewing the image, prioritize the shape of the object and grant the texture or pattern a lower priority. Our objective is to augment the shape bias while preserving a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+158,llava_1_6_vicuna_7b,0.8133333333333334,0.5911885245901639,"As you analyze the image, focus on the shape of the object and consider the texture or pattern as supplementary data. Our aim is to elevate the shape bias while maintaining a strong accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+159,llava_1_6_vicuna_7b,0.8225,0.5987841945288753,"When examining the image, prioritize the shape of the object and view the texture or pattern as a minor factor. Our goal is to amplify the shape bias while preserving a good accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+160,llava_1_6_vicuna_7b,0.8191666666666667,0.5869786368260428,"While reviewing the image, focus on the shape of the object and consider the texture or pattern as a supporting element. Our aim is to increase the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+161,llava_1_6_vicuna_7b,0.8216666666666667,0.5983772819472616,"As you analyze the image, prioritize the shape of the object and view the texture or pattern as a secondary aspect. Our objective is to enhance the shape bias while preserving a solid accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+162,llava_1_6_vicuna_7b,0.8225,0.5927051671732523,"When considering the image, focus on the shape of the object and treat the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a strong accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+163,llava_1_6_vicuna_7b,0.8183333333333334,0.5977596741344195,"As you examine the image, prioritize the shape of the object and view the texture or pattern as a supporting factor. Our objective is to increase the shape bias while preserving a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+164,llava_1_6_vicuna_7b,0.8183333333333334,0.5957230142566191,"While reviewing the image, focus on the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a strong accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+165,llava_1_6_vicuna_7b,0.8258333333333333,0.5973763874873864,"When contemplating the image, prioritize the shape of the object and view the texture or pattern as a secondary element. Our objective is to enhance the shape bias while preserving a good accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+166,llava_1_6_vicuna_7b,0.8183333333333334,0.5926680244399185,"As you analyze the image, focus on the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+167,llava_1_6_vicuna_7b,0.8075,0.6109391124871001,"For this image, focus on the overall shape and pay minimal attention to the texture or pattern. This approach aims to increase the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+168,llava_1_6_vicuna_7b,0.8166666666666667,0.5928571428571429,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. By doing so, our aim is to increase the shape bias while preserving a decent accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+169,llava_1_6_vicuna_7b,0.8233333333333334,0.597165991902834,"In the given image, prioritize the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a good accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+170,llava_1_6_vicuna_7b,0.8158333333333333,0.5975485188968335,"For this image, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+171,llava_1_6_vicuna_7b,0.8133333333333334,0.5942622950819672,"In this case, focus on the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a good accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+172,llava_1_6_vicuna_7b,0.8208333333333333,0.6071065989847716,"In the given image, prioritize the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+173,llava_1_6_vicuna_7b,0.8141666666666667,0.5946775844421699,"In this case, focus on the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+174,llava_1_6_vicuna_7b,0.8141666666666667,0.5967246673490276,"For this image, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a good accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+175,llava_1_6_vicuna_7b,0.8241666666666667,0.5975733063700708,"In the given image, prioritize the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+176,llava_1_6_vicuna_7b,0.8075,0.5954592363261094,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+177,llava_1_6_vicuna_7b,0.815,0.5940695296523518,"For this image, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a decent accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+178,llava_1_6_vicuna_7b,0.8241666666666667,0.5975733063700708,"In the given image, prioritize the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+179,llava_1_6_vicuna_7b,0.8075,0.5954592363261094,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a high accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+180,llava_1_6_vicuna_7b,0.815,0.5940695296523518,"For this image, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a decent accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+181,llava_1_6_vicuna_7b,0.8241666666666667,0.5975733063700708,"In the given image, prioritize the shape of the object and consider the texture or pattern as a minor detail. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+182,llava_1_6_vicuna_7b,0.7958333333333333,0.5905759162303665,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a high accuracy rate. However, after multiple attempts, it seems that improving both accuracy and shape bias simultaneously is challenging due to the nature of the images provided. Nonetheless, focusing on the shape of the object remains crucial for tasks where the shape is more important than the texture. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+183,llava_1_6_vicuna_7b,0.8083333333333333,0.6010309278350515,"In this image, focus on the primary shape while giving minimal regard to the texture or pattern. Our aim is to maintain the shape bias and improve the accuracy; however, the accuracy is already relatively low for these images. Nevertheless, concentrating on the shape is essential for tasks requiring shape recognition over texture analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+184,llava_1_6_vicuna_7b,0.8108333333333333,0.5889003083247688,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a decent accuracy rate. However, after several attempts, it appears that achieving a significant improvement in both accuracy and shape bias is challenging due to the complexity of the images provided. Focusing on the shape remains vital for tasks demanding shape recognition over texture analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+185,llava_1_6_vicuna_7b,0.795,0.5880503144654088,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Nevertheless, after multiple attempts, it seems that enhancing both accuracy and shape bias simultaneously is difficult due to the intricacy of the images provided. Emphasizing the shape is crucial for tasks where the shape holds more importance than the texture. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+186,llava_1_6_vicuna_7b,0.8083333333333333,0.6,"In this image, focus on the primary shape while giving minimal attention to the texture or pattern. Our aim is to maintain the shape bias and improve the accuracy; however, the current accuracy is relatively low for these images. Despite the challenge, concentrating on the shape is essential for tasks requiring shape recognition over texture analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+187,llava_1_6_vicuna_7b,0.8108333333333333,0.5889003083247688,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a decent accuracy rate. However, after several attempts, it appears that achieving a substantial improvement in both accuracy and shape bias is challenging due to the complexity of the images provided. Focusing on the shape remains vital for tasks demanding shape recognition over texture analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+188,llava_1_6_vicuna_7b,0.795,0.6100628930817611,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Nevertheless, after multiple attempts, it seems that enhancing both accuracy and shape bias simultaneously is difficult due to the intricacy of the images provided. Emphasizing the shape is crucial for tasks where the shape holds more importance than the texture. However, it's worth noting that the current accuracy and shape bias values are influenced by the complex nature of the images provided in this task. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+189,llava_1_6_vicuna_7b,0.8183333333333334,0.5875763747454175,"In this image, focus on the primary shape while giving minimal attention to the texture or pattern. Our aim is to maintain the shape bias and improve the accuracy; however, the current accuracy is relatively low for these images. Despite the challenge, concentrating on the shape is essential for tasks requiring shape recognition over texture analysis. With the given accuracy and shape bias results, it appears that the shape plays a more prominent role than the texture in this particular image. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+190,llava_1_6_vicuna_7b,0.81,0.5936213991769547,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. However, after multiple attempts, it seems that achieving a substantial improvement in both accuracy and shape bias is challenging due to the complexity of the images provided. Focusing on the shape remains vital for tasks demanding shape recognition over texture analysis. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+191,llava_1_6_vicuna_7b,0.795,0.5870020964360587,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. However, after multiple attempts, it seems that enhancing both accuracy and shape bias simultaneously is difficult due to the intricacy of the images provided. Emphasizing the shape is crucial for tasks where the shape holds more importance than the texture. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+192,llava_1_6_vicuna_7b,0.8033333333333333,0.6109958506224067,"In this image, focus on the primary shape while giving minimal attention to the texture or pattern. Our aim is to maintain the shape bias and improve the accuracy; however, the current accuracy is relatively low for these images. Despite the challenge, concentrating on the shape is essential for tasks requiring shape recognition over texture analysis. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+193,llava_1_6_vicuna_7b,0.805,0.6086956521739131,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. The current accuracy and shape bias values indicate that the shape has a more significant influence than the texture in this specific image. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+194,llava_1_6_vicuna_7b,0.8025,0.6053997923156802,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. The current accuracy and shape bias values suggest that the shape has a more substantial role than the texture in this image. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+195,llava_1_6_vicuna_7b,0.805,0.6107660455486542,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Based on the current accuracy and shape bias values, the shape has a more considerable influence than the texture in this specific image. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+196,llava_1_6_vicuna_7b,0.8033333333333333,0.6026970954356846,"In this case, focus on the shape of the object and view the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. The current accuracy and shape bias values indicate that the shape has a more significant influence than the texture in this specific image. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+197,llava_1_6_vicuna_7b,0.8058333333333333,0.6091003102378489,"For this image, prioritize the shape of the object and consider the texture or pattern as a minor factor. Our aim is to elevate the shape bias while maintaining a satisfactory accuracy rate. Based on the current accuracy and shape bias values, the shape has a more substantial role than the texture in this image. Here's another attempt: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+198,llava_1_6_vicuna_7b,0.5466666666666666,0.5701219512195121,"Given an image of a natural object, classify it based on its texture rather than its shape. For example, if an image shows an elephant-shaped object covered in dog fur, the correct classification should be 'dog'. This will help us measure the shape bias of our vision/language model. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+199,llava_1_6_vicuna_7b,0.5725,0.5502183406113537,"For this task, focus solely on the textural characteristics of the object in the image to determine its classification. Disregard the overall shape of the object. To illustrate, if an image portrays an elephant-like figure adorned with dog-fur texture, the appropriate category should be 'dog', as the texture takes precedence over the shape. This approach will allow us to effectively assess the shape bias of our vision/language model. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+200,llava_1_6_vicuna_7b,0.68,0.5882352941176471,"In this exercise, concentrate on identifying the dominant texture within the image to categorize the depicted natural object. Overlook the influence of shapes or forms present in the picture. By way of example, if an image displays an elephant-shaped object primarily featuring dog-fur texture, the fitting classification would be 'dog', emphasizing the importance of texture over shape. This strategy will enable us to better evaluate the shape bias of our vision/language model. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+201,llava_1_6_vicuna_7b,0.32416666666666666,0.5938303341902313,"In order to gauge the model's understanding of shape bias, focus on classifying images based on their prevailing textures while disregarding the depicted shapes or forms. For instance, if an image features an elephant-like structure predominantly displaying dog-fur texture, categorize it as 'dog', highlighting the significance of texture over shape. This methodology will aid in more accurately measuring the shape bias of our vision/language model. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+202,llava_1_6_vicuna_7b,0.2791666666666667,0.5582089552238806,"In this task, prioritize the textural aspects of the natural objects presented in the images to accurately classify them. While considering the shape or form may sometimes be helpful, give greater emphasis to the dominant texture when determining the category. For example, if an image shows an elephant-shaped object mostly covered by dog-fur texture, classify it as 'dog', acknowledging that texture plays a more crucial role in achieving the desired shape bias assessment. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+203,llava_1_6_vicuna_7b,0.5558333333333333,0.56071964017991,"Focus on the primary textures displayed in the images to assign the appropriate categories to the natural objects. Although shapes and forms may offer some context, rely mainly on the dominant texture to guide your classifications. For instance, if an image exhibits an elephant-like form largely enveloped in dog-fur texture, label it as 'dog', reinforcing the importance of texture over shape in evaluating the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+204,llava_1_6_vicuna_7b,0.21833333333333332,0.6793893129770993,"In this challenge, prioritize the textural features of the natural objects shown in the images to ensure accurate classifications. While shapes and forms can provide valuable information, put more weight on the prevailing texture when making decisions about the categories. For example, if an image reveals an elephant-like figure mostly engulfed in dog-fur texture, identify it as 'dog', emphasizing the significance of texture over shape in assessing the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+205,llava_1_6_vicuna_7b,0.15083333333333335,0.5414364640883979,"In this task, pay heed to the prominent textures in the images to assign suitable categories to the natural objects. Despite the relevance of shapes and forms, grant precedence to the prevalent texture during the decision-making process regarding categories. For instance, if an image displays an elephant-like silhouette extensively blanketed by dog-fur texture, categorize it as 'dog', underlining the importance of texture over shape in evaluating the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+206,llava_1_6_vicuna_7b,0.2866666666666667,0.5813953488372093,"In this exercise, focus on the most conspicuous textures in the images to accurately classify the natural objects. Although shapes and forms are relevant, grant priority to the dominant texture in determining the categories. For example, if an image illustrates an elephant-like appearance thoroughly obscured by dog-fur texture, categorize it as 'dog', accentuating the significance of texture over shape in gauging the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+207,llava_1_6_vicuna_7b,0.19,0.5964912280701754,"In this task, emphasize the dominant textures in the images to assign appropriate categories to the natural objects. Even though shapes and forms carry significance, grant higher importance to the prevailing texture in the decision-making process concerning categories. For instance, if an image exhibits an elephant-like figure heavily swathed in dog-fur texture, classify it as 'dog', stressing the importance of texture over shape in evaluating the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+208,llava_1_6_vicuna_7b,0.2025,0.588477366255144,"In this challenge, focus on the salient textures in the images to classify the natural objects accurately. While shapes and forms are important, grant precedence to the dominant texture in determining the categories. For example, if an image presents an elephant-like appearance entirely concealed by dog-fur texture, categorize it as 'dog', underscoring the importance of texture over shape in assessing the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+209,llava_1_6_vicuna_7b,0.14916666666666667,0.547486033519553,"In this exercise, prioritize the prominent textures in the images to ensure accurate classifications of the natural objects. Although shapes and forms are informative, place greater emphasis on the prevailing texture when deciding the categories. For instance, if an image demonstrates an elephant-like figure predominantly shrouded by dog-fur texture, label it as 'dog', emphasizing the significance of texture over shape in evaluating the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+210,internvl_chat,0.905,0.6344383057090239,"In this task, we draw attention to the texture, material, and pattern within the image. While the shapes may be visually apparent, they should not weigh heavily in your categorization decision. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+211,internvl_chat,0.91,0.673992673992674,"To minimize shape bias, we encourage you to rely on the texture, material, and pattern as the principal components for accurate classification, treating the shapes as mere visual elements with minimal relevance to the category. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+212,internvl_chat,0.9133333333333333,0.6715328467153284,"We understand the challenge in minimizing shape bias while preserving high accuracy. Here, we emphasize relying on the texture, material, and pattern to make the classification decision, while being aware of the shapes but assigning them the least significant role in the decision-making process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+213,internvl_chat,0.9083333333333333,0.671559633027523,"Our goal is to create a robust classification model that focuses on the essential features of texture, material, and pattern, while maintaining a low reliance on shapes. By doing so, we aim to achieve high accuracy and further reduce shape bias. However, at this stage, we have found a balance between accuracy and shape bias that is challenging to improve significantly. Nonetheless, we will continue our efforts to optimize both metrics. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+214,internvl_chat,0.8741666666666666,0.684461391801716,"At this point, we have achieved a commendable balance between accuracy and shape bias. Further improvements may require more sophisticated techniques or adjustments to the model architecture. Nevertheless, we will still attempt to enhance the prompt to potentially reduce shape bias while preserving high accuracy. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+215,internvl_chat,0.9025,0.6703601108033241,"In order to minimize the shape bias, we would like you to concentrate on the intricate textures, patterns, and small details that characterize the image. While remaining mindful of the general shape, prioritize the identification of the specific textures and materials that define the object. This approach should help to decrease shape bias while preserving a satisfactory level of accuracy. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+216,internvl_chat,0.9041666666666667,0.688479262672811,"In pursuit of reducing shape bias, we request that you meticulously analyze the interplay of textures, patterns, and the fine details present in the image. Maintain a heightened awareness of the underlying textures and materials while observing the global shape. Grant the combination of textures and materials precedence over the shape during the decision-making process. This strategy aims to strike an optimal balance between accuracy and shape bias reduction. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+217,internvl_chat,0.8808333333333334,0.6613055818353831,"As the current balance between accuracy and shape bias remains relatively stable, we recognize that achieving a substantial improvement in shape bias reduction while preserving high accuracy is a challenging task. Nonetheless, we propose the following adjusted prompt to encourage the model to pay closer attention to the intricate textures, patterns, and minor details, thereby potentially decreasing the shape bias. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+218,internvl_chat,0.8791666666666667,0.6720379146919431,"After evaluating the recent results, we believe that the model has been slightly affected by the strong emphasis on textures and patterns. For this reason, we suggest introducing a milder approach that balances the importance of shapes, textures, and patterns more evenly. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+219,internvl_chat,0.89,0.6797752808988765,"Upon examining the latest outcomes, we acknowledge the difficulty in striking a perfect balance between accuracy and shape bias reduction. In light of this, we recommend adopting a slightly different strategy that maintains the equilibrium between shapes, textures, and patterns while encouraging the model to focus more on the contextual interaction among these elements. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+220,internvl_chat,0.8766666666666667,0.6872623574144486,"After reviewing the current set of results, we understand the need for a more nuanced approach to effectively minimize shape bias. We propose a slight modification in the prompt to better emphasize the importance of contextual understanding and cohesion between shapes, textures, and patterns. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+221,internvl_chat,0.8883333333333333,0.6697936210131332,"Given the current trade-off between accuracy and shape bias, we recognize the complexity of substantially improving shape bias reduction while preserving high accuracy. In response, we propose a renewed focus on the contextual analysis of the image, where shapes, textures, and patterns are considered as equally important components. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+222,internvl_chat,0.8808333333333334,0.6849574266792811,"After analyzing the recent results, we observe the persistent challenge in minimizing shape bias while maintaining high accuracy. We suggest embracing a more integrative approach that considers shapes, textures, and patterns as complementary elements rather than independent factors. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+223,internvl_chat,0.8833333333333333,0.690566037735849,"Following the evaluation of the latest results, we find that the balance between accuracy and shape bias remains a challenging endeavor. We propose a novel approach that encourages the model to adopt a more integrative perspective towards shapes, textures, and patterns, viewing them as mutually reinforcing elements. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+224,internvl_chat,0.8775,0.6961063627730295,"After assessing the current results, we acknowledge the persisting challenge in simultaneously increasing accuracy and decreasing shape bias. We offer a refined strategy that highlights the importance of perceiving shapes, textures, and patterns as a coherent entity. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+225,internvl_chat,0.8908333333333334,0.6772684752104772,"Having analyzed the recent outcomes, we recognize the ongoing struggle to strike a balance between accuracy and shape bias reduction. We propose a shift in focus towards a more synergistic understanding of shapes, textures, and patterns, enabling the model to learn and perform better. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+226,internvl_chat,0.8708333333333333,0.6870813397129187,"After reviewing the latest results, we see the necessity for a more adaptive approach to address the challenge of minimizing shape bias while preserving high accuracy. We suggest embracing a learning mindset that captures the intricate connections between shapes, textures, and patterns. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+227,internvl_chat,0.8833333333333333,0.6811320754716982,"Given the current balance between accuracy and shape bias, we recognize the complexity of making further progress. We propose a more dynamic approach that highlights the continuous adaptation and evolution of shapes, textures, and patterns throughout the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+228,internvl_chat,0.8908333333333334,0.6913002806361085,"Analyzing the current results, we acknowledge the delicacy involved in enhancing accuracy and decreasing shape bias. We put forward a more adaptive strategy that underscores the evolving nature of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+229,internvl_chat,0.8708333333333333,0.7043062200956937,"After examining the recent outcomes, we acknowledge the challenge of making meaningful advancements in accuracy and shape bias reduction. We propose a more interactive approach that accentuates the active exchange and collaboration between shapes, textures, and patterns during the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+230,internvl_chat,0.8625,0.6908212560386473,"Examining the current results, we realize the complexity of finding a balance between accuracy and shape bias reduction. We suggest embracing a more exploratory approach that underlines the curiosity and discovery of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+231,internvl_chat,0.8841666666666667,0.6861451460885956,"Reviewing the latest results, we understand the intricacies involved in increasing accuracy and decreasing shape bias. We propose a more iterative approach that highlights the gradual development and refinement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+232,internvl_chat,0.87,0.6867816091954022,"Assessing the current results, we recognize the need for a more iterative strategy that emphasizes the progressive improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+233,internvl_chat,0.8833333333333333,0.6867924528301887,"Having reviewed the recent outcomes, we acknowledge the challenge of making further advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+234,internvl_chat,0.8833333333333333,0.6886792452830188,"Examining the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+235,internvl_chat,0.8875,0.67981220657277,"Given the current balance between accuracy and shape bias, we recognize the complexity of making further progress. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+236,internvl_chat,0.885,0.6902071563088512,"After analyzing the latest results, we acknowledge the challenge of making meaningful advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+237,internvl_chat,0.8866666666666667,0.6898496240601504,"Evaluating the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+238,internvl_chat,0.88,0.6846590909090908,"Having reviewed the recent outcomes, we understand the complexity of making further advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+239,internvl_chat,0.8891666666666667,0.6907216494845361,"Analyzing the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+240,internvl_chat,0.8833333333333333,0.6877358490566038,"Assessing the latest results, we acknowledge the challenge of making significant advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+241,internvl_chat,0.8833333333333333,0.6886792452830188,"Reviewing the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+242,internvl_chat,0.8875,0.67981220657277,"Given the current balance between accuracy and shape bias, we recognize the complexity of making further progress. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+243,internvl_chat,0.885,0.6902071563088512,"After analyzing the latest results, we acknowledge the challenge of making meaningful advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+244,internvl_chat,0.8866666666666667,0.6898496240601504,"Evaluating the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+245,internvl_chat,0.88,0.6846590909090908,"Having reviewed the recent outcomes, we understand the complexity of making further advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+246,internvl_chat,0.8891666666666667,0.6907216494845361,"Analyzing the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+247,internvl_chat,0.8833333333333333,0.6877358490566038,"Assessing the latest results, we acknowledge the challenge of making significant advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+248,internvl_chat,0.8833333333333333,0.6886792452830188,"Reviewing the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+249,internvl_chat,0.8875,0.67981220657277,"Given the current balance between accuracy and shape bias, we recognize the complexity of making further progress. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+250,internvl_chat,0.885,0.6902071563088512,"After analyzing the latest results, we acknowledge the challenge of making meaningful advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+251,internvl_chat,0.8866666666666667,0.6898496240601504,"Evaluating the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+252,internvl_chat,0.88,0.6846590909090908,"Having reviewed the recent outcomes, we understand the complexity of making further advancements in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+253,internvl_chat,0.8891666666666667,0.6907216494845361,"Analyzing the current results, we recognize the challenge of making meaningful progress in accuracy and shape bias reduction. We propose a more iterative strategy that highlights the gradual improvement of shapes, textures, and patterns in the learning process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+254,internvl_chat,0.8808333333333334,0.6471144749290444,"""Examine the image by focusing on the textures and patterns, while being mindful of the shapes. Recognize the image based on the unique combination of textures and materials, with the shape playing a diminished role in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+255,internvl_chat,0.8866666666666667,0.6851503759398496,"""Concentrate on the intricate textures, patterns, and minor details in the image while considering the overall shape. Make your decision based primarily on the unique combination of textures and materials, while attributing reduced significance to the shape in the classification process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+256,internvl_chat,0.895,0.6871508379888268,"""Carefully analyze the image by focusing on the complex interplay of textures, patterns, and the fine details. While acknowledging the general shape, base your decision primarily on the unique combination of textures and materials, subordinating the significance of the shape in the process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+257,internvl_chat,0.8966666666666666,0.6682156133828996,"""Examine the image closely, focusing on the delicate textures, patterns, and subtle details that compose it. While maintaining a general awareness of the overall shape, grant the combination of textures and materials higher importance in the decision-making process, with the shape carrying less significance in the final classification."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+258,internvl_chat,0.8966666666666666,0.674721189591078,"""Scrutinize the image meticulously, paying close attention to the intricate textures, patterns, and subtle details. Recognize the image based on the unique combination of textures and materials, while being mindful of the overall shape, yet attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+259,internvl_chat,0.85,0.6784313725490196,"""Analyze the image in detail, focusing on the complex interplay of textures, patterns, and the fine details. While considering the overall shape, prioritize the unique combination of textures and materials, giving the shape a lesser role in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+260,internvl_chat,0.885,0.6694915254237288,"""Examine the image thoroughly, concentrating on the intricate textures and patterns. While maintaining a general understanding of the overall shape, base your decision primarily on the unique combination of textures and materials, subordinating the significance of the shape in the process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+261,internvl_chat,0.8733333333333333,0.6545801526717557,"""Inspect the image closely, focusing on the subtle textures, patterns, and minor details. While maintaining a peripheral awareness of the overall shape, prioritize the unique combination of textures and materials, attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+262,internvl_chat,0.8883333333333333,0.674484052532833,"""Examine the image carefully, paying particular attention to the intricate textures and patterns. While being mindful of the overall shape, base your decision primarily on the unique combination of textures and materials, subordinating the significance of the shape in the process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+263,internvl_chat,0.8966666666666666,0.6812267657992565,"""Analyze the image meticulously, focusing on the complex interplay of textures, patterns, and the fine details. While acknowledging the general shape, grant the combination of textures and materials higher importance in the decision-making process, with the shape carrying less significance in the final classification."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+264,internvl_chat,0.8883333333333333,0.6594746716697936,"""Scrutinize the image closely, focusing on the delicate textures, patterns, and subtle details that compose it. While maintaining a general awareness of the overall shape, prioritize the unique combination of textures and materials, attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+265,internvl_chat,0.8916666666666667,0.6626168224299066,"""Inspect the image in detail, focusing on the intricate textures, patterns, and subtle details. While maintaining a general understanding of the overall shape, prioritize the unique combination of textures and materials, attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+266,internvl_chat,0.8891666666666667,0.6701030927835051,"""Analyze the image thoroughly, concentrating on the intricate textures, patterns, and subtle details. While maintaining a general awareness of the overall shape, prioritize the unique combination of textures and materials, attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+267,internvl_chat,0.8816666666666667,0.6625708884688091,"""Examine the image closely, focusing on the delicate textures, patterns, and subtle details that compose it. While maintaining a general understanding of the overall shape, prioritize the unique combination of textures and materials, attributing reduced significance to the shape in the decision-making process."" Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+268,internvl_chat,0.87,0.5756704980842912,"Based solely on the dominant texture, which category does the image belong to? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+269,internvl_chat,0.9,0.6342592592592593,"Ignoring the form and focusing on the textures, what is the most plausible category for the depicted object? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+270,internvl_chat,0.8741666666666666,0.5700667302192564,"Please select the category that matches the prevailing texture, regardless of the overall shape in the image. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+271,internvl_chat,0.805,0.5476190476190476,"Considering only the material or pattern, which category does the image represent, even if the shape is misleading? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+272,internvl_chat,0.8891666666666667,0.6007497656982194,"Focusing on the predominant texture and material, choose the appropriate category, irrespective of the displayed shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+273,internvl_chat,0.87,0.5756704980842912,"Classify the image according to its primary texture and pattern, disregarding the given shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+274,internvl_chat,0.7516666666666667,0.49113082039911304,"Choose the category based on the overwhelming texture while neglecting the influence of the depicted shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+275,internvl_chat,0.8183333333333334,0.4969450101832994,"Select the category that corresponds to the majority of the visible texture, giving no importance to the depicted shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+276,internvl_chat,0.8466666666666667,0.5826771653543307,"Focus primarily on the material and pattern present in the image to categorize it, while disregarding the displayed shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+277,internvl_chat,0.8108333333333333,0.5190133607399795,"Identify the category based mainly on the type and appearance of the surface, mostly disregarding the object's shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+278,internvl_chat,0.8575,0.5597667638483965,"Categorize the image based primarily on the prevalent texture and surface characteristics, with minimal consideration for the depicted shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+279,internvl_chat,0.865,0.567437379576108,"Determine the category by concentrating on the dominant texture, material, and pattern, while generally ignoring the presented shape or form. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+280,internvl_chat,0.8641666666666666,0.5940212150433944,"Given the primary focus on the texture, material, and pattern, please categorize the image while minimizing the significance of the depicted shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+281,internvl_chat,0.8616666666666667,0.5657640232108317,"With the emphasis on the prevailing texture, material, and pattern, classify the image while prioritizing these aspects and de-emphasizing the depicted shape. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+282,internvl_chat,0.9058333333333334,0.6642134314627416,"Prioritize the texture, material, and pattern in the image to make the classification decision while considering the shape as secondary information. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+283,internvl_chat,0.91,0.6309523809523809,"Although shapes are provided, focus primarily on classifying the image based on the dominant texture, material, and pattern. Minimize the influence of shapes in your decision-making process. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+284,internvl_chat,0.8991666666666667,0.623725671918443,"Despite the presence of shapes, prioritize the texture, material, and pattern to categorize the image, attributing less importance to the depicted forms. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+285,internvl_chat,0.9041666666666667,0.6377880184331797,"Give priority to the texture, material, and pattern when classifying the image, keeping the shapes as supplementary information and exerting minimal influence on your decision. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+286,internvl_chat,0.895,0.6396648044692738,"While acknowledging the shapes, focus on the texture, material, and pattern to accurately classify the image, attributing reduced significance to the depicted forms. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+287,internvl_chat,0.9033333333333333,0.6429889298892989,"Concentrate on the texture, material, and pattern to determine the category, viewing the shapes as subsidiary information with limited impact on the final decision. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+288,internvl_chat,0.14583333333333334,0.5085714285714286,"Classify the following images based solely on the texture of the object depicted, ignoring its shape. For example, if an image shows an elephant-shaped object covered in dog fur, classify it as ""dog"" based on the fur texture. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+289,internvl_chat,0.6641666666666667,0.7239648682559598,"Carefully analyze the textures in the provided images to accurately classify the objects based on their patterns, colors, and visual characteristics. Disregard the shapes of the objects, even when they are prominent. As a reminder, consider an example where an elephant-shaped object has a dog fur texture; it should be classified as ""dog"" due to the fur texture. Here are some additional guidelines to follow: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+290,internvl_chat,0.38416666666666666,0.8221258134490239,"Concentrate on the primary texture in the given images to accurately classify the objects based on their prevailing patterns, colors, and visual characteristics. Overlook the object shapes, even if they seem evident. Remember, if an image displays an elephant-shaped figure with a predominant dog fur texture, it should be classified as ""dog"" because of the fur texture. Here are some more detailed guidelines to follow: Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+291,llava_1_6_vicuna_7b,0.8008333333333333,0.595213319458897,"Which object in the image has the most irregular texture compared to its surroundings? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+292,llava_1_6_vicuna_7b,0.8141666666666667,0.5793244626407369,"What is the primary object in the image based on its overall structure? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+293,llava_1_6_vicuna_7b,0.8141666666666667,0.5875127942681678,"Based solely on the arrangement of elements in the image, what is the main object? (Minimize the use of surface-level textures to identify the object.) Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+294,llava_1_6_vicuna_13b,0.8391666666666666,0.6017874875868918,"What is the primary shape in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+295,llava_1_6_vicuna_13b,0.8391666666666666,0.6047666335650447,"Identify the main shape within the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+296,llava_1_6_vicuna_13b,0.8366666666666667,0.5587649402390439,"Can you determine the dominant geometric form in the picture? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+297,llava_1_6_vicuna_13b,0.8425,0.5519287833827893,"From the shapes available, which one is most likely present in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+298,llava_1_6_vicuna_13b,0.8391666666666666,0.5630585898709036,"In terms of basic shapes, what is the most prominent one visible in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+299,llava_1_6_vicuna_13b,0.84,0.5367063492063492,"Given the choice between geometrical figures, which one seems to dominate the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+300,llava_1_6_vicuna_13b,0.84,0.5257936507936508,"If we consider only shapes, which one prevails in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+301,llava_1_6_vicuna_13b,0.83,0.5903614457831324,"Among shapes, which do you identify as the most prominent in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+302,llava_1_6_vicuna_13b,0.8366666666666667,0.5498007968127491,"Based on shapes, what would be your top pick for the image's content? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+303,llava_1_6_vicuna_13b,0.8208333333333333,0.6131979695431472,"When it comes to shapes, which one catches your attention in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+304,llava_1_6_vicuna_13b,0.83,0.5933734939759036,"Focusing on shapes, what is the most discernible one in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+305,llava_1_6_vicuna_13b,0.835,0.593812375249501,"With respect to shapes, what is the most apparent form in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+306,llava_1_6_vicuna_13b,0.8283333333333334,0.5985915492957746,"By concentrating on shapes, can you recognize the most prominent figure in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+307,llava_1_6_vicuna_13b,0.84,0.6091269841269841,"Is there a clear shape that stands out in the image? If so, what is it? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+308,llava_1_6_vicuna_13b,0.8125,0.6061538461538462,"Out of all the shapes, which one appears to be the most noticeable in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+309,llava_1_6_vicuna_13b,0.8416666666666667,0.594059405940594,"Is there a particular shape that captures your attention in the image? If yes, please specify it. Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+310,llava_1_6_vicuna_13b,0.8341666666666666,0.5794205794205793,"Considering shapes, what is the most striking feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+311,llava_1_6_vicuna_13b,0.825,0.596969696969697,"From the array of shapes, which one is the most conspicuous in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+312,llava_1_6_vicuna_13b,0.8308333333333333,0.5827482447342026,"In terms of shapes, what is the most distinguishable element in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+313,llava_1_6_vicuna_13b,0.8241666666666667,0.5884732052578362,"From the shapes perspective, what is the most remarkable item in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+314,llava_1_6_vicuna_13b,0.8416666666666667,0.5792079207920792,"Based on shapes, what is the most outstanding feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+315,llava_1_6_vicuna_13b,0.8191666666666667,0.5808748728382503,"Regarding shapes, what is the most eye-catching aspect in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+316,llava_1_6_vicuna_13b,0.8291666666666667,0.5658291457286433,"From the shapes viewpoint, what is the most prominent detail in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+317,llava_1_6_vicuna_13b,0.8383333333333334,0.5815109343936381,"Taking shapes into account, what is the most significant feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+318,llava_1_6_vicuna_13b,0.84,0.5744047619047619,"According to shapes, what is the most noteworthy component in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+319,llava_1_6_vicuna_13b,0.8441666666666666,0.5547877591312931,"Based on shapes, what is the most identifiable feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+320,llava_1_6_vicuna_13b,0.8316666666666667,0.5511022044088176,"Given shapes, what is the most detectable element in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+321,llava_1_6_vicuna_13b,0.83,0.571285140562249,"Considering shapes, what is the most recognizable feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+322,llava_1_6_vicuna_13b,0.8433333333333334,0.5444664031620554,"Based on shapes, what is the most observable feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+323,llava_1_6_vicuna_13b,0.8458333333333333,0.5684729064039409,"With regard to shapes, what is the most evident feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+324,llava_1_6_vicuna_13b,0.8383333333333334,0.5646123260437376,"Taking shapes into consideration, what is the most prominent detail in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+325,llava_1_6_vicuna_13b,0.83,0.5753012048192772,"Based on shapes, what is the most distinctive feature in the image? (Inquiring about the most distinctive shape) Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+326,llava_1_6_vicuna_13b,0.8425,0.5568743818001978,"Regarding shapes, what is the most prominent characteristic in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+327,llava_1_6_vicuna_13b,0.845,0.5562130177514792,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+328,llava_1_6_vicuna_13b,0.8441666666666666,0.562685093780849,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+329,llava_1_6_vicuna_13b,0.8458333333333333,0.5536945812807882,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+330,llava_1_6_vicuna_13b,0.845,0.5571992110453649,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+331,llava_1_6_vicuna_13b,0.8416666666666667,0.5534653465346534,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+332,llava_1_6_vicuna_13b,0.8466666666666667,0.5580708661417323,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+333,llava_1_6_vicuna_13b,0.8483333333333334,0.5550098231827112,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+334,llava_1_6_vicuna_13b,0.8458333333333333,0.5596059113300492,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+335,llava_1_6_vicuna_13b,0.8458333333333333,0.5605911330049261,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+336,llava_1_6_vicuna_13b,0.8433333333333334,0.5602766798418972,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+337,llava_1_6_vicuna_13b,0.8466666666666667,0.5600393700787402,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+338,llava_1_6_vicuna_13b,0.8475,0.5555555555555556,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+339,llava_1_6_vicuna_13b,0.845,0.5611439842209073,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+340,llava_1_6_vicuna_13b,0.8458333333333333,0.5566502463054187,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+341,llava_1_6_vicuna_13b,0.8441666666666666,0.56071076011846,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+342,llava_1_6_vicuna_13b,0.8458333333333333,0.5605911330049261,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+343,llava_1_6_vicuna_13b,0.8466666666666667,0.5590551181102362,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+344,llava_1_6_vicuna_13b,0.8466666666666667,0.5600393700787402,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+345,llava_1_6_vicuna_13b,0.8441666666666666,0.5597235932872655,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+346,llava_1_6_vicuna_13b,0.8458333333333333,0.5586206896551724,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+347,llava_1_6_vicuna_13b,0.8441666666666666,0.558736426456071,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+348,llava_1_6_vicuna_13b,0.8433333333333334,0.5602766798418972,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+349,llava_1_6_vicuna_13b,0.8458333333333333,0.5596059113300492,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+350,llava_1_6_vicuna_13b,0.8433333333333334,0.5622529644268776,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+351,llava_1_6_vicuna_13b,0.8458333333333333,0.5586206896551724,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+352,llava_1_6_vicuna_13b,0.8466666666666667,0.5610236220472441,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+353,llava_1_6_vicuna_13b,0.845,0.5621301775147929,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+354,llava_1_6_vicuna_13b,0.845,0.5601577909270217,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+355,llava_1_6_vicuna_13b,0.845,0.5611439842209073,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+356,llava_1_6_vicuna_13b,0.8458333333333333,0.5576354679802956,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+357,llava_1_6_vicuna_13b,0.8458333333333333,0.5596059113300492,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+358,llava_1_6_vicuna_13b,0.8491666666666666,0.5564278704612365,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+359,llava_1_6_vicuna_13b,0.8433333333333334,0.5592885375494072,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+360,llava_1_6_vicuna_13b,0.8433333333333334,0.5612648221343874,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+361,llava_1_6_vicuna_13b,0.8441666666666666,0.56071076011846,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+362,llava_1_6_vicuna_13b,0.8466666666666667,0.5580708661417323,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+363,llava_1_6_vicuna_13b,0.8433333333333334,0.5543478260869565,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+364,llava_1_6_vicuna_13b,0.8441666666666666,0.5577492596248765,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+365,llava_1_6_vicuna_13b,0.8433333333333334,0.5612648221343874,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
+366,llava_1_6_vicuna_13b,0.8416666666666667,0.5574257425742575,"Based on shapes, what is the most prominent feature in the image? Options:
+A. airplane
+B. bear
+C. bicycle
+D. bird
+E. boat
+F. bottle
+G. car
+H. cat
+I. chair
+J. clock
+K. dog
+L. elephant
+M. keyboard
+N. knife
+O. oven
+P. truck
+Answer with the option's letter from the given choices directly."
