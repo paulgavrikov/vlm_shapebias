@@ -49,12 +49,13 @@ Once classified, you can also use `shapebias_utils.py` to directly evaluate log 
 | VQA | Which option best describes the image?\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
 | VQA (Shape-biased) | Identify the primary shape in the image.\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
 | VQA (Texture-biased) | Identify the primary texture in the image.\nA. airplane\nB. bear\nC. bicycle\nD. bird\nE. boat\nF. bottle\nG. car\nH. cat\nI. chair\nJ. clock\nK. dog\nL. elephant\nM. keyboard\nN. knife\nO. oven\nP. truck\nAnswer with the option's letter from the given choices directly. |
+| Automated Prompt Search (LLM) | See [raw-data/prompt_search_results.csv](raw-data/prompt_search_results.csv)|
 
 
 ### Automated Prompt Search
 
 To use automatically search for prompts using Mixtral, use `llm_prompt_search.py`. Note that you have to manually set the accuracy/shape-bias for the default instruction in L81. 
-
+See [raw-data/prompt_search_results.csv](raw-data/prompt_search_results.csv) for the discovered prompts.
 
 ## Citation 
 
